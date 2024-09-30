@@ -107,6 +107,8 @@ return array(
     'BitCode\\FI\\Actions\\Gravitec\\RecordApiHelper' => $baseDir . '/includes/Actions/Gravitec/RecordApiHelper.php',
     'BitCode\\FI\\Actions\\Groundhogg\\GroundhoggController' => $baseDir . '/includes/Actions/Groundhogg/GroundhoggController.php',
     'BitCode\\FI\\Actions\\Groundhogg\\RecordApiHelper' => $baseDir . '/includes/Actions/Groundhogg/RecordApiHelper.php',
+    'BitCode\\FI\\Actions\\HighLevel\\HighLevelController' => $baseDir . '/includes/Actions/HighLevel/HighLevelController.php',
+    'BitCode\\FI\\Actions\\HighLevel\\RecordApiHelper' => $baseDir . '/includes/Actions/HighLevel/RecordApiHelper.php',
     'BitCode\\FI\\Actions\\Hubspot\\HubspotController' => $baseDir . '/includes/Actions/Hubspot/HubspotController.php',
     'BitCode\\FI\\Actions\\Hubspot\\HubspotRecordApiHelper' => $baseDir . '/includes/Actions/Hubspot/HubspotRecordApiHelper.php',
     'BitCode\\FI\\Actions\\Insightly\\InsightlyController' => $baseDir . '/includes/Actions/Insightly/InsightlyController.php',

@@ -2616,6 +2616,72 @@ $bit_integrations_i18n_strings = array(
 
     'All Tags:' => __('All Tags:', 'bit-integrations'),
 
+    'Do Not Disturb' => __('Do Not Disturb', 'bit-integrations'),
+
+    'Enable do not disturb for contact.' => __('Enable do not disturb for contact.', 'bit-integrations'),
+
+    'Select Tags' => __('Select Tags', 'bit-integrations'),
+
+    'Select tags and assign them to the contact.' => __('Select tags and assign them to the contact.', 'bit-integrations'),
+
+    'Post Types' => __('Post Types', 'bit-integrations'),
+
+    'Choose from the existing tags, or create and add new ones by typing them and pressing enter or comma (,).' => __('Choose from the existing tags, or create and add new ones by typing them and pressing enter or comma (,).', 'bit-integrations'),
+
+    'Get High Level Api Key' => __('Get High Level Api Key', 'bit-integrations'),
+
+    'First go to your High Level sub account settings then business profile tab' => __('First go to your High Level sub account settings then business profile tab', 'bit-integrations'),
+
+    'Copy the the API key.' => __('Copy the the API key.', 'bit-integrations'),
+
+    'You can also get the API key from Agency view. Navigate to settings then API keys tab.' => __('You can also get the API key from Agency view. Navigate to settings then API keys tab.', 'bit-integrations'),
+
+    'High Level Api Key:' => __('High Level Api Key:', 'bit-integrations'),
+
+    'High Level Api Key...' => __('High Level Api Key...', 'bit-integrations'),
+
+    'To get API key, go to Settings > Business Profile and copy the API Key from there.' => __('To get API key, go to Settings > Business Profile and copy the API Key from there.', 'bit-integrations'),
+
+    'Users fetched successfully' => __('Users fetched successfully', 'bit-integrations'),
+
+    'Task fetched successfully' => __('Task fetched successfully', 'bit-integrations'),
+
+    'Update Task' => __('Update Task', 'bit-integrations'),
+
+    'Update Opportunity' => __('Update Opportunity', 'bit-integrations'),
+
+    'Refresh pipeline list' => __('Refresh pipeline list', 'bit-integrations'),
+
+    'Select Opportunity:' => __('Select Opportunity:', 'bit-integrations'),
+
+    'Refresh opportunity list' => __('Refresh opportunity list', 'bit-integrations'),
+
+    'Select Contact:' => __('Select Contact:', 'bit-integrations'),
+
+    'Refresh contact list' => __('Refresh contact list', 'bit-integrations'),
+
+    'Refresh task list' => __('Refresh task list', 'bit-integrations'),
+
+    'Select Assignee:' => __('Select Assignee:', 'bit-integrations'),
+
+    'Refresh assignee list' => __('Refresh assignee list', 'bit-integrations'),
+
+    'To update, you can select from the list above, or you can map fields. If not selected, ID field mapping is required.' => __('To update, you can select from the list above, or you can map fields. If not selected, ID field mapping is required.', 'bit-integrations'),
+
+    'To create, you can select contact from the list above, or you can map fields. If not selected, "Contact ID" field mapping is required.' => __('To create, you can select contact from the list above, or you can map fields. If not selected, "Contact ID" field mapping is required.', 'bit-integrations'),
+
+    'Either a Select Contact, Email, or Phone Number is required. For Contact you can select from the list above, or you can map field (Contact ID).' => __('Either a Select Contact, Email, or Phone Number is required. For Contact you can select from the list above, or you can map field (Contact ID).', 'bit-integrations'),
+
+    'To update, you can select opportunity from the list above, or you can map field.  If not selected, "Opportunity ID" field mapping is required.' => __('To update, you can select opportunity from the list above, or you can map field.  If not selected, "Opportunity ID" field mapping is required.', 'bit-integrations'),
+
+    'To update, you can select contact from the list above, or you can map fields. If not selected, "Contact ID" field mapping is required.' => __('To update, you can select contact from the list above, or you can map fields. If not selected, "Contact ID" field mapping is required.', 'bit-integrations'),
+
+    'You can select task from the list above, or you can map fields. If not selected, "Task ID" field mapping is required. To enable task selection, choose a contact first.' => __('You can select task from the list above, or you can map fields. If not selected, "Task ID" field mapping is required. To enable task selection, choose a contact first.', 'bit-integrations'),
+
+    'HighLevel Fields' => __('HighLevel Fields', 'bit-integrations'),
+
+    'The "Due Date" field must be a date and time with timezone offset. e.g. 2024-10-25T10:00:00Z.' => __('The "Due Date" field must be a date and time with timezone offset. e.g. 2024-10-25T10:00:00Z.', 'bit-integrations'),
+
     'Please select a stage' => __('Please select a stage', 'bit-integrations'),
 
     'Subscriber' => __('Subscriber', 'bit-integrations'),
@@ -2869,8 +2935,6 @@ $bit_integrations_i18n_strings = array(
     'Select Post Type' => __('Select Post Type', 'bit-integrations'),
 
     'Select post types to add this taxonomy for.' => __('Select post types to add this taxonomy for.', 'bit-integrations'),
-
-    'Post Types' => __('Post Types', 'bit-integrations'),
 
     'Select Menu Position' => __('Select Menu Position', 'bit-integrations'),
 
@@ -5068,8 +5132,6 @@ $bit_integrations_i18n_strings = array(
 
     'Fetch Lead lists' => __('Fetch Lead lists', 'bit-integrations'),
 
-    'Select Contact:' => __('Select Contact:', 'bit-integrations'),
-
     'Fetch Contact lists' => __('Fetch Contact lists', 'bit-integrations'),
 
     'Fetch Account lists' => __('Fetch Account lists', 'bit-integrations'),
@@ -6026,6 +6088,8 @@ $bit_integrations_i18n_strings = array(
 
     'Add attachments from BitForm to Zoho Bigin.' => __('Add attachments from BitForm to Zoho Bigin.', 'bit-integrations'),
 
+    'add tags to records' => __('add tags to records', 'bit-integrations'),
+
     'Record Owner' => __('Record Owner', 'bit-integrations'),
 
     'Note Title' => __('Note Title', 'bit-integrations'),
@@ -6355,6 +6419,8 @@ $bit_integrations_i18n_strings = array(
     'Please select a Trigger' => __('Please select a Trigger', 'bit-integrations'),
 
     'Search Trigger...' => __('Search Trigger...', 'bit-integrations'),
+
+    'Try now' => __('Try now', 'bit-integrations'),
 
     'Please Select Fields' => __('Please Select Fields', 'bit-integrations'),
 
@@ -6736,11 +6802,21 @@ $bit_integrations_i18n_strings = array(
 
     'Loading role...' => __('Loading role...', 'bit-integrations'),
 
+    'Subscriptions fetched successfully' => __('Subscriptions fetched successfully', 'bit-integrations'),
+
+    'Subscriptions fetching failed. please try again' => __('Subscriptions fetching failed. please try again', 'bit-integrations'),
+
+    'Loading Subscriptions...' => __('Loading Subscriptions...', 'bit-integrations'),
+
+    'Subscription Products fetched successfully' => __('Subscription Products fetched successfully', 'bit-integrations'),
+
+    'Subscription Products fetching failed. please try again' => __('Subscription Products fetching failed. please try again', 'bit-integrations'),
+
+    'Loading Subscription Products...' => __('Loading Subscription Products...', 'bit-integrations'),
+
+    'Select Subscription:' => __('Select Subscription:', 'bit-integrations'),
+
     'Select a order status' => __('Select a order status', 'bit-integrations'),
-
-    'Select a subscription' => __('Select a subscription', 'bit-integrations'),
-
-    'Select a Subscription status' => __('Select a Subscription status', 'bit-integrations'),
 
     'Select a categories' => __('Select a categories', 'bit-integrations'),
 
@@ -6753,18 +6829,6 @@ $bit_integrations_i18n_strings = array(
     'Order status fetching failed. please try again' => __('Order status fetching failed. please try again', 'bit-integrations'),
 
     'Loading order status...' => __('Loading order status...', 'bit-integrations'),
-
-    'Fetched subscription product successfully' => __('Fetched subscription product successfully', 'bit-integrations'),
-
-    'Subscription product fetching failed. please try again' => __('Subscription product fetching failed. please try again', 'bit-integrations'),
-
-    'Loading subscription product...' => __('Loading subscription product...', 'bit-integrations'),
-
-    'Fetched subscription status successfully' => __('Fetched subscription status successfully', 'bit-integrations'),
-
-    'Subscription status fetching failed. please try again' => __('Subscription status fetching failed. please try again', 'bit-integrations'),
-
-    'Loading subscription status product...' => __('Loading subscription status product...', 'bit-integrations'),
 
     'Fetched all product successfully' => __('Fetched all product successfully', 'bit-integrations'),
 
@@ -6791,8 +6855,6 @@ $bit_integrations_i18n_strings = array(
     'Topics fetched successfully' => __('Topics fetched successfully', 'bit-integrations'),
 
     'Loading Topics...' => __('Loading Topics...', 'bit-integrations'),
-
-    'Users fetched successfully' => __('Users fetched successfully', 'bit-integrations'),
 
     'Users fetching failed. please try again' => __('Users fetching failed. please try again', 'bit-integrations'),
 
@@ -6956,7 +7018,9 @@ $bit_integrations_i18n_strings = array(
 
     'Updated at:  <b>%s</b>' => __('Updated at:  <b>%s</b>', 'bit-integrations'),
 
-    'New Features' => __('New Features', 'bit-integrations'),
+    'New Action' => __('New Action', 'bit-integrations'),
+
+    'New Trigger' => __('New Trigger', 'bit-integrations'),
 
     'For more details,' => __('For more details,', 'bit-integrations'),
 

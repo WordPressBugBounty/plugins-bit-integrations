@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitdf0a3b8abf5ec0104ac5b26fabc4230d
+class ComposerStaticInit2df4fdd7372ba9a87325818e22a30293
 {
     public static $prefixLengthsPsr4 = array (
         'T' => 
@@ -140,6 +140,8 @@ class ComposerStaticInitdf0a3b8abf5ec0104ac5b26fabc4230d
         'BitCode\\FI\\Actions\\Gravitec\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Gravitec/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Groundhogg\\GroundhoggController' => __DIR__ . '/../..' . '/includes/Actions/Groundhogg/GroundhoggController.php',
         'BitCode\\FI\\Actions\\Groundhogg\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Groundhogg/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\HighLevel\\HighLevelController' => __DIR__ . '/../..' . '/includes/Actions/HighLevel/HighLevelController.php',
+        'BitCode\\FI\\Actions\\HighLevel\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/HighLevel/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Hubspot\\HubspotController' => __DIR__ . '/../..' . '/includes/Actions/Hubspot/HubspotController.php',
         'BitCode\\FI\\Actions\\Hubspot\\HubspotRecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Hubspot/HubspotRecordApiHelper.php',
         'BitCode\\FI\\Actions\\Insightly\\InsightlyController' => __DIR__ . '/../..' . '/includes/Actions/Insightly/InsightlyController.php',
@@ -411,9 +413,9 @@ class ComposerStaticInitdf0a3b8abf5ec0104ac5b26fabc4230d
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitdf0a3b8abf5ec0104ac5b26fabc4230d::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitdf0a3b8abf5ec0104ac5b26fabc4230d::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInitdf0a3b8abf5ec0104ac5b26fabc4230d::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit2df4fdd7372ba9a87325818e22a30293::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit2df4fdd7372ba9a87325818e22a30293::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit2df4fdd7372ba9a87325818e22a30293::$classMap;
 
         }, null, ClassLoader::class);
     }
