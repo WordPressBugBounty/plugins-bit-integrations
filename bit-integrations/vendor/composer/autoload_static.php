@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit2df4fdd7372ba9a87325818e22a30293
+class ComposerStaticInitb473528249d3cf3df0223c83704c4749
 {
     public static $prefixLengthsPsr4 = array (
         'T' => 
@@ -373,7 +373,6 @@ class ComposerStaticInit2df4fdd7372ba9a87325818e22a30293
         'BitCode\\FI\\Triggers\\Breakdance\\BreakdanceController' => __DIR__ . '/../..' . '/includes/Triggers/Breakdance/BreakdanceController.php',
         'BitCode\\FI\\Triggers\\Breakdance\\BreakdanceHelper' => __DIR__ . '/../..' . '/includes/Triggers/Breakdance/BreakdanceHelper.php',
         'BitCode\\FI\\Triggers\\CF7\\CF7Controller' => __DIR__ . '/../..' . '/includes/Triggers/CF7/CF7Controller.php',
-        'BitCode\\FI\\Triggers\\CustomTrigger\\CustomTriggerController' => __DIR__ . '/../..' . '/includes/Triggers/CustomTrigger/CustomTriggerController.php',
         'BitCode\\FI\\Triggers\\Elementor\\ElementorController' => __DIR__ . '/../..' . '/includes/Triggers/Elementor/ElementorController.php',
         'BitCode\\FI\\Triggers\\Elementor\\ElementorHelper' => __DIR__ . '/../..' . '/includes/Triggers/Elementor/ElementorHelper.php',
         'BitCode\\FI\\Triggers\\FallbackTrigger\\FallbackHooks' => __DIR__ . '/../..' . '/includes/Triggers/FallbackTrigger/FallbackHooks.php',
@@ -413,9 +412,9 @@ class ComposerStaticInit2df4fdd7372ba9a87325818e22a30293
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit2df4fdd7372ba9a87325818e22a30293::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit2df4fdd7372ba9a87325818e22a30293::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit2df4fdd7372ba9a87325818e22a30293::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInitb473528249d3cf3df0223c83704c4749::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInitb473528249d3cf3df0223c83704c4749::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInitb473528249d3cf3df0223c83704c4749::$classMap;
 
         }, null, ClassLoader::class);
     }

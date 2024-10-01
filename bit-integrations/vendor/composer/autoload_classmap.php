@@ -340,7 +340,6 @@ return array(
     'BitCode\\FI\\Triggers\\Breakdance\\BreakdanceController' => $baseDir . '/includes/Triggers/Breakdance/BreakdanceController.php',
     'BitCode\\FI\\Triggers\\Breakdance\\BreakdanceHelper' => $baseDir . '/includes/Triggers/Breakdance/BreakdanceHelper.php',
     'BitCode\\FI\\Triggers\\CF7\\CF7Controller' => $baseDir . '/includes/Triggers/CF7/CF7Controller.php',
-    'BitCode\\FI\\Triggers\\CustomTrigger\\CustomTriggerController' => $baseDir . '/includes/Triggers/CustomTrigger/CustomTriggerController.php',
     'BitCode\\FI\\Triggers\\Elementor\\ElementorController' => $baseDir . '/includes/Triggers/Elementor/ElementorController.php',
     'BitCode\\FI\\Triggers\\Elementor\\ElementorHelper' => $baseDir . '/includes/Triggers/Elementor/ElementorHelper.php',
     'BitCode\\FI\\Triggers\\FallbackTrigger\\FallbackHooks' => $baseDir . '/includes/Triggers/FallbackTrigger/FallbackHooks.php',

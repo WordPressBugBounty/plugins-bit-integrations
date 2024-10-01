@@ -1732,6 +1732,10 @@ $bit_integrations_i18n_strings = array(
 
     'Select a Form/Task Name:' => __('Select a Form/Task Name:', 'bit-integrations'),
 
+    'AbortError: Fetch request aborted' => __('AbortError: Fetch request aborted', 'bit-integrations'),
+
+    'Custom action trigger:' => __('Custom action trigger:', 'bit-integrations'),
+
     'Form fields Refresh successfully' => __('Form fields Refresh successfully', 'bit-integrations'),
 
     'Loading Form Fields...' => __('Loading Form Fields...', 'bit-integrations'),
@@ -2628,17 +2632,17 @@ $bit_integrations_i18n_strings = array(
 
     'Choose from the existing tags, or create and add new ones by typing them and pressing enter or comma (,).' => __('Choose from the existing tags, or create and add new ones by typing them and pressing enter or comma (,).', 'bit-integrations'),
 
-    'Get High Level Api Key' => __('Get High Level Api Key', 'bit-integrations'),
+    'Get GoHighLevel Api Key' => __('Get GoHighLevel Api Key', 'bit-integrations'),
 
-    'First go to your High Level sub account settings then business profile tab' => __('First go to your High Level sub account settings then business profile tab', 'bit-integrations'),
+    'First go to your GoHighLevel sub account settings then business profile tab' => __('First go to your GoHighLevel sub account settings then business profile tab', 'bit-integrations'),
 
     'Copy the the API key.' => __('Copy the the API key.', 'bit-integrations'),
 
     'You can also get the API key from Agency view. Navigate to settings then API keys tab.' => __('You can also get the API key from Agency view. Navigate to settings then API keys tab.', 'bit-integrations'),
 
-    'High Level Api Key:' => __('High Level Api Key:', 'bit-integrations'),
+    'GoHighLevel Api Key:' => __('GoHighLevel Api Key:', 'bit-integrations'),
 
-    'High Level Api Key...' => __('High Level Api Key...', 'bit-integrations'),
+    'GoHighLevel Api Key...' => __('GoHighLevel Api Key...', 'bit-integrations'),
 
     'To get API key, go to Settings > Business Profile and copy the API Key from there.' => __('To get API key, go to Settings > Business Profile and copy the API Key from there.', 'bit-integrations'),
 
@@ -6420,13 +6424,11 @@ $bit_integrations_i18n_strings = array(
 
     'Search Trigger...' => __('Search Trigger...', 'bit-integrations'),
 
-    'Try now' => __('Try now', 'bit-integrations'),
+    'Try Pro' => __('Try Pro', 'bit-integrations'),
 
     'Please Select Fields' => __('Please Select Fields', 'bit-integrations'),
 
     'Please Select a Primary Key' => __('Please Select a Primary Key', 'bit-integrations'),
-
-    'AbortError: Fetch request aborted' => __('AbortError: Fetch request aborted', 'bit-integrations'),
 
     'Follow these simple steps to set up the %s' => __('Follow these simple steps to set up the %s', 'bit-integrations'),
 
@@ -6474,13 +6476,9 @@ $bit_integrations_i18n_strings = array(
 
     'Waiting for form submission...' => __('Waiting for form submission...', 'bit-integrations'),
 
-    'Details on Documentation' => __('Details on Documentation', 'bit-integrations'),
-
     'Copy <b>do action hook</b> & past in your form submiting function' => __('Copy <b>do action hook</b> & past in your form submiting function', 'bit-integrations'),
 
-    'Click on the <b>Fetch</b> button & Submit your <b>Form</b> to get the form data' => __('Click on the <b>Fetch</b> button & Submit your <b>Form</b> to get the form data', 'bit-integrations'),
-
-    'Custom action trigger:' => __('Custom action trigger:', 'bit-integrations'),
+    'Submit <b>The Form</b>' => __('Submit <b>The Form</b>', 'bit-integrations'),
 
     'Select a Quiz' => __('Select a Quiz', 'bit-integrations'),
 
@@ -6880,9 +6878,27 @@ $bit_integrations_i18n_strings = array(
 
     'Setup' => __('Setup', 'bit-integrations'),
 
+    'Details on Documentation' => __('Details on Documentation', 'bit-integrations'),
+
+    'Click on the <b>Fetch</b> button & Submit your <b>Form</b> to get the form data' => __('Click on the <b>Fetch</b> button & Submit your <b>Form</b> to get the form data', 'bit-integrations'),
+
     'Cancel' => __('Cancel', 'bit-integrations'),
 
     'Copied on Clipboard.' => __('Copied on Clipboard.', 'bit-integrations'),
+
+    'Click to edit this field' => __('Click to edit this field', 'bit-integrations'),
+
+    'Click to remove this field' => __('Click to remove this field', 'bit-integrations'),
+
+    'Edit Field' => __('Edit Field', 'bit-integrations'),
+
+    'Field Label' => __('Field Label', 'bit-integrations'),
+
+    'Field Id' => __('Field Id', 'bit-integrations'),
+
+    'It\'s recommended not to edit this field' => __('It\'s recommended not to edit this field', 'bit-integrations'),
+
+    'Field Type' => __('Field Type', 'bit-integrations'),
 
     '{ 
     // write here your custom field map 
@@ -6970,6 +6986,10 @@ $bit_integrations_i18n_strings = array(
 
     'Duplicate' => __('Duplicate', 'bit-integrations'),
 
+    'Collapse the tree view' => __('Collapse the tree view', 'bit-integrations'),
+
+    'Expand the tree view' => __('Expand the tree view', 'bit-integrations'),
+
     'How to setup %s integration' => __('How to setup %s integration', 'bit-integrations'),
 
     'Trigger' => __('Trigger', 'bit-integrations'),
@@ -6998,6 +7018,10 @@ $bit_integrations_i18n_strings = array(
 
     'Create Integration' => __('Create Integration', 'bit-integrations'),
 
+    'New Product Release' => __('New Product Release', 'bit-integrations'),
+
+    'Grab the Deal' => __('Grab the Deal', 'bit-integrations'),
+
     'Get $10 Cashback' => __('Get $10 Cashback', 'bit-integrations'),
 
     '$10 Cashback' => __('$10 Cashback', 'bit-integrations'),
@@ -7017,8 +7041,6 @@ $bit_integrations_i18n_strings = array(
     'What\'s New in %s' => __('What\'s New in %s', 'bit-integrations'),
 
     'Updated at:  <b>%s</b>' => __('Updated at:  <b>%s</b>', 'bit-integrations'),
-
-    'New Action' => __('New Action', 'bit-integrations'),
 
     'New Trigger' => __('New Trigger', 'bit-integrations'),
 
