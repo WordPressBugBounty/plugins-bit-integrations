@@ -1216,41 +1216,43 @@ $bit_integrations_i18n_strings = array(
 
     'Please select form to continue.' => __('Please select form to continue.', 'bit-integrations'),
 
-    'Update ConvertKit' => __('Update ConvertKit', 'bit-integrations'),
+    'Update %s' => __('Update %s', 'bit-integrations'),
 
-    'Update Responses with ConvertKit existing email?' => __('Update Responses with ConvertKit existing email?', 'bit-integrations'),
+    'Update Responses with %s existing email?' => __('Update Responses with %s existing email?', 'bit-integrations'),
 
-    'First go to your ConvertKit dashboard.' => __('First go to your ConvertKit dashboard.', 'bit-integrations'),
+    'First go to your %s dashboard.' => __('First go to your %s dashboard.', 'bit-integrations'),
 
     'Click "Settings", Then click "Advanced"' => __('Click "Settings", Then click "Advanced"', 'bit-integrations'),
 
-    'ConvertKit API Token' => __('ConvertKit API Token', 'bit-integrations'),
+    '%s API Token' => __('%s API Token', 'bit-integrations'),
+
+    'Checking API Secret Key' => __('Checking API Secret Key', 'bit-integrations'),
 
     'Convert Kit forms refreshed' => __('Convert Kit forms refreshed', 'bit-integrations'),
 
     'No Convert Kit forms found. Try changing the header row number or try again' => __('No Convert Kit forms found. Try changing the header row number or try again', 'bit-integrations'),
 
-    'Convert Kit forms refresh failed. please try again' => __('Convert Kit forms refresh failed. please try again', 'bit-integrations'),
+    '%s forms refresh failed. please try again' => __('%s forms refresh failed. please try again', 'bit-integrations'),
 
-    'Convert Kit tags refreshed' => __('Convert Kit tags refreshed', 'bit-integrations'),
+    '%s tags refreshed' => __('%s tags refreshed', 'bit-integrations'),
 
-    'No Convert Kit tags found. Try changing the header row number or try again' => __('No Convert Kit tags found. Try changing the header row number or try again', 'bit-integrations'),
+    'No %s tags found. Try changing the header row number or try again' => __('No %s tags found. Try changing the header row number or try again', 'bit-integrations'),
 
-    'Convert Kit tags refresh failed. please try again' => __('Convert Kit tags refresh failed. please try again', 'bit-integrations'),
+    '%s tags refresh failed. please try again' => __('%s tags refresh failed. please try again', 'bit-integrations'),
 
-    'Convert Kit fields refreshed' => __('Convert Kit fields refreshed', 'bit-integrations'),
+    '%s fields refreshed' => __('%s fields refreshed', 'bit-integrations'),
 
-    'No Convert Kit fields found. Try changing the header row number or try again' => __('No Convert Kit fields found. Try changing the header row number or try again', 'bit-integrations'),
+    'No %s fields found. Try changing the header row number or try again' => __('No %s fields found. Try changing the header row number or try again', 'bit-integrations'),
 
-    'Convert Kit fields refresh failed. please try again' => __('Convert Kit fields refresh failed. please try again', 'bit-integrations'),
+    '%s fields refresh failed. please try again' => __('%s fields refresh failed. please try again', 'bit-integrations'),
 
     'Form:' => __('Form:', 'bit-integrations'),
 
-    'Refresh ConvertKit Tags' => __('Refresh ConvertKit Tags', 'bit-integrations'),
+    'Refresh %s Tags' => __('Refresh %s Tags', 'bit-integrations'),
 
-    'Refresh ConvertKit Field' => __('Refresh ConvertKit Field', 'bit-integrations'),
+    'Refresh %s Field' => __('Refresh %s Field', 'bit-integrations'),
 
-    'ConvertKit Fields' => __('ConvertKit Fields', 'bit-integrations'),
+    '%s Fields' => __('%s Fields', 'bit-integrations'),
 
     'Value' => __('Value', 'bit-integrations'),
 
@@ -4560,7 +4562,7 @@ $bit_integrations_i18n_strings = array(
 
     'New Record' => __('New Record', 'bit-integrations'),
 
-    'Related List #' => __('Related List #', 'bit-integrations'),
+    'Related List' => __('Related List', 'bit-integrations'),
 
     'Add More Related List' => __('Add More Related List', 'bit-integrations'),
 
@@ -4579,8 +4581,6 @@ $bit_integrations_i18n_strings = array(
     'PipeDrive Fields' => __('PipeDrive Fields', 'bit-integrations'),
 
     'Available On' => __('Available On', 'bit-integrations'),
-
-    'Premium' => __('Premium', 'bit-integrations'),
 
     'Related List:' => __('Related List:', 'bit-integrations'),
 
@@ -6238,6 +6238,8 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh CRM Modules' => __('Refresh CRM Modules', 'bit-integrations'),
 
+    'Related List #' => __('Related List #', 'bit-integrations'),
+
     'Layout:' => __('Layout:', 'bit-integrations'),
 
     'Refresh CRM Layouts' => __('Refresh CRM Layouts', 'bit-integrations'),
@@ -6420,11 +6422,13 @@ $bit_integrations_i18n_strings = array(
 
     'Search Actions...' => __('Search Actions...', 'bit-integrations'),
 
+    'Premium' => __('Premium', 'bit-integrations'),
+
     'Please select a Trigger' => __('Please select a Trigger', 'bit-integrations'),
 
     'Search Trigger...' => __('Search Trigger...', 'bit-integrations'),
 
-    'Try Pro' => __('Try Pro', 'bit-integrations'),
+    'This Trigger' => __('This Trigger', 'bit-integrations'),
 
     'Please Select Fields' => __('Please Select Fields', 'bit-integrations'),
 
@@ -6437,6 +6441,10 @@ $bit_integrations_i18n_strings = array(
     'Submit <b>Integrable Form</b>' => __('Submit <b>Integrable Form</b>', 'bit-integrations'),
 
     'Click <b>Next</b> and <b>Go</b></b>' => __('Click <b>Next</b> and <b>Go</b></b>', 'bit-integrations'),
+
+    'Important' => __('Important', 'bit-integrations'),
+
+    'Choose a consistent and unique identifier for each form entry, like a <b>Form ID</b> or <b>PostID</b>. If unavailable, create and hide a custom field to serve as the unique key.' => __('Choose a consistent and unique identifier for each form entry, like a <b>Form ID</b> or <b>PostID</b>. If unavailable, create and hide a custom field to serve as the unique key.', 'bit-integrations'),
 
     'Bit Integrations Trigger Hooks' => __('Bit Integrations Trigger Hooks', 'bit-integrations'),
 
@@ -6468,7 +6476,9 @@ $bit_integrations_i18n_strings = array(
 
     'After submitting the form, Click <b>Next</b> and then <b>Go</b></b>' => __('After submitting the form, Click <b>Next</b> and then <b>Go</b></b>', 'bit-integrations'),
 
-    'Important: The Fetch button will keep spinning until you submit the form.' => __('Important: The Fetch button will keep spinning until you submit the form.', 'bit-integrations'),
+    'The Fetch button will keep spinning until you submit the form.' => __('The Fetch button will keep spinning until you submit the form.', 'bit-integrations'),
+
+    'Choose a consistent unique identifier like <b>Form ID</b> (default) or <b>Post ID</b> for each form entry, or create a hidden custom field if unavailable.' => __('Choose a consistent unique identifier like <b>Form ID</b> (default) or <b>Post ID</b> for each form entry, or create a hidden custom field if unavailable.', 'bit-integrations'),
 
     '%s is not installed or activated.' => __('%s is not installed or activated.', 'bit-integrations'),
 
@@ -6956,6 +6966,28 @@ $bit_integrations_i18n_strings = array(
 
     'Instruction' => __('Instruction', 'bit-integrations'),
 
+    '%s is available in Pro' => __('%s is available in Pro', 'bit-integrations'),
+
+    'This feature' => __('This feature', 'bit-integrations'),
+
+    'Thank you for using our product! %s is not available in your plan. Please upgrade to the PRO plan to unlock all these awesome features.' => __('Thank you for using our product! %s is not available in your plan. Please upgrade to the PRO plan to unlock all these awesome features.', 'bit-integrations'),
+
+    'Try Demo' => __('Try Demo', 'bit-integrations'),
+
+    'Upgrade to Pro' => __('Upgrade to Pro', 'bit-integrations'),
+
+    'Check out our' => __('Check out our', 'bit-integrations'),
+
+    'Demo' => __('Demo', 'bit-integrations'),
+
+    'to see what can you do with Pro version.' => __('to see what can you do with Pro version.', 'bit-integrations'),
+
+    'Try Pro' => __('Try Pro', 'bit-integrations'),
+
+    'Unlock Premium Features with Our Pro Plugin' => __('Unlock Premium Features with Our Pro Plugin', 'bit-integrations'),
+
+    'Thanks for using our product! You can explore our Pro plugin with a 7-day trial. Please note that your data will be deleted once the trial ends.' => __('Thanks for using our product! You can explore our Pro plugin with a 7-day trial. Please note that your data will be deleted once the trial ends.', 'bit-integrations'),
+
     'Search' => __('Search', 'bit-integrations'),
 
     'Do You want Deplicate these' => __('Do You want Deplicate these', 'bit-integrations'),
@@ -7042,7 +7074,7 @@ $bit_integrations_i18n_strings = array(
 
     'Updated at:  <b>%s</b>' => __('Updated at:  <b>%s</b>', 'bit-integrations'),
 
-    'New Trigger' => __('New Trigger', 'bit-integrations'),
+    'New Features' => __('New Features', 'bit-integrations'),
 
     'For more details,' => __('For more details,', 'bit-integrations'),
 
