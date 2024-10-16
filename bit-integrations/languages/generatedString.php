@@ -5568,11 +5568,27 @@ $bit_integrations_i18n_strings = array(
 
     'Trello API Console' => __('Trello API Console', 'bit-integrations'),
 
+    'Custom Fields refreshed' => __('Custom Fields refreshed', 'bit-integrations'),
+
+    'Custom Fields refresh failed Cause: %s. please try again' => __('Custom Fields refresh failed Cause: %s. please try again', 'bit-integrations'),
+
+    'Custom Fields failed. please try again' => __('Custom Fields failed. please try again', 'bit-integrations'),
+
+    'Custom Field Map' => __('Custom Field Map', 'bit-integrations'),
+
+    'Refresh Custom Fields' => __('Refresh Custom Fields', 'bit-integrations'),
+
+    'Trello Fields' => __('Trello Fields', 'bit-integrations'),
+
+    'Select  Field' => __('Select  Field', 'bit-integrations'),
+
+    'Custom field options' => __('Custom field options', 'bit-integrations'),
+
     'Boards:' => __('Boards:', 'bit-integrations'),
 
     'Select Board' => __('Select Board', 'bit-integrations'),
 
-    'Trello Fields' => __('Trello Fields', 'bit-integrations'),
+    'Custom Fields' => __('Custom Fields', 'bit-integrations'),
 
     'Connected with Tutor LMS Successfully' => __('Connected with Tutor LMS Successfully', 'bit-integrations'),
 
@@ -6564,6 +6580,10 @@ $bit_integrations_i18n_strings = array(
 
     'Setup Essential Blocks' => __('Setup Essential Blocks', 'bit-integrations'),
 
+    'Events fetching failed. please try again' => __('Events fetching failed. please try again', 'bit-integrations'),
+
+    'Loading Events...' => __('Loading Events...', 'bit-integrations'),
+
     'Select a Event' => __('Select a Event', 'bit-integrations'),
 
     'Fetched fields successfully' => __('Fetched fields successfully', 'bit-integrations'),
@@ -6573,10 +6593,6 @@ $bit_integrations_i18n_strings = array(
     'Loading fields...' => __('Loading fields...', 'bit-integrations'),
 
     'Fetched Events successfully' => __('Fetched Events successfully', 'bit-integrations'),
-
-    'Events fetching failed. please try again' => __('Events fetching failed. please try again', 'bit-integrations'),
-
-    'Loading Events...' => __('Loading Events...', 'bit-integrations'),
 
     'Fetched tags successfully' => __('Fetched tags successfully', 'bit-integrations'),
 
@@ -7074,7 +7090,9 @@ $bit_integrations_i18n_strings = array(
 
     'Updated at:  <b>%s</b>' => __('Updated at:  <b>%s</b>', 'bit-integrations'),
 
-    'New Features' => __('New Features', 'bit-integrations'),
+    'New Trigger' => __('New Trigger', 'bit-integrations'),
+
+    'New Feature' => __('New Feature', 'bit-integrations'),
 
     'For more details,' => __('For more details,', 'bit-integrations'),
 
