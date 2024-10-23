@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit95c3c9189cf223b3f594a43c403e60df
+class ComposerStaticInit2d9ebf2868f20374ad15498211ace604
 {
     public static $prefixLengthsPsr4 = array (
         'T' => 
@@ -198,6 +198,7 @@ class ComposerStaticInit95c3c9189cf223b3f594a43c403e60df
         'BitCode\\FI\\Actions\\Memberpress\\MemberpressController' => __DIR__ . '/../..' . '/includes/Actions/Memberpress/MemberpressController.php',
         'BitCode\\FI\\Actions\\Memberpress\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Memberpress/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Moosend\\MoosendController' => __DIR__ . '/../..' . '/includes/Actions/Moosend/MoosendController.php',
+        'BitCode\\FI\\Actions\\Moosend\\MoosendHelper' => __DIR__ . '/../..' . '/includes/Actions/Moosend/MoosendHelper.php',
         'BitCode\\FI\\Actions\\Moosend\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Moosend/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\MoxieCRM\\MoxieCRMController' => __DIR__ . '/../..' . '/includes/Actions/MoxieCRM/MoxieCRMController.php',
         'BitCode\\FI\\Actions\\MoxieCRM\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/MoxieCRM/RecordApiHelper.php',
@@ -274,6 +275,8 @@ class ComposerStaticInit95c3c9189cf223b3f594a43c403e60df
         'BitCode\\FI\\Actions\\Telegram\\FilesApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Telegram/FilesApiHelper.php',
         'BitCode\\FI\\Actions\\Telegram\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Telegram/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Telegram\\TelegramController' => __DIR__ . '/../..' . '/includes/Actions/Telegram/TelegramController.php',
+        'BitCode\\FI\\Actions\\TheEventsCalendar\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/TheEventsCalendar/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\TheEventsCalendar\\TheEventsCalendarController' => __DIR__ . '/../..' . '/includes/Actions/TheEventsCalendar/TheEventsCalendarController.php',
         'BitCode\\FI\\Actions\\ThriveAutomator\\ThriveAutomatorController' => __DIR__ . '/../..' . '/includes/Actions/ThriveAutomator/ThriveAutomatorController.php',
         'BitCode\\FI\\Actions\\Trello\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Trello/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Trello\\TrelloController' => __DIR__ . '/../..' . '/includes/Actions/Trello/TrelloController.php',
@@ -412,9 +415,9 @@ class ComposerStaticInit95c3c9189cf223b3f594a43c403e60df
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit95c3c9189cf223b3f594a43c403e60df::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit95c3c9189cf223b3f594a43c403e60df::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit95c3c9189cf223b3f594a43c403e60df::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit2d9ebf2868f20374ad15498211ace604::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit2d9ebf2868f20374ad15498211ace604::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit2d9ebf2868f20374ad15498211ace604::$classMap;
 
         }, null, ClassLoader::class);
     }

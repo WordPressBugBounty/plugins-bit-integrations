@@ -916,7 +916,7 @@ $bit_integrations_i18n_strings = array(
 
     'Milestones fetching failed' => __('Milestones fetching failed', 'bit-integrations'),
 
-    'Create Organisation' => __('Create Organisation', 'bit-integrations'),
+    'Create Organization' => __('Create Organization', 'bit-integrations'),
 
     'Create Person' => __('Create Person', 'bit-integrations'),
 
@@ -1021,8 +1021,6 @@ $bit_integrations_i18n_strings = array(
     'Contacts fetched successfully' => __('Contacts fetched successfully', 'bit-integrations'),
 
     'Contacts fetching failed' => __('Contacts fetching failed', 'bit-integrations'),
-
-    'Create Organization' => __('Create Organization', 'bit-integrations'),
 
     'Create Lead' => __('Create Lead', 'bit-integrations'),
 
@@ -3852,11 +3850,17 @@ $bit_integrations_i18n_strings = array(
 
     'Add tag to mautic contact' => __('Add tag to mautic contact', 'bit-integrations'),
 
+    'Add Contact Owner' => __('Add Contact Owner', 'bit-integrations'),
+
+    'Add a Owner to mautic contact' => __('Add a Owner to mautic contact', 'bit-integrations'),
+
     'Tag Records' => __('Tag Records', 'bit-integrations'),
 
     'Add a tag to contacts' => __('Add a tag to contacts', 'bit-integrations'),
 
-    'Tag Name' => __('Tag Name', 'bit-integrations'),
+    'Add a owner to contacts' => __('Add a owner to contacts', 'bit-integrations'),
+
+    'Refresh Contact Owner' => __('Refresh Contact Owner', 'bit-integrations'),
 
     'Mautic API Console' => __('Mautic API Console', 'bit-integrations'),
 
@@ -3867,6 +3871,10 @@ $bit_integrations_i18n_strings = array(
     'Tags refreshed' => __('Tags refreshed', 'bit-integrations'),
 
     'Tags refresh failed. please try again' => __('Tags refresh failed. please try again', 'bit-integrations'),
+
+    'Contact Owner refreshed' => __('Contact Owner refreshed', 'bit-integrations'),
+
+    'Contact Owner refresh failed. please try again' => __('Contact Owner refresh failed. please try again', 'bit-integrations'),
 
     'Base Url can\'t be empty' => __('Base Url can\'t be empty', 'bit-integrations'),
 
@@ -3919,6 +3927,10 @@ $bit_integrations_i18n_strings = array(
     'Unsubscribe' => __('Unsubscribe', 'bit-integrations'),
 
     'Unsubscribe from list' => __('Unsubscribe from list', 'bit-integrations'),
+
+    'Custom Field Available in Pro (v2.3.1)' => __('Custom Field Available in Pro (v2.3.1)', 'bit-integrations'),
+
+    'With the release of version 2.3.1, Pro users can now take advantage of the custom field feature.' => __('With the release of version 2.3.1, Pro users can now take advantage of the custom field feature.', 'bit-integrations'),
 
     'Select Method' => __('Select Method', 'bit-integrations'),
 
@@ -5564,6 +5576,18 @@ $bit_integrations_i18n_strings = array(
 
     'Markdown v2' => __('Markdown v2', 'bit-integrations'),
 
+    'Please select a event!' => __('Please select a event!', 'bit-integrations'),
+
+    'Connect to The Events Calendar' => __('Connect to The Events Calendar', 'bit-integrations'),
+
+    'Number of Guests' => __('Number of Guests', 'bit-integrations'),
+
+    'Register New Attendee' => __('Register New Attendee', 'bit-integrations'),
+
+    'Refresh events' => __('Refresh events', 'bit-integrations'),
+
+    'The Events Calendar Fields' => __('The Events Calendar Fields', 'bit-integrations'),
+
     'To get Client ID , Please Visit' => __('To get Client ID , Please Visit', 'bit-integrations'),
 
     'Trello API Console' => __('Trello API Console', 'bit-integrations'),
@@ -6221,6 +6245,8 @@ $bit_integrations_i18n_strings = array(
     'Select Assignment Rule' => __('Select Assignment Rule', 'bit-integrations'),
 
     'Refresh CRM Assignment Rules' => __('Refresh CRM Assignment Rules', 'bit-integrations'),
+
+    'Tag Name' => __('Tag Name', 'bit-integrations'),
 
     'Owner Name' => __('Owner Name', 'bit-integrations'),
 
@@ -7084,15 +7110,19 @@ $bit_integrations_i18n_strings = array(
 
     '2. Which software did you previously used for these features?' => __('2. Which software did you previously used for these features?', 'bit-integrations'),
 
+    'New Actions' => __('New Actions', 'bit-integrations'),
+
+    'New Triggers' => __('New Triggers', 'bit-integrations'),
+
+    'New Features' => __('New Features', 'bit-integrations'),
+
+    'New Improvements' => __('New Improvements', 'bit-integrations'),
+
     'What\'s New' => __('What\'s New', 'bit-integrations'),
 
     'What\'s New in %s' => __('What\'s New in %s', 'bit-integrations'),
 
-    'Updated at:  <b>%s</b>' => __('Updated at:  <b>%s</b>', 'bit-integrations'),
-
-    'New Trigger' => __('New Trigger', 'bit-integrations'),
-
-    'New Feature' => __('New Feature', 'bit-integrations'),
+    'Updated at:' => __('Updated at:', 'bit-integrations'),
 
     'For more details,' => __('For more details,', 'bit-integrations'),
 
