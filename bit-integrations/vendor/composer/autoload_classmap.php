@@ -124,6 +124,8 @@ return array(
     'BitCode\\FI\\Actions\\Klaviyo\\KlaviyoController' => $baseDir . '/includes/Actions/Klaviyo/KlaviyoController.php',
     'BitCode\\FI\\Actions\\Klaviyo\\RecordApiHelper' => $baseDir . '/includes/Actions/Klaviyo/RecordApiHelper.php',
     'BitCode\\FI\\Actions\\KonnectzIT\\KonnectzITController' => $baseDir . '/includes/Actions/KonnectzIT/KonnectzITController.php',
+    'BitCode\\FI\\Actions\\LMFWC\\LMFWCController' => $baseDir . '/includes/Actions/LMFWC/LMFWCController.php',
+    'BitCode\\FI\\Actions\\LMFWC\\RecordApiHelper' => $baseDir . '/includes/Actions/LMFWC/RecordApiHelper.php',
     'BitCode\\FI\\Actions\\LearnDash\\LearnDashController' => $baseDir . '/includes/Actions/LearnDash/LearnDashController.php',
     'BitCode\\FI\\Actions\\LearnDash\\RecordApiHelper' => $baseDir . '/includes/Actions/LearnDash/RecordApiHelper.php',
     'BitCode\\FI\\Actions\\Lemlist\\LemlistController' => $baseDir . '/includes/Actions/Lemlist/LemlistController.php',

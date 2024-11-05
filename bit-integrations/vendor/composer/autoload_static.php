@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit7a84f1063f0d9284312284bc40ca9cae
+class ComposerStaticInit0482d886cab54c45d38a94411eae8e12
 {
     public static $prefixLengthsPsr4 = array (
         'T' => 
@@ -157,6 +157,8 @@ class ComposerStaticInit7a84f1063f0d9284312284bc40ca9cae
         'BitCode\\FI\\Actions\\Klaviyo\\KlaviyoController' => __DIR__ . '/../..' . '/includes/Actions/Klaviyo/KlaviyoController.php',
         'BitCode\\FI\\Actions\\Klaviyo\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Klaviyo/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\KonnectzIT\\KonnectzITController' => __DIR__ . '/../..' . '/includes/Actions/KonnectzIT/KonnectzITController.php',
+        'BitCode\\FI\\Actions\\LMFWC\\LMFWCController' => __DIR__ . '/../..' . '/includes/Actions/LMFWC/LMFWCController.php',
+        'BitCode\\FI\\Actions\\LMFWC\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/LMFWC/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\LearnDash\\LearnDashController' => __DIR__ . '/../..' . '/includes/Actions/LearnDash/LearnDashController.php',
         'BitCode\\FI\\Actions\\LearnDash\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/LearnDash/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Lemlist\\LemlistController' => __DIR__ . '/../..' . '/includes/Actions/Lemlist/LemlistController.php',
@@ -418,9 +420,9 @@ class ComposerStaticInit7a84f1063f0d9284312284bc40ca9cae
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit7a84f1063f0d9284312284bc40ca9cae::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit7a84f1063f0d9284312284bc40ca9cae::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit7a84f1063f0d9284312284bc40ca9cae::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit0482d886cab54c45d38a94411eae8e12::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit0482d886cab54c45d38a94411eae8e12::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit0482d886cab54c45d38a94411eae8e12::$classMap;
 
         }, null, ClassLoader::class);
     }

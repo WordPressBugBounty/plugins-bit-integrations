@@ -3502,6 +3502,142 @@ $bit_integrations_i18n_strings = array(
 
     'Livestorm Fields' => __('Livestorm Fields', 'bit-integrations'),
 
+    'Please select Status' => __('Please select Status', 'bit-integrations'),
+
+    'License key' => __('License key', 'bit-integrations'),
+
+    'Valid for (days)' => __('Valid for (days)', 'bit-integrations'),
+
+    'Expires at' => __('Expires at', 'bit-integrations'),
+
+    'Maximum activation count' => __('Maximum activation count', 'bit-integrations'),
+
+    'Character map' => __('Character map', 'bit-integrations'),
+
+    'Number of chunks' => __('Number of chunks', 'bit-integrations'),
+
+    'Chunk length' => __('Chunk length', 'bit-integrations'),
+
+    'Separator' => __('Separator', 'bit-integrations'),
+
+    'Prefix' => __('Prefix', 'bit-integrations'),
+
+    'Suffix' => __('Suffix', 'bit-integrations'),
+
+    'Expires in	(days)' => __('Expires in	(days)', 'bit-integrations'),
+
+    'Create a license' => __('Create a license', 'bit-integrations'),
+
+    'Update a license' => __('Update a license', 'bit-integrations'),
+
+    'Activate a license' => __('Activate a license', 'bit-integrations'),
+
+    'Deactivate a license' => __('Deactivate a license', 'bit-integrations'),
+
+    'Delete a License' => __('Delete a License', 'bit-integrations'),
+
+    'Reactivate a License' => __('Reactivate a License', 'bit-integrations'),
+
+    'Create a generator' => __('Create a generator', 'bit-integrations'),
+
+    'Update a Generator' => __('Update a Generator', 'bit-integrations'),
+
+    'Requirements' => __('Requirements', 'bit-integrations'),
+
+    'WordPress permalinks must be enabled at' => __('WordPress permalinks must be enabled at', 'bit-integrations'),
+
+    'Settings' => __('Settings', 'bit-integrations'),
+
+    'Permalinks' => __('Permalinks', 'bit-integrations'),
+
+    'To Get Consumer key & Consumer secret' => __('To Get Consumer key & Consumer secret', 'bit-integrations'),
+
+    'First go to "WooCommerce"' => __('First go to "WooCommerce"', 'bit-integrations'),
+
+    'Then go to "Settings" page' => __('Then go to "Settings" page', 'bit-integrations'),
+
+    'Click on "License Manager " from right top corner menu' => __('Click on "License Manager " from right top corner menu', 'bit-integrations'),
+
+    'Then click "REST API" from the top sub menu' => __('Then click "REST API" from the top sub menu', 'bit-integrations'),
+
+    'Then click "Add key" button at the top of the page' => __('Then click "Add key" button at the top of the page', 'bit-integrations'),
+
+    'FIll the form & click "Generate API Key"' => __('FIll the form & click "Generate API Key"', 'bit-integrations'),
+
+    'Homepage URL...' => __('Homepage URL...', 'bit-integrations'),
+
+    'Consumer key:' => __('Consumer key:', 'bit-integrations'),
+
+    'Consumer key...' => __('Consumer key...', 'bit-integrations'),
+
+    'Consumer secret:' => __('Consumer secret:', 'bit-integrations'),
+
+    'Consumer secret...' => __('Consumer secret...', 'bit-integrations'),
+
+    'Consumer key can\'t be empty' => __('Consumer key can\'t be empty', 'bit-integrations'),
+
+    'Consumer secret can\'t be empty' => __('Consumer secret can\'t be empty', 'bit-integrations'),
+
+    'Authorized failed, Please enter valid Consumer key & Consumer secret' => __('Authorized failed, Please enter valid Consumer key & Consumer secret', 'bit-integrations'),
+
+    'Customers fetched successfully' => __('Customers fetched successfully', 'bit-integrations'),
+
+    'Customers Not Found!' => __('Customers Not Found!', 'bit-integrations'),
+
+    'Customers fetching failed' => __('Customers fetching failed', 'bit-integrations'),
+
+    'Product fetched successfully' => __('Product fetched successfully', 'bit-integrations'),
+
+    'Product Not Found!' => __('Product Not Found!', 'bit-integrations'),
+
+    'Product fetching failed' => __('Product fetching failed', 'bit-integrations'),
+
+    'Order fetched successfully' => __('Order fetched successfully', 'bit-integrations'),
+
+    'Order Not Found!' => __('Order Not Found!', 'bit-integrations'),
+
+    'Order fetching failed' => __('Order fetching failed', 'bit-integrations'),
+
+    'License fetched successfully' => __('License fetched successfully', 'bit-integrations'),
+
+    'License Not Found!' => __('License Not Found!', 'bit-integrations'),
+
+    'License fetching failed' => __('License fetching failed', 'bit-integrations'),
+
+    'Generator fetched successfully' => __('Generator fetched successfully', 'bit-integrations'),
+
+    'Generator Not Found!' => __('Generator Not Found!', 'bit-integrations'),
+
+    'Generator fetching failed' => __('Generator fetching failed', 'bit-integrations'),
+
+    'You can also use Valid for (the number of days) instead of Expires at' => __('You can also use Valid for (the number of days) instead of Expires at', 'bit-integrations'),
+
+    'please do not use both at a time' => __('please do not use both at a time', 'bit-integrations'),
+
+    'Activation Token' => __('Activation Token', 'bit-integrations'),
+
+    'Select License:' => __('Select License:', 'bit-integrations'),
+
+    'Refresh License' => __('Refresh License', 'bit-integrations'),
+
+    'Select Generator:' => __('Select Generator:', 'bit-integrations'),
+
+    'Refresh Generator' => __('Refresh Generator', 'bit-integrations'),
+
+    'Select Customer:' => __('Select Customer:', 'bit-integrations'),
+
+    'Refresh Customers' => __('Refresh Customers', 'bit-integrations'),
+
+    'Select Product:' => __('Select Product:', 'bit-integrations'),
+
+    'Refresh Products' => __('Refresh Products', 'bit-integrations'),
+
+    'Select Order:' => __('Select Order:', 'bit-integrations'),
+
+    'Refresh Orders' => __('Refresh Orders', 'bit-integrations'),
+
+    'License Manager Fields' => __('License Manager Fields', 'bit-integrations'),
+
     'Record Type' => __('Record Type', 'bit-integrations'),
 
     'Response' => __('Response', 'bit-integrations'),
@@ -3575,6 +3711,18 @@ $bit_integrations_i18n_strings = array(
     'Update Mail Chimp' => __('Update Mail Chimp', 'bit-integrations'),
 
     'Update Responses with MailChimp exist Aduience?' => __('Update Responses with MailChimp exist Aduience?', 'bit-integrations'),
+
+    'Add Language' => __('Add Language', 'bit-integrations'),
+
+    'Add GDPR' => __('Add GDPR', 'bit-integrations'),
+
+    'Add GDPR Marketing Preferences' => __('Add GDPR Marketing Preferences', 'bit-integrations'),
+
+    'Write down GDPR marketing options' => __('Write down GDPR marketing options', 'bit-integrations'),
+
+    'Write down your preferred GDPR marketing options, separated by commas %s. For example: Email Address, Phone Number.' => __('Write down your preferred GDPR marketing options, separated by commas %s. For example: Email Address, Phone Number.', 'bit-integrations'),
+
+    'GDPR Marketing Preferences...' => __('GDPR Marketing Preferences...', 'bit-integrations'),
 
     'Mail Chimp API Console' => __('Mail Chimp API Console', 'bit-integrations'),
 
@@ -4468,10 +4616,6 @@ $bit_integrations_i18n_strings = array(
 
     'Project Related With:' => __('Project Related With:', 'bit-integrations'),
 
-    'Select Customer:' => __('Select Customer:', 'bit-integrations'),
-
-    'Refresh Customers' => __('Refresh Customers', 'bit-integrations'),
-
     'Assigned By:' => __('Assigned By:', 'bit-integrations'),
 
     'Refresh Staffs' => __('Refresh Staffs', 'bit-integrations'),
@@ -4855,10 +4999,6 @@ $bit_integrations_i18n_strings = array(
     'Zip/Postal Code' => __('Zip/Postal Code', 'bit-integrations'),
 
     'State/Region' => __('State/Region', 'bit-integrations'),
-
-    'Prefix' => __('Prefix', 'bit-integrations'),
-
-    'Suffix' => __('Suffix', 'bit-integrations'),
 
     'Role' => __('Role', 'bit-integrations'),
 
@@ -5817,8 +5957,6 @@ $bit_integrations_i18n_strings = array(
     'Order Change:' => __('Order Change:', 'bit-integrations'),
 
     'Select Order Change Type' => __('Select Order Change Type', 'bit-integrations'),
-
-    'Select Product:' => __('Select Product:', 'bit-integrations'),
 
     'Fetch All Subscription product' => __('Fetch All Subscription product', 'bit-integrations'),
 
@@ -6857,6 +6995,16 @@ $bit_integrations_i18n_strings = array(
     'Ultimate member fetching failed. please try again' => __('Ultimate member fetching failed. please try again', 'bit-integrations'),
 
     'Loading role...' => __('Loading role...', 'bit-integrations'),
+
+    'Fetched post types successfully' => __('Fetched post types successfully', 'bit-integrations'),
+
+    'Post types fetching failed. please try again' => __('Post types fetching failed. please try again', 'bit-integrations'),
+
+    'Loading post types...' => __('Loading post types...', 'bit-integrations'),
+
+    'Select Post Type:' => __('Select Post Type:', 'bit-integrations'),
+
+    'Please select a post type to fetch fields.' => __('Please select a post type to fetch fields.', 'bit-integrations'),
 
     'Subscriptions fetched successfully' => __('Subscriptions fetched successfully', 'bit-integrations'),
 
