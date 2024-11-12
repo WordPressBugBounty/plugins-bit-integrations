@@ -1212,7 +1212,11 @@ $bit_integrations_i18n_strings = array(
 
     'Constant Contact Phone Fields' => __('Constant Contact Phone Fields', 'bit-integrations'),
 
+    'Please select module to continue.' => __('Please select module to continue.', 'bit-integrations'),
+
     'Please select form to continue.' => __('Please select form to continue.', 'bit-integrations'),
+
+    'Please select tag continue.' => __('Please select tag continue.', 'bit-integrations'),
 
     'Update %s' => __('Update %s', 'bit-integrations'),
 
@@ -1243,6 +1247,8 @@ $bit_integrations_i18n_strings = array(
     'No %s fields found. Try changing the header row number or try again' => __('No %s fields found. Try changing the header row number or try again', 'bit-integrations'),
 
     '%s fields refresh failed. please try again' => __('%s fields refresh failed. please try again', 'bit-integrations'),
+
+    'Select Module:' => __('Select Module:', 'bit-integrations'),
 
     'Form:' => __('Form:', 'bit-integrations'),
 
@@ -3221,6 +3227,8 @@ $bit_integrations_i18n_strings = array(
     'Refresh Tax List' => __('Refresh Tax List', 'bit-integrations'),
 
     'JetEngine Fields' => __('JetEngine Fields', 'bit-integrations'),
+
+    'The Jet Engine Action requires user login to perform any of the tasks listed above (as webhook does not indicate whether the user is logged in or not, any trigger that uses webhook will not be functional).' => __('The Jet Engine Action requires user login to perform any of the tasks listed above (as webhook does not indicate whether the user is logged in or not, any trigger that uses webhook will not be functional).', 'bit-integrations'),
 
     'Email Addresses' => __('Email Addresses', 'bit-integrations'),
 
