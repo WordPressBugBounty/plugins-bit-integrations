@@ -5806,6 +5806,64 @@ $bit_integrations_i18n_strings = array(
 
     'Vbout Fields' => __('Vbout Fields', 'bit-integrations'),
 
+    'Please select a post type!' => __('Please select a post type!', 'bit-integrations'),
+
+    'Please select a post status!' => __('Please select a post status!', 'bit-integrations'),
+
+    'Please select a post!' => __('Please select a post!', 'bit-integrations'),
+
+    'Connect to Voxel' => __('Connect to Voxel', 'bit-integrations'),
+
+    'Post Types fetched successfully' => __('Post Types fetched successfully', 'bit-integrations'),
+
+    'Posts fetched successfully' => __('Posts fetched successfully', 'bit-integrations'),
+
+    'Post ID' => __('Post ID', 'bit-integrations'),
+
+    'Profile ID' => __('Profile ID', 'bit-integrations'),
+
+    'Create New Post' => __('Create New Post', 'bit-integrations'),
+
+    'Create New Collection Post' => __('Create New Collection Post', 'bit-integrations'),
+
+    'Create New Profile' => __('Create New Profile', 'bit-integrations'),
+
+    'Update Post' => __('Update Post', 'bit-integrations'),
+
+    'Update Collection Post' => __('Update Collection Post', 'bit-integrations'),
+
+    'Update Profile' => __('Update Profile', 'bit-integrations'),
+
+    'Set Post as Verified' => __('Set Post as Verified', 'bit-integrations'),
+
+    'Set Collection Post as Verified' => __('Set Collection Post as Verified', 'bit-integrations'),
+
+    'Set Profile as Verified' => __('Set Profile as Verified', 'bit-integrations'),
+
+    'If you have "recurring-date, event-date, work-hours" or any kind of image or attachment fields see the instructions below:' => __('If you have "recurring-date, event-date, work-hours" or any kind of image or attachment fields see the instructions below:', 'bit-integrations'),
+
+    'For any kind of <strong>image, file, or other attachment,</strong> provide an <strong>attachment ID; for multiple, provide comma-separated ids.</strong>' => __('For any kind of <strong>image, file, or other attachment,</strong> provide an <strong>attachment ID; for multiple, provide comma-separated ids.</strong>', 'bit-integrations'),
+
+    'For <strong>Event Unit</strong> field, accepted values: <strong>day, week, month, year.</strong>' => __('For <strong>Event Unit</strong> field, accepted values: <strong>day, week, month, year.</strong>', 'bit-integrations'),
+
+    'For <strong>Work Days</strong> field, accepted values: <strong>sat, sun, mon, tue, wed, thu, fri.</strong>' => __('For <strong>Work Days</strong> field, accepted values: <strong>sat, sun, mon, tue, wed, thu, fri.</strong>', 'bit-integrations'),
+
+    'For <strong>Work Hours</strong> field, enter time ranges as start and end times, with a dash between them. For more than one range, separate them with commas. <strong>Example: 09:00-12:00 or 09:00-11:00, 12:00-14:00.</strong>' => __('For <strong>Work Hours</strong> field, enter time ranges as start and end times, with a dash between them. For more than one range, separate them with commas. <strong>Example: 09:00-12:00 or 09:00-11:00, 12:00-14:00.</strong>', 'bit-integrations'),
+
+    'For <strong>Work Status</strong> field, accepted values: <strong> hours, open, close, appointments_only.</strong>' => __('For <strong>Work Status</strong> field, accepted values: <strong> hours, open, close, appointments_only.</strong>', 'bit-integrations'),
+
+    'For <strong>Taxonomy</strong> field, provide taxonomy slug(s), separate with comma if multiple allowed.' => __('For <strong>Taxonomy</strong> field, provide taxonomy slug(s), separate with comma if multiple allowed.', 'bit-integrations'),
+
+    'For <strong>Product & Post Relation</strong> field, provide product id and post id respectively.' => __('For <strong>Product & Post Relation</strong> field, provide product id and post id respectively.', 'bit-integrations'),
+
+    'Select Post Type:' => __('Select Post Type:', 'bit-integrations'),
+
+    'Select Post:' => __('Select Post:', 'bit-integrations'),
+
+    'Refresh Posts' => __('Refresh Posts', 'bit-integrations'),
+
+    'Select Post Status:' => __('Select Post Status:', 'bit-integrations'),
+
     'Template Message' => __('Template Message', 'bit-integrations'),
 
     'Text Message' => __('Text Message', 'bit-integrations'),
@@ -7010,8 +7068,6 @@ $bit_integrations_i18n_strings = array(
 
     'Loading post types...' => __('Loading post types...', 'bit-integrations'),
 
-    'Select Post Type:' => __('Select Post Type:', 'bit-integrations'),
-
     'Please select a post type to fetch fields.' => __('Please select a post type to fetch fields.', 'bit-integrations'),
 
     'Subscriptions fetched successfully' => __('Subscriptions fetched successfully', 'bit-integrations'),
@@ -7178,7 +7234,7 @@ $bit_integrations_i18n_strings = array(
 
     'Try Demo' => __('Try Demo', 'bit-integrations'),
 
-    'Upgrade to Pro' => __('Upgrade to Pro', 'bit-integrations'),
+    'Get 50% Off - Limited Time!' => __('Get 50% Off - Limited Time!', 'bit-integrations'),
 
     'Check out our' => __('Check out our', 'bit-integrations'),
 

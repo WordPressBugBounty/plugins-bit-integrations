@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitbdef5cae633f12666608e48a22f9cb79
+class ComposerStaticInit786e687eaeb86349a4b3483a4e25ccb7
 {
     public static $prefixLengthsPsr4 = array (
         'T' => 
@@ -288,6 +288,10 @@ class ComposerStaticInitbdef5cae633f12666608e48a22f9cb79
         'BitCode\\FI\\Actions\\UncannyAutomator\\UncannyAutomatorController' => __DIR__ . '/../..' . '/includes/Actions/UncannyAutomator/UncannyAutomatorController.php',
         'BitCode\\FI\\Actions\\Vbout\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Vbout/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Vbout\\VboutController' => __DIR__ . '/../..' . '/includes/Actions/Vbout/VboutController.php',
+        'BitCode\\FI\\Actions\\Voxel\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Voxel/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\Voxel\\VoxelController' => __DIR__ . '/../..' . '/includes/Actions/Voxel/VoxelController.php',
+        'BitCode\\FI\\Actions\\Voxel\\VoxelHelper' => __DIR__ . '/../..' . '/includes/Actions/Voxel/VoxelHelper.php',
+        'BitCode\\FI\\Actions\\Voxel\\VoxelTasks' => __DIR__ . '/../..' . '/includes/Actions/Voxel/VoxelTasks.php',
         'BitCode\\FI\\Actions\\WPCourseware\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/WPCourseware/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\WPCourseware\\WPCoursewareController' => __DIR__ . '/../..' . '/includes/Actions/WPCourseware/WPCoursewareController.php',
         'BitCode\\FI\\Actions\\WPForo\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/WPForo/RecordApiHelper.php',
@@ -364,11 +368,13 @@ class ComposerStaticInitbdef5cae633f12666608e48a22f9cb79
         'BitCode\\FI\\Core\\Util\\HttpHelper' => __DIR__ . '/../..' . '/includes/Core/Util/HttpHelper.php',
         'BitCode\\FI\\Core\\Util\\IpTool' => __DIR__ . '/../..' . '/includes/Core/Util/IpTool.php',
         'BitCode\\FI\\Core\\Util\\Multisite' => __DIR__ . '/../..' . '/includes/Core/Util/Multisite.php',
+        'BitCode\\FI\\Core\\Util\\Post' => __DIR__ . '/../..' . '/includes/Core/Util/Post.php',
         'BitCode\\FI\\Core\\Util\\Request' => __DIR__ . '/../..' . '/includes/Core/Util/Request.php',
         'BitCode\\FI\\Core\\Util\\Route' => __DIR__ . '/../..' . '/includes/Core/Util/Route.php',
         'BitCode\\FI\\Core\\Util\\SmartTags' => __DIR__ . '/../..' . '/includes/Core/Util/SmartTags.php',
         'BitCode\\FI\\Core\\Util\\StoreInCache' => __DIR__ . '/../..' . '/includes/Core/Util/StoreInCache.php',
         'BitCode\\FI\\Core\\Util\\UnInstallation' => __DIR__ . '/../..' . '/includes/Core/Util/UnInstallation.php',
+        'BitCode\\FI\\Core\\Util\\User' => __DIR__ . '/../..' . '/includes/Core/Util/User.php',
         'BitCode\\FI\\Flow\\Flow' => __DIR__ . '/../..' . '/includes/Flow/Flow.php',
         'BitCode\\FI\\Flow\\FlowController' => __DIR__ . '/../..' . '/includes/Flow/FlowController.php',
         'BitCode\\FI\\Log\\LogHandler' => __DIR__ . '/../..' . '/includes/Log/LogHandler.php',
@@ -420,9 +426,9 @@ class ComposerStaticInitbdef5cae633f12666608e48a22f9cb79
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitbdef5cae633f12666608e48a22f9cb79::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitbdef5cae633f12666608e48a22f9cb79::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInitbdef5cae633f12666608e48a22f9cb79::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit786e687eaeb86349a4b3483a4e25ccb7::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit786e687eaeb86349a4b3483a4e25ccb7::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit786e687eaeb86349a4b3483a4e25ccb7::$classMap;
 
         }, null, ClassLoader::class);
     }
