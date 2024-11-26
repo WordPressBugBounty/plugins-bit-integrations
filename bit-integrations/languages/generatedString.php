@@ -2468,8 +2468,6 @@ $bit_integrations_i18n_strings = array(
 
     'Worksheet Headers refresh failed. please try again' => __('Worksheet Headers refresh failed. please try again', 'bit-integrations'),
 
-    'This account is already on the list.' => __('This account is already on the list.', 'bit-integrations'),
-
     'Spreadsheets:' => __('Spreadsheets:', 'bit-integrations'),
 
     'Select Spreadsheet' => __('Select Spreadsheet', 'bit-integrations'),

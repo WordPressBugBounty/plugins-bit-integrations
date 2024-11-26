@@ -4,7 +4,7 @@ Tags: automation,forms,integration,automator,webhooks
 Requires at least: 5.1
 Tested up to: 6.7
 Requires PHP: 7.0
-Stable tag: 2.3.5
+Stable tag: 2.3.6
 License: GPLv2 or later
 
 Automation Plugin for WordPress. Integration of 80+ Triggers & 150+ Actions.The #1 highest no-code platform Automator plugin in WordPress
@@ -53,7 +53,7 @@ https://youtu.be/eFuficjF_F4
 * [**Fluent Forms**](https://wordpress.org/plugins/fluentform/) (pro)
 * [**Bit Assist**](https://wordpress.org/plugins/bit-assist/) (pro)
 * [**Academy LMS**](https://wordpress.org/plugins/academy/) (pro)
-* [**Asgaros**](https://wordpress.org/plugins/asgaros-forum/) (pro)
+* [**Asgaros Forum**](https://wordpress.org/plugins/asgaros-forum/) (pro)
 * [**Amelia**](https://wordpress.org/plugins/ameliabooking/) (pro)
 * [**Action Hook**](https://bitapps.pro/docs/bit-integrations/trigger/action-hook-integrations/) (pro)
 * [**AffiliateWP**](https://wordpress.org/plugins/affiliatewp-affiliate-area-shortcodes/) (pro)
@@ -633,6 +633,8 @@ Please check [**Bit Integrations Pro**](https://www.bitapps.pro/bit-integrations
 
 * [**ARForm**](https://bitapps.pro/docs/bit-integrations/trigger/arform/)
 
+* [**Asgaros Forum**](https://bit-integrations.com/wp-docs/trigger/asgaros-forum-integrations/)
+
 * [**Beaver Builder**](https://bitapps.pro/docs/bit-integrations/trigger/beaver-builder/)
 
 * [**Bit Assist**](https://bitapps.pro/docs/bit-integrations/trigger/bit-assist/)
@@ -742,6 +744,8 @@ Please check [**Bit Integrations Pro**](https://www.bitapps.pro/bit-integrations
 * [**Webhook**](https://bitapps.pro/docs/bit-integrations/trigger/webhook/)
 
 * [**Woocommerce**](https://bitapps.pro/docs/bit-integrations/trigger/woocommerce/)
+
+* [**Woocommerce Bookings**](https://bit-integrations.com/wp-docs/trigger/woocommerce-bookings-integrations/)
 
 * [**WooCommerce Subscriptions**](https://bit-integrations.com/wp-docs/trigger/woocommerce-subscriptions-integrations/)
 
@@ -1017,6 +1021,18 @@ Yes, It sends data to other platforms from wordpress site. Suppose someone submi
 
 == Changelog ==
 
+= 2.3.6  =
+_Release Date -26th November 2024_
+
+- **New Improvement**
+ - Asana: Added Tagify input for custom fields.
+
+- **Bug Fixes**
+ - ARForm (Pro): Resolved the form fetching issue.
+ - Fluent Support: Fixed an issue with storing data in custom fields.
+ - WP Post (Pro): Prevented multiple hooks from being called when using the "change status" trigger.
+ - Chore: Fixed the loading issue in the WP Media Library.
+
 = 2.3.5  =
 _Release Date -20th November 2024_
 
@@ -1042,36 +1058,37 @@ _Release Date -12th November 2024_
  - Kit (ex ConvertKit): New Module added:
     "Update Subscriber" - Easily update subscriber details.
     "Add Tags to a Subscriber" - Assign specific tags to subscribers.
-    "Remove Tags from a Subscriber" - Remove tags from selected subscribers.
+    "Remove Tags from a Subscriber" - Remove tags from selected subscribers. 
+  - Voxel: Added new tasks to enhance the integrations:
+
+    Membership (Pro):
+      - Membership Plan Activated
+      - Membership Plan Switched
+      - Membership Plan Canceled
+
+    Comments (Pro):
+      - New Comment
+      - New Reply to Comment
+
+    Profile (Pro):
+      - New Wall Post on Profile
+      - Wall Post by User
+
+    Orders (Pro):
+      - New Order Placed
+      - Order Approved by Vendor
+      - Order Declined by Vendor
+      - Order Canceled by Customer
+      - Orders Claim Listing
+      
+    Promotions(pro):
+      - Promotion Activated
+      - Promotion Canceled
+
 
 - **New Improvement**
  - Brevo (ex Sendinblue): Enhanced optimization for smoother integration execution.
  - Kit (ex ConvertKit): Improved functionality for adding and updating subscribers.
- - Voxel: Added new tasks to enhance the integrations:
- 
-      Membership (Pro):
-        - Membership Plan Activated
-        - Membership Plan Switched
-        - Membership Plan Canceled
-
-      Comments (Pro):
-        - New Comment
-        - New Reply to Comment
-
-      Profile (Pro):
-        - New Wall Post on Profile
-        - Wall Post by User
-
-      Orders (Pro):
-        - New Order Placed
-        - Order Approved by Vendor
-        - Order Declined by Vendor
-        - Order Canceled by Customer
-        - Orders Claim Listing
-        
-      Promotions(pro):
-        - Promotion Activated
-        - Promotion Canceled
 
 = 2.3.3  =
 _Release Date -05th November 2024_
