@@ -6,8 +6,6 @@ $bit_integrations_i18n_strings = array(
 
     'Integrations for Forms' => __('Integrations for Forms', 'bit-integrations'),
 
-    'Review us' => __('Review us', 'bit-integrations'),
-
     'Next' => __('Next', 'bit-integrations'),
 
     'Connected with Academy Lms Successfully' => __('Connected with Academy Lms Successfully', 'bit-integrations'),
@@ -1944,6 +1942,12 @@ $bit_integrations_i18n_strings = array(
 
     'Enable Double Option for new contacts' => __('Enable Double Option for new contacts', 'bit-integrations'),
 
+    'Assign Company' => __('Assign Company', 'bit-integrations'),
+
+    'Assign Company for contact' => __('Assign Company for contact', 'bit-integrations'),
+
+    'The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature', 'bit-integrations'),
+
     'Checking if Fluent CRM is active!!!' => __('Checking if Fluent CRM is active!!!', 'bit-integrations'),
 
     'Please! First Install Fluent CRM Plugins' => __('Please! First Install Fluent CRM Plugins', 'bit-integrations'),
@@ -1967,6 +1971,10 @@ $bit_integrations_i18n_strings = array(
     'No Fluent CRM fields found. Try changing the header row number or try again' => __('No Fluent CRM fields found. Try changing the header row number or try again', 'bit-integrations'),
 
     'Fluent CRM fields refresh failed. please try again' => __('Fluent CRM fields refresh failed. please try again', 'bit-integrations'),
+
+    'Fluent CRM Companies refreshed' => __('Fluent CRM Companies refreshed', 'bit-integrations'),
+
+    'Fluent CRM Companies refresh failed. please try again' => __('Fluent CRM Companies refresh failed. please try again', 'bit-integrations'),
 
     'Add tag to a user' => __('Add tag to a user', 'bit-integrations'),
 
@@ -2015,8 +2023,6 @@ $bit_integrations_i18n_strings = array(
     'Attachment' => __('Attachment', 'bit-integrations'),
 
     'Supported Types: Photos, CSV, PDF/Docs, Zip, JSON and max file size: 2.0MB' => __('Supported Types: Photos, CSV, PDF/Docs, Zip, JSON and max file size: 2.0MB', 'bit-integrations'),
-
-    'The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature', 'bit-integrations'),
 
     'Upsert Record' => __('Upsert Record', 'bit-integrations'),
 
@@ -7320,6 +7326,8 @@ $bit_integrations_i18n_strings = array(
 
     'Give us a review on WordPress by clicking the <a href={REVIEW_URL} target="_blank" rel="noreferrer">%s</a> button and send an email with the review link to <a href="mailto:support@bitapps.pro" target="_blank" rel="noreferrer">%s</a>. We will honour you with <strong>%s</strong> for your time & effort.' => __('Give us a review on WordPress by clicking the <a href={REVIEW_URL} target="_blank" rel="noreferrer">%s</a> button and send an email with the review link to <a href="mailto:support@bitapps.pro" target="_blank" rel="noreferrer">%s</a>. We will honour you with <strong>%s</strong> for your time & effort.', 'bit-integrations'),
 
+    'Review us' => __('Review us', 'bit-integrations'),
+
     'Suggestions on how you may write the review:' => __('Suggestions on how you may write the review:', 'bit-integrations'),
 
     '1. What features do you like most in Bit Integrations?' => __('1. What features do you like most in Bit Integrations?', 'bit-integrations'),
@@ -7348,7 +7356,7 @@ $bit_integrations_i18n_strings = array(
 
     'Accept and continue to share usage data to help us improve the plugin, the plugin will still function if you skip.' => __('Accept and continue to share usage data to help us improve the plugin, the plugin will still function if you skip.', 'bit-integrations'),
 
-    'Click here to see terms' => __('Click here to see terms', 'bit-integrations'),
+    'Terms and conditions' => __('Terms and conditions', 'bit-integrations'),
 
     'Accept and continue' => __('Accept and continue', 'bit-integrations'),
 
@@ -7386,7 +7394,9 @@ $bit_integrations_i18n_strings = array(
 
     'Erase all data of this plugin in deletion' => __('Erase all data of this plugin in deletion', 'bit-integrations'),
 
-    'Turn off Opt In' => __('Turn off Opt In', 'bit-integrations'),
+    'Opt In Telemetry Data' => __('Opt In Telemetry Data', 'bit-integrations'),
+
+    'If you turn off, Bit Integrations will no longer collect any telemetry data' => __('If you turn off, Bit Integrations will no longer collect any telemetry data', 'bit-integrations'),
 
     'Specify after how many days  old log will be deleted' => __('Specify after how many days  old log will be deleted', 'bit-integrations'),
 
