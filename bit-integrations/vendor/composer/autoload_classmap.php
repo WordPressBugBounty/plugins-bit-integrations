@@ -325,6 +325,7 @@ return array(
     'BitCode\\FI\\Core\\Util\\Activation' => $baseDir . '/includes/Core/Util/Activation.php',
     'BitCode\\FI\\Core\\Util\\AllProActionFeat' => $baseDir . '/includes/Core/Util/AllProActionFeat.php',
     'BitCode\\FI\\Core\\Util\\AllTriggersName' => $baseDir . '/includes/Core/Util/AllTriggersName.php',
+    'BitCode\\FI\\Core\\Util\\AttachmentHandler' => $baseDir . '/includes/Core/Util/AttachmentHandler.php',
     'BitCode\\FI\\Core\\Util\\Capabilities' => $baseDir . '/includes/Core/Util/Capabilities.php',
     'BitCode\\FI\\Core\\Util\\Common' => $baseDir . '/includes/Core/Util/Common.php',
     'BitCode\\FI\\Core\\Util\\CustomFuncValidator' => $baseDir . '/includes/Core/Util/CustomFuncValidator.php',

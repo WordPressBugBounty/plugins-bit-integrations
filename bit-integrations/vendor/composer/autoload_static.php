@@ -358,6 +358,7 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Core\\Util\\Activation' => __DIR__ . '/../..' . '/includes/Core/Util/Activation.php',
         'BitCode\\FI\\Core\\Util\\AllProActionFeat' => __DIR__ . '/../..' . '/includes/Core/Util/AllProActionFeat.php',
         'BitCode\\FI\\Core\\Util\\AllTriggersName' => __DIR__ . '/../..' . '/includes/Core/Util/AllTriggersName.php',
+        'BitCode\\FI\\Core\\Util\\AttachmentHandler' => __DIR__ . '/../..' . '/includes/Core/Util/AttachmentHandler.php',
         'BitCode\\FI\\Core\\Util\\Capabilities' => __DIR__ . '/../..' . '/includes/Core/Util/Capabilities.php',
         'BitCode\\FI\\Core\\Util\\Common' => __DIR__ . '/../..' . '/includes/Core/Util/Common.php',
         'BitCode\\FI\\Core\\Util\\CustomFuncValidator' => __DIR__ . '/../..' . '/includes/Core/Util/CustomFuncValidator.php',
