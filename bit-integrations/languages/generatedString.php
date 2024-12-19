@@ -2146,15 +2146,35 @@ $bit_integrations_i18n_strings = array(
 
     'Update Contact or Create Contact' => __('Update Contact or Create Contact', 'bit-integrations'),
 
-    'App Domain Example' => __('App Domain Example', 'bit-integrations'),
+    'Locate Your App Domain' => __('Locate Your App Domain', 'bit-integrations'),
 
-    'FreshDesk Console' => __('FreshDesk Console', 'bit-integrations'),
+    'Access your Freshdesk account.' => __('Access your Freshdesk account.', 'bit-integrations'),
+
+    'Copy the URL displayed in your browser’s address bar' => __('Copy the URL displayed in your browser’s address bar', 'bit-integrations'),
+
+    'Paste the copied App Domain into the designated “App Domain” field within the integrations you’re setting up.' => __('Paste the copied App Domain into the designated “App Domain” field within the integrations you’re setting up.', 'bit-integrations'),
+
+    'Retrieve Your App API Key' => __('Retrieve Your App API Key', 'bit-integrations'),
+
+    'Within your Freshdesk account, click on your profile icon, situated in the top right corner.' => __('Within your Freshdesk account, click on your profile icon, situated in the top right corner.', 'bit-integrations'),
+
+    'Select “Profile Settings” from the options that appear.' => __('Select “Profile Settings” from the options that appear.', 'bit-integrations'),
+
+    'Locate your App API key, prominently displayed on the top right side of the Profile Settings page.' => __('Locate your App API key, prominently displayed on the top right side of the Profile Settings page.', 'bit-integrations'),
+
+    'Copy this key.' => __('Copy this key.', 'bit-integrations'),
+
+    'Paste the copied App API key into the designated “App API key” field within the integrations you’re configuring.' => __('Paste the copied App API key into the designated “App API key” field within the integrations you’re configuring.', 'bit-integrations'),
 
     'Your App Domain:' => __('Your App Domain:', 'bit-integrations'),
 
     'App Domain...' => __('App Domain...', 'bit-integrations'),
 
+    'App Domain Example' => __('App Domain Example', 'bit-integrations'),
+
     'App api key:' => __('App api key:', 'bit-integrations'),
+
+    'FreshDesk Console' => __('FreshDesk Console', 'bit-integrations'),
 
     'Ticket fields fetch Successfully' => __('Ticket fields fetch Successfully', 'bit-integrations'),
 
@@ -5041,62 +5061,6 @@ $bit_integrations_i18n_strings = array(
     'Event Create' => __('Event Create', 'bit-integrations'),
 
     'Create Case' => __('Create Case', 'bit-integrations'),
-
-    'Salutation' => __('Salutation', 'bit-integrations'),
-
-    'Other Street' => __('Other Street', 'bit-integrations'),
-
-    'Other City' => __('Other City', 'bit-integrations'),
-
-    'Mailing Street' => __('Mailing Street', 'bit-integrations'),
-
-    'Mailing City' => __('Mailing City', 'bit-integrations'),
-
-    'Mailing Country' => __('Mailing Country', 'bit-integrations'),
-
-    'Lead source' => __('Lead source', 'bit-integrations'),
-
-    'Rating' => __('Rating', 'bit-integrations'),
-
-    'Revenue' => __('Revenue', 'bit-integrations'),
-
-    'Employees' => __('Employees', 'bit-integrations'),
-
-    'Number Of Employees' => __('Number Of Employees', 'bit-integrations'),
-
-    'Site' => __('Site', 'bit-integrations'),
-
-    'Clean Status' => __('Clean Status', 'bit-integrations'),
-
-    'Naics Desc' => __('Naics Desc', 'bit-integrations'),
-
-    'Sic Desc' => __('Sic Desc', 'bit-integrations'),
-
-    'Ticker Symbol' => __('Ticker Symbol', 'bit-integrations'),
-
-    'Annual Revenue' => __('Annual Revenue', 'bit-integrations'),
-
-    'StartDate' => __('StartDate', 'bit-integrations'),
-
-    'EndDate' => __('EndDate', 'bit-integrations'),
-
-    'ExpectedRevenue' => __('ExpectedRevenue', 'bit-integrations'),
-
-    'BudgetedCost' => __('BudgetedCost', 'bit-integrations'),
-
-    'ActualCost' => __('ActualCost', 'bit-integrations'),
-
-    'Planned' => __('Planned', 'bit-integrations'),
-
-    'Received' => __('Received', 'bit-integrations'),
-
-    'Responded' => __('Responded', 'bit-integrations'),
-
-    'Sent' => __('Sent', 'bit-integrations'),
-
-    'End Date' => __('End Date', 'bit-integrations'),
-
-    'Subject' => __('Subject', 'bit-integrations'),
 
     'Campaign' => __('Campaign', 'bit-integrations'),
 
