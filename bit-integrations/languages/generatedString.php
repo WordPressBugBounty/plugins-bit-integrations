@@ -1736,6 +1736,8 @@ $bit_integrations_i18n_strings = array(
 
     'Select a Form/Task Name:' => __('Select a Form/Task Name:', 'bit-integrations'),
 
+    'Fetch Again:' => __('Fetch Again:', 'bit-integrations'),
+
     'AbortError: Fetch request aborted' => __('AbortError: Fetch request aborted', 'bit-integrations'),
 
     'Custom action trigger:' => __('Custom action trigger:', 'bit-integrations'),
