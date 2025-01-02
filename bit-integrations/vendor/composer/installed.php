@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '2.4.1.x-dev',
-        'version' => '2.4.1.9999999-dev',
+        'pretty_version' => '2.4.2.x-dev',
+        'version' => '2.4.2.9999999-dev',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'f1f73bfd27ed6985fb09766870af80fec484e5ea',
+        'reference' => 'd493193a8407786f76bd21dda5e2324bc62f6eb4',
         'name' => 'bitapps/bit-integrations',
         'dev' => false,
     ),
     'versions' => array(
         'bitapps/bit-integrations' => array(
-            'pretty_version' => '2.4.1.x-dev',
-            'version' => '2.4.1.9999999-dev',
+            'pretty_version' => '2.4.2.x-dev',
+            'version' => '2.4.2.9999999-dev',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'f1f73bfd27ed6985fb09766870af80fec484e5ea',
+            'reference' => 'd493193a8407786f76bd21dda5e2324bc62f6eb4',
             'dev_requirement' => false,
         ),
         'bitapps/wp-telemetry' => array(
