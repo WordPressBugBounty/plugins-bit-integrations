@@ -776,6 +776,14 @@ $bit_integrations_i18n_strings = array(
 
     'Fetch All User' => __('Fetch All User', 'bit-integrations'),
 
+    'Recipient User' => __('Recipient User', 'bit-integrations'),
+
+    'Logged In User' => __('Logged In User', 'bit-integrations'),
+
+    'All User' => __('All User', 'bit-integrations'),
+
+    'Select user id from Form Fields' => __('Select user id from Form Fields', 'bit-integrations'),
+
     'Select Forum:' => __('Select Forum:', 'bit-integrations'),
 
     'Fetch All Forum' => __('Fetch All Forum', 'bit-integrations'),
@@ -2220,27 +2228,15 @@ $bit_integrations_i18n_strings = array(
 
     'FreshSales API Token' => __('FreshSales API Token', 'bit-integrations'),
 
-    'Account views refreshed' => __('Account views refreshed', 'bit-integrations'),
+    'Fields refresh failed. please try again' => __('Fields refresh failed. please try again', 'bit-integrations'),
 
-    'Account views refresh failed Cause: %s. please try again' => __('Account views refresh failed Cause: %s. please try again', 'bit-integrations'),
+    'Fields refreshed' => __('Fields refreshed', 'bit-integrations'),
 
     'Account views refresh failed. please try again' => __('Account views refresh failed. please try again', 'bit-integrations'),
 
-    'Contact views refreshed' => __('Contact views refreshed', 'bit-integrations'),
-
-    'Contact views refresh failed Cause: %s. please try again' => __('Contact views refresh failed Cause: %s. please try again', 'bit-integrations'),
-
     'Contact views refresh failed. please try again' => __('Contact views refresh failed. please try again', 'bit-integrations'),
 
-    'Accounts refreshed' => __('Accounts refreshed', 'bit-integrations'),
-
-    'Accounts refresh failed Cause: %s. please try again' => __('Accounts refresh failed Cause: %s. please try again', 'bit-integrations'),
-
     'Accounts refresh failed. please try again' => __('Accounts refresh failed. please try again', 'bit-integrations'),
-
-    'Contacts refreshed' => __('Contacts refreshed', 'bit-integrations'),
-
-    'Contacts refresh failed Cause: %s. please try again' => __('Contacts refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Contacts refresh failed. please try again' => __('Contacts refresh failed. please try again', 'bit-integrations'),
 
@@ -3776,10 +3772,6 @@ $bit_integrations_i18n_strings = array(
 
     'Audience tags failed. please try again' => __('Audience tags failed. please try again', 'bit-integrations'),
 
-    'Fields refreshed' => __('Fields refreshed', 'bit-integrations'),
-
-    'Fields refresh failed. please try again' => __('Fields refresh failed. please try again', 'bit-integrations'),
-
     'Audience List:' => __('Audience List:', 'bit-integrations'),
 
     'Select Audience List' => __('Select Audience List', 'bit-integrations'),
@@ -4813,8 +4805,6 @@ $bit_integrations_i18n_strings = array(
     'Post Status can\'t be empty' => __('Post Status can\'t be empty', 'bit-integrations'),
 
     'Pod' => __('Pod', 'bit-integrations'),
-
-    'Logged In User' => __('Logged In User', 'bit-integrations'),
 
     'Pod Fields Mapping' => __('Pod Fields Mapping', 'bit-integrations'),
 
