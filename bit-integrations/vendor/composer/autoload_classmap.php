@@ -230,6 +230,8 @@ return array(
     'BitCode\\FI\\Actions\\SliceWp\\SliceWpController' => $baseDir . '/includes/Actions/SliceWp/SliceWpController.php',
     'BitCode\\FI\\Actions\\Smaily\\RecordApiHelper' => $baseDir . '/includes/Actions/Smaily/RecordApiHelper.php',
     'BitCode\\FI\\Actions\\Smaily\\SmailyController' => $baseDir . '/includes/Actions/Smaily/SmailyController.php',
+    'BitCode\\FI\\Actions\\SmartSuite\\RecordApiHelper' => $baseDir . '/includes/Actions/SmartSuite/RecordApiHelper.php',
+    'BitCode\\FI\\Actions\\SmartSuite\\SmartSuiteController' => $baseDir . '/includes/Actions/SmartSuite/SmartSuiteController.php',
     'BitCode\\FI\\Actions\\SperseIO\\SperseIOController' => $baseDir . '/includes/Actions/SperseIO/SperseIOController.php',
     'BitCode\\FI\\Actions\\SuiteDash\\RecordApiHelper' => $baseDir . '/includes/Actions/SuiteDash/RecordApiHelper.php',
     'BitCode\\FI\\Actions\\SuiteDash\\SuiteDashController' => $baseDir . '/includes/Actions/SuiteDash/SuiteDashController.php',

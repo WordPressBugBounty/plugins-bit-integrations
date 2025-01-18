@@ -5588,6 +5588,84 @@ $bit_integrations_i18n_strings = array(
 
     'Smaily Fields' => __('Smaily Fields', 'bit-integrations'),
 
+    'Please select a solution' => __('Please select a solution', 'bit-integrations'),
+
+    'Please select a table' => __('Please select a table', 'bit-integrations'),
+
+    'Create Solution' => __('Create Solution', 'bit-integrations'),
+
+    'Create Table' => __('Create Table', 'bit-integrations'),
+
+    'Create Record' => __('Create Record', 'bit-integrations'),
+
+    'Add Logo Color' => __('Add Logo Color', 'bit-integrations'),
+
+    'Logo Color for solutions' => __('Logo Color for solutions', 'bit-integrations'),
+
+    'Assigned user' => __('Assigned user', 'bit-integrations'),
+
+    'Assigned user for record' => __('Assigned user for record', 'bit-integrations'),
+
+    'Priority for record' => __('Priority for record', 'bit-integrations'),
+
+    'Stattus for record' => __('Stattus for record', 'bit-integrations'),
+
+    'Logo Color' => __('Logo Color', 'bit-integrations'),
+
+    'Select Logo Color' => __('Select Logo Color', 'bit-integrations'),
+
+    'Assigned User' => __('Assigned User', 'bit-integrations'),
+
+    'Refresh Users' => __('Refresh Users', 'bit-integrations'),
+
+    'To Get Workspace ID & API Token' => __('To Get Workspace ID & API Token', 'bit-integrations'),
+
+    'First go to your SmartSuite dashboard.' => __('First go to your SmartSuite dashboard.', 'bit-integrations'),
+
+    'Click go to Profile Icon from Right Top corner.' => __('Click go to Profile Icon from Right Top corner.', 'bit-integrations'),
+
+    'Then Click "API Key" from the "My Profile Menu".' => __('Then Click "API Key" from the "My Profile Menu".', 'bit-integrations'),
+
+    'Then Click and Copy the "Hidden Api Token".' => __('Then Click and Copy the "Hidden Api Token".', 'bit-integrations'),
+
+    'Your Workspace Id is the 8 characters that follow https://app.smartsuite.com/ in the SmartSuite URL when you’re logged in.' => __('Your Workspace Id is the 8 characters that follow https://app.smartsuite.com/ in the SmartSuite URL when you’re logged in.', 'bit-integrations'),
+
+    'Workspace ID:' => __('Workspace ID:', 'bit-integrations'),
+
+    'Workspace ID...' => __('Workspace ID...', 'bit-integrations'),
+
+    'To Get API Token & Workspace ID, Please Visit' => __('To Get API Token & Workspace ID, Please Visit', 'bit-integrations'),
+
+    'SmartSuite API Token & Workspace ID' => __('SmartSuite API Token & Workspace ID', 'bit-integrations'),
+
+    'Workspace ID can\'t be empty' => __('Workspace ID can\'t be empty', 'bit-integrations'),
+
+    'Solution fetched successfully' => __('Solution fetched successfully', 'bit-integrations'),
+
+    'Solution Not Found!' => __('Solution Not Found!', 'bit-integrations'),
+
+    'Solution fetching failed' => __('Solution fetching failed', 'bit-integrations'),
+
+    'Table fetched successfully' => __('Table fetched successfully', 'bit-integrations'),
+
+    'Table Not Found!' => __('Table Not Found!', 'bit-integrations'),
+
+    'Table fetching failed' => __('Table fetching failed', 'bit-integrations'),
+
+    'User fetched successfully' => __('User fetched successfully', 'bit-integrations'),
+
+    'User Not Found!' => __('User Not Found!', 'bit-integrations'),
+
+    'User fetching failed' => __('User fetching failed', 'bit-integrations'),
+
+    'Select Solution:' => __('Select Solution:', 'bit-integrations'),
+
+    'Refresh Solution' => __('Refresh Solution', 'bit-integrations'),
+
+    'Refresh Table' => __('Refresh Table', 'bit-integrations'),
+
+    'SmartSuite Fields' => __('SmartSuite Fields', 'bit-integrations'),
+
     'Please select a Role' => __('Please select a Role', 'bit-integrations'),
 
     'First go to your SuiteDash dashboard.' => __('First go to your SuiteDash dashboard.', 'bit-integrations'),

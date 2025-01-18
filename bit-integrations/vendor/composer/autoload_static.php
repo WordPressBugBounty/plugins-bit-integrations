@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit2ca54eea40732c454f955a7d055c2dd3
+class ComposerStaticInit98143031f7e00901fa11e338b70fe50d
 {
     public static $prefixLengthsPsr4 = array (
         'T' => 
@@ -263,6 +263,8 @@ class ComposerStaticInit2ca54eea40732c454f955a7d055c2dd3
         'BitCode\\FI\\Actions\\SliceWp\\SliceWpController' => __DIR__ . '/../..' . '/includes/Actions/SliceWp/SliceWpController.php',
         'BitCode\\FI\\Actions\\Smaily\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Smaily/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Smaily\\SmailyController' => __DIR__ . '/../..' . '/includes/Actions/Smaily/SmailyController.php',
+        'BitCode\\FI\\Actions\\SmartSuite\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/SmartSuite/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\SmartSuite\\SmartSuiteController' => __DIR__ . '/../..' . '/includes/Actions/SmartSuite/SmartSuiteController.php',
         'BitCode\\FI\\Actions\\SperseIO\\SperseIOController' => __DIR__ . '/../..' . '/includes/Actions/SperseIO/SperseIOController.php',
         'BitCode\\FI\\Actions\\SuiteDash\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/SuiteDash/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\SuiteDash\\SuiteDashController' => __DIR__ . '/../..' . '/includes/Actions/SuiteDash/SuiteDashController.php',
@@ -427,9 +429,9 @@ class ComposerStaticInit2ca54eea40732c454f955a7d055c2dd3
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit2ca54eea40732c454f955a7d055c2dd3::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit2ca54eea40732c454f955a7d055c2dd3::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit2ca54eea40732c454f955a7d055c2dd3::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit98143031f7e00901fa11e338b70fe50d::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit98143031f7e00901fa11e338b70fe50d::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit98143031f7e00901fa11e338b70fe50d::$classMap;
 
         }, null, ClassLoader::class);
     }

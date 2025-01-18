@@ -1,1 +1,1 @@
-var e=""+new URL("licenseManagerForWooCommerce.webp",import.meta.url).href;export{e as default};
+var e=""+new URL("jetEngine.webp",import.meta.url).href;export{e as default};
