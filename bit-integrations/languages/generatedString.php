@@ -3910,9 +3910,11 @@ $bit_integrations_i18n_strings = array(
 
     'Update Contact if contact already exist?' => __('Update Contact if contact already exist?', 'bit-integrations'),
 
-    'Update MailPoet' => __('Update MailPoet', 'bit-integrations'),
+    'Update Subscriber' => __('Update Subscriber', 'bit-integrations'),
 
-    'Update Responses with Mailpoet exist Subscriber?' => __('Update Responses with Mailpoet exist Subscriber?', 'bit-integrations'),
+    'Update Mailpoet exist Subscriber? First name, last name, and email may not be updated.' => __('Update Mailpoet exist Subscriber? First name, last name, and email may not be updated.', 'bit-integrations'),
+
+    'The Bit Integration Pro v(%s) or above plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integration Pro v(%s) or above plugin needs to be installed and activated to enable the %s feature', 'bit-integrations'),
 
     'Checking if MailPoet is active!!!' => __('Checking if MailPoet is active!!!', 'bit-integrations'),
 
@@ -7272,7 +7274,7 @@ $bit_integrations_i18n_strings = array(
 
     'Try Demo' => __('Try Demo', 'bit-integrations'),
 
-    'Get 50% Off - Limited Time!' => __('Get 50% Off - Limited Time!', 'bit-integrations'),
+    'Upgrade to Pro' => __('Upgrade to Pro', 'bit-integrations'),
 
     'Check out our' => __('Check out our', 'bit-integrations'),
 
