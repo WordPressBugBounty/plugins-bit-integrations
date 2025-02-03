@@ -1,1 +1,1 @@
-var e=""+new URL("goHighLevel.webp",import.meta.url).href;export{e as default};
+var e=""+new URL("freshdesk.webp",import.meta.url).href;export{e as default};

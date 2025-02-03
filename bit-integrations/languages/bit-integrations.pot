@@ -2,36 +2,41 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.4.5\n"
+"Project-Id-Version: Bit Integrations 2.4.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-01-25T07:33:16+00:00\n"
+"POT-Creation-Date: 2025-02-03T07:11:03+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.8.1\n"
+"X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: bit-integrations\n"
 
 #. Plugin Name of the plugin
+#: bitwpfi.php
 #: includes/Admin/Admin_Bar.php:35
 msgid "Bit Integrations"
 msgstr ""
 
 #. Plugin URI of the plugin
+#: bitwpfi.php
 msgid "https://bitapps.pro/bit-integrations"
 msgstr ""
 
 #. Description of the plugin
+#: bitwpfi.php
 msgid "Bit Integrations is a platform that integrates with over 250+ different platforms to help with various tasks on your WordPress site, like WooCommerce, Form builder, Page builder, LMS, Sales funnels, Bookings, CRM, Webhooks, Email marketing, Social media and Spreadsheets, etc"
 msgstr ""
 
 #. Author of the plugin
+#: bitwpfi.php
 msgid "Automation & Integration Plugin - Bit Apps"
 msgstr ""
 
 #. Author URI of the plugin
+#: bitwpfi.php
 msgid "https://bitapps.pro"
 msgstr ""
 
@@ -1353,13 +1358,13 @@ msgstr ""
 
 #: includes/Actions/Dropbox/RecordApiHelper.php:84
 #: includes/Actions/GoogleDrive/RecordApiHelper.php:75
-#: includes/Actions/OneDrive/RecordApiHelper.php:100
+#: includes/Actions/OneDrive/RecordApiHelper.php:103
 msgid "All Files Uploaded."
 msgstr ""
 
 #: includes/Actions/Dropbox/RecordApiHelper.php:87
 #: includes/Actions/GoogleDrive/RecordApiHelper.php:78
-#: includes/Actions/OneDrive/RecordApiHelper.php:103
+#: includes/Actions/OneDrive/RecordApiHelper.php:106
 msgid "Some Files Can't Upload."
 msgstr ""
 
