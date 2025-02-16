@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.4.7\n"
+"Project-Id-Version: Bit Integrations 2.4.8\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-02-05T10:12:49+00:00\n"
+"POT-Creation-Date: 2025-02-16T07:22:47+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: bit-integrations\n"
@@ -3815,11 +3815,11 @@ msgstr ""
 msgid "Log deleted successfully"
 msgstr ""
 
-#: includes/Plugin.php:65
+#: includes/Plugin.php:68
 msgid "Every Week"
 msgstr ""
 
-#: includes/Plugin.php:126
+#: includes/Plugin.php:128
 msgid "Docs"
 msgstr ""
 
@@ -7442,59 +7442,59 @@ msgid "Dropbox Folder"
 msgstr ""
 
 #: languages/generatedString.php:1723
-msgid "Hook:"
+msgid "AbortError: Fetch request aborted"
 msgstr ""
 
 #: languages/generatedString.php:1725
-msgid "Enter Hook..."
+msgid "Hook:"
 msgstr ""
 
 #: languages/generatedString.php:1727
-msgid "Unique Key:"
+msgid "Enter Hook..."
 msgstr ""
 
 #: languages/generatedString.php:1729
-msgid "Stop"
+msgid "Unique Key:"
 msgstr ""
 
 #: languages/generatedString.php:1731
-msgid "Fetched ✔"
+msgid "Stop"
 msgstr ""
 
 #: languages/generatedString.php:1733
-msgid "Fetch"
+msgid "Fetched ✔"
 msgstr ""
 
 #: languages/generatedString.php:1735
-msgid "Selected Fields:"
+msgid "Fetch"
 msgstr ""
 
 #: languages/generatedString.php:1737
-msgid "Select Fields:"
+msgid "Selected Fields:"
 msgstr ""
 
 #: languages/generatedString.php:1739
-msgid "Hide Response"
+msgid "Select Fields:"
 msgstr ""
 
 #: languages/generatedString.php:1741
-msgid "View Response"
+msgid "Hide Response"
 msgstr ""
 
 #: languages/generatedString.php:1743
-msgid "Unique value not found!"
+msgid "View Response"
 msgstr ""
 
 #: languages/generatedString.php:1745
-msgid "Select a Form/Task Name:"
+msgid "Unique value not found!"
 msgstr ""
 
 #: languages/generatedString.php:1747
-msgid "Fetch Again:"
+msgid "Select a Form/Task Name:"
 msgstr ""
 
 #: languages/generatedString.php:1749
-msgid "AbortError: Fetch request aborted"
+msgid "Fetch Again:"
 msgstr ""
 
 #: languages/generatedString.php:1751
@@ -18270,11 +18270,11 @@ msgid "Copied on Clipboard."
 msgstr ""
 
 #: languages/generatedString.php:7199
-msgid "Click to edit this field"
+msgid "Click to edit"
 msgstr ""
 
 #: languages/generatedString.php:7201
-msgid "Click to remove this field"
+msgid "Click to remove"
 msgstr ""
 
 #: languages/generatedString.php:7203
@@ -18290,7 +18290,7 @@ msgid "Field Id"
 msgstr ""
 
 #: languages/generatedString.php:7209
-msgid "It's recommended not to edit this field"
+msgid "It is not recommended to edit the field ID"
 msgstr ""
 
 #: languages/generatedString.php:7211

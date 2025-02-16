@@ -1720,6 +1720,8 @@ $bit_integrations_i18n_strings = array(
 
     'Dropbox Folder' => __('Dropbox Folder', 'bit-integrations'),
 
+    'AbortError: Fetch request aborted' => __('AbortError: Fetch request aborted', 'bit-integrations'),
+
     'Hook:' => __('Hook:', 'bit-integrations'),
 
     'Enter Hook...' => __('Enter Hook...', 'bit-integrations'),
@@ -1745,8 +1747,6 @@ $bit_integrations_i18n_strings = array(
     'Select a Form/Task Name:' => __('Select a Form/Task Name:', 'bit-integrations'),
 
     'Fetch Again:' => __('Fetch Again:', 'bit-integrations'),
-
-    'AbortError: Fetch request aborted' => __('AbortError: Fetch request aborted', 'bit-integrations'),
 
     'Custom action trigger:' => __('Custom action trigger:', 'bit-integrations'),
 
@@ -7196,9 +7196,9 @@ $bit_integrations_i18n_strings = array(
 
     'Copied on Clipboard.' => __('Copied on Clipboard.', 'bit-integrations'),
 
-    'Click to edit this field' => __('Click to edit this field', 'bit-integrations'),
+    'Click to edit' => __('Click to edit', 'bit-integrations'),
 
-    'Click to remove this field' => __('Click to remove this field', 'bit-integrations'),
+    'Click to remove' => __('Click to remove', 'bit-integrations'),
 
     'Edit Field' => __('Edit Field', 'bit-integrations'),
 
@@ -7206,7 +7206,7 @@ $bit_integrations_i18n_strings = array(
 
     'Field Id' => __('Field Id', 'bit-integrations'),
 
-    'It\'s recommended not to edit this field' => __('It\'s recommended not to edit this field', 'bit-integrations'),
+    'It is not recommended to edit the field ID' => __('It is not recommended to edit the field ID', 'bit-integrations'),
 
     'Field Type' => __('Field Type', 'bit-integrations'),
 
