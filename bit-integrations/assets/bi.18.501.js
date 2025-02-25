@@ -1,1 +1,1 @@
-var e=""+new URL("freshSales.webp",import.meta.url).href;export{e as default};
+var e=""+new URL("divi.webp",import.meta.url).href;export{e as default};

@@ -1956,8 +1956,6 @@ $bit_integrations_i18n_strings = array(
 
     'Assign Company for contact' => __('Assign Company for contact', 'bit-integrations'),
 
-    'The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature', 'bit-integrations'),
-
     'Checking if Fluent CRM is active!!!' => __('Checking if Fluent CRM is active!!!', 'bit-integrations'),
 
     'Please! First Install Fluent CRM Plugins' => __('Please! First Install Fluent CRM Plugins', 'bit-integrations'),
@@ -2032,9 +2030,9 @@ $bit_integrations_i18n_strings = array(
 
     'Attachment' => __('Attachment', 'bit-integrations'),
 
-    'Supported Types: Photos, CSV, PDF/Docs, Zip, JSON and max file size: 2.0MB' => __('Supported Types: Photos, CSV, PDF/Docs, Zip, JSON and max file size: 2.0MB', 'bit-integrations'),
-
     'Upsert Record' => __('Upsert Record', 'bit-integrations'),
+
+    'Supported Types: Photos, CSV, PDF/Docs, Zip, JSON and max file size: 2.0MB' => __('Supported Types: Photos, CSV, PDF/Docs, Zip, JSON and max file size: 2.0MB', 'bit-integrations'),
 
     'Ticket Owner' => __('Ticket Owner', 'bit-integrations'),
 
@@ -2920,6 +2918,14 @@ $bit_integrations_i18n_strings = array(
 
     'Integration Info' => __('Integration Info', 'bit-integrations'),
 
+    'Unlock Premium Features with Our' => __('Unlock Premium Features with Our', 'bit-integrations'),
+
+    'Pro Plugin' => __('Pro Plugin', 'bit-integrations'),
+
+    'Available On' => __('Available On', 'bit-integrations'),
+
+    'The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature', 'bit-integrations'),
+
     'Integration updated successfully' => __('Integration updated successfully', 'bit-integrations'),
 
     'Integration saved successfully' => __('Integration saved successfully', 'bit-integrations'),
@@ -3313,6 +3319,10 @@ $bit_integrations_i18n_strings = array(
     'Fetch All lists' => __('Fetch All lists', 'bit-integrations'),
 
     'Kirim Email Fields' => __('Kirim Email Fields', 'bit-integrations'),
+
+    'Update Profile' => __('Update Profile', 'bit-integrations'),
+
+    'A record gets updated based on the email, else a new profile will be created' => __('A record gets updated based on the email, else a new profile will be created', 'bit-integrations'),
 
     'Step of get API Key:' => __('Step of get API Key:', 'bit-integrations'),
 
@@ -3913,8 +3923,6 @@ $bit_integrations_i18n_strings = array(
     'Update Subscriber' => __('Update Subscriber', 'bit-integrations'),
 
     'Update Mailpoet exist Subscriber? First name, last name, and email may not be updated.' => __('Update Mailpoet exist Subscriber? First name, last name, and email may not be updated.', 'bit-integrations'),
-
-    'The Bit Integration Pro v(%s) or above plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integration Pro v(%s) or above plugin needs to be installed and activated to enable the %s feature', 'bit-integrations'),
 
     'Checking if MailPoet is active!!!' => __('Checking if MailPoet is active!!!', 'bit-integrations'),
 
@@ -4769,8 +4777,6 @@ $bit_integrations_i18n_strings = array(
     'Refresh persons' => __('Refresh persons', 'bit-integrations'),
 
     'PipeDrive Fields' => __('PipeDrive Fields', 'bit-integrations'),
-
-    'Available On' => __('Available On', 'bit-integrations'),
 
     'Related List:' => __('Related List:', 'bit-integrations'),
 
@@ -5871,8 +5877,6 @@ $bit_integrations_i18n_strings = array(
     'Update Post' => __('Update Post', 'bit-integrations'),
 
     'Update Collection Post' => __('Update Collection Post', 'bit-integrations'),
-
-    'Update Profile' => __('Update Profile', 'bit-integrations'),
 
     'Set Post as Verified' => __('Set Post as Verified', 'bit-integrations'),
 
@@ -7272,15 +7276,15 @@ $bit_integrations_i18n_strings = array(
 
     'Thank you for using our product! %s is not available in your plan. Please upgrade to the PRO plan to unlock all these awesome features.' => __('Thank you for using our product! %s is not available in your plan. Please upgrade to the PRO plan to unlock all these awesome features.', 'bit-integrations'),
 
-    'Try Demo' => __('Try Demo', 'bit-integrations'),
-
-    'Upgrade to Pro' => __('Upgrade to Pro', 'bit-integrations'),
-
     'Check out our' => __('Check out our', 'bit-integrations'),
 
     'Demo' => __('Demo', 'bit-integrations'),
 
     'to see what can you do with Pro version.' => __('to see what can you do with Pro version.', 'bit-integrations'),
+
+    'Try Demo' => __('Try Demo', 'bit-integrations'),
+
+    'Upgrade to Pro' => __('Upgrade to Pro', 'bit-integrations'),
 
     'Try Pro' => __('Try Pro', 'bit-integrations'),
 
