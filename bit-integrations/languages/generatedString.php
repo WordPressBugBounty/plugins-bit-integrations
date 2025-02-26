@@ -2918,11 +2918,9 @@ $bit_integrations_i18n_strings = array(
 
     'Integration Info' => __('Integration Info', 'bit-integrations'),
 
-    'Unlock Premium Features with Our' => __('Unlock Premium Features with Our', 'bit-integrations'),
-
-    'Pro Plugin' => __('Pro Plugin', 'bit-integrations'),
-
     'Available On' => __('Available On', 'bit-integrations'),
+
+    'Unlock Premium Features with Pro Plugin' => __('Unlock Premium Features with Pro Plugin', 'bit-integrations'),
 
     'The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature', 'bit-integrations'),
 
@@ -7270,7 +7268,7 @@ $bit_integrations_i18n_strings = array(
 
     'Instruction' => __('Instruction', 'bit-integrations'),
 
-    '%s is available in Pro' => __('%s is available in Pro', 'bit-integrations'),
+    '%s is available in' => __('%s is available in', 'bit-integrations'),
 
     'This feature' => __('This feature', 'bit-integrations'),
 
@@ -7288,7 +7286,7 @@ $bit_integrations_i18n_strings = array(
 
     'Try Pro' => __('Try Pro', 'bit-integrations'),
 
-    'Unlock Premium Features with Our Pro Plugin' => __('Unlock Premium Features with Our Pro Plugin', 'bit-integrations'),
+    'Unlock Premium Features with' => __('Unlock Premium Features with', 'bit-integrations'),
 
     'Thanks for using our product! You can explore our Pro plugin with a 7-day trial. Please note that your data will be deleted once the trial ends.' => __('Thanks for using our product! You can explore our Pro plugin with a 7-day trial. Please note that your data will be deleted once the trial ends.', 'bit-integrations'),
 

@@ -1,1 +1,1 @@
-var e=""+new URL("beaver.webp",import.meta.url).href;export{e as default};
+var p=""+new URL("antApps.webp",import.meta.url).href;export{p as default};

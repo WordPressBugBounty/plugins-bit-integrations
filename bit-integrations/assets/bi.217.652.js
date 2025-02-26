@@ -1,1 +1,1 @@
-var p=""+new URL("whatsApp.webp",import.meta.url).href;export{p as default};
+var a=""+new URL("uncannyAutomator.webp",import.meta.url).href;export{a as default};
