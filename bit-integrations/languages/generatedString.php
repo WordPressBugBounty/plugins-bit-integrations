@@ -1748,6 +1748,8 @@ $bit_integrations_i18n_strings = array(
 
     'Fetch Again:' => __('Fetch Again:', 'bit-integrations'),
 
+    'Form/Task Note:' => __('Form/Task Note:', 'bit-integrations'),
+
     'Custom action trigger:' => __('Custom action trigger:', 'bit-integrations'),
 
     'Form fields Refresh successfully' => __('Form fields Refresh successfully', 'bit-integrations'),
@@ -6764,21 +6766,21 @@ $bit_integrations_i18n_strings = array(
 
     'Triggered Entity Id not found!' => __('Triggered Entity Id not found!', 'bit-integrations'),
 
+    '%s is not installed or activated.' => __('%s is not installed or activated.', 'bit-integrations'),
+
+    'Select a Form/Task Name' => __('Select a Form/Task Name', 'bit-integrations'),
+
+    'Waiting for form submission...' => __('Waiting for form submission...', 'bit-integrations'),
+
     'Click the <b>Fetch</b> button.' => __('Click the <b>Fetch</b> button.', 'bit-integrations'),
 
     'Submit <b>The Form</b> while the Fetch button is <b>spinning</b>.' => __('Submit <b>The Form</b> while the Fetch button is <b>spinning</b>.', 'bit-integrations'),
 
     'After submitting the form, Click <b>Next</b> and then <b>Go</b></b>' => __('After submitting the form, Click <b>Next</b> and then <b>Go</b></b>', 'bit-integrations'),
 
-    'The Fetch button will keep spinning until you submit the form.' => __('The Fetch button will keep spinning until you submit the form.', 'bit-integrations'),
+    'The Fetch button will keep spinning until you submit the form/task.' => __('The Fetch button will keep spinning until you submit the form/task.', 'bit-integrations'),
 
     'Choose a consistent unique identifier like <b>Form ID</b> (default) or <b>Post ID</b> for each form entry, or create a hidden custom field if unavailable.' => __('Choose a consistent unique identifier like <b>Form ID</b> (default) or <b>Post ID</b> for each form entry, or create a hidden custom field if unavailable.', 'bit-integrations'),
-
-    '%s is not installed or activated.' => __('%s is not installed or activated.', 'bit-integrations'),
-
-    'Select a Form/Task Name' => __('Select a Form/Task Name', 'bit-integrations'),
-
-    'Waiting for form submission...' => __('Waiting for form submission...', 'bit-integrations'),
 
     'Copy <b>do action hook</b> & past in your form submiting function' => __('Copy <b>do action hook</b> & past in your form submiting function', 'bit-integrations'),
 
@@ -7379,6 +7381,8 @@ $bit_integrations_i18n_strings = array(
     'New Features' => __('New Features', 'bit-integrations'),
 
     'New Improvements' => __('New Improvements', 'bit-integrations'),
+
+    'Bug Fixes' => __('Bug Fixes', 'bit-integrations'),
 
     'What\'s New' => __('What\'s New', 'bit-integrations'),
 
