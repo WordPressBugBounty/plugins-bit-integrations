@@ -1,1 +1,1 @@
-var r=""+new URL("brizy.webp",import.meta.url).href;export{r as default};
+var r=""+new URL("bitForm.webp",import.meta.url).href;export{r as default};
