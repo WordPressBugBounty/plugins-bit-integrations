@@ -1,1 +1,1 @@
-var e=""+new URL("mailBluster.webp",import.meta.url).href;export{e as default};
+var e=""+new URL("learnPress.webp",import.meta.url).href;export{e as default};

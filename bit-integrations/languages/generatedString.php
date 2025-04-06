@@ -638,6 +638,58 @@ $bit_integrations_i18n_strings = array(
 
     'BenchMark Fields' => __('BenchMark Fields', 'bit-integrations'),
 
+    'Add People' => __('Add People', 'bit-integrations'),
+
+    'Add Event' => __('Add Event', 'bit-integrations'),
+
+    'Add Tags via Event' => __('Add Tags via Event', 'bit-integrations'),
+
+    'Subscribe' => __('Subscribe', 'bit-integrations'),
+
+    'Refresh Tags' => __('Refresh Tags', 'bit-integrations'),
+
+    'Publishable Key:' => __('Publishable Key:', 'bit-integrations'),
+
+    'Publishable Key...' => __('Publishable Key...', 'bit-integrations'),
+
+    'Secret Key:' => __('Secret Key:', 'bit-integrations'),
+
+    'Secret Key...' => __('Secret Key...', 'bit-integrations'),
+
+    'Site UUID:' => __('Site UUID:', 'bit-integrations'),
+
+    'Site UUID...' => __('Site UUID...', 'bit-integrations'),
+
+    'To Get Publishable Key, Secret Key & Site UUID, Please Visit' => __('To Get Publishable Key, Secret Key & Site UUID, Please Visit', 'bit-integrations'),
+
+    'Bento team dashboard' => __('Bento team dashboard', 'bit-integrations'),
+
+    'To Get Publishable Key, Secret Key & Site UUID' => __('To Get Publishable Key, Secret Key & Site UUID', 'bit-integrations'),
+
+    'Navigate to the Bento team dashboard,.' => __('Navigate to the Bento team dashboard,.', 'bit-integrations'),
+
+    'go to "Settings" and then "API Keys"' => __('go to "Settings" and then "API Keys"', 'bit-integrations'),
+
+    'where you\'ll find your Publishable Key, Secret Key & Site UUID' => __('where you\'ll find your Publishable Key, Secret Key & Site UUID', 'bit-integrations'),
+
+    'Publishable Key can\'t be empty' => __('Publishable Key can\'t be empty', 'bit-integrations'),
+
+    'Secret Key can\'t be empty' => __('Secret Key can\'t be empty', 'bit-integrations'),
+
+    'Site UUID can\'t be empty' => __('Site UUID can\'t be empty', 'bit-integrations'),
+
+    'Authorized failed, Please enter valid Publishable Key, Secret Key & Site UUID' => __('Authorized failed, Please enter valid Publishable Key, Secret Key & Site UUID', 'bit-integrations'),
+
+    'Fields fetched successfully' => __('Fields fetched successfully', 'bit-integrations'),
+
+    'Fields fetching failed' => __('Fields fetching failed', 'bit-integrations'),
+
+    'Custom Field Key' => __('Custom Field Key', 'bit-integrations'),
+
+    'Bento Fields' => __('Bento Fields', 'bit-integrations'),
+
+    'Custom Fields Available in Pro' => __('Custom Fields Available in Pro', 'bit-integrations'),
+
     'Please map address required fields to continue.' => __('Please map address required fields to continue.', 'bit-integrations'),
 
     'Add Position' => __('Add Position', 'bit-integrations'),
@@ -1151,8 +1203,6 @@ $bit_integrations_i18n_strings = array(
     'Address Type' => __('Address Type', 'bit-integrations'),
 
     'Phone Type' => __('Phone Type', 'bit-integrations'),
-
-    'Refresh Tags' => __('Refresh Tags', 'bit-integrations'),
 
     'Step of get API Key(Client Id) And Client Secret:' => __('Step of get API Key(Client Id) And Client Secret:', 'bit-integrations'),
 
@@ -1797,10 +1847,6 @@ $bit_integrations_i18n_strings = array(
     'All lists fectched successfully' => __('All lists fectched successfully', 'bit-integrations'),
 
     'Authorized failed, Please enter valid domain name & API key' => __('Authorized failed, Please enter valid domain name & API key', 'bit-integrations'),
-
-    'Fields fetched successfully' => __('Fields fetched successfully', 'bit-integrations'),
-
-    'Fields fetching failed' => __('Fields fetching failed', 'bit-integrations'),
 
     'Refresh  Lists' => __('Refresh  Lists', 'bit-integrations'),
 
@@ -3880,8 +3926,6 @@ $bit_integrations_i18n_strings = array(
 
     'Your Account' => __('Your Account', 'bit-integrations'),
 
-    'Secret Key:' => __('Secret Key:', 'bit-integrations'),
-
     'To Get API key & Secret Key, Please Visit' => __('To Get API key & Secret Key, Please Visit', 'bit-integrations'),
 
     'Mailjet API Token' => __('Mailjet API Token', 'bit-integrations'),
@@ -4111,8 +4155,6 @@ $bit_integrations_i18n_strings = array(
     'First login on account.' => __('First login on account.', 'bit-integrations'),
 
     'Goto Settings and click on <b>API Key</b>' => __('Goto Settings and click on <b>API Key</b>', 'bit-integrations'),
-
-    'Subscribe' => __('Subscribe', 'bit-integrations'),
 
     'Unsubscribe' => __('Unsubscribe', 'bit-integrations'),
 
@@ -5684,8 +5726,6 @@ $bit_integrations_i18n_strings = array(
 
     'Public Id...' => __('Public Id...', 'bit-integrations'),
 
-    'Secret Key...' => __('Secret Key...', 'bit-integrations'),
-
     'To Get Public Id & Secret Key, Please Visit' => __('To Get Public Id & Secret Key, Please Visit', 'bit-integrations'),
 
     'SuiteDash Public Id & Secret Key' => __('SuiteDash Public Id & Secret Key', 'bit-integrations'),
@@ -6687,6 +6727,8 @@ $bit_integrations_i18n_strings = array(
     'All Meeting list failed. please try again' => __('All Meeting list failed. please try again', 'bit-integrations'),
 
     'Zoom fields refreshed' => __('Zoom fields refreshed', 'bit-integrations'),
+
+    'Zoom fields refreshed failed!' => __('Zoom fields refreshed failed!', 'bit-integrations'),
 
     'All Meetings:' => __('All Meetings:', 'bit-integrations'),
 

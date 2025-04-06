@@ -1,1 +1,1 @@
-var e=""+new URL("clickup.webp",import.meta.url).href;export{e as default};
+var a=""+new URL("asgaros.webp",import.meta.url).href;export{a as default};
