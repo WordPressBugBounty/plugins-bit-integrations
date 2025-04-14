@@ -7422,7 +7422,7 @@ $bit_integrations_i18n_strings = array(
 
     'New Features' => __('New Features', 'bit-integrations'),
 
-    'New Improvements' => __('New Improvements', 'bit-integrations'),
+    'Improvements' => __('Improvements', 'bit-integrations'),
 
     'Bug Fixes' => __('Bug Fixes', 'bit-integrations'),
 

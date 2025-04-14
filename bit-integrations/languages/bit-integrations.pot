@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.5.3\n"
+"Project-Id-Version: Bit Integrations 2.5.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-04-06T09:12:56+00:00\n"
+"POT-Creation-Date: 2025-04-14T06:53:50+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: bit-integrations\n"
@@ -90,7 +90,7 @@ msgstr ""
 #: includes/Actions/AcademyLms/AcademyLmsController.php:37
 #: includes/Actions/AcademyLms/AcademyLmsController.php:57
 #: includes/Triggers/Elementor/ElementorController.php:40
-#: includes/Triggers/WC/WCController.php:1647
+#: includes/Triggers/WC/WCController.php:1631
 msgid "%s is not installed or activated"
 msgstr ""
 
@@ -3070,7 +3070,7 @@ msgid "module and field map are required for woocommerce"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:16
-#: includes/Triggers/WC/WCStaticFields.php:280
+#: includes/Triggers/WC/WCStaticFields.php:288
 msgid "Customer Note"
 msgstr ""
 
@@ -3091,7 +3091,7 @@ msgstr ""
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:87
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:221
 #: includes/Triggers/WC/WCController.php:158
-#: includes/Triggers/WC/WCStaticFields.php:340
+#: includes/Triggers/WC/WCStaticFields.php:348
 #: languages/generatedString.php:6593
 msgid "Product Name"
 msgstr ""
@@ -3101,7 +3101,7 @@ msgid "Sku"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:97
-#: includes/Triggers/WC/WCStaticFields.php:344
+#: includes/Triggers/WC/WCStaticFields.php:352
 msgid "Quantity"
 msgstr ""
 
@@ -3110,7 +3110,7 @@ msgid "Price"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:107
-#: includes/Triggers/WC/WCStaticFields.php:360
+#: includes/Triggers/WC/WCStaticFields.php:368
 msgid "Tax Class"
 msgstr ""
 
@@ -4000,7 +4000,7 @@ msgid "Customer Id"
 msgstr ""
 
 #: includes/Triggers/WC/WCHelper.php:56
-#: includes/Triggers/WC/WCStaticFields.php:332
+#: includes/Triggers/WC/WCStaticFields.php:340
 msgid "Product Id"
 msgstr ""
 
@@ -4101,7 +4101,7 @@ msgid "Total Tax"
 msgstr ""
 
 #: includes/Triggers/WC/WCStaticFields.php:127
-#: includes/Triggers/WC/WCStaticFields.php:352
+#: includes/Triggers/WC/WCStaticFields.php:360
 msgid "Total"
 msgstr ""
 
@@ -4163,58 +4163,66 @@ msgid "Line Items"
 msgstr ""
 
 #: includes/Triggers/WC/WCStaticFields.php:276
+msgid "Line Items Quantity"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:280
+msgid "Product Names"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:284
 msgid "order_received_url"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:290
+#: includes/Triggers/WC/WCStaticFields.php:298
 msgid "Device Type"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:294
+#: includes/Triggers/WC/WCStaticFields.php:302
 msgid "Referring source"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:298
+#: includes/Triggers/WC/WCStaticFields.php:306
 msgid "Session Count"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:302
+#: includes/Triggers/WC/WCStaticFields.php:310
 msgid "Session Entry"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:306
+#: includes/Triggers/WC/WCStaticFields.php:314
 msgid "Session page views"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:310
+#: includes/Triggers/WC/WCStaticFields.php:318
 msgid "Session Start Time"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:314
+#: includes/Triggers/WC/WCStaticFields.php:322
 msgid "Source Type"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:318
+#: includes/Triggers/WC/WCStaticFields.php:326
 msgid "User Agent"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:322
+#: includes/Triggers/WC/WCStaticFields.php:330
 msgid "Origin"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:336
+#: includes/Triggers/WC/WCStaticFields.php:344
 msgid "Variation Id"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:348
+#: includes/Triggers/WC/WCStaticFields.php:356
 msgid "Subtotal"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:356
+#: includes/Triggers/WC/WCStaticFields.php:364
 msgid "Subtotal Tax"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:364
+#: includes/Triggers/WC/WCStaticFields.php:372
 msgid "Tax Status"
 msgstr ""
 
@@ -18730,7 +18738,7 @@ msgid "New Features"
 msgstr ""
 
 #: languages/generatedString.php:7425
-msgid "New Improvements"
+msgid "Improvements"
 msgstr ""
 
 #: languages/generatedString.php:7427

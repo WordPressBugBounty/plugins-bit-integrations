@@ -1,1 +1,1 @@
-var e=""+new URL("twilio.webp",import.meta.url).href;export{e as default};
+var r=""+new URL("registration.webp",import.meta.url).href;export{r as default};
