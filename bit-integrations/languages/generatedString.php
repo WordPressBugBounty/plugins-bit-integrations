@@ -4444,6 +4444,8 @@ $bit_integrations_i18n_strings = array(
 
     'OmniSend Fields' => __('OmniSend Fields', 'bit-integrations'),
 
+    'OmniSend Property name' => __('OmniSend Property name', 'bit-integrations'),
+
     'Upload Files' => __('Upload Files', 'bit-integrations'),
 
     'Add attachments from Bit-integration-pro to OneDrive folder.' => __('Add attachments from Bit-integration-pro to OneDrive folder.', 'bit-integrations'),
