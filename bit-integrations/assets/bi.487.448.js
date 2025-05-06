@@ -1,1 +1,1 @@
-var a=""+new URL("affiliate.webp",import.meta.url).href;export{a as default};
+var a=""+new URL("academyLms.webp",import.meta.url).href;export{a as default};
