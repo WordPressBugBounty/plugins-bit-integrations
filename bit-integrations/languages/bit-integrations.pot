@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.5.5\n"
+"Project-Id-Version: Bit Integrations 2.5.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-04-27T06:04:04+00:00\n"
+"POT-Creation-Date: 2025-05-06T07:21:18+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: bit-integrations\n"
@@ -90,7 +90,7 @@ msgstr ""
 #: includes/Actions/AcademyLms/AcademyLmsController.php:37
 #: includes/Actions/AcademyLms/AcademyLmsController.php:57
 #: includes/Triggers/Elementor/ElementorController.php:40
-#: includes/Triggers/WC/WCController.php:1631
+#: includes/Triggers/WC/WCController.php:1633
 msgid "%s is not installed or activated"
 msgstr ""
 
@@ -3330,25 +3330,15 @@ msgstr ""
 
 #: includes/Actions/WPCourseware/WPCoursewareController.php:20
 #: includes/Actions/WPCourseware/WPCoursewareController.php:29
-#: includes/Actions/WPCourseware/WPCoursewareController.php:47
 msgid "WP Courseware Plugin is not active or installed"
 msgstr ""
 
-#: includes/Actions/WPCourseware/WPCoursewareController.php:71
+#: includes/Actions/WPCourseware/WPCoursewareController.php:53
 msgid "WP Courseware Plugins not found"
 msgstr ""
 
-#: includes/Actions/WPCourseware/WPCoursewareController.php:83
+#: includes/Actions/WPCourseware/WPCoursewareController.php:65
 msgid "Action, Course are required for WP Courseware api"
-msgstr ""
-
-#: includes/Actions/WPCourseware/WPCoursewareController.php:96
-#: languages/generatedString.php:3505
-msgid "Enroll user in a Course"
-msgstr ""
-
-#: includes/Actions/WPCourseware/WPCoursewareController.php:100
-msgid "Unroll user in a Course"
 msgstr ""
 
 #: includes/Actions/WPForo/RecordApiHelper.php:27
@@ -10990,6 +10980,10 @@ msgstr ""
 msgid "Section complete for the user"
 msgstr ""
 
+#: languages/generatedString.php:3505
+msgid "Enroll user in a Course"
+msgstr ""
+
 #: languages/generatedString.php:3507
 msgid "Enroll user in a membership"
 msgstr ""
@@ -16307,7 +16301,7 @@ msgid "Connect to WP Courseware"
 msgstr ""
 
 #: languages/generatedString.php:6199
-msgid "Action Refreshed"
+msgid "Course Refreshed"
 msgstr ""
 
 #: languages/generatedString.php:6201
@@ -16319,11 +16313,11 @@ msgid "Fetching..."
 msgstr ""
 
 #: languages/generatedString.php:6205
-msgid "Course Refreshed"
+msgid "WP Courseware Actions:"
 msgstr ""
 
 #: languages/generatedString.php:6207
-msgid "WP Courseware Actions:"
+msgid "Unroll user in a Course"
 msgstr ""
 
 #: languages/generatedString.php:6209

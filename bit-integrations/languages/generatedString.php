@@ -6196,15 +6196,15 @@ $bit_integrations_i18n_strings = array(
 
     'Connect to WP Courseware' => __('Connect to WP Courseware', 'bit-integrations'),
 
-    'Action Refreshed' => __('Action Refreshed', 'bit-integrations'),
+    'Course Refreshed' => __('Course Refreshed', 'bit-integrations'),
 
     'Failed, Try Again' => __('Failed, Try Again', 'bit-integrations'),
 
     'Fetching...' => __('Fetching...', 'bit-integrations'),
 
-    'Course Refreshed' => __('Course Refreshed', 'bit-integrations'),
-
     'WP Courseware Actions:' => __('WP Courseware Actions:', 'bit-integrations'),
+
+    'Unroll user in a Course' => __('Unroll user in a Course', 'bit-integrations'),
 
     'WP Courseware Courses:' => __('WP Courseware Courses:', 'bit-integrations'),
 
