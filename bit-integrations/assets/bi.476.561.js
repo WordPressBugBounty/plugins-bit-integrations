@@ -1,1 +1,1 @@
-var e=""+new URL("optinMonster.webp",import.meta.url).href;export{e as default};
+var i=""+new URL("kirimEmail.webp",import.meta.url).href;export{i as default};

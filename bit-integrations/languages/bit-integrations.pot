@@ -2,16 +2,16 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.5.7\n"
+"Project-Id-Version: Bit Integrations 2.5.8\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-05-06T09:12:22+00:00\n"
+"POT-Creation-Date: 2025-05-11T09:55:16+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.11.0\n"
+"X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: bit-integrations\n"
 
 #. Plugin Name of the plugin
@@ -84,6 +84,7 @@ msgstr ""
 #: includes/Actions/SliceWp/SliceWpController.php:23
 #: includes/Actions/TutorLms/TutorLmsController.php:31
 #: includes/Actions/WooCommerce/WooCommerceController.php:29
+#, php-format
 msgid "%s must be activated!"
 msgstr ""
 
@@ -91,6 +92,7 @@ msgstr ""
 #: includes/Actions/AcademyLms/AcademyLmsController.php:57
 #: includes/Triggers/Elementor/ElementorController.php:40
 #: includes/Triggers/WC/WCController.php:1633
+#, php-format
 msgid "%s is not installed or activated"
 msgstr ""
 
@@ -562,6 +564,7 @@ msgstr ""
 #: includes/Actions/ZohoRecruit/ZohoRecruitController.php:423
 #: includes/Actions/Zoom/ZoomController.php:131
 #: includes/Actions/ZoomWebinar/ZoomWebinarController.php:81
+#, php-format
 msgid "module, fields are required for %s api"
 msgstr ""
 
@@ -576,6 +579,7 @@ msgstr ""
 
 #: includes/Actions/Affiliate/RecordApiHelper.php:177
 #: includes/Actions/Affiliate/RecordApiHelper.php:195
+#, php-format
 msgid "Created Referral id %s"
 msgstr ""
 
@@ -837,6 +841,7 @@ msgstr ""
 #: includes/Actions/WhatsApp/RecordApiHelper.php:102
 #: includes/Actions/WhatsApp/RecordApiHelper.php:161
 #: includes/Actions/ZohoBigin/RecordApiHelper.php:139
+#, php-format
 msgid "%s plugin is not installed or activate"
 msgstr ""
 
@@ -865,10 +870,12 @@ msgid "A user can not follow itself."
 msgstr ""
 
 #: includes/Actions/BuddyBoss/RecordApiHelper.php:167
+#, php-format
 msgid "The user successfully start following a member ID - %s"
 msgstr ""
 
 #: includes/Actions/BuddyBoss/RecordApiHelper.php:169
+#, php-format
 msgid "The user was already following a member ID - %s"
 msgstr ""
 
@@ -905,6 +912,7 @@ msgid "We are facing a problem to creating a topic."
 msgstr ""
 
 #: includes/Actions/BuddyBoss/RecordApiHelper.php:270
+#, php-format
 msgid "Post created successfully and id is %s"
 msgstr ""
 
@@ -950,6 +958,7 @@ msgid "We are facing a problem to creating a reply."
 msgstr ""
 
 #: includes/Actions/BuddyBoss/RecordApiHelper.php:889
+#, php-format
 msgid "Group created successfully and is is %s"
 msgstr ""
 
@@ -1001,18 +1010,22 @@ msgid "Failed to subscribe Forum ."
 msgstr ""
 
 #: includes/Actions/BuddyBoss/RecordApiHelper.php:1009
+#, php-format
 msgid "Post added to group successfully and id is -> %s"
 msgstr ""
 
 #: includes/Actions/BuddyBoss/RecordApiHelper.php:1019
+#, php-format
 msgid "Post added to sitewide activity stream successfully and id is -> %s"
 msgstr ""
 
 #: includes/Actions/BuddyBoss/RecordApiHelper.php:1029
+#, php-format
 msgid "Post added to Users activity stream successfully and id is -> %s"
 msgstr ""
 
 #: includes/Actions/BuddyBoss/RecordApiHelper.php:1040
+#, php-format
 msgid "Reply forum topic successfully and id is -> %s"
 msgstr ""
 
@@ -1035,6 +1048,7 @@ msgid "Lists fetching failed"
 msgstr ""
 
 #: includes/Actions/CampaignMonitor/CampaignMonitorController.php:73
+#, php-format
 msgid "Field fetching failed: %s"
 msgstr ""
 
@@ -1254,6 +1268,7 @@ msgstr ""
 #: includes/Actions/JetEngine/JetEngineController.php:37
 #: includes/Actions/MailPoet/RecordApiHelper.php:46
 #: includes/Actions/WPForo/WPForoController.php:34
+#, php-format
 msgid "%s is not active or not installed"
 msgstr ""
 
@@ -1279,6 +1294,7 @@ msgid "Bank IBAN"
 msgstr ""
 
 #: includes/Actions/Dokan/DokanController.php:94
+#, php-format
 msgid "EU Compliance Fields fetching failed - %s or EU Compliance Fields is not enabled"
 msgstr ""
 
@@ -1312,6 +1328,7 @@ msgid "Vendor not found!"
 msgstr ""
 
 #: includes/Actions/Dokan/RecordApiHelper.php:126
+#, php-format
 msgid "Vendor deleted successfully. (ID: %s %s)"
 msgstr ""
 
@@ -1338,6 +1355,7 @@ msgid "Vendor already have pending withdraw request(s)!"
 msgstr ""
 
 #: includes/Actions/Dokan/RecordApiHelper.php:162
+#, php-format
 msgid "Withdraw request inserted successfully. (Vendor ID: %s Amount : %s Method: %s)"
 msgstr ""
 
@@ -1350,10 +1368,12 @@ msgstr ""
 #: includes/Triggers/WPF/WPFController.php:51
 #: includes/Triggers/WPF/WPFController.php:69
 #: languages/generatedString.php:6813
+#, php-format
 msgid "%s is not installed or activated."
 msgstr ""
 
 #: includes/Actions/Dokan/RecordApiHelper.php:204
+#, php-format
 msgid "Refund request added successfully. (Order ID: %s Refund Amount: %s)"
 msgstr ""
 
@@ -1377,6 +1397,7 @@ msgstr ""
 #: includes/Actions/GoogleDrive/GoogleDriveController.php:94
 #: includes/Actions/OneDrive/OneDriveController.php:122
 #: includes/Actions/PCloud/PCloudController.php:71
+#, php-format
 msgid "Not Authorization By %s"
 msgstr ""
 
@@ -1558,6 +1579,7 @@ msgid "module, select action are require for GamiPress api"
 msgstr ""
 
 #: includes/Actions/GamiPress/RecordApiHelper.php:135
+#, php-format
 msgid "Added successfully, post id %s and post title %s"
 msgstr ""
 
@@ -1574,6 +1596,7 @@ msgid "Failed to add achievement"
 msgstr ""
 
 #: includes/Actions/GamiPress/RecordApiHelper.php:156
+#, php-format
 msgid "Point added successfully and total points are %s"
 msgstr ""
 
@@ -1583,6 +1606,7 @@ msgid "Failed to add point"
 msgstr ""
 
 #: includes/Actions/GamiPress/RecordApiHelper.php:168
+#, php-format
 msgid "Revoked rank successfully, post id %s and post title %s"
 msgstr ""
 
@@ -1599,6 +1623,7 @@ msgid "Failed to revoke achievement"
 msgstr ""
 
 #: includes/Actions/GamiPress/RecordApiHelper.php:189
+#, php-format
 msgid "Point revoked successfully and total points are %s"
 msgstr ""
 
@@ -1611,6 +1636,7 @@ msgid "Failed operation , point is not valid number"
 msgstr ""
 
 #: includes/Actions/GiveWp/RecordApiHelper.php:48
+#, php-format
 msgid "Donar crated successfully and id is %s"
 msgstr ""
 
@@ -1927,6 +1953,7 @@ msgstr ""
 
 #: includes/Actions/LifterLms/LifterLmsController.php:100
 #: includes/Actions/MasterStudyLms/MasterStudyLmsController.php:76
+#, php-format
 msgid "Some important info are missing those are required for %s"
 msgstr ""
 
@@ -2009,6 +2036,7 @@ msgstr ""
 
 #: includes/Actions/Livestorm/RecordApiHelper.php:47
 #: includes/Actions/Livestorm/RecordApiHelper.php:50
+#, php-format
 msgid "Required field %s is empty"
 msgstr ""
 
@@ -2061,10 +2089,12 @@ msgid "Required field Chunk length is empty"
 msgstr ""
 
 #: includes/Actions/Mail/MailController.php:59
+#, php-format
 msgid "%s failed sends mail to %s"
 msgstr ""
 
 #: includes/Actions/Mail/MailController.php:61
+#, php-format
 msgid "%s successfully sends mail to %s"
 msgstr ""
 
@@ -2097,6 +2127,7 @@ msgid "Subscriber created successfully"
 msgstr ""
 
 #: includes/Actions/MailMint/RecordApiHelper.php:177
+#, php-format
 msgid "Contact created successfully and id is %s"
 msgstr ""
 
@@ -2187,6 +2218,7 @@ msgid "Failed to add user to membership"
 msgstr ""
 
 #: includes/Actions/Memberpress/RecordApiHelper.php:163
+#, php-format
 msgid "Successfully user added to the membership and id is: %s"
 msgstr ""
 
@@ -2366,6 +2398,7 @@ msgid "Direct Cost"
 msgstr ""
 
 #: includes/Actions/PropovoiceCRM/FilesApiHelper.php:27
+#, php-format
 msgid "Invalid file type: %s. Supported file types: %s"
 msgstr ""
 
@@ -2387,6 +2420,7 @@ msgid "New user registration"
 msgstr ""
 
 #: includes/Actions/Registration/RegistrationController.php:32
+#, php-format
 msgid "New user created successfully, user id : %s"
 msgstr ""
 
@@ -2409,6 +2443,7 @@ msgid "You are not logged in."
 msgstr ""
 
 #: includes/Actions/Registration/RegistrationController.php:170
+#, php-format
 msgid "User updated successfully, user id : %s"
 msgstr ""
 
@@ -2450,38 +2485,47 @@ msgid "Accounts fetching failed!"
 msgstr ""
 
 #: includes/Actions/Salesforce/RecordApiHelper.php:153
+#, php-format
 msgid "Created contact id is : %s"
 msgstr ""
 
 #: includes/Actions/Salesforce/RecordApiHelper.php:161
+#, php-format
 msgid "Created lead id is : %s"
 msgstr ""
 
 #: includes/Actions/Salesforce/RecordApiHelper.php:177
+#, php-format
 msgid "Created account id is : %s"
 msgstr ""
 
 #: includes/Actions/Salesforce/RecordApiHelper.php:185
+#, php-format
 msgid "Created campaign id is : %s"
 msgstr ""
 
 #: includes/Actions/Salesforce/RecordApiHelper.php:196
+#, php-format
 msgid "Created campaign member id is : %s"
 msgstr ""
 
 #: includes/Actions/Salesforce/RecordApiHelper.php:208
+#, php-format
 msgid "Created task id is : %s"
 msgstr ""
 
 #: includes/Actions/Salesforce/RecordApiHelper.php:221
+#, php-format
 msgid "Created opportunity id is : %s"
 msgstr ""
 
 #: includes/Actions/Salesforce/RecordApiHelper.php:232
+#, php-format
 msgid "Created event id is : %s"
 msgstr ""
 
 #: includes/Actions/Salesforce/RecordApiHelper.php:251
+#, php-format
 msgid "Created case id is : %s"
 msgstr ""
 
@@ -2609,6 +2653,7 @@ msgid "The Events Calendar and/or Event Tickets are not active or installed!"
 msgstr ""
 
 #: includes/Actions/TheEventsCalendar/TheEventsCalendarController.php:31
+#, php-format
 msgid "%s are not active or installed!"
 msgstr ""
 
@@ -2726,6 +2771,7 @@ msgid "Profile set as verified. Profile ID: "
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelController.php:28
+#, php-format
 msgid "%s is not active or installed!"
 msgstr ""
 
@@ -2743,46 +2789,57 @@ msgid "Fields map, task are required for Voxel"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:132
+#, php-format
 msgid "Event Start Date (%s)"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:137
+#, php-format
 msgid "Event End Date (%s)"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:142
+#, php-format
 msgid "Event Frequency (%s)"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:147
+#, php-format
 msgid "Event unit (%s)"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:152
+#, php-format
 msgid "Event Until (%s)"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:163
+#, php-format
 msgid "Address (%s)"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:168
+#, php-format
 msgid "Latitude (%s)"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:173
+#, php-format
 msgid "Longitude (%s)"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:184
+#, php-format
 msgid "Work Days (%s)"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:189
+#, php-format
 msgid "Work Hours (%s)"
 msgstr ""
 
 #: includes/Actions/Voxel/VoxelHelper.php:194
+#, php-format
 msgid "Work Status (%s)"
 msgstr ""
 
@@ -2809,15 +2866,18 @@ msgstr ""
 #: includes/Actions/WooCommerce/RecordApiHelper.php:85
 #: includes/Actions/WooCommerce/RecordApiHelper.php:257
 #: includes/Actions/WooCommerce/RecordApiHelper.php:701
+#, php-format
 msgid "%s is required for woocommerce %s"
 msgstr ""
 
 #: includes/Actions/WooCommerce/RecordApiHelper.php:110
 #: includes/Actions/WooCommerce/RecordApiHelper.php:151
+#, php-format
 msgid "Order %s not found"
 msgstr ""
 
 #: includes/Actions/WooCommerce/RecordApiHelper.php:130
+#, php-format
 msgid "%s is not valid order id"
 msgstr ""
 
@@ -2830,6 +2890,7 @@ msgid "Subscription not cancelled"
 msgstr ""
 
 #: includes/Actions/WooCommerce/RecordApiHelper.php:716
+#, php-format
 msgid "%s is not valid product sku or product price is empty!"
 msgstr ""
 
@@ -3383,6 +3444,7 @@ msgid "You are posting too quickly. Slow down."
 msgstr ""
 
 #: includes/Actions/WPForo/RecordApiHelper.php:165
+#, php-format
 msgid "New topic created, topic id: %s"
 msgstr ""
 
@@ -3432,6 +3494,7 @@ msgid "workspace, table, fields are required for zoho analytics api"
 msgstr ""
 
 #: includes/Actions/ZohoBigin/RecordApiHelper.php:53
+#, php-format
 msgid "%s is required for zoho bigin, %s module"
 msgstr ""
 
@@ -3440,6 +3503,7 @@ msgid "Tags added successfully"
 msgstr ""
 
 #: includes/Actions/ZohoCampaigns/RecordApiHelper.php:51
+#, php-format
 msgid "%s is required for zoho campaigns"
 msgstr ""
 
@@ -3448,6 +3512,7 @@ msgid "list are required for zoho campaigns api"
 msgstr ""
 
 #: includes/Actions/ZohoCreator/RecordApiHelper.php:105
+#, php-format
 msgid "%s is required for zoho creator"
 msgstr ""
 
@@ -3456,10 +3521,12 @@ msgid "tokenDetails error"
 msgstr ""
 
 #: includes/Actions/ZohoCRM/RecordApiHelper.php:72
+#, php-format
 msgid "%s is required for zoho crm, %s module"
 msgstr ""
 
 #: includes/Actions/ZohoCRM/RecordApiHelper.php:85
+#, php-format
 msgid "zoho crm field %s's maximum length is %s, Given %s"
 msgstr ""
 
@@ -3485,6 +3552,7 @@ msgid "module, layout, fields are required for zoho crm api"
 msgstr ""
 
 #: includes/Actions/ZohoDesk/RecordApiHelper.php:73
+#, php-format
 msgid "%s is required for zoho bigin"
 msgstr ""
 
@@ -3497,6 +3565,7 @@ msgid "Contact Name - First Name"
 msgstr ""
 
 #: includes/Actions/ZohoMarketingHub/RecordApiHelper.php:52
+#, php-format
 msgid "%s is required for zoho marketing hub"
 msgstr ""
 
@@ -3505,6 +3574,7 @@ msgid "list are required for zoho marketingHub api"
 msgstr ""
 
 #: includes/Actions/ZohoProjects/RecordApiHelper.php:70
+#, php-format
 msgid "%s is required for %s"
 msgstr ""
 
@@ -3620,6 +3690,7 @@ msgid "Due Date"
 msgstr ""
 
 #: includes/Actions/ZohoRecruit/RecordApiHelper.php:55
+#, php-format
 msgid "%s is required for zoho recruit, %s module"
 msgstr ""
 
@@ -3771,6 +3842,7 @@ msgstr ""
 #: includes/Flow/Flow.php:312
 #: includes/Flow/Flow.php:338
 #: includes/Triggers/CF7/CF7Controller.php:65
+#, php-format
 msgid "%s can't be empty"
 msgstr ""
 
@@ -3848,10 +3920,12 @@ msgstr ""
 
 #: includes/Triggers/Breakdance/BreakdanceHelper.php:12
 #: includes/Triggers/Elementor/ElementorHelper.php:68
+#, php-format
 msgid "Form Id (%s)"
 msgstr ""
 
 #: includes/Triggers/Breakdance/BreakdanceHelper.php:13
+#, php-format
 msgid "Post Id (%s)"
 msgstr ""
 
@@ -3872,10 +3946,12 @@ msgid "Form Submission"
 msgstr ""
 
 #: includes/Triggers/Elementor/ElementorHelper.php:69
+#, php-format
 msgid "Form Post Id (%s)"
 msgstr ""
 
 #: includes/Triggers/Elementor/ElementorHelper.php:70
+#, php-format
 msgid "Edit Post Id (%s)"
 msgstr ""
 
@@ -3891,6 +3967,7 @@ msgid "Invalid path"
 msgstr ""
 
 #: includes/Triggers/TriggerController.php:69
+#, php-format
 msgid "%s data is empty"
 msgstr ""
 
@@ -3899,6 +3976,7 @@ msgid "Failed to remove test data"
 msgstr ""
 
 #: includes/Triggers/TriggerController.php:87
+#, php-format
 msgid "%s test data removed successfully"
 msgstr ""
 
@@ -4249,6 +4327,7 @@ msgid "Checking if Academy Lms is active!!!"
 msgstr ""
 
 #: languages/generatedString.php:19
+#, php-format
 msgid "%s plugin must be activated to integrate with Bit Integrations"
 msgstr ""
 
@@ -4569,6 +4648,7 @@ msgid "Board list refreshed"
 msgstr ""
 
 #: languages/generatedString.php:181
+#, php-format
 msgid "Board list refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -4701,6 +4781,7 @@ msgid "Authorized failed"
 msgstr ""
 
 #: languages/generatedString.php:251
+#, php-format
 msgid "General Smart Codes %s"
 msgstr ""
 
@@ -5281,6 +5362,7 @@ msgid "Connect Successfully"
 msgstr ""
 
 #: languages/generatedString.php:571
+#, php-format
 msgid "Please! First Install or Active %s Plugin"
 msgstr ""
 
@@ -6521,6 +6603,7 @@ msgid "Contact list refreshed"
 msgstr ""
 
 #: languages/generatedString.php:1237
+#, php-format
 msgid "Contact list refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -6597,14 +6680,17 @@ msgid "Please select tag continue."
 msgstr ""
 
 #: languages/generatedString.php:1277
+#, php-format
 msgid "Update %s"
 msgstr ""
 
 #: languages/generatedString.php:1279
+#, php-format
 msgid "Update Responses with %s existing email?"
 msgstr ""
 
 #: languages/generatedString.php:1281
+#, php-format
 msgid "First go to your %s dashboard."
 msgstr ""
 
@@ -6613,6 +6699,7 @@ msgid "Click \"Settings\", Then click \"Advanced\""
 msgstr ""
 
 #: languages/generatedString.php:1285
+#, php-format
 msgid "%s API Token"
 msgstr ""
 
@@ -6629,30 +6716,37 @@ msgid "No Convert Kit forms found. Try changing the header row number or try aga
 msgstr ""
 
 #: languages/generatedString.php:1293
+#, php-format
 msgid "%s forms refresh failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:1295
+#, php-format
 msgid "%s tags refreshed"
 msgstr ""
 
 #: languages/generatedString.php:1297
+#, php-format
 msgid "No %s tags found. Try changing the header row number or try again"
 msgstr ""
 
 #: languages/generatedString.php:1299
+#, php-format
 msgid "%s tags refresh failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:1301
+#, php-format
 msgid "%s fields refreshed"
 msgstr ""
 
 #: languages/generatedString.php:1303
+#, php-format
 msgid "No %s fields found. Try changing the header row number or try again"
 msgstr ""
 
 #: languages/generatedString.php:1305
+#, php-format
 msgid "%s fields refresh failed. please try again"
 msgstr ""
 
@@ -6665,14 +6759,17 @@ msgid "Form:"
 msgstr ""
 
 #: languages/generatedString.php:1311
+#, php-format
 msgid "Refresh %s Tags"
 msgstr ""
 
 #: languages/generatedString.php:1313
+#, php-format
 msgid "Refresh %s Field"
 msgstr ""
 
 #: languages/generatedString.php:1315
+#, php-format
 msgid "%s Fields"
 msgstr ""
 
@@ -9037,6 +9134,7 @@ msgid "Spreadsheet refreshed"
 msgstr ""
 
 #: languages/generatedString.php:2527
+#, php-format
 msgid "Spreadsheet refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -9929,6 +10027,7 @@ msgid "Unlock Premium Features with Pro Plugin"
 msgstr ""
 
 #: languages/generatedString.php:2973
+#, php-format
 msgid "The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature"
 msgstr ""
 
@@ -11585,6 +11684,7 @@ msgid "Write down GDPR marketing options"
 msgstr ""
 
 #: languages/generatedString.php:3809
+#, php-format
 msgid "Write down your preferred GDPR marketing options, separated by commas %s. For example: Email Address, Phone Number."
 msgstr ""
 
@@ -11609,6 +11709,7 @@ msgid "Audience list refreshed"
 msgstr ""
 
 #: languages/generatedString.php:3821
+#, php-format
 msgid "Audience list refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -11621,6 +11722,7 @@ msgid "Audience tags refreshed"
 msgstr ""
 
 #: languages/generatedString.php:3827
+#, php-format
 msgid "Audience tags refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -12545,6 +12647,7 @@ msgid "Not Confirmed"
 msgstr ""
 
 #: languages/generatedString.php:4303
+#, php-format
 msgid "you have to insert one of the mentioned %s statuses; otherwise, subscriber adding will fail. You can also omit this status field; if omitted, the status will be set to %s by default"
 msgstr ""
 
@@ -13473,6 +13576,7 @@ msgid "Organizations refreshed"
 msgstr ""
 
 #: languages/generatedString.php:4773
+#, php-format
 msgid "Organizations refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -13485,6 +13589,7 @@ msgid "Persons refreshed"
 msgstr ""
 
 #: languages/generatedString.php:4779
+#, php-format
 msgid "Persons refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -13493,6 +13598,7 @@ msgid "Persons refresh failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:4783
+#, php-format
 msgid "Owners fetch failed Cause: %s. please try again"
 msgstr ""
 
@@ -13505,6 +13611,7 @@ msgid "Labels fetched successfully"
 msgstr ""
 
 #: languages/generatedString.php:4789
+#, php-format
 msgid "Labels fetch failed Cause: %s. please try again"
 msgstr ""
 
@@ -13513,6 +13620,7 @@ msgid "Labels fetch failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:4793
+#, php-format
 msgid "Currencies fetch failed Cause: %s. please try again"
 msgstr ""
 
@@ -13525,6 +13633,7 @@ msgid "Stages fetched successfully"
 msgstr ""
 
 #: languages/generatedString.php:4799
+#, php-format
 msgid "Stages fetch failed Cause: %s. please try again"
 msgstr ""
 
@@ -14909,6 +15018,7 @@ msgid "List refreshed"
 msgstr ""
 
 #: languages/generatedString.php:5491
+#, php-format
 msgid "List refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -14921,6 +15031,7 @@ msgid "Templates refreshed"
 msgstr ""
 
 #: languages/generatedString.php:5497
+#, php-format
 msgid "Templates refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -15589,6 +15700,7 @@ msgid "Custom Fields refreshed"
 msgstr ""
 
 #: languages/generatedString.php:5839
+#, php-format
 msgid "Custom Fields refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -16353,6 +16465,7 @@ msgid "Selected reputation will be set as user new reputation"
 msgstr ""
 
 #: languages/generatedString.php:6225
+#, php-format
 msgid "Select a group to %s"
 msgstr ""
 
@@ -16365,6 +16478,7 @@ msgid "remove a user from it"
 msgstr ""
 
 #: languages/generatedString.php:6231
+#, php-format
 msgid "The user will be %s the selected group"
 msgstr ""
 
@@ -16785,6 +16899,7 @@ msgid "Modules refreshed"
 msgstr ""
 
 #: languages/generatedString.php:6443
+#, php-format
 msgid "Modules refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -16797,6 +16912,7 @@ msgid "Pipeline Layouts refreshed"
 msgstr ""
 
 #: languages/generatedString.php:6449
+#, php-format
 msgid "Pipeline Layouts refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -17025,6 +17141,7 @@ msgid "Layouts refreshed"
 msgstr ""
 
 #: languages/generatedString.php:6563
+#, php-format
 msgid "Layouts refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -17113,6 +17230,7 @@ msgid "Departments refreshed"
 msgstr ""
 
 #: languages/generatedString.php:6609
+#, php-format
 msgid "Departments refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -17209,6 +17327,7 @@ msgid "Note Types refreshed"
 msgstr ""
 
 #: languages/generatedString.php:6657
+#, php-format
 msgid "Note Types refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -17217,6 +17336,7 @@ msgid "Note Types refresh failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:6661
+#, php-format
 msgid "RelatedLists refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -17349,6 +17469,7 @@ msgid "Meeting list refreshed"
 msgstr ""
 
 #: languages/generatedString.php:6727
+#, php-format
 msgid "All Meeting list refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -17385,6 +17506,7 @@ msgid "Webinar list refreshed"
 msgstr ""
 
 #: languages/generatedString.php:6745
+#, php-format
 msgid "All Webinar list refresh failed Cause: %s. please try again"
 msgstr ""
 
@@ -17449,6 +17571,7 @@ msgid "Please Select a Primary Key"
 msgstr ""
 
 #: languages/generatedString.php:6777
+#, php-format
 msgid "Follow these simple steps to set up the %s"
 msgstr ""
 
@@ -18520,6 +18643,7 @@ msgid "Instruction"
 msgstr ""
 
 #: languages/generatedString.php:7317
+#, php-format
 msgid "%s is available in"
 msgstr ""
 
@@ -18528,6 +18652,7 @@ msgid "This feature"
 msgstr ""
 
 #: languages/generatedString.php:7321
+#, php-format
 msgid "Thank you for using our product! %s is not available in your plan. Please upgrade to the PRO plan to unlock all these awesome features."
 msgstr ""
 
@@ -18632,6 +18757,7 @@ msgid "Expand the tree view"
 msgstr ""
 
 #: languages/generatedString.php:7373
+#, php-format
 msgid "How to setup %s integration"
 msgstr ""
 
@@ -18700,10 +18826,12 @@ msgid "$10 Cashback"
 msgstr ""
 
 #: languages/generatedString.php:7409
+#, php-format
 msgid "Thank you for using %s"
 msgstr ""
 
 #: languages/generatedString.php:7411
+#, php-format
 msgid "Give us a review on WordPress by clicking the <a href={REVIEW_URL} target=\"_blank\" rel=\"noreferrer\">%s</a> button and send an email with the review link to <a href=\"mailto:support@bitapps.pro\" target=\"_blank\" rel=\"noreferrer\">%s</a>. We will honour you with <strong>%s</strong> for your time & effort."
 msgstr ""
 
@@ -18748,6 +18876,7 @@ msgid "What's New"
 msgstr ""
 
 #: languages/generatedString.php:7433
+#, php-format
 msgid "What's New in %s"
 msgstr ""
 
