@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.5.8\n"
+"Project-Id-Version: Bit Integrations 2.5.9\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-05-11T09:55:16+00:00\n"
+"POT-Creation-Date: 2025-05-25T11:23:55+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: bit-integrations\n"
@@ -27,7 +27,7 @@ msgstr ""
 
 #. Description of the plugin
 #: bitwpfi.php
-msgid "Bit Integrations is a platform that integrates with over 280+ different platforms to help with various tasks on your WordPress site, like WooCommerce, Form builder, Page builder, LMS, Sales funnels, Bookings, CRM, Webhooks, Email marketing, Social media and Spreadsheets, etc"
+msgid "Bit Integrations is a platform that integrates with over 290+ different platforms to help with various tasks on your WordPress site, like WooCommerce, Form builder, Page builder, LMS, Sales funnels, Bookings, CRM, Webhooks, Email marketing, Social media and Spreadsheets, etc"
 msgstr ""
 
 #. Author of the plugin
@@ -91,7 +91,7 @@ msgstr ""
 #: includes/Actions/AcademyLms/AcademyLmsController.php:37
 #: includes/Actions/AcademyLms/AcademyLmsController.php:57
 #: includes/Triggers/Elementor/ElementorController.php:40
-#: includes/Triggers/WC/WCController.php:1633
+#: includes/Triggers/WC/WCController.php:1264
 #, php-format
 msgid "%s is not installed or activated"
 msgstr ""
@@ -433,7 +433,7 @@ msgstr ""
 #: includes/Actions/ZoomWebinar/ZoomWebinarController.php:21
 #: includes/Actions/ZoomWebinar/ZoomWebinarController.php:44
 #: includes/Triggers/FallbackTrigger/TriggerFallback.php:1383
-#: includes/Triggers/WC/WCController.php:145
+#: includes/Triggers/WC/WCController.php:248
 msgid "Requested parameter is empty"
 msgstr ""
 
@@ -441,8 +441,8 @@ msgstr ""
 #: includes/Actions/WooCommerce/WooCommerceController.php:59
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:39
 #: includes/Actions/Zoom/ZoomController.php:83
-#: includes/Triggers/WC/WCController.php:331
-#: includes/Triggers/WC/WCController.php:370
+#: includes/Triggers/WC/WCStaticFields.php:753
+#: includes/Triggers/WC/WCStaticFields.php:795
 #: languages/generatedString.php:283
 msgid "First Name"
 msgstr ""
@@ -451,8 +451,8 @@ msgstr ""
 #: includes/Actions/WooCommerce/WooCommerceController.php:63
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:43
 #: includes/Actions/Zoom/ZoomController.php:84
-#: includes/Triggers/WC/WCController.php:335
-#: includes/Triggers/WC/WCController.php:374
+#: includes/Triggers/WC/WCStaticFields.php:757
+#: includes/Triggers/WC/WCStaticFields.php:799
 #: languages/generatedString.php:285
 msgid "Last Name"
 msgstr ""
@@ -462,8 +462,8 @@ msgstr ""
 #: includes/Actions/WooCommerce/WooCommerceController.php:67
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:47
 #: includes/Actions/Zoom/ZoomController.php:85
-#: includes/Triggers/WC/WCController.php:339
-#: includes/Triggers/WC/WCController.php:378
+#: includes/Triggers/WC/WCStaticFields.php:761
+#: includes/Triggers/WC/WCStaticFields.php:803
 #: languages/generatedString.php:265
 msgid "Email"
 msgstr ""
@@ -1558,6 +1558,7 @@ msgstr ""
 #: includes/Actions/WooCommerce/WooCommerceController.php:89
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:69
 #: includes/Actions/ZohoProjects/ZohoProjectsController.php:875
+#: includes/Triggers/WC/WCStaticFields.php:142
 #: languages/generatedString.php:223
 msgid "Description"
 msgstr ""
@@ -2896,192 +2897,193 @@ msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:72
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:52
-#: includes/Triggers/WC/WCController.php:343
-#: includes/Triggers/WC/WCController.php:382
+#: includes/Triggers/WC/WCStaticFields.php:765
+#: includes/Triggers/WC/WCStaticFields.php:807
 #: languages/generatedString.php:1611
 msgid "Username"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:77
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:57
-#: includes/Triggers/WC/WCController.php:347
-#: includes/Triggers/WC/WCController.php:386
+#: includes/Triggers/WC/WCStaticFields.php:769
+#: includes/Triggers/WC/WCStaticFields.php:811
 #: languages/generatedString.php:2989
 msgid "Password"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:81
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:61
-#: includes/Triggers/WC/WCController.php:351
-#: includes/Triggers/WC/WCController.php:390
+#: includes/Triggers/WC/WCStaticFields.php:773
+#: includes/Triggers/WC/WCStaticFields.php:815
 #: languages/generatedString.php:7575
 msgid "Display Name"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:85
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:65
-#: includes/Triggers/WC/WCController.php:355
-#: includes/Triggers/WC/WCController.php:394
+#: includes/Triggers/WC/WCStaticFields.php:777
+#: includes/Triggers/WC/WCStaticFields.php:819
 #: languages/generatedString.php:2471
 msgid "Nickname"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:93
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:73
-#: includes/Triggers/WC/WCController.php:398
+#: includes/Triggers/WC/WCStaticFields.php:823
 #: languages/generatedString.php:3993
 msgid "Locale"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:97
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:77
-#: includes/Triggers/WC/WCController.php:359
-#: includes/Triggers/WC/WCController.php:402
+#: includes/Triggers/WC/WCStaticFields.php:150
+#: includes/Triggers/WC/WCStaticFields.php:781
+#: includes/Triggers/WC/WCStaticFields.php:827
 #: languages/generatedString.php:269
 msgid "Website"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:101
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:129
-#: includes/Triggers/WC/WCController.php:406
-#: includes/Triggers/WC/WCStaticFields.php:188
+#: includes/Triggers/WC/WCStaticFields.php:412
+#: includes/Triggers/WC/WCStaticFields.php:831
 msgid "Billing First Name"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:105
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:133
-#: includes/Triggers/WC/WCController.php:410
-#: includes/Triggers/WC/WCStaticFields.php:192
+#: includes/Triggers/WC/WCStaticFields.php:416
+#: includes/Triggers/WC/WCStaticFields.php:835
 msgid "Billing Last Name"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:109
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:137
-#: includes/Triggers/WC/WCController.php:414
-#: includes/Triggers/WC/WCStaticFields.php:196
+#: includes/Triggers/WC/WCStaticFields.php:420
+#: includes/Triggers/WC/WCStaticFields.php:839
 msgid "Billing Company"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:113
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:141
-#: includes/Triggers/WC/WCController.php:418
-#: includes/Triggers/WC/WCStaticFields.php:200
+#: includes/Triggers/WC/WCStaticFields.php:424
+#: includes/Triggers/WC/WCStaticFields.php:843
 msgid "Billing Address 1"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:117
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:145
-#: includes/Triggers/WC/WCController.php:422
-#: includes/Triggers/WC/WCStaticFields.php:204
+#: includes/Triggers/WC/WCStaticFields.php:428
+#: includes/Triggers/WC/WCStaticFields.php:847
 msgid "Billing Address 2"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:121
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:149
-#: includes/Triggers/WC/WCController.php:426
-#: includes/Triggers/WC/WCStaticFields.php:208
+#: includes/Triggers/WC/WCStaticFields.php:432
+#: includes/Triggers/WC/WCStaticFields.php:851
 #: languages/generatedString.php:1105
 msgid "Billing City"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:125
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:153
-#: includes/Triggers/WC/WCController.php:430
-#: includes/Triggers/WC/WCStaticFields.php:212
+#: includes/Triggers/WC/WCStaticFields.php:436
+#: includes/Triggers/WC/WCStaticFields.php:855
 msgid "Billing Post Code"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:129
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:157
-#: includes/Triggers/WC/WCController.php:434
-#: includes/Triggers/WC/WCStaticFields.php:216
+#: includes/Triggers/WC/WCStaticFields.php:440
+#: includes/Triggers/WC/WCStaticFields.php:859
 #: languages/generatedString.php:1109
 msgid "Billing Country"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:133
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:161
-#: includes/Triggers/WC/WCController.php:438
-#: includes/Triggers/WC/WCStaticFields.php:220
+#: includes/Triggers/WC/WCStaticFields.php:444
+#: includes/Triggers/WC/WCStaticFields.php:863
 #: languages/generatedString.php:1107
 msgid "Billing State"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:137
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:165
-#: includes/Triggers/WC/WCController.php:442
-#: includes/Triggers/WC/WCStaticFields.php:224
+#: includes/Triggers/WC/WCStaticFields.php:448
+#: includes/Triggers/WC/WCStaticFields.php:867
 msgid "Billing Email"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:141
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:169
-#: includes/Triggers/WC/WCController.php:446
-#: includes/Triggers/WC/WCStaticFields.php:228
+#: includes/Triggers/WC/WCStaticFields.php:452
+#: includes/Triggers/WC/WCStaticFields.php:871
 msgid "Billing Phone"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:145
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:179
-#: includes/Triggers/WC/WCController.php:450
-#: includes/Triggers/WC/WCStaticFields.php:232
+#: includes/Triggers/WC/WCStaticFields.php:456
+#: includes/Triggers/WC/WCStaticFields.php:875
 msgid "Shipping First Name"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:149
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:183
-#: includes/Triggers/WC/WCController.php:454
-#: includes/Triggers/WC/WCStaticFields.php:236
+#: includes/Triggers/WC/WCStaticFields.php:460
+#: includes/Triggers/WC/WCStaticFields.php:879
 msgid "Shipping Last Name"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:153
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:187
-#: includes/Triggers/WC/WCController.php:458
-#: includes/Triggers/WC/WCStaticFields.php:240
+#: includes/Triggers/WC/WCStaticFields.php:464
+#: includes/Triggers/WC/WCStaticFields.php:883
 msgid "Shipping Company"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:157
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:191
-#: includes/Triggers/WC/WCController.php:462
-#: includes/Triggers/WC/WCStaticFields.php:244
+#: includes/Triggers/WC/WCStaticFields.php:468
+#: includes/Triggers/WC/WCStaticFields.php:887
 msgid "Shipping Address 1"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:161
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:195
-#: includes/Triggers/WC/WCController.php:466
-#: includes/Triggers/WC/WCStaticFields.php:248
+#: includes/Triggers/WC/WCStaticFields.php:472
+#: includes/Triggers/WC/WCStaticFields.php:891
 msgid "Shipping Address 2"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:165
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:199
-#: includes/Triggers/WC/WCController.php:470
-#: includes/Triggers/WC/WCStaticFields.php:252
+#: includes/Triggers/WC/WCStaticFields.php:476
+#: includes/Triggers/WC/WCStaticFields.php:895
 #: languages/generatedString.php:1115
 msgid "Shipping City"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:169
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:203
-#: includes/Triggers/WC/WCController.php:474
-#: includes/Triggers/WC/WCStaticFields.php:256
+#: includes/Triggers/WC/WCStaticFields.php:480
+#: includes/Triggers/WC/WCStaticFields.php:899
 msgid "Shipping Post Code"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:173
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:207
-#: includes/Triggers/WC/WCController.php:478
-#: includes/Triggers/WC/WCStaticFields.php:260
+#: includes/Triggers/WC/WCStaticFields.php:484
+#: includes/Triggers/WC/WCStaticFields.php:903
 #: languages/generatedString.php:1119
 msgid "Shipping Country"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:177
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:211
-#: includes/Triggers/WC/WCController.php:482
+#: includes/Triggers/WC/WCStaticFields.php:907
 #: languages/generatedString.php:1117
 msgid "Shipping State"
 msgstr ""
@@ -3121,8 +3123,8 @@ msgid "N Months"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceController.php:291
-#: includes/Triggers/WC/WCHelper.php:132
-#: includes/Triggers/WC/WCHelper.php:155
+#: includes/Triggers/WC/WCHelper.php:71
+#: includes/Triggers/WC/WCHelper.php:94
 msgid "Any Product"
 msgstr ""
 
@@ -3131,28 +3133,29 @@ msgid "module and field map are required for woocommerce"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:16
-#: includes/Triggers/WC/WCStaticFields.php:288
+#: includes/Triggers/WC/WCStaticFields.php:512
 msgid "Customer Note"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:20
-#: includes/Triggers/WC/WCStaticFields.php:264
+#: includes/Triggers/WC/WCStaticFields.php:488
 msgid "Payment Method"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:24
-#: includes/Triggers/WC/WCStaticFields.php:268
+#: includes/Triggers/WC/WCStaticFields.php:492
 msgid "Payment Method Title"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:29
+#: includes/Triggers/WC/WCStaticFields.php:126
 msgid "Coupon Code"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:87
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:221
-#: includes/Triggers/WC/WCController.php:158
-#: includes/Triggers/WC/WCStaticFields.php:348
+#: includes/Triggers/WC/WCStaticFields.php:572
+#: includes/Triggers/WC/WCStaticFields.php:606
 #: languages/generatedString.php:6595
 msgid "Product Name"
 msgstr ""
@@ -3162,7 +3165,8 @@ msgid "Sku"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:97
-#: includes/Triggers/WC/WCStaticFields.php:352
+#: includes/Triggers/WC/WCStaticFields.php:208
+#: includes/Triggers/WC/WCStaticFields.php:576
 msgid "Quantity"
 msgstr ""
 
@@ -3171,7 +3175,7 @@ msgid "Price"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:107
-#: includes/Triggers/WC/WCStaticFields.php:368
+#: includes/Triggers/WC/WCStaticFields.php:592
 msgid "Tax Class"
 msgstr ""
 
@@ -3188,47 +3192,47 @@ msgid "Line Total"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:226
-#: includes/Triggers/WC/WCController.php:163
+#: includes/Triggers/WC/WCStaticFields.php:611
 msgid "Product Description"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:230
-#: includes/Triggers/WC/WCController.php:167
+#: includes/Triggers/WC/WCStaticFields.php:615
 msgid "Product Short Description"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:234
-#: includes/Triggers/WC/WCController.php:175
+#: includes/Triggers/WC/WCStaticFields.php:623
 msgid "Post Date"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:238
-#: includes/Triggers/WC/WCController.php:179
+#: includes/Triggers/WC/WCStaticFields.php:627
 msgid "Post Date GMT"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:242
-#: includes/Triggers/WC/WCController.php:183
+#: includes/Triggers/WC/WCStaticFields.php:631
 msgid "Product Status"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:246
-#: includes/Triggers/WC/WCController.php:187
+#: includes/Triggers/WC/WCStaticFields.php:635
 msgid "Product Tag"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:250
-#: includes/Triggers/WC/WCController.php:191
+#: includes/Triggers/WC/WCStaticFields.php:639
 msgid "Product Category"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:254
-#: includes/Triggers/WC/WCController.php:195
+#: includes/Triggers/WC/WCStaticFields.php:643
 msgid "Catalog Visibility"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:258
-#: includes/Triggers/WC/WCController.php:199
+#: includes/Triggers/WC/WCStaticFields.php:647
 msgid "Featured Product"
 msgstr ""
 
@@ -3237,123 +3241,124 @@ msgid "Post Password"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:266
-#: includes/Triggers/WC/WCController.php:203
+#: includes/Triggers/WC/WCStaticFields.php:651
 msgid "Regular Price"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:270
-#: includes/Triggers/WC/WCController.php:207
+#: includes/Triggers/WC/WCStaticFields.php:655
 msgid "Sale Price"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:274
-#: includes/Triggers/WC/WCController.php:211
+#: includes/Triggers/WC/WCStaticFields.php:659
 msgid "Sale Price From Date"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:278
-#: includes/Triggers/WC/WCController.php:215
+#: includes/Triggers/WC/WCStaticFields.php:663
 msgid "Sale Price To Date"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:282
-#: includes/Triggers/WC/WCController.php:219
+#: includes/Triggers/WC/WCStaticFields.php:667
 msgid "SKU"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:287
-#: includes/Triggers/WC/WCController.php:223
+#: includes/Triggers/WC/WCStaticFields.php:671
 msgid "Manage Stock"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:291
-#: includes/Triggers/WC/WCController.php:227
+#: includes/Triggers/WC/WCStaticFields.php:675
 msgid "Stock Quantity"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:295
-#: includes/Triggers/WC/WCController.php:231
+#: includes/Triggers/WC/WCStaticFields.php:679
 msgid "Allow Backorders"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:299
-#: includes/Triggers/WC/WCController.php:235
+#: includes/Triggers/WC/WCStaticFields.php:683
 msgid "Low Stock Threshold"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:303
-#: includes/Triggers/WC/WCController.php:239
+#: includes/Triggers/WC/WCStaticFields.php:687
 msgid "Stock Status"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:307
-#: includes/Triggers/WC/WCController.php:243
+#: includes/Triggers/WC/WCStaticFields.php:691
 msgid "Sold Individually"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:311
-#: includes/Triggers/WC/WCController.php:247
+#: includes/Triggers/WC/WCStaticFields.php:695
 msgid "Weight"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:315
-#: includes/Triggers/WC/WCController.php:251
+#: includes/Triggers/WC/WCStaticFields.php:699
 msgid "Length"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:319
-#: includes/Triggers/WC/WCController.php:255
+#: includes/Triggers/WC/WCStaticFields.php:703
 msgid "Width"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:323
-#: includes/Triggers/WC/WCController.php:259
+#: includes/Triggers/WC/WCStaticFields.php:707
 msgid "Height"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:327
-#: includes/Triggers/WC/WCController.php:263
+#: includes/Triggers/WC/WCStaticFields.php:711
 msgid "Purchase Note"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:331
-#: includes/Triggers/WC/WCController.php:267
+#: includes/Triggers/WC/WCStaticFields.php:715
 msgid "Menu Order"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:335
-#: includes/Triggers/WC/WCController.php:271
+#: includes/Triggers/WC/WCStaticFields.php:719
 msgid "Enable Reviews"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:339
-#: includes/Triggers/WC/WCController.php:275
+#: includes/Triggers/WC/WCStaticFields.php:190
+#: includes/Triggers/WC/WCStaticFields.php:723
 msgid "Virtual"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:343
-#: includes/Triggers/WC/WCController.php:279
+#: includes/Triggers/WC/WCStaticFields.php:727
 #: languages/generatedString.php:6123
 msgid "Downloadable"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:347
-#: includes/Triggers/WC/WCController.php:283
+#: includes/Triggers/WC/WCStaticFields.php:731
 msgid "Download Limit"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:351
-#: includes/Triggers/WC/WCController.php:287
+#: includes/Triggers/WC/WCStaticFields.php:735
 msgid "Download Expiry"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:355
-#: includes/Triggers/WC/WCController.php:291
+#: includes/Triggers/WC/WCStaticFields.php:739
 msgid "Product Type"
 msgstr ""
 
 #: includes/Actions/WooCommerce/WooCommerceStaticFields.php:359
-#: includes/Triggers/WC/WCController.php:295
+#: includes/Triggers/WC/WCStaticFields.php:743
 msgid "Product URL"
 msgstr ""
 
@@ -3620,7 +3625,7 @@ msgid "Billing Method"
 msgstr ""
 
 #: includes/Actions/ZohoProjects/ZohoProjectsController.php:684
-#: includes/Triggers/WC/WCStaticFields.php:99
+#: includes/Triggers/WC/WCStaticFields.php:323
 #: languages/generatedString.php:4183
 msgid "Currency"
 msgstr ""
@@ -3980,151 +3985,145 @@ msgstr ""
 msgid "%s test data removed successfully"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:24
+#: includes/Triggers/WC/WCController.php:91
 msgid "WooCommerce is the world’s most popular open-source eCommerce solution"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:60
+#: includes/Triggers/WC/WCController.php:127
 msgid "Customer-Create"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:61
+#: includes/Triggers/WC/WCController.php:128
 msgid "Customer-Edit"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:62
+#: includes/Triggers/WC/WCController.php:129
 msgid "Customer-Delete"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:63
+#: includes/Triggers/WC/WCController.php:130
 msgid "Product-Create"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:64
+#: includes/Triggers/WC/WCController.php:131
 msgid "Product-Edit"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:65
+#: includes/Triggers/WC/WCController.php:132
 msgid "Product-Delete"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:66
+#: includes/Triggers/WC/WCController.php:133
+msgid "Restore Product"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:134
 msgid "Order-Create"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:66
-#: includes/Triggers/WC/WCController.php:67
-#: includes/Triggers/WC/WCController.php:68
-#: includes/Triggers/WC/WCController.php:69
-#: includes/Triggers/WC/WCController.php:70
-#: includes/Triggers/WC/WCController.php:71
-#: includes/Triggers/WC/WCController.php:73
+#: includes/Triggers/WC/WCController.php:134
+#: includes/Triggers/WC/WCController.php:135
+#: includes/Triggers/WC/WCController.php:136
+#: includes/Triggers/WC/WCController.php:146
+#: includes/Triggers/WC/WCController.php:148
+#: includes/Triggers/WC/WCController.php:149
+#: includes/Triggers/WC/WCController.php:153
 msgid "Flexible Checkout Fields are a feature available in the Pro version"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:67
+#: includes/Triggers/WC/WCController.php:135
 msgid "Order-Edit"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:68
+#: includes/Triggers/WC/WCController.php:136
 msgid "Order-Delete"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:69
-msgid "Order-Specific-Product"
+#: includes/Triggers/WC/WCController.php:137
+msgid "Restore Order"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:70
+#: includes/Triggers/WC/WCController.php:138
+msgid "Coupon Created or Updated"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:139
+msgid "Order Status Set to Pending"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:140
+msgid "Order Status Set to Failed"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:141
+msgid "Order Status Set to On-hold"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:142
+msgid "Order Status Set to Processing"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:143
+msgid "Order Status Set to Completed"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:144
+msgid "Order Status Set to Refunded"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:145
+msgid "Order Status Set to Cancelled"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:146
 msgid "Order-Status-Change-Specific-Status"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:71
+#: includes/Triggers/WC/WCController.php:147
+msgid "Product Status Changed"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:148
+msgid "Order-Specific-Product"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:149
 msgid "Order-Specific-Category"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:72
+#: includes/Triggers/WC/WCController.php:150
+msgid "Product Added to Cart"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:151
+msgid "Product Removed from Cart"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:152
 msgid "User reviews a product"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:73
+#: includes/Triggers/WC/WCController.php:153
 msgid "User purchases a variable product with selected variation"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:84
+#: includes/Triggers/WC/WCController.php:164
 msgid "Doesn't exists"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:88
+#: includes/Triggers/WC/WCController.php:168
 msgid "Doesn't exists any field"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:171
-msgid "Product ID"
+#: includes/Triggers/WC/WCController.php:298
+msgid "Old Status"
 msgstr ""
 
-#: includes/Triggers/WC/WCController.php:366
-#: includes/Triggers/WC/WCStaticFields.php:184
-msgid "Customer Id"
+#: includes/Triggers/WC/WCController.php:302
+msgid "New Status"
 msgstr ""
 
-#: includes/Triggers/WC/WCHelper.php:56
-#: includes/Triggers/WC/WCStaticFields.php:340
-msgid "Product Id"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:60
-msgid "Product Title"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:64
-msgid "Product Url"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:68
-msgid "Product Price"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:72
-msgid "Product Review"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:76
-msgid "Product Sku"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:80
-msgid "Product Tags"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:84
-msgid "Product Categories"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:88
-msgid "Product Rating"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:92
-msgid "Review Id"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:96
-msgid "Review Date"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:100
-msgid "Author Id"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:104
-msgid "Review Author Name"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:108
-msgid "Author Email"
-msgstr ""
-
-#: includes/Triggers/WC/WCHelper.php:182
+#: includes/Triggers/WC/WCHelper.php:121
 msgid "Any Variation"
 msgstr ""
 
@@ -4132,166 +4131,323 @@ msgstr ""
 msgid "Specified Product By Category"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:87
+#: includes/Triggers/WC/WCStaticFields.php:60
+#: includes/Triggers/WC/WCStaticFields.php:204
+#: includes/Triggers/WC/WCStaticFields.php:564
+msgid "Product Id"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:64
+msgid "Product Title"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:68
+msgid "Product Url"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:72
+msgid "Product Price"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:76
+msgid "Product Review"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:80
+msgid "Product Sku"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:84
+msgid "Product Tags"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:88
+msgid "Product Categories"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:92
+msgid "Product Rating"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:96
+msgid "Review Id"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:100
+msgid "Review Date"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:104
+msgid "Author Id"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:108
+msgid "Review Author Name"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:112
+msgid "Author Email"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:122
+msgid "Coupon Id"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:130
+msgid "Coupon Amount"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:134
+msgid "Coupon Status"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:138
+msgid "Discount Type"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:146
+msgid "Date Created"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:154
+msgid "Date Expires"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:158
+msgid "Usage Count"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:162
+msgid "Usage Limit"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:166
+msgid "Usage Limit Per User"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:170
+msgid "Limit Usage To x Items"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:174
+msgid "Free Shipping"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:178
+msgid "Exclude Sale Items"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:182
+msgid "Minimum Amount"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:186
+msgid "Maximum Amount"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:200
+#: includes/Triggers/WC/WCStaticFields.php:238
+msgid "Cart Item Key"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:212
+#: includes/Triggers/WC/WCStaticFields.php:568
+msgid "Variation Id"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:216
+msgid "Variation"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:220
+msgid "Cart Item Data"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:224
+msgid "Cart Total"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:228
+msgid "Cart Line Items"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:242
+msgid "Applied Coupons"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:246
+msgid "Cart Session Data"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:250
+msgid "Removed Cart Contents"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:311
 msgid "Order Id"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:91
+#: includes/Triggers/WC/WCStaticFields.php:315
 msgid "Order Key"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:95
+#: includes/Triggers/WC/WCStaticFields.php:319
 msgid "Cart Tax"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:103
+#: includes/Triggers/WC/WCStaticFields.php:327
 msgid "Discount Tax"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:107
+#: includes/Triggers/WC/WCStaticFields.php:331
 msgid "Discount To Display"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:111
+#: includes/Triggers/WC/WCStaticFields.php:335
 msgid "Discount Total"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:115
+#: includes/Triggers/WC/WCStaticFields.php:339
 msgid "Shipping Tax"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:119
+#: includes/Triggers/WC/WCStaticFields.php:343
 msgid "Shipping Total"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:123
+#: includes/Triggers/WC/WCStaticFields.php:347
 msgid "Total Tax"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:127
-#: includes/Triggers/WC/WCStaticFields.php:360
+#: includes/Triggers/WC/WCStaticFields.php:351
+#: includes/Triggers/WC/WCStaticFields.php:584
 msgid "Total"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:131
+#: includes/Triggers/WC/WCStaticFields.php:355
 msgid "Total Refunded"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:135
+#: includes/Triggers/WC/WCStaticFields.php:359
 msgid "Tax Refunded"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:139
+#: includes/Triggers/WC/WCStaticFields.php:363
 msgid "Total Shipping Refunded"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:143
+#: includes/Triggers/WC/WCStaticFields.php:367
 msgid "Total Qty Refunded"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:147
+#: includes/Triggers/WC/WCStaticFields.php:371
 msgid "remaining_refund_amount"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:151
+#: includes/Triggers/WC/WCStaticFields.php:375
 #: languages/generatedString.php:233
 msgid "Status"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:155
+#: includes/Triggers/WC/WCStaticFields.php:379
 msgid "shipping method"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:159
+#: includes/Triggers/WC/WCStaticFields.php:383
 msgid "Created Via"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:163
+#: includes/Triggers/WC/WCStaticFields.php:387
 msgid "Date created"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:167
+#: includes/Triggers/WC/WCStaticFields.php:391
 msgid "Date Modified"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:171
+#: includes/Triggers/WC/WCStaticFields.php:395
 msgid "Date completed"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:175
+#: includes/Triggers/WC/WCStaticFields.php:399
 msgid "Date paid"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:180
+#: includes/Triggers/WC/WCStaticFields.php:404
 msgid "Prices Include Tax"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:272
+#: includes/Triggers/WC/WCStaticFields.php:408
+#: includes/Triggers/WC/WCStaticFields.php:791
+msgid "Customer Id"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:496
 msgid "Line Items"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:276
+#: includes/Triggers/WC/WCStaticFields.php:500
 msgid "Line Items Quantity"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:280
+#: includes/Triggers/WC/WCStaticFields.php:504
 msgid "Product Names"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:284
+#: includes/Triggers/WC/WCStaticFields.php:508
 msgid "order_received_url"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:298
+#: includes/Triggers/WC/WCStaticFields.php:522
 msgid "Device Type"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:302
+#: includes/Triggers/WC/WCStaticFields.php:526
 msgid "Referring source"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:306
+#: includes/Triggers/WC/WCStaticFields.php:530
 msgid "Session Count"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:310
+#: includes/Triggers/WC/WCStaticFields.php:534
 msgid "Session Entry"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:314
+#: includes/Triggers/WC/WCStaticFields.php:538
 msgid "Session page views"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:318
+#: includes/Triggers/WC/WCStaticFields.php:542
 msgid "Session Start Time"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:322
+#: includes/Triggers/WC/WCStaticFields.php:546
 msgid "Source Type"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:326
+#: includes/Triggers/WC/WCStaticFields.php:550
 msgid "User Agent"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:330
+#: includes/Triggers/WC/WCStaticFields.php:554
 msgid "Origin"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:344
-msgid "Variation Id"
-msgstr ""
-
-#: includes/Triggers/WC/WCStaticFields.php:356
+#: includes/Triggers/WC/WCStaticFields.php:580
 msgid "Subtotal"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:364
+#: includes/Triggers/WC/WCStaticFields.php:588
 msgid "Subtotal Tax"
 msgstr ""
 
-#: includes/Triggers/WC/WCStaticFields.php:372
+#: includes/Triggers/WC/WCStaticFields.php:596
 msgid "Tax Status"
+msgstr ""
+
+#: includes/Triggers/WC/WCStaticFields.php:619
+msgid "Product ID"
 msgstr ""
 
 #: includes/Triggers/WPF/WPFController.php:21
