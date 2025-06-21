@@ -1,1 +1,1 @@
-var e=""+new URL("wPWebhooks.webp.905.86.webp",import.meta.url).href;export{e as default};
+var p=""+new URL("wpAllImport.webp",import.meta.url).href;export{p as default};

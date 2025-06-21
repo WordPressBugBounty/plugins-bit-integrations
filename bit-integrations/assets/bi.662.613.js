@@ -1,1 +1,1 @@
-var a=""+new URL("sarbacane(Mailify).webp",import.meta.url).href;export{a as default};
+var e=""+new URL("peepSo.webp",import.meta.url).href;export{e as default};
