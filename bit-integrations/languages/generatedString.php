@@ -5162,6 +5162,12 @@ $bit_integrations_i18n_strings = array(
 
     'Add Account Ownership' => __('Add Account Ownership', 'bit-integrations'),
 
+    'Rating' => __('Rating', 'bit-integrations'),
+
+    'Add Lead Rating' => __('Add Lead Rating', 'bit-integrations'),
+
+    'Add Lead Industry' => __('Add Lead Industry', 'bit-integrations'),
+
     'Select Opportunity Stage' => __('Select Opportunity Stage', 'bit-integrations'),
 
     'Select Opportunity Type' => __('Select Opportunity Type', 'bit-integrations'),
@@ -5231,6 +5237,30 @@ $bit_integrations_i18n_strings = array(
     'SLA Violation refresh failed. please try again' => __('SLA Violation refresh failed. please try again', 'bit-integrations'),
 
     'Loading SLA Violation...' => __('Loading SLA Violation...', 'bit-integrations'),
+
+    'Lead Source refreshed' => __('Lead Source refreshed', 'bit-integrations'),
+
+    'Lead Source refresh failed. please try again' => __('Lead Source refresh failed. please try again', 'bit-integrations'),
+
+    'Loading Lead Source...' => __('Loading Lead Source...', 'bit-integrations'),
+
+    'Lead Status refreshed' => __('Lead Status refreshed', 'bit-integrations'),
+
+    'Lead Status refresh failed. please try again' => __('Lead Status refresh failed. please try again', 'bit-integrations'),
+
+    'Loading Lead Status...' => __('Loading Lead Status...', 'bit-integrations'),
+
+    'Lead Rating refreshed' => __('Lead Rating refreshed', 'bit-integrations'),
+
+    'Lead Rating refresh failed. please try again' => __('Lead Rating refresh failed. please try again', 'bit-integrations'),
+
+    'Loading Lead Rating...' => __('Loading Lead Rating...', 'bit-integrations'),
+
+    'Industry refreshed' => __('Industry refreshed', 'bit-integrations'),
+
+    'Industry refresh failed. please try again' => __('Industry refresh failed. please try again', 'bit-integrations'),
+
+    'Loading Industry...' => __('Loading Industry...', 'bit-integrations'),
 
     'Lead list refreshed' => __('Lead list refreshed', 'bit-integrations'),
 
