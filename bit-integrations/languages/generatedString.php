@@ -4890,6 +4890,12 @@ $bit_integrations_i18n_strings = array(
 
     'Select the status for the post. If published status is selected and the post date is in the future, it will automatically be changed to scheduled' => __('Select the status for the post. If published status is selected and the post date is in the future, it will automatically be changed to scheduled', 'bit-integrations'),
 
+    'Add Post Tags' => __('Add Post Tags', 'bit-integrations'),
+
+    'Use commas to separate multiple tags. Example: tag1, tag2, tag3' => __('Use commas to separate multiple tags. Example: tag1, tag2, tag3', 'bit-integrations'),
+
+    'Add Post Tags...' => __('Add Post Tags...', 'bit-integrations'),
+
     'Post Field Mapping' => __('Post Field Mapping', 'bit-integrations'),
 
     'Select the user to be assigned to the post' => __('Select the user to be assigned to the post', 'bit-integrations'),
