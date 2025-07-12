@@ -3880,7 +3880,13 @@ $bit_integrations_i18n_strings = array(
 
     'Group fetch failed' => __('Group fetch failed', 'bit-integrations'),
 
+    'Delete subscriber' => __('Delete subscriber', 'bit-integrations'),
+
+    'Forget subscriber' => __('Forget subscriber', 'bit-integrations'),
+
     'MailerLite Fields' => __('MailerLite Fields', 'bit-integrations'),
+
+    'This action requires a MailerLite New account. It isn’t supported with Classic accounts.' => __('This action requires a MailerLite New account. It isn’t supported with Classic accounts.', 'bit-integrations'),
 
     'Update Mailify' => __('Update Mailify', 'bit-integrations'),
 
