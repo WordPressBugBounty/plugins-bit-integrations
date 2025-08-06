@@ -6554,9 +6554,13 @@ $bit_integrations_i18n_strings = array(
 
     'Zoho CRM Tags' => __('Zoho CRM Tags', 'bit-integrations'),
 
-    'Trigger CRM workflows' => __('Trigger CRM workflows', 'bit-integrations'),
+    'Add a owner to records pushed to Zoho CRM' => __('Add a owner to records pushed to Zoho CRM', 'bit-integrations'),
+
+    'Add a tag to records pushed to Zoho CRM' => __('Add a tag to records pushed to Zoho CRM', 'bit-integrations'),
 
     'Add attachments or signatures from Trigger to CRM' => __('Add attachments or signatures from Trigger to CRM', 'bit-integrations'),
+
+    'Trigger CRM workflows' => __('Trigger CRM workflows', 'bit-integrations'),
 
     'Send entries to CRM approval list' => __('Send entries to CRM approval list', 'bit-integrations'),
 
@@ -6575,10 +6579,6 @@ $bit_integrations_i18n_strings = array(
     'Assignment Rules' => __('Assignment Rules', 'bit-integrations'),
 
     'Trigger Assignment Rules in Zoho CRM' => __('Trigger Assignment Rules in Zoho CRM', 'bit-integrations'),
-
-    'Add a tag to records pushed to Zoho CRM' => __('Add a tag to records pushed to Zoho CRM', 'bit-integrations'),
-
-    'Add a owner to records pushed to Zoho CRM' => __('Add a owner to records pushed to Zoho CRM', 'bit-integrations'),
 
     'Select Assignment Rule' => __('Select Assignment Rule', 'bit-integrations'),
 

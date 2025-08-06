@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.6.5\n"
+"Project-Id-Version: Bit Integrations 2.6.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-07-26T06:14:42+00:00\n"
+"POT-Creation-Date: 2025-08-06T06:39:55+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: bit-integrations\n"
@@ -394,11 +394,11 @@ msgstr ""
 #: includes/Actions/ZohoCreator/ZohoCreatorController.php:205
 #: includes/Actions/ZohoCRM/ZohoCRMController.php:45
 #: includes/Actions/ZohoCRM/ZohoCRMController.php:87
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:166
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:288
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:340
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:391
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:462
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:187
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:309
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:361
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:412
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:483
 #: includes/Actions/ZohoDesk/ZohoDeskController.php:42
 #: includes/Actions/ZohoDesk/ZohoDeskController.php:78
 #: includes/Actions/ZohoDesk/ZohoDeskController.php:146
@@ -808,7 +808,7 @@ msgstr ""
 #: includes/Actions/Demio/RecordApiHelper.php:50
 #: includes/Actions/Drip/RecordApiHelper.php:41
 #: includes/Actions/EmailOctopus/RecordApiHelper.php:34
-#: includes/Actions/GetResponse/RecordApiHelper.php:72
+#: includes/Actions/GetResponse/RecordApiHelper.php:62
 #: includes/Actions/LionDesk/RecordApiHelper.php:59
 #: includes/Actions/MailBluster/RecordApiHelper.php:44
 #: includes/Actions/MailerLite/RecordApiHelper.php:94
@@ -1176,7 +1176,7 @@ msgstr ""
 #: includes/Actions/ConstantContact/ConstantContactController.php:198
 #: includes/Actions/ConstantContact/ConstantContactController.php:266
 #: includes/Actions/ZohoCRM/ZohoCRMController.php:101
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:607
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:628
 msgid "Failed to refresh access token"
 msgstr ""
 
@@ -3553,24 +3553,24 @@ msgstr ""
 msgid "zoho crm field %s's maximum length is %s, Given %s"
 msgstr ""
 
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:313
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:334
 msgid "Assignment rules is empty"
 msgstr ""
 
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:365
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:386
 msgid "RelatedList is empty"
 msgstr ""
 
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:481
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:502
 msgid "Tag is empty"
 msgstr ""
 
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:499
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:520
 msgid "module, layout are required for zoho crm relatedlist"
 msgstr ""
 
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:586
-#: includes/Actions/ZohoCRM/ZohoCRMController.php:592
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:607
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:613
 msgid "module, layout, fields are required for zoho crm api"
 msgstr ""
 
@@ -17303,55 +17303,55 @@ msgid "Zoho CRM Tags"
 msgstr ""
 
 #: languages/generatedString.php:6557
-msgid "Trigger CRM workflows"
+msgid "Add a owner to records pushed to Zoho CRM"
 msgstr ""
 
 #: languages/generatedString.php:6559
-msgid "Add attachments or signatures from Trigger to CRM"
-msgstr ""
-
-#: languages/generatedString.php:6561
-msgid "Send entries to CRM approval list"
-msgstr ""
-
-#: languages/generatedString.php:6563
-msgid "Blueprint"
-msgstr ""
-
-#: languages/generatedString.php:6565
-msgid "Trigger CRM Blueprint"
-msgstr ""
-
-#: languages/generatedString.php:6567
-msgid "Capture GCLID"
-msgstr ""
-
-#: languages/generatedString.php:6569
-msgid "Sends the click details of AdWords Ads to Zoho CRM"
-msgstr ""
-
-#: languages/generatedString.php:6571
-msgid "Upsert Records"
-msgstr ""
-
-#: languages/generatedString.php:6573
-msgid "The record is updated if it already exists else it is inserted as a new record"
-msgstr ""
-
-#: languages/generatedString.php:6575
-msgid "Assignment Rules"
-msgstr ""
-
-#: languages/generatedString.php:6577
-msgid "Trigger Assignment Rules in Zoho CRM"
-msgstr ""
-
-#: languages/generatedString.php:6579
 msgid "Add a tag to records pushed to Zoho CRM"
 msgstr ""
 
+#: languages/generatedString.php:6561
+msgid "Add attachments or signatures from Trigger to CRM"
+msgstr ""
+
+#: languages/generatedString.php:6563
+msgid "Trigger CRM workflows"
+msgstr ""
+
+#: languages/generatedString.php:6565
+msgid "Send entries to CRM approval list"
+msgstr ""
+
+#: languages/generatedString.php:6567
+msgid "Blueprint"
+msgstr ""
+
+#: languages/generatedString.php:6569
+msgid "Trigger CRM Blueprint"
+msgstr ""
+
+#: languages/generatedString.php:6571
+msgid "Capture GCLID"
+msgstr ""
+
+#: languages/generatedString.php:6573
+msgid "Sends the click details of AdWords Ads to Zoho CRM"
+msgstr ""
+
+#: languages/generatedString.php:6575
+msgid "Upsert Records"
+msgstr ""
+
+#: languages/generatedString.php:6577
+msgid "The record is updated if it already exists else it is inserted as a new record"
+msgstr ""
+
+#: languages/generatedString.php:6579
+msgid "Assignment Rules"
+msgstr ""
+
 #: languages/generatedString.php:6581
-msgid "Add a owner to records pushed to Zoho CRM"
+msgid "Trigger Assignment Rules in Zoho CRM"
 msgstr ""
 
 #: languages/generatedString.php:6583

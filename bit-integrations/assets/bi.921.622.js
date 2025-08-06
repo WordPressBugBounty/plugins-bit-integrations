@@ -1,1 +1,1 @@
-var e=""+new URL("wPCourseware.webp",import.meta.url).href;export{e as default};
+var p=""+new URL("popupMaker.webp",import.meta.url).href;export{p as default};
