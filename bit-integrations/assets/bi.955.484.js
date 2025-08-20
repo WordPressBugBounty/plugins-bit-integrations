@@ -1,1 +1,1 @@
-var e=""+new URL("cF7.webp",import.meta.url).href;export{e as default};
+var r=""+new URL("brizy.webp",import.meta.url).href;export{r as default};

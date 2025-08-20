@@ -1,1 +1,1 @@
-var t=""+new URL("constantContact.webp",import.meta.url).href;export{t as default};
+var e=""+new URL("beaver.webp",import.meta.url).href;export{e as default};

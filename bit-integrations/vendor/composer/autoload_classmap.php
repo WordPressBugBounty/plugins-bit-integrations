@@ -135,6 +135,8 @@ return array(
     'BitCode\\FI\\Actions\\Lemlist\\RecordApiHelper' => $baseDir . '/includes/Actions/Lemlist/RecordApiHelper.php',
     'BitCode\\FI\\Actions\\LifterLms\\LifterLmsController' => $baseDir . '/includes/Actions/LifterLms/LifterLmsController.php',
     'BitCode\\FI\\Actions\\LifterLms\\RecordApiHelper' => $baseDir . '/includes/Actions/LifterLms/RecordApiHelper.php',
+    'BitCode\\FI\\Actions\\Line\\LineController' => $baseDir . '/includes/Actions/Line/LineController.php',
+    'BitCode\\FI\\Actions\\Line\\RecordApiHelper' => $baseDir . '/includes/Actions/Line/RecordApiHelper.php',
     'BitCode\\FI\\Actions\\LionDesk\\LionDeskController' => $baseDir . '/includes/Actions/LionDesk/LionDeskController.php',
     'BitCode\\FI\\Actions\\LionDesk\\RecordApiHelper' => $baseDir . '/includes/Actions/LionDesk/RecordApiHelper.php',
     'BitCode\\FI\\Actions\\Livestorm\\LivestormController' => $baseDir . '/includes/Actions/Livestorm/LivestormController.php',

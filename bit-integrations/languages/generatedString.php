@@ -3534,6 +3534,198 @@ $bit_integrations_i18n_strings = array(
 
     'Fetch membership list' => __('Fetch membership list', 'bit-integrations'),
 
+    'Please complete required fields to continue.' => __('Please complete required fields to continue.', 'bit-integrations'),
+
+    'Send a Push Message' => __('Send a Push Message', 'bit-integrations'),
+
+    'Send a Reply Message' => __('Send a Reply Message', 'bit-integrations'),
+
+    'Send Broadcast Message' => __('Send Broadcast Message', 'bit-integrations'),
+
+    'Emojis ID' => __('Emojis ID', 'bit-integrations'),
+
+    'Product Id' => __('Product Id', 'bit-integrations'),
+
+    'Emoji Position (0-based index in text)' => __('Emoji Position (0-based index in text)', 'bit-integrations'),
+
+    'Sticker ID' => __('Sticker ID', 'bit-integrations'),
+
+    'Package Id' => __('Package Id', 'bit-integrations'),
+
+    'Image\'s Original Content URL' => __('Image\'s Original Content URL', 'bit-integrations'),
+
+    'Image\'s Preview Image URL' => __('Image\'s Preview Image URL', 'bit-integrations'),
+
+    'Audio\'s Original Content URL' => __('Audio\'s Original Content URL', 'bit-integrations'),
+
+    'Duration' => __('Duration', 'bit-integrations'),
+
+    'Original Content URL' => __('Original Content URL', 'bit-integrations'),
+
+    'Preview Image URL' => __('Preview Image URL', 'bit-integrations'),
+
+    'Latitude' => __('Latitude', 'bit-integrations'),
+
+    'longitude' => __('longitude', 'bit-integrations'),
+
+    'Send Emojis' => __('Send Emojis', 'bit-integrations'),
+
+    'If want add more field in Emojis' => __('If want add more field in Emojis', 'bit-integrations'),
+
+    'Send Sticker' => __('Send Sticker', 'bit-integrations'),
+
+    'If want add more field in Stickers' => __('If want add more field in Stickers', 'bit-integrations'),
+
+    'Send Image' => __('Send Image', 'bit-integrations'),
+
+    'If want add more field in Images' => __('If want add more field in Images', 'bit-integrations'),
+
+    'Send Audio' => __('Send Audio', 'bit-integrations'),
+
+    'If want add more field in Audio' => __('If want add more field in Audio', 'bit-integrations'),
+
+    'Send Video' => __('Send Video', 'bit-integrations'),
+
+    'If want add more field in Video' => __('If want add more field in Video', 'bit-integrations'),
+
+    'Send Location' => __('Send Location', 'bit-integrations'),
+
+    'If want add more field in Location' => __('If want add more field in Location', 'bit-integrations'),
+
+    'Line Console' => __('Line Console', 'bit-integrations'),
+
+    'To get your Line access token:' => __('To get your Line access token:', 'bit-integrations'),
+
+    'Log in to the <a href="https://developers.line.biz/console/" target="_blank">Line Developers Console</a>.' => __('Log in to the <a href="https://developers.line.biz/console/" target="_blank">Line Developers Console</a>.', 'bit-integrations'),
+
+    'Go to your provider and select the channel you want to use.' => __('Go to your provider and select the channel you want to use.', 'bit-integrations'),
+
+    'Navigate to the "Messaging API" tab.' => __('Navigate to the "Messaging API" tab.', 'bit-integrations'),
+
+    'Scroll down to the "Channel access token (long-lived)" section.' => __('Scroll down to the "Channel access token (long-lived)" section.', 'bit-integrations'),
+
+    'Click the "issue" button to generate a new token.' => __('Click the "issue" button to generate a new token.', 'bit-integrations'),
+
+    'Copy the generated token — this is your Line access token.' => __('Copy the generated token — this is your Line access token.', 'bit-integrations'),
+
+    'Please try again' => __('Please try again', 'bit-integrations'),
+
+    'Authorization failed. Please try again' => __('Authorization failed. Please try again', 'bit-integrations'),
+
+    'An error occurred during authorization:' => __('An error occurred during authorization:', 'bit-integrations'),
+
+    'Recipient ID is required' => __('Recipient ID is required', 'bit-integrations'),
+
+    'Message field mapping is required' => __('Message field mapping is required', 'bit-integrations'),
+
+    'Reply Token is required' => __('Reply Token is required', 'bit-integrations'),
+
+    'Please select a message type' => __('Please select a message type', 'bit-integrations'),
+
+    'Enter message template with #field_name#' => __('Enter message template with #field_name#', 'bit-integrations'),
+
+    'Message Type:' => __('Message Type:', 'bit-integrations'),
+
+    'Recipient ID:' => __('Recipient ID:', 'bit-integrations'),
+
+    'Recipient ID' => __('Recipient ID', 'bit-integrations'),
+
+    'Reply Token:' => __('Reply Token:', 'bit-integrations'),
+
+    'Reply Token' => __('Reply Token', 'bit-integrations'),
+
+    'Message:' => __('Message:', 'bit-integrations'),
+
+    'Message Field' => __('Message Field', 'bit-integrations'),
+
+    'Emojis Map Fields' => __('Emojis Map Fields', 'bit-integrations'),
+
+    'Line Emoji Fields' => __('Line Emoji Fields', 'bit-integrations'),
+
+    'Sticker Map Fields' => __('Sticker Map Fields', 'bit-integrations'),
+
+    'Line Sticker Fields' => __('Line Sticker Fields', 'bit-integrations'),
+
+    'Image Map Fields' => __('Image Map Fields', 'bit-integrations'),
+
+    'Line Image Fields' => __('Line Image Fields', 'bit-integrations'),
+
+    'Audio Map Fields' => __('Audio Map Fields', 'bit-integrations'),
+
+    'Line Audio Fields' => __('Line Audio Fields', 'bit-integrations'),
+
+    'Video Map Fields' => __('Video Map Fields', 'bit-integrations'),
+
+    'Line Video Fields' => __('Line Video Fields', 'bit-integrations'),
+
+    'Location Map Fields' => __('Location Map Fields', 'bit-integrations'),
+
+    'Line Location Fields' => __('Line Location Fields', 'bit-integrations'),
+
+    'To get your Line Recipient ID:' => __('To get your Line Recipient ID:', 'bit-integrations'),
+
+    'From Line Developers Console go to the Messaging API tab. Your User ID is listed under the Webhook URL section.' => __('From Line Developers Console go to the Messaging API tab. Your User ID is listed under the Webhook URL section.', 'bit-integrations'),
+
+    'The User ID is included in the webhook event data every time a user sends a message to your bot.' => __('The User ID is included in the webhook event data every time a user sends a message to your bot.', 'bit-integrations'),
+
+    'To get your Line Reply Token:' => __('To get your Line Reply Token:', 'bit-integrations'),
+
+    'From Line Developers Console go to the Messaging API tab. Your Reply Token is listed under the Webhook URL section.' => __('From Line Developers Console go to the Messaging API tab. Your Reply Token is listed under the Webhook URL section.', 'bit-integrations'),
+
+    'The Reply Token is included in the webhook event data every time a user sends a message to your bot.' => __('The Reply Token is included in the webhook event data every time a user sends a message to your bot.', 'bit-integrations'),
+
+    'To get Line Emoji IDs and Product IDs:' => __('To get Line Emoji IDs and Product IDs:', 'bit-integrations'),
+
+    'For more information visit the <a href="https://developers.line.biz/en/docs/messaging-api/emoji-list/" target="_blank">Line Emoji List</a> documentation.' => __('For more information visit the <a href="https://developers.line.biz/en/docs/messaging-api/emoji-list/" target="_blank">Line Emoji List</a> documentation.', 'bit-integrations'),
+
+    'To get Line Sticker IDs and Package IDs:' => __('To get Line Sticker IDs and Package IDs:', 'bit-integrations'),
+
+    'For more information visit the <a href="https://developers.line.biz/en/docs/messaging-api/sticker-list/" target="_blank">Line Sticker List</a> documentation.' => __('For more information visit the <a href="https://developers.line.biz/en/docs/messaging-api/sticker-list/" target="_blank">Line Sticker List</a> documentation.', 'bit-integrations'),
+
+    'To set up LINE Image Messages:' => __('To set up LINE Image Messages:', 'bit-integrations'),
+
+    'Use JPG, PNG, or GIF image files under 10MB in size.' => __('Use JPG, PNG, or GIF image files under 10MB in size.', 'bit-integrations'),
+
+    'Original Content URL: Direct HTTPS link to the image file.' => __('Original Content URL: Direct HTTPS link to the image file.', 'bit-integrations'),
+
+    'Preview Image URL: Direct HTTPS link to a smaller preview image.' => __('Preview Image URL: Direct HTTPS link to a smaller preview image.', 'bit-integrations'),
+
+    'To set up LINE Audio Messages:' => __('To set up LINE Audio Messages:', 'bit-integrations'),
+
+    'Use M4A audio files under 10MB in size.' => __('Use M4A audio files under 10MB in size.', 'bit-integrations'),
+
+    'Original Content URL: Direct HTTPS link to the audio file.' => __('Original Content URL: Direct HTTPS link to the audio file.', 'bit-integrations'),
+
+    'Duration: Length of the audio in milliseconds (e.g., 60000 for 1 minute).' => __('Duration: Length of the audio in milliseconds (e.g., 60000 for 1 minute).', 'bit-integrations'),
+
+    'Host your audio file on a web server or cloud storage.' => __('Host your audio file on a web server or cloud storage.', 'bit-integrations'),
+
+    'Make sure the URL is publicly accessible and uses HTTPS.' => __('Make sure the URL is publicly accessible and uses HTTPS.', 'bit-integrations'),
+
+    'To set up LINE Video Messages:' => __('To set up LINE Video Messages:', 'bit-integrations'),
+
+    'Use MP4 video files under 200MB in size.' => __('Use MP4 video files under 200MB in size.', 'bit-integrations'),
+
+    'Original Content URL: Direct HTTPS link to the video file.' => __('Original Content URL: Direct HTTPS link to the video file.', 'bit-integrations'),
+
+    'Preview Image URL: Direct HTTPS link to the video thumbnail.' => __('Preview Image URL: Direct HTTPS link to the video thumbnail.', 'bit-integrations'),
+
+    'Host your video and image on a web server or cloud storage.' => __('Host your video and image on a web server or cloud storage.', 'bit-integrations'),
+
+    'Make sure both URLs are publicly accessible and use HTTPS.' => __('Make sure both URLs are publicly accessible and use HTTPS.', 'bit-integrations'),
+
+    'To set up LINE Location Messages:' => __('To set up LINE Location Messages:', 'bit-integrations'),
+
+    'Title: Name of the location (e.g., "Tokyo Tower").' => __('Title: Name of the location (e.g., "Tokyo Tower").', 'bit-integrations'),
+
+    'Address: Full address of the location.' => __('Address: Full address of the location.', 'bit-integrations'),
+
+    'Latitude: GPS latitude coordinate (e.g., 35.6586).' => __('Latitude: GPS latitude coordinate (e.g., 35.6586).', 'bit-integrations'),
+
+    'Longitude: GPS longitude coordinate (e.g., 139.7454).' => __('Longitude: GPS longitude coordinate (e.g., 139.7454).', 'bit-integrations'),
+
+    'You can get coordinates from Google Maps or other mapping services.' => __('You can get coordinates from Google Maps or other mapping services.', 'bit-integrations'),
+
     'Home Phone' => __('Home Phone', 'bit-integrations'),
 
     'Office Phone' => __('Office Phone', 'bit-integrations'),
@@ -6016,8 +6208,6 @@ $bit_integrations_i18n_strings = array(
 
     'Template Fetched Successfully' => __('Template Fetched Successfully', 'bit-integrations'),
 
-    'Message Type:' => __('Message Type:', 'bit-integrations'),
-
     'Select Template:' => __('Select Template:', 'bit-integrations'),
 
     'Refresh Template' => __('Refresh Template', 'bit-integrations'),
@@ -6031,8 +6221,6 @@ $bit_integrations_i18n_strings = array(
     'Media Field Map' => __('Media Field Map', 'bit-integrations'),
 
     'Contact Field Map' => __('Contact Field Map', 'bit-integrations'),
-
-    'Message:' => __('Message:', 'bit-integrations'),
 
     'To ensure successful message delivery using the WhatsApp Business API:' => __('To ensure successful message delivery using the WhatsApp Business API:', 'bit-integrations'),
 

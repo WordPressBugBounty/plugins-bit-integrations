@@ -168,6 +168,8 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Actions\\Lemlist\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Lemlist/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\LifterLms\\LifterLmsController' => __DIR__ . '/../..' . '/includes/Actions/LifterLms/LifterLmsController.php',
         'BitCode\\FI\\Actions\\LifterLms\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/LifterLms/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\Line\\LineController' => __DIR__ . '/../..' . '/includes/Actions/Line/LineController.php',
+        'BitCode\\FI\\Actions\\Line\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Line/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\LionDesk\\LionDeskController' => __DIR__ . '/../..' . '/includes/Actions/LionDesk/LionDeskController.php',
         'BitCode\\FI\\Actions\\LionDesk\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/LionDesk/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Livestorm\\LivestormController' => __DIR__ . '/../..' . '/includes/Actions/Livestorm/LivestormController.php',
