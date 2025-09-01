@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.6.7\n"
+"Project-Id-Version: Bit Integrations 2.6.8\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-08-20T10:59:03+00:00\n"
+"POT-Creation-Date: 2025-09-01T09:28:23+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: bit-integrations\n"
@@ -2238,20 +2238,20 @@ msgstr ""
 msgid "Contact Added Successfully"
 msgstr ""
 
-#: includes/Actions/Memberpress/RecordApiHelper.php:163
+#: includes/Actions/Memberpress/RecordApiHelper.php:164
 msgid "Failed to add user to membership"
 msgstr ""
 
-#: includes/Actions/Memberpress/RecordApiHelper.php:165
+#: includes/Actions/Memberpress/RecordApiHelper.php:166
 #, php-format
 msgid "Successfully user added to the membership and id is: %s"
 msgstr ""
 
-#: includes/Actions/Memberpress/RecordApiHelper.php:171
+#: includes/Actions/Memberpress/RecordApiHelper.php:172
 msgid "Successfully user removed form membership"
 msgstr ""
 
-#: includes/Actions/Memberpress/RecordApiHelper.php:173
+#: includes/Actions/Memberpress/RecordApiHelper.php:174
 msgid "Failed to remove user form membership"
 msgstr ""
 
