@@ -1,1 +1,1 @@
-var e=""+new URL("fluentSupport.webp",import.meta.url).href;export{e as default};
+var e=""+new URL("emailOctopus.webp",import.meta.url).href;export{e as default};

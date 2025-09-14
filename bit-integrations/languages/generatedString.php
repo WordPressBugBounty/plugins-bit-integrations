@@ -56,6 +56,1076 @@ $bit_integrations_i18n_strings = array(
 
     'This integration will only work for logged-in users.' => __('This integration will only work for logged-in users.', 'bit-integrations'),
 
+    'Please map mandatory fields' => __('Please map mandatory fields', 'bit-integrations'),
+
+    'Please select Icon' => __('Please select Icon', 'bit-integrations'),
+
+    'Please select Capability' => __('Please select Capability', 'bit-integrations'),
+
+    'Supports' => __('Supports', 'bit-integrations'),
+
+    'Add support for various available post edit features.' => __('Add support for various available post edit features.', 'bit-integrations'),
+
+    'Show In Admin Bar' => __('Show In Admin Bar', 'bit-integrations'),
+
+    'Makes this post type available via the admin bar. Default is value of $show_in_menu.' => __('Makes this post type available via the admin bar. Default is value of $show_in_menu.', 'bit-integrations'),
+
+    'Has archive' => __('Has archive', 'bit-integrations'),
+
+    'Whether there should be post type archives, or if a string, the archive slug to use. Will generate the proper rewrite rules if $rewrite is enabled. Default false.' => __('Whether there should be post type archives, or if a string, the archive slug to use. Will generate the proper rewrite rules if $rewrite is enabled. Default false.', 'bit-integrations'),
+
+    'Capabilities' => __('Capabilities', 'bit-integrations'),
+
+    'Capabilities for this taxonomy.' => __('Capabilities for this taxonomy.', 'bit-integrations'),
+
+    'Hierarchical' => __('Hierarchical', 'bit-integrations'),
+
+    'Whether the taxonomy is hierarchical. Default false.' => __('Whether the taxonomy is hierarchical. Default false.', 'bit-integrations'),
+
+    'Show Tagcloud' => __('Show Tagcloud', 'bit-integrations'),
+
+    'Whether to list the taxonomy in the Tag Cloud Widget controls. If not set, the default is inherited from $show_ui (default true).' => __('Whether to list the taxonomy in the Tag Cloud Widget controls. If not set, the default is inherited from $show_ui (default true).', 'bit-integrations'),
+
+    'Show in quick edit' => __('Show in quick edit', 'bit-integrations'),
+
+    'Whether to show the taxonomy in the quick/bulk edit panel. It not set, the default is inherited from $show_ui (default true).' => __('Whether to show the taxonomy in the quick/bulk edit panel. It not set, the default is inherited from $show_ui (default true).', 'bit-integrations'),
+
+    'Show admin column' => __('Show admin column', 'bit-integrations'),
+
+    'Whether to display a column for the taxonomy on its post type listing screens. Default false.' => __('Whether to display a column for the taxonomy on its post type listing screens. Default false.', 'bit-integrations'),
+
+    'Sort' => __('Sort', 'bit-integrations'),
+
+    'Whether terms in this taxonomy should be sorted in the order they are provided to wp_set_object_terms(). Default null which equates to false.' => __('Whether terms in this taxonomy should be sorted in the order they are provided to wp_set_object_terms(). Default null which equates to false.', 'bit-integrations'),
+
+    'public' => __('public', 'bit-integrations'),
+
+    'Whether a post type is intended for use publicly either via the admin interface or by front-end users.' => __('Whether a post type is intended for use publicly either via the admin interface or by front-end users.', 'bit-integrations'),
+
+    'Publicly Queryable' => __('Publicly Queryable', 'bit-integrations'),
+
+    'Whether queries can be performed on the front end for the post type as part of parse_request().' => __('Whether queries can be performed on the front end for the post type as part of parse_request().', 'bit-integrations'),
+
+    'Show UI' => __('Show UI', 'bit-integrations'),
+
+    'Whether to generate and allow a UI for managing this post type in the admin. Default is value of $public.' => __('Whether to generate and allow a UI for managing this post type in the admin. Default is value of $public.', 'bit-integrations'),
+
+    'Show In Menu' => __('Show In Menu', 'bit-integrations'),
+
+    'Where to show the post type in the admin menu. To work, $show_ui must be true. If true, the post type is shown in its own top level menu. If false, no menu is shown.' => __('Where to show the post type in the admin menu. To work, $show_ui must be true. If true, the post type is shown in its own top level menu. If false, no menu is shown.', 'bit-integrations'),
+
+    'Show In Nav Menus' => __('Show In Nav Menus', 'bit-integrations'),
+
+    'Makes this post type available for selection in navigation menus. Default is value of $public.' => __('Makes this post type available for selection in navigation menus. Default is value of $public.', 'bit-integrations'),
+
+    'Show In Rest API' => __('Show In Rest API', 'bit-integrations'),
+
+    'Whether to include the post type in the REST API. Set this to true for the post type to be available in the block editor. SET TRUE TO ENABLE GUTENBERG EDITOR.' => __('Whether to include the post type in the REST API. Set this to true for the post type to be available in the block editor. SET TRUE TO ENABLE GUTENBERG EDITOR.', 'bit-integrations'),
+
+    'Rewrite' => __('Rewrite', 'bit-integrations'),
+
+    'Triggers the handling of rewrites for this post type. To prevent rewrite, set to false. Defaults to true, using $post_type as slug. To specify rewrite rules, an array can be passed with any of these keys.' => __('Triggers the handling of rewrites for this post type. To prevent rewrite, set to false. Defaults to true, using $post_type as slug. To specify rewrite rules, an array can be passed with any of these keys.', 'bit-integrations'),
+
+    'Query var' => __('Query var', 'bit-integrations'),
+
+    'Sets the query_var key for this post type. Defaults to key. If false, a post type cannot be loaded at ?{query_var}={post_slug}. If specified as a string, the query {post_slug} will be valid.' => __('Sets the query_var key for this post type. Defaults to key. If false, a post type cannot be loaded at ?{query_var}={post_slug}. If specified as a string, the query {post_slug} will be valid.', 'bit-integrations'),
+
+    'Ok' => __('Ok', 'bit-integrations'),
+
+    'Select Support' => __('Select Support', 'bit-integrations'),
+
+    'Select Capabilities' => __('Select Capabilities', 'bit-integrations'),
+
+    'Homepage URL:' => __('Homepage URL:', 'bit-integrations'),
+
+    'Homepage URL...' => __('Homepage URL...', 'bit-integrations'),
+
+    'Api Key-Secret:' => __('Api Key-Secret:', 'bit-integrations'),
+
+    'Authorized ✔' => __('Authorized ✔', 'bit-integrations'),
+
+    'Authorize' => __('Authorize', 'bit-integrations'),
+
+    'Please note' => __('Please note', 'bit-integrations'),
+
+    'The secret key will no longer be displayed, so please take note of it. Eventually, you can regenerate your API keys.' => __('The secret key will no longer be displayed, so please take note of it. Eventually, you can regenerate your API keys.', 'bit-integrations'),
+
+    'To Get Api Key-secret' => __('To Get Api Key-secret', 'bit-integrations'),
+
+    'First go to "ACPT" dashboard' => __('First go to "ACPT" dashboard', 'bit-integrations'),
+
+    'Then go to "Tools" from menu' => __('Then go to "Tools" from menu', 'bit-integrations'),
+
+    'Click on "Go to API dashboard" from tools' => __('Click on "Go to API dashboard" from tools', 'bit-integrations'),
+
+    'Then click "REST API" from the top sub menu' => __('Then click "REST API" from the top sub menu', 'bit-integrations'),
+
+    'Then If you don’t have one API key click on the "Generate API key" button.' => __('Then If you don’t have one API key click on the "Generate API key" button.', 'bit-integrations'),
+
+    'The API "key-secret" pair will be displayed in a popup.' => __('The API "key-secret" pair will be displayed in a popup.', 'bit-integrations'),
+
+    'Homepage URL can\'t be empty' => __('Homepage URL can\'t be empty', 'bit-integrations'),
+
+    'Api Key-Secret can\'t be empty' => __('Api Key-Secret can\'t be empty', 'bit-integrations'),
+
+    'Authorized Successfully' => __('Authorized Successfully', 'bit-integrations'),
+
+    'Authorized failed, Please enter valid Api Key-Secret' => __('Authorized failed, Please enter valid Api Key-Secret', 'bit-integrations'),
+
+    'Customers fetched successfully' => __('Customers fetched successfully', 'bit-integrations'),
+
+    'Customers Not Found!' => __('Customers Not Found!', 'bit-integrations'),
+
+    'Customers fetching failed' => __('Customers fetching failed', 'bit-integrations'),
+
+    'Product fetched successfully' => __('Product fetched successfully', 'bit-integrations'),
+
+    'Product Not Found!' => __('Product Not Found!', 'bit-integrations'),
+
+    'Product fetching failed' => __('Product fetching failed', 'bit-integrations'),
+
+    'Order fetched successfully' => __('Order fetched successfully', 'bit-integrations'),
+
+    'Order Not Found!' => __('Order Not Found!', 'bit-integrations'),
+
+    'Order fetching failed' => __('Order fetching failed', 'bit-integrations'),
+
+    'License fetched successfully' => __('License fetched successfully', 'bit-integrations'),
+
+    'License Not Found!' => __('License Not Found!', 'bit-integrations'),
+
+    'License fetching failed' => __('License fetching failed', 'bit-integrations'),
+
+    'Generator fetched successfully' => __('Generator fetched successfully', 'bit-integrations'),
+
+    'Generator Not Found!' => __('Generator Not Found!', 'bit-integrations'),
+
+    'Generator fetching failed' => __('Generator fetching failed', 'bit-integrations'),
+
+    'Select Field' => __('Select Field', 'bit-integrations'),
+
+    'Form Fields' => __('Form Fields', 'bit-integrations'),
+
+    'Custom...' => __('Custom...', 'bit-integrations'),
+
+    'General Smart Codes %s' => __('General Smart Codes %s', 'bit-integrations'),
+
+    'Pro' => __('Pro', 'bit-integrations'),
+
+    'Custom Value' => __('Custom Value', 'bit-integrations'),
+
+    'Slug' => __('Slug', 'bit-integrations'),
+
+    'Taxonomy Slug' => __('Taxonomy Slug', 'bit-integrations'),
+
+    'CPT Slug' => __('CPT Slug', 'bit-integrations'),
+
+    'Menu Slug' => __('Menu Slug', 'bit-integrations'),
+
+    'Meta Field Group Id' => __('Meta Field Group Id', 'bit-integrations'),
+
+    'Dynamic Block Id' => __('Dynamic Block Id', 'bit-integrations'),
+
+    'Select Action:' => __('Select Action:', 'bit-integrations'),
+
+    'Select Icon:' => __('Select Icon:', 'bit-integrations'),
+
+    'Select Capability:' => __('Select Capability:', 'bit-integrations'),
+
+    'Field Map' => __('Field Map', 'bit-integrations'),
+
+    'Additional labels Field Map' => __('Additional labels Field Map', 'bit-integrations'),
+
+    'Utilities' => __('Utilities', 'bit-integrations'),
+
+    'ACPT Fields' => __('ACPT Fields', 'bit-integrations'),
+
+    'Create CPT' => __('Create CPT', 'bit-integrations'),
+
+    'Update CPT' => __('Update CPT', 'bit-integrations'),
+
+    'Delete CPT' => __('Delete CPT', 'bit-integrations'),
+
+    'Create Taxonomy' => __('Create Taxonomy', 'bit-integrations'),
+
+    'Update Taxonomy' => __('Update Taxonomy', 'bit-integrations'),
+
+    'Delete Taxonomy' => __('Delete Taxonomy', 'bit-integrations'),
+
+    'Associate Taxonomy To CPT' => __('Associate Taxonomy To CPT', 'bit-integrations'),
+
+    'Create Option Page' => __('Create Option Page', 'bit-integrations'),
+
+    'Update Option Page' => __('Update Option Page', 'bit-integrations'),
+
+    'Delete Option Page' => __('Delete Option Page', 'bit-integrations'),
+
+    'Delete Meta Field Group' => __('Delete Meta Field Group', 'bit-integrations'),
+
+    'Delete Dynamic Block' => __('Delete Dynamic Block', 'bit-integrations'),
+
+    'Post Name or Slug' => __('Post Name or Slug', 'bit-integrations'),
+
+    'Singular Label' => __('Singular Label', 'bit-integrations'),
+
+    'Plural Label' => __('Plural Label', 'bit-integrations'),
+
+    'REST API base slug' => __('REST API base slug', 'bit-integrations'),
+
+    'Menu position' => __('Menu position', 'bit-integrations'),
+
+    'Capability type' => __('Capability type', 'bit-integrations'),
+
+    'Custom rewrite rules' => __('Custom rewrite rules', 'bit-integrations'),
+
+    'Custom query var' => __('Custom query var', 'bit-integrations'),
+
+    'Menu Name' => __('Menu Name', 'bit-integrations'),
+
+    'All Items' => __('All Items', 'bit-integrations'),
+
+    'Add New' => __('Add New', 'bit-integrations'),
+
+    'Add New Item' => __('Add New Item', 'bit-integrations'),
+
+    'Edit Item' => __('Edit Item', 'bit-integrations'),
+
+    'New Item' => __('New Item', 'bit-integrations'),
+
+    'View Item' => __('View Item', 'bit-integrations'),
+
+    'View Items' => __('View Items', 'bit-integrations'),
+
+    'Search Item' => __('Search Item', 'bit-integrations'),
+
+    'Not Found' => __('Not Found', 'bit-integrations'),
+
+    'Not Found in Trash' => __('Not Found in Trash', 'bit-integrations'),
+
+    'Parent Item Colon' => __('Parent Item Colon', 'bit-integrations'),
+
+    'Featured Image' => __('Featured Image', 'bit-integrations'),
+
+    'Set Featured Image' => __('Set Featured Image', 'bit-integrations'),
+
+    'Remove Featured Image' => __('Remove Featured Image', 'bit-integrations'),
+
+    'Use Featured Image' => __('Use Featured Image', 'bit-integrations'),
+
+    'Archives' => __('Archives', 'bit-integrations'),
+
+    'Insert into Item' => __('Insert into Item', 'bit-integrations'),
+
+    'Uploaded to This Item' => __('Uploaded to This Item', 'bit-integrations'),
+
+    'Filter Items List' => __('Filter Items List', 'bit-integrations'),
+
+    'Items List Navigation' => __('Items List Navigation', 'bit-integrations'),
+
+    'Items List' => __('Items List', 'bit-integrations'),
+
+    'Filter by Date' => __('Filter by Date', 'bit-integrations'),
+
+    'Item Published' => __('Item Published', 'bit-integrations'),
+
+    'Item Published Privately' => __('Item Published Privately', 'bit-integrations'),
+
+    'Item Reverted to Draft' => __('Item Reverted to Draft', 'bit-integrations'),
+
+    'Item Scheduled' => __('Item Scheduled', 'bit-integrations'),
+
+    'Item Updated' => __('Item Updated', 'bit-integrations'),
+
+    'Singular name' => __('Singular name', 'bit-integrations'),
+
+    'Search Items' => __('Search Items', 'bit-integrations'),
+
+    'Popular Items' => __('Popular Items', 'bit-integrations'),
+
+    'Parent Item' => __('Parent Item', 'bit-integrations'),
+
+    'Update Item' => __('Update Item', 'bit-integrations'),
+
+    'New Item Name' => __('New Item Name', 'bit-integrations'),
+
+    'Separate Items With Commas' => __('Separate Items With Commas', 'bit-integrations'),
+
+    'Add or Remove Items' => __('Add or Remove Items', 'bit-integrations'),
+
+    'Choose From Most Used' => __('Choose From Most Used', 'bit-integrations'),
+
+    'No Terms' => __('No Terms', 'bit-integrations'),
+
+    'Filter By Item' => __('Filter By Item', 'bit-integrations'),
+
+    'Most Used' => __('Most Used', 'bit-integrations'),
+
+    'Back To Items' => __('Back To Items', 'bit-integrations'),
+
+    'REST API Controller Class' => __('REST API Controller Class', 'bit-integrations'),
+
+    'Default Term' => __('Default Term', 'bit-integrations'),
+
+    'Page Title' => __('Page Title', 'bit-integrations'),
+
+    'Menu Title' => __('Menu Title', 'bit-integrations'),
+
+    'Menu Position' => __('Menu Position', 'bit-integrations'),
+
+    'Page Description' => __('Page Description', 'bit-integrations'),
+
+    'Title' => __('Title', 'bit-integrations'),
+
+    'Editor' => __('Editor', 'bit-integrations'),
+
+    'Comments' => __('Comments', 'bit-integrations'),
+
+    'Revisions' => __('Revisions', 'bit-integrations'),
+
+    'Trackbacks' => __('Trackbacks', 'bit-integrations'),
+
+    'Author' => __('Author', 'bit-integrations'),
+
+    'Excerpt' => __('Excerpt', 'bit-integrations'),
+
+    'Page Attributes' => __('Page Attributes', 'bit-integrations'),
+
+    'Thumbnail' => __('Thumbnail', 'bit-integrations'),
+
+    'Custom Fields' => __('Custom Fields', 'bit-integrations'),
+
+    'Post Formats' => __('Post Formats', 'bit-integrations'),
+
+    'Manage Terms' => __('Manage Terms', 'bit-integrations'),
+
+    'Edit Terms' => __('Edit Terms', 'bit-integrations'),
+
+    'Delete Terms' => __('Delete Terms', 'bit-integrations'),
+
+    'Assign Terms' => __('Assign Terms', 'bit-integrations'),
+
+    'Admin Appearance' => __('Admin Appearance', 'bit-integrations'),
+
+    'Admin Collapse' => __('Admin Collapse', 'bit-integrations'),
+
+    'Admin Comments' => __('Admin Comments', 'bit-integrations'),
+
+    'Admin Customizer' => __('Admin Customizer', 'bit-integrations'),
+
+    'Admin Generic' => __('Admin Generic', 'bit-integrations'),
+
+    'Admin Home' => __('Admin Home', 'bit-integrations'),
+
+    'Admin Links' => __('Admin Links', 'bit-integrations'),
+
+    'Admin Media' => __('Admin Media', 'bit-integrations'),
+
+    'Admin Multisite' => __('Admin Multisite', 'bit-integrations'),
+
+    'Admin Network' => __('Admin Network', 'bit-integrations'),
+
+    'Admin Page' => __('Admin Page', 'bit-integrations'),
+
+    'Admin Plugins' => __('Admin Plugins', 'bit-integrations'),
+
+    'Admin Post' => __('Admin Post', 'bit-integrations'),
+
+    'Admin Settings' => __('Admin Settings', 'bit-integrations'),
+
+    'Admin Site Alt' => __('Admin Site Alt', 'bit-integrations'),
+
+    'Admin Site Alt2' => __('Admin Site Alt2', 'bit-integrations'),
+
+    'Admin Site Alt3' => __('Admin Site Alt3', 'bit-integrations'),
+
+    'Admin Site' => __('Admin Site', 'bit-integrations'),
+
+    'Admin Tools' => __('Admin Tools', 'bit-integrations'),
+
+    'Admin Users' => __('Admin Users', 'bit-integrations'),
+
+    'Airplane' => __('Airplane', 'bit-integrations'),
+
+    'Album' => __('Album', 'bit-integrations'),
+
+    'Align Center' => __('Align Center', 'bit-integrations'),
+
+    'Align Full Width' => __('Align Full Width', 'bit-integrations'),
+
+    'Align Left' => __('Align Left', 'bit-integrations'),
+
+    'Align None' => __('Align None', 'bit-integrations'),
+
+    'Align Pull Left' => __('Align Pull Left', 'bit-integrations'),
+
+    'Align Pull Right' => __('Align Pull Right', 'bit-integrations'),
+
+    'Align Right' => __('Align Right', 'bit-integrations'),
+
+    'Align Wide' => __('Align Wide', 'bit-integrations'),
+
+    'Amazon' => __('Amazon', 'bit-integrations'),
+
+    'Analytics' => __('Analytics', 'bit-integrations'),
+
+    'Archive' => __('Archive', 'bit-integrations'),
+
+    'Arrow Down Alt' => __('Arrow Down Alt', 'bit-integrations'),
+
+    'Arrow Down Alt2' => __('Arrow Down Alt2', 'bit-integrations'),
+
+    'Arrow Down' => __('Arrow Down', 'bit-integrations'),
+
+    'Arrow Left Alt' => __('Arrow Left Alt', 'bit-integrations'),
+
+    'Arrow Left Alt2' => __('Arrow Left Alt2', 'bit-integrations'),
+
+    'Arrow Left' => __('Arrow Left', 'bit-integrations'),
+
+    'Arrow Right Alt' => __('Arrow Right Alt', 'bit-integrations'),
+
+    'Arrow Right Alt2' => __('Arrow Right Alt2', 'bit-integrations'),
+
+    'Arrow Right' => __('Arrow Right', 'bit-integrations'),
+
+    'Arrow Up Alt' => __('Arrow Up Alt', 'bit-integrations'),
+
+    'Arrow Up Alt2' => __('Arrow Up Alt2', 'bit-integrations'),
+
+    'Arrow Up Duplicate' => __('Arrow Up Duplicate', 'bit-integrations'),
+
+    'Arrow Up' => __('Arrow Up', 'bit-integrations'),
+
+    'Art' => __('Art', 'bit-integrations'),
+
+    'Awards' => __('Awards', 'bit-integrations'),
+
+    'Backup' => __('Backup', 'bit-integrations'),
+
+    'Bank' => __('Bank', 'bit-integrations'),
+
+    'Beer' => __('Beer', 'bit-integrations'),
+
+    'Bell' => __('Bell', 'bit-integrations'),
+
+    'Block Default' => __('Block Default', 'bit-integrations'),
+
+    'Book Alt' => __('Book Alt', 'bit-integrations'),
+
+    'Book' => __('Book', 'bit-integrations'),
+
+    'Buddicons Activity' => __('Buddicons Activity', 'bit-integrations'),
+
+    'Buddicons Bbpress Logo' => __('Buddicons Bbpress Logo', 'bit-integrations'),
+
+    'Buddicons Buddypress Logo' => __('Buddicons Buddypress Logo', 'bit-integrations'),
+
+    'Buddicons Community' => __('Buddicons Community', 'bit-integrations'),
+
+    'Buddicons Forums' => __('Buddicons Forums', 'bit-integrations'),
+
+    'Buddicons Friends' => __('Buddicons Friends', 'bit-integrations'),
+
+    'Buddicons Groups' => __('Buddicons Groups', 'bit-integrations'),
+
+    'Buddicons Pm' => __('Buddicons Pm', 'bit-integrations'),
+
+    'Buddicons Replies' => __('Buddicons Replies', 'bit-integrations'),
+
+    'Buddicons Topics' => __('Buddicons Topics', 'bit-integrations'),
+
+    'Buddicons Tracking' => __('Buddicons Tracking', 'bit-integrations'),
+
+    'Building' => __('Building', 'bit-integrations'),
+
+    'Businessman' => __('Businessman', 'bit-integrations'),
+
+    'Businessperson' => __('Businessperson', 'bit-integrations'),
+
+    'Businesswoman' => __('Businesswoman', 'bit-integrations'),
+
+    'Button' => __('Button', 'bit-integrations'),
+
+    'Calculator' => __('Calculator', 'bit-integrations'),
+
+    'Calendar Alt' => __('Calendar Alt', 'bit-integrations'),
+
+    'Calendar' => __('Calendar', 'bit-integrations'),
+
+    'Camera Alt' => __('Camera Alt', 'bit-integrations'),
+
+    'Camera' => __('Camera', 'bit-integrations'),
+
+    'Car' => __('Car', 'bit-integrations'),
+
+    'Carrot' => __('Carrot', 'bit-integrations'),
+
+    'Cart' => __('Cart', 'bit-integrations'),
+
+    'Category' => __('Category', 'bit-integrations'),
+
+    'Chart Area' => __('Chart Area', 'bit-integrations'),
+
+    'Chart Bar' => __('Chart Bar', 'bit-integrations'),
+
+    'Chart Line' => __('Chart Line', 'bit-integrations'),
+
+    'Chart Pie' => __('Chart Pie', 'bit-integrations'),
+
+    'Clipboard' => __('Clipboard', 'bit-integrations'),
+
+    'Clock' => __('Clock', 'bit-integrations'),
+
+    'Cloud Saved' => __('Cloud Saved', 'bit-integrations'),
+
+    'Cloud Upload' => __('Cloud Upload', 'bit-integrations'),
+
+    'Cloud' => __('Cloud', 'bit-integrations'),
+
+    'Code Standards' => __('Code Standards', 'bit-integrations'),
+
+    'Coffee' => __('Coffee', 'bit-integrations'),
+
+    'Color Picker' => __('Color Picker', 'bit-integrations'),
+
+    'Columns' => __('Columns', 'bit-integrations'),
+
+    'Controls Back' => __('Controls Back', 'bit-integrations'),
+
+    'Controls Forward' => __('Controls Forward', 'bit-integrations'),
+
+    'Controls Pause' => __('Controls Pause', 'bit-integrations'),
+
+    'Controls Play' => __('Controls Play', 'bit-integrations'),
+
+    'Controls Repeat' => __('Controls Repeat', 'bit-integrations'),
+
+    'Controls Skipback' => __('Controls Skipback', 'bit-integrations'),
+
+    'Controls Skipforward' => __('Controls Skipforward', 'bit-integrations'),
+
+    'Controls Volumeoff' => __('Controls Volumeoff', 'bit-integrations'),
+
+    'Controls Volumeon' => __('Controls Volumeon', 'bit-integrations'),
+
+    'Cover Image' => __('Cover Image', 'bit-integrations'),
+
+    'Dashboard' => __('Dashboard', 'bit-integrations'),
+
+    'Database Add' => __('Database Add', 'bit-integrations'),
+
+    'Database Export' => __('Database Export', 'bit-integrations'),
+
+    'Database Import' => __('Database Import', 'bit-integrations'),
+
+    'Database Remove' => __('Database Remove', 'bit-integrations'),
+
+    'Database View' => __('Database View', 'bit-integrations'),
+
+    'Database' => __('Database', 'bit-integrations'),
+
+    'Desktop' => __('Desktop', 'bit-integrations'),
+
+    'Dismiss' => __('Dismiss', 'bit-integrations'),
+
+    'Download' => __('Download', 'bit-integrations'),
+
+    'Drumstick' => __('Drumstick', 'bit-integrations'),
+
+    'Edit Large' => __('Edit Large', 'bit-integrations'),
+
+    'Edit Page' => __('Edit Page', 'bit-integrations'),
+
+    'Edit' => __('Edit', 'bit-integrations'),
+
+    'Editor Aligncenter' => __('Editor Aligncenter', 'bit-integrations'),
+
+    'Editor Alignleft' => __('Editor Alignleft', 'bit-integrations'),
+
+    'Editor Alignright' => __('Editor Alignright', 'bit-integrations'),
+
+    'Editor Bold' => __('Editor Bold', 'bit-integrations'),
+
+    'Editor Break' => __('Editor Break', 'bit-integrations'),
+
+    'Editor Code Duplicate' => __('Editor Code Duplicate', 'bit-integrations'),
+
+    'Editor Code' => __('Editor Code', 'bit-integrations'),
+
+    'Editor Contract' => __('Editor Contract', 'bit-integrations'),
+
+    'Editor Customchar' => __('Editor Customchar', 'bit-integrations'),
+
+    'Editor Expand' => __('Editor Expand', 'bit-integrations'),
+
+    'Editor Help' => __('Editor Help', 'bit-integrations'),
+
+    'Editor Indent' => __('Editor Indent', 'bit-integrations'),
+
+    'Editor Insertmore' => __('Editor Insertmore', 'bit-integrations'),
+
+    'Editor Italic' => __('Editor Italic', 'bit-integrations'),
+
+    'Editor Justify' => __('Editor Justify', 'bit-integrations'),
+
+    'Editor Kitchensink' => __('Editor Kitchensink', 'bit-integrations'),
+
+    'Editor Ltr' => __('Editor Ltr', 'bit-integrations'),
+
+    'Editor Ol Rtl' => __('Editor Ol Rtl', 'bit-integrations'),
+
+    'Editor Ol' => __('Editor Ol', 'bit-integrations'),
+
+    'Editor Outdent' => __('Editor Outdent', 'bit-integrations'),
+
+    'Editor Paragraph' => __('Editor Paragraph', 'bit-integrations'),
+
+    'Editor Paste Text' => __('Editor Paste Text', 'bit-integrations'),
+
+    'Editor Paste Word' => __('Editor Paste Word', 'bit-integrations'),
+
+    'Editor Quote' => __('Editor Quote', 'bit-integrations'),
+
+    'Editor Removeformatting' => __('Editor Removeformatting', 'bit-integrations'),
+
+    'Editor Rtl' => __('Editor Rtl', 'bit-integrations'),
+
+    'Editor Spellcheck' => __('Editor Spellcheck', 'bit-integrations'),
+
+    'Editor Strikethrough' => __('Editor Strikethrough', 'bit-integrations'),
+
+    'Editor Table' => __('Editor Table', 'bit-integrations'),
+
+    'Editor Textcolor' => __('Editor Textcolor', 'bit-integrations'),
+
+    'Editor Ul' => __('Editor Ul', 'bit-integrations'),
+
+    'Editor Underline' => __('Editor Underline', 'bit-integrations'),
+
+    'Editor Unlink' => __('Editor Unlink', 'bit-integrations'),
+
+    'Editor Video' => __('Editor Video', 'bit-integrations'),
+
+    'Ellipsis' => __('Ellipsis', 'bit-integrations'),
+
+    'Email Alt' => __('Email Alt', 'bit-integrations'),
+
+    'Email Alt2' => __('Email Alt2', 'bit-integrations'),
+
+    'Email' => __('Email', 'bit-integrations'),
+
+    'Embed Audio' => __('Embed Audio', 'bit-integrations'),
+
+    'Embed Generic' => __('Embed Generic', 'bit-integrations'),
+
+    'Embed Photo' => __('Embed Photo', 'bit-integrations'),
+
+    'Embed Post' => __('Embed Post', 'bit-integrations'),
+
+    'Embed Video' => __('Embed Video', 'bit-integrations'),
+
+    'Excerpt View' => __('Excerpt View', 'bit-integrations'),
+
+    'Exit' => __('Exit', 'bit-integrations'),
+
+    'External' => __('External', 'bit-integrations'),
+
+    'Facebook Alt' => __('Facebook Alt', 'bit-integrations'),
+
+    'Facebook' => __('Facebook', 'bit-integrations'),
+
+    'Feedback' => __('Feedback', 'bit-integrations'),
+
+    'Filter' => __('Filter', 'bit-integrations'),
+
+    'Flag' => __('Flag', 'bit-integrations'),
+
+    'Food' => __('Food', 'bit-integrations'),
+
+    'Format Aside' => __('Format Aside', 'bit-integrations'),
+
+    'Format Audio' => __('Format Audio', 'bit-integrations'),
+
+    'Format Chat' => __('Format Chat', 'bit-integrations'),
+
+    'Format Gallery' => __('Format Gallery', 'bit-integrations'),
+
+    'Format Image' => __('Format Image', 'bit-integrations'),
+
+    'Format Quote' => __('Format Quote', 'bit-integrations'),
+
+    'Format Status' => __('Format Status', 'bit-integrations'),
+
+    'Format Video' => __('Format Video', 'bit-integrations'),
+
+    'Forms' => __('Forms', 'bit-integrations'),
+
+    'Fullscreen Alt' => __('Fullscreen Alt', 'bit-integrations'),
+
+    'Fullscreen Exit Alt' => __('Fullscreen Exit Alt', 'bit-integrations'),
+
+    'Games' => __('Games', 'bit-integrations'),
+
+    'Google' => __('Google', 'bit-integrations'),
+
+    'Googleplus' => __('Googleplus', 'bit-integrations'),
+
+    'Grid View' => __('Grid View', 'bit-integrations'),
+
+    'Groups' => __('Groups', 'bit-integrations'),
+
+    'Hammer' => __('Hammer', 'bit-integrations'),
+
+    'Heading' => __('Heading', 'bit-integrations'),
+
+    'Heart' => __('Heart', 'bit-integrations'),
+
+    'Hidden' => __('Hidden', 'bit-integrations'),
+
+    'Hourglass' => __('Hourglass', 'bit-integrations'),
+
+    'Html' => __('Html', 'bit-integrations'),
+
+    'Id Alt' => __('Id Alt', 'bit-integrations'),
+
+    'Id' => __('Id', 'bit-integrations'),
+
+    'Image Crop' => __('Image Crop', 'bit-integrations'),
+
+    'Image Filter' => __('Image Filter', 'bit-integrations'),
+
+    'Image Flip Horizontal' => __('Image Flip Horizontal', 'bit-integrations'),
+
+    'Image Flip Vertical' => __('Image Flip Vertical', 'bit-integrations'),
+
+    'Image Rotate Left' => __('Image Rotate Left', 'bit-integrations'),
+
+    'Image Rotate Right' => __('Image Rotate Right', 'bit-integrations'),
+
+    'Image Rotate' => __('Image Rotate', 'bit-integrations'),
+
+    'Images Alt' => __('Images Alt', 'bit-integrations'),
+
+    'Images Alt2' => __('Images Alt2', 'bit-integrations'),
+
+    'Index Card' => __('Index Card', 'bit-integrations'),
+
+    'Info Outline' => __('Info Outline', 'bit-integrations'),
+
+    'Info' => __('Info', 'bit-integrations'),
+
+    'Insert After' => __('Insert After', 'bit-integrations'),
+
+    'Insert Before' => __('Insert Before', 'bit-integrations'),
+
+    'Insert' => __('Insert', 'bit-integrations'),
+
+    'Instagram' => __('Instagram', 'bit-integrations'),
+
+    'Laptop' => __('Laptop', 'bit-integrations'),
+
+    'Layout' => __('Layout', 'bit-integrations'),
+
+    'Leftright' => __('Leftright', 'bit-integrations'),
+
+    'Lightbulb' => __('Lightbulb', 'bit-integrations'),
+
+    'Linkedin' => __('Linkedin', 'bit-integrations'),
+
+    'List View' => __('List View', 'bit-integrations'),
+
+    'Location Alt' => __('Location Alt', 'bit-integrations'),
+
+    'Location' => __('Location', 'bit-integrations'),
+
+    'Lock Duplicate' => __('Lock Duplicate', 'bit-integrations'),
+
+    'Lock' => __('Lock', 'bit-integrations'),
+
+    'Marker' => __('Marker', 'bit-integrations'),
+
+    'Media Archive' => __('Media Archive', 'bit-integrations'),
+
+    'Media Audio' => __('Media Audio', 'bit-integrations'),
+
+    'Media Code' => __('Media Code', 'bit-integrations'),
+
+    'Media Default' => __('Media Default', 'bit-integrations'),
+
+    'Media Document' => __('Media Document', 'bit-integrations'),
+
+    'Media Interactive' => __('Media Interactive', 'bit-integrations'),
+
+    'Media Spreadsheet' => __('Media Spreadsheet', 'bit-integrations'),
+
+    'Media Text' => __('Media Text', 'bit-integrations'),
+
+    'Media Video' => __('Media Video', 'bit-integrations'),
+
+    'Megaphone' => __('Megaphone', 'bit-integrations'),
+
+    'Menu Alt' => __('Menu Alt', 'bit-integrations'),
+
+    'Menu Alt2' => __('Menu Alt2', 'bit-integrations'),
+
+    'Menu Alt3' => __('Menu Alt3', 'bit-integrations'),
+
+    'Menu' => __('Menu', 'bit-integrations'),
+
+    'Microphone' => __('Microphone', 'bit-integrations'),
+
+    'Migrate' => __('Migrate', 'bit-integrations'),
+
+    'Minus' => __('Minus', 'bit-integrations'),
+
+    'Money Alt' => __('Money Alt', 'bit-integrations'),
+
+    'Money' => __('Money', 'bit-integrations'),
+
+    'Move' => __('Move', 'bit-integrations'),
+
+    'Nametag' => __('Nametag', 'bit-integrations'),
+
+    'Networking' => __('Networking', 'bit-integrations'),
+
+    'No Alt' => __('No Alt', 'bit-integrations'),
+
+    'No' => __('No', 'bit-integrations'),
+
+    'Open Folder' => __('Open Folder', 'bit-integrations'),
+
+    'Palmtree' => __('Palmtree', 'bit-integrations'),
+
+    'Paperclip' => __('Paperclip', 'bit-integrations'),
+
+    'Pdf' => __('Pdf', 'bit-integrations'),
+
+    'Performance' => __('Performance', 'bit-integrations'),
+
+    'Pets' => __('Pets', 'bit-integrations'),
+
+    'Phone' => __('Phone', 'bit-integrations'),
+
+    'Pinterest' => __('Pinterest', 'bit-integrations'),
+
+    'Playlist Audio' => __('Playlist Audio', 'bit-integrations'),
+
+    'Playlist Video' => __('Playlist Video', 'bit-integrations'),
+
+    'Plugins Checked' => __('Plugins Checked', 'bit-integrations'),
+
+    'Plus Alt' => __('Plus Alt', 'bit-integrations'),
+
+    'Plus Alt2' => __('Plus Alt2', 'bit-integrations'),
+
+    'Plus' => __('Plus', 'bit-integrations'),
+
+    'Podio' => __('Podio', 'bit-integrations'),
+
+    'Portfolio' => __('Portfolio', 'bit-integrations'),
+
+    'Post Status' => __('Post Status', 'bit-integrations'),
+
+    'Pressthis' => __('Pressthis', 'bit-integrations'),
+
+    'Printer' => __('Printer', 'bit-integrations'),
+
+    'Privacy' => __('Privacy', 'bit-integrations'),
+
+    'Products' => __('Products', 'bit-integrations'),
+
+    'Randomize' => __('Randomize', 'bit-integrations'),
+
+    'Reddit' => __('Reddit', 'bit-integrations'),
+
+    'Redo' => __('Redo', 'bit-integrations'),
+
+    'Remove' => __('Remove', 'bit-integrations'),
+
+    'Rest Api' => __('Rest Api', 'bit-integrations'),
+
+    'Rss' => __('Rss', 'bit-integrations'),
+
+    'Saved' => __('Saved', 'bit-integrations'),
+
+    'Schedule' => __('Schedule', 'bit-integrations'),
+
+    'Screenoptions' => __('Screenoptions', 'bit-integrations'),
+
+    'Search' => __('Search', 'bit-integrations'),
+
+    'Share Alt' => __('Share Alt', 'bit-integrations'),
+
+    'Share Alt2' => __('Share Alt2', 'bit-integrations'),
+
+    'Share' => __('Share', 'bit-integrations'),
+
+    'Shield Alt' => __('Shield Alt', 'bit-integrations'),
+
+    'Shield' => __('Shield', 'bit-integrations'),
+
+    'Shortcode' => __('Shortcode', 'bit-integrations'),
+
+    'Slides' => __('Slides', 'bit-integrations'),
+
+    'Smartphone' => __('Smartphone', 'bit-integrations'),
+
+    'Smiley' => __('Smiley', 'bit-integrations'),
+
+    'Sos' => __('Sos', 'bit-integrations'),
+
+    'Spotify' => __('Spotify', 'bit-integrations'),
+
+    'Star Empty' => __('Star Empty', 'bit-integrations'),
+
+    'Star Filled' => __('Star Filled', 'bit-integrations'),
+
+    'Star Half' => __('Star Half', 'bit-integrations'),
+
+    'Sticky' => __('Sticky', 'bit-integrations'),
+
+    'Store' => __('Store', 'bit-integrations'),
+
+    'Superhero Alt' => __('Superhero Alt', 'bit-integrations'),
+
+    'Superhero' => __('Superhero', 'bit-integrations'),
+
+    'Table Col After' => __('Table Col After', 'bit-integrations'),
+
+    'Table Col Before' => __('Table Col Before', 'bit-integrations'),
+
+    'Table Col Delete' => __('Table Col Delete', 'bit-integrations'),
+
+    'Table Row After' => __('Table Row After', 'bit-integrations'),
+
+    'Table Row Before' => __('Table Row Before', 'bit-integrations'),
+
+    'Table Row Delete' => __('Table Row Delete', 'bit-integrations'),
+
+    'Tablet' => __('Tablet', 'bit-integrations'),
+
+    'Tag' => __('Tag', 'bit-integrations'),
+
+    'Tagcloud' => __('Tagcloud', 'bit-integrations'),
+
+    'Testimonial' => __('Testimonial', 'bit-integrations'),
+
+    'Text Page' => __('Text Page', 'bit-integrations'),
+
+    'Text' => __('Text', 'bit-integrations'),
+
+    'Thumbs Down' => __('Thumbs Down', 'bit-integrations'),
+
+    'Thumbs Up' => __('Thumbs Up', 'bit-integrations'),
+
+    'Tickets Alt' => __('Tickets Alt', 'bit-integrations'),
+
+    'Tickets' => __('Tickets', 'bit-integrations'),
+
+    'Tide' => __('Tide', 'bit-integrations'),
+
+    'Translation' => __('Translation', 'bit-integrations'),
+
+    'Trash' => __('Trash', 'bit-integrations'),
+
+    'Twitch' => __('Twitch', 'bit-integrations'),
+
+    'Twitter Alt' => __('Twitter Alt', 'bit-integrations'),
+
+    'Twitter' => __('Twitter', 'bit-integrations'),
+
+    'Undo' => __('Undo', 'bit-integrations'),
+
+    'Universal Access Alt' => __('Universal Access Alt', 'bit-integrations'),
+
+    'Universal Access' => __('Universal Access', 'bit-integrations'),
+
+    'Unlock' => __('Unlock', 'bit-integrations'),
+
+    'Update Alt' => __('Update Alt', 'bit-integrations'),
+
+    'Update' => __('Update', 'bit-integrations'),
+
+    'Upload' => __('Upload', 'bit-integrations'),
+
+    'Vault' => __('Vault', 'bit-integrations'),
+
+    'Video Alt' => __('Video Alt', 'bit-integrations'),
+
+    'Video Alt2' => __('Video Alt2', 'bit-integrations'),
+
+    'Video Alt3' => __('Video Alt3', 'bit-integrations'),
+
+    'Visibility' => __('Visibility', 'bit-integrations'),
+
+    'Warning' => __('Warning', 'bit-integrations'),
+
+    'Welcome Add Page' => __('Welcome Add Page', 'bit-integrations'),
+
+    'Welcome Comments' => __('Welcome Comments', 'bit-integrations'),
+
+    'Welcome Learn More' => __('Welcome Learn More', 'bit-integrations'),
+
+    'Welcome View Site' => __('Welcome View Site', 'bit-integrations'),
+
+    'Welcome Widgets Menus' => __('Welcome Widgets Menus', 'bit-integrations'),
+
+    'Welcome Write Blog' => __('Welcome Write Blog', 'bit-integrations'),
+
+    'Whatsapp' => __('Whatsapp', 'bit-integrations'),
+
+    'Wordpress Alt' => __('Wordpress Alt', 'bit-integrations'),
+
+    'Wordpress' => __('Wordpress', 'bit-integrations'),
+
+    'Xing' => __('Xing', 'bit-integrations'),
+
+    'Yes Alt' => __('Yes Alt', 'bit-integrations'),
+
+    'Yes' => __('Yes', 'bit-integrations'),
+
+    'Youtube' => __('Youtube', 'bit-integrations'),
+
+    'Moderate Comments' => __('Moderate Comments', 'bit-integrations'),
+
+    'Manage Options' => __('Manage Options', 'bit-integrations'),
+
+    'Manage Categories' => __('Manage Categories', 'bit-integrations'),
+
+    'Manage Links' => __('Manage Links', 'bit-integrations'),
+
+    'Unfiltered HTML' => __('Unfiltered HTML', 'bit-integrations'),
+
+    'Edit Others\' Posts' => __('Edit Others\' Posts', 'bit-integrations'),
+
+    'Edit Pages' => __('Edit Pages', 'bit-integrations'),
+
+    'Edit Others\' Pages' => __('Edit Others\' Pages', 'bit-integrations'),
+
+    'Edit Published Pages' => __('Edit Published Pages', 'bit-integrations'),
+
+    'Publish Pages' => __('Publish Pages', 'bit-integrations'),
+
+    'Delete Pages' => __('Delete Pages', 'bit-integrations'),
+
+    'Delete Others\' Pages' => __('Delete Others\' Pages', 'bit-integrations'),
+
+    'Delete Published Pages' => __('Delete Published Pages', 'bit-integrations'),
+
+    'Delete Others\' Posts' => __('Delete Others\' Posts', 'bit-integrations'),
+
+    'Delete Private Posts' => __('Delete Private Posts', 'bit-integrations'),
+
+    'Edit Private Posts' => __('Edit Private Posts', 'bit-integrations'),
+
+    'Read Private Posts' => __('Read Private Posts', 'bit-integrations'),
+
+    'Delete Private Pages' => __('Delete Private Pages', 'bit-integrations'),
+
+    'Edit Private Pages' => __('Edit Private Pages', 'bit-integrations'),
+
+    'Read Private Pages' => __('Read Private Pages', 'bit-integrations'),
+
     'Please map all required fields to continue.' => __('Please map all required fields to continue.', 'bit-integrations'),
 
     'Please select list to continue.' => __('Please select list to continue.', 'bit-integrations'),
@@ -69,8 +1139,6 @@ $bit_integrations_i18n_strings = array(
     'Access Api Key can\'t be empty' => __('Access Api Key can\'t be empty', 'bit-integrations'),
 
     'Access API URL can\'t be empty' => __('Access API URL can\'t be empty', 'bit-integrations'),
-
-    'Authorized Successfully' => __('Authorized Successfully', 'bit-integrations'),
 
     'Get api url and api key' => __('Get api url and api key', 'bit-integrations'),
 
@@ -89,10 +1157,6 @@ $bit_integrations_i18n_strings = array(
     'Checking API Key!!!' => __('Checking API Key!!!', 'bit-integrations'),
 
     'Sorry, Api key is invalid' => __('Sorry, Api key is invalid', 'bit-integrations'),
-
-    'Authorized ✔' => __('Authorized ✔', 'bit-integrations'),
-
-    'Authorize' => __('Authorize', 'bit-integrations'),
 
     'ActiveCampaign lists refreshed' => __('ActiveCampaign lists refreshed', 'bit-integrations'),
 
@@ -118,17 +1182,7 @@ $bit_integrations_i18n_strings = array(
 
     'ActiveCampaign fields refresh failed. please try again' => __('ActiveCampaign fields refresh failed. please try again', 'bit-integrations'),
 
-    'Select Field' => __('Select Field', 'bit-integrations'),
-
-    'Form Fields' => __('Form Fields', 'bit-integrations'),
-
-    'Custom...' => __('Custom...', 'bit-integrations'),
-
     'General Smart Codes' => __('General Smart Codes', 'bit-integrations'),
-
-    'Pro' => __('Pro', 'bit-integrations'),
-
-    'Custom Value' => __('Custom Value', 'bit-integrations'),
 
     'List:' => __('List:', 'bit-integrations'),
 
@@ -149,8 +1203,6 @@ $bit_integrations_i18n_strings = array(
     'Refresh Activecapmaign Field' => __('Refresh Activecapmaign Field', 'bit-integrations'),
 
     'ActiveCampaign Fields' => __('ActiveCampaign Fields', 'bit-integrations'),
-
-    'Utilities' => __('Utilities', 'bit-integrations'),
 
     'Add/Update Subscriber' => __('Add/Update Subscriber', 'bit-integrations'),
 
@@ -228,8 +1280,6 @@ $bit_integrations_i18n_strings = array(
 
     'Add Status' => __('Add Status', 'bit-integrations'),
 
-    'Ok' => __('Ok', 'bit-integrations'),
-
     'Status' => __('Status', 'bit-integrations'),
 
     'Select status of referral' => __('Select status of referral', 'bit-integrations'),
@@ -248,8 +1298,6 @@ $bit_integrations_i18n_strings = array(
 
     'Authorized failed' => __('Authorized failed', 'bit-integrations'),
 
-    'General Smart Codes %s' => __('General Smart Codes %s', 'bit-integrations'),
-
     'Select Affiliate:' => __('Select Affiliate:', 'bit-integrations'),
 
     'Fetch All Affiliate List' => __('Fetch All Affiliate List', 'bit-integrations'),
@@ -262,17 +1310,7 @@ $bit_integrations_i18n_strings = array(
 
     'Size' => __('Size', 'bit-integrations'),
 
-    'Email' => __('Email', 'bit-integrations'),
-
-    'Phone' => __('Phone', 'bit-integrations'),
-
     'Website' => __('Website', 'bit-integrations'),
-
-    'Facebook' => __('Facebook', 'bit-integrations'),
-
-    'Linkedin' => __('Linkedin', 'bit-integrations'),
-
-    'Twitter' => __('Twitter', 'bit-integrations'),
 
     'Skype' => __('Skype', 'bit-integrations'),
 
@@ -292,15 +1330,9 @@ $bit_integrations_i18n_strings = array(
 
     'Close Date' => __('Close Date', 'bit-integrations'),
 
-    'Please map mandatory fields' => __('Please map mandatory fields', 'bit-integrations'),
-
     'Please select a pipeline' => __('Please select a pipeline', 'bit-integrations'),
 
     'Please select a pipeline stage' => __('Please select a pipeline stage', 'bit-integrations'),
-
-    'Yes' => __('Yes', 'bit-integrations'),
-
-    'No' => __('No', 'bit-integrations'),
 
     'New Business' => __('New Business', 'bit-integrations'),
 
@@ -398,8 +1430,6 @@ $bit_integrations_i18n_strings = array(
 
     'Custom Field' => __('Custom Field', 'bit-integrations'),
 
-    'Select Action:' => __('Select Action:', 'bit-integrations'),
-
     'Select an action' => __('Select an action', 'bit-integrations'),
 
     'Create Account' => __('Create Account', 'bit-integrations'),
@@ -423,8 +1453,6 @@ $bit_integrations_i18n_strings = array(
     'Select Stage:' => __('Select Stage:', 'bit-integrations'),
 
     'Refresh pipeline stages' => __('Refresh pipeline stages', 'bit-integrations'),
-
-    'Field Map' => __('Field Map', 'bit-integrations'),
 
     'Agiled Fields' => __('Agiled Fields', 'bit-integrations'),
 
@@ -788,8 +1816,6 @@ $bit_integrations_i18n_strings = array(
 
     'Private' => __('Private', 'bit-integrations'),
 
-    'Hidden' => __('Hidden', 'bit-integrations'),
-
     'Active' => __('Active', 'bit-integrations'),
 
     'Suspend' => __('Suspend', 'bit-integrations'),
@@ -903,8 +1929,6 @@ $bit_integrations_i18n_strings = array(
     'Zip Code' => __('Zip Code', 'bit-integrations'),
 
     'Country' => __('Country', 'bit-integrations'),
-
-    'Title' => __('Title', 'bit-integrations'),
 
     'Opportunity Name' => __('Opportunity Name', 'bit-integrations'),
 
@@ -1222,8 +2246,6 @@ $bit_integrations_i18n_strings = array(
 
     'Finally, click <b>Authorize</b> button.' => __('Finally, click <b>Authorize</b> button.', 'bit-integrations'),
 
-    'Homepage URL:' => __('Homepage URL:', 'bit-integrations'),
-
     'Authorized Redirect URIs:' => __('Authorized Redirect URIs:', 'bit-integrations'),
 
     'To get Client ID and SECRET , Please Visit' => __('To get Client ID and SECRET , Please Visit', 'bit-integrations'),
@@ -1325,6 +2347,8 @@ $bit_integrations_i18n_strings = array(
     'Please select a Pipeline' => __('Please select a Pipeline', 'bit-integrations'),
 
     'Add an company' => __('Add an company', 'bit-integrations'),
+
+    'Add tags' => __('Add tags', 'bit-integrations'),
 
     'Add PipelineStage' => __('Add PipelineStage', 'bit-integrations'),
 
@@ -2198,8 +3222,6 @@ $bit_integrations_i18n_strings = array(
 
     'Add File from Bit Integrations to send Freshdsk.' => __('Add File from Bit Integrations to send Freshdsk.', 'bit-integrations'),
 
-    'Update' => __('Update', 'bit-integrations'),
-
     'Update Contact or Create Contact' => __('Update Contact or Create Contact', 'bit-integrations'),
 
     'Locate Your App Domain' => __('Locate Your App Domain', 'bit-integrations'),
@@ -2413,8 +3435,6 @@ $bit_integrations_i18n_strings = array(
     'Start Date Time' => __('Start Date Time', 'bit-integrations'),
 
     'End Date Time' => __('End Date Time', 'bit-integrations'),
-
-    'Location' => __('Location', 'bit-integrations'),
 
     '"skip if slot not free" can\'t be selected for this action.' => __('"skip if slot not free" can\'t be selected for this action.', 'bit-integrations'),
 
@@ -2970,7 +3990,7 @@ $bit_integrations_i18n_strings = array(
 
     'Unlock Premium Features with Pro Plugin' => __('Unlock Premium Features with Pro Plugin', 'bit-integrations'),
 
-    'The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integration Pro v(%s) plugin needs to be installed and activated to enable the %s feature', 'bit-integrations'),
+    'The Bit Integrations Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integrations Pro v(%s) plugin needs to be installed and activated to enable the %s feature', 'bit-integrations'),
 
     'Integration updated successfully' => __('Integration updated successfully', 'bit-integrations'),
 
@@ -3038,8 +4058,6 @@ $bit_integrations_i18n_strings = array(
 
     'Select existing menu item to add page after.' => __('Select existing menu item to add page after.', 'bit-integrations'),
 
-    'Menu Position' => __('Menu Position', 'bit-integrations'),
-
     'Select Menu Icon' => __('Select Menu Icon', 'bit-integrations'),
 
     'Icon will be visible in admin menu.' => __('Icon will be visible in admin menu.', 'bit-integrations'),
@@ -3072,8 +4090,6 @@ $bit_integrations_i18n_strings = array(
 
     'Whether to exclude posts with this post type from front end search results.' => __('Whether to exclude posts with this post type from front end search results.', 'bit-integrations'),
 
-    'Publicly Queryable' => __('Publicly Queryable', 'bit-integrations'),
-
     'Whether queries can be performed on the front end as part of parse_request().' => __('Whether queries can be performed on the front end as part of parse_request().', 'bit-integrations'),
 
     'Show Admin UI' => __('Show Admin UI', 'bit-integrations'),
@@ -3099,8 +4115,6 @@ $bit_integrations_i18n_strings = array(
     'Map Meta Cap' => __('Map Meta Cap', 'bit-integrations'),
 
     'Whether to use the internal default meta capability handling.' => __('Whether to use the internal default meta capability handling.', 'bit-integrations'),
-
-    'Hierarchical' => __('Hierarchical', 'bit-integrations'),
 
     'Rewrite Hierarchical' => __('Rewrite Hierarchical', 'bit-integrations'),
 
@@ -3150,37 +4164,13 @@ $bit_integrations_i18n_strings = array(
 
     'Singular Name' => __('Singular Name', 'bit-integrations'),
 
-    'Add New' => __('Add New', 'bit-integrations'),
-
-    'Add New Item' => __('Add New Item', 'bit-integrations'),
-
-    'New Item' => __('New Item', 'bit-integrations'),
-
-    'Edit Item' => __('Edit Item', 'bit-integrations'),
-
-    'View Item' => __('View Item', 'bit-integrations'),
-
-    'All Items' => __('All Items', 'bit-integrations'),
-
     'Search for items' => __('Search for items', 'bit-integrations'),
-
-    'Parent Item' => __('Parent Item', 'bit-integrations'),
-
-    'Not Found' => __('Not Found', 'bit-integrations'),
 
     'Not Found In trash' => __('Not Found In trash', 'bit-integrations'),
 
     'Admin Menu' => __('Admin Menu', 'bit-integrations'),
 
     'Add New on Toolbar' => __('Add New on Toolbar', 'bit-integrations'),
-
-    'Featured Image' => __('Featured Image', 'bit-integrations'),
-
-    'Set Featured Image' => __('Set Featured Image', 'bit-integrations'),
-
-    'Remove Featured Image' => __('Remove Featured Image', 'bit-integrations'),
-
-    'Use Featured Image' => __('Use Featured Image', 'bit-integrations'),
 
     'The post type archive label used in nav menus' => __('The post type archive label used in nav menus', 'bit-integrations'),
 
@@ -3193,8 +4183,6 @@ $bit_integrations_i18n_strings = array(
     'Content Type UI Access Capability' => __('Content Type UI Access Capability', 'bit-integrations'),
 
     'Taxonomy Name' => __('Taxonomy Name', 'bit-integrations'),
-
-    'Singular name' => __('Singular name', 'bit-integrations'),
 
     'Menu name text' => __('Menu name text', 'bit-integrations'),
 
@@ -3256,15 +4244,11 @@ $bit_integrations_i18n_strings = array(
 
     'Update Custom Content Type' => __('Update Custom Content Type', 'bit-integrations'),
 
-    'Update Taxonomy' => __('Update Taxonomy', 'bit-integrations'),
-
     'Update Relation' => __('Update Relation', 'bit-integrations'),
 
     'Delete Post Type' => __('Delete Post Type', 'bit-integrations'),
 
     'Delete Custom Content Type' => __('Delete Custom Content Type', 'bit-integrations'),
-
-    'Delete Taxonomy' => __('Delete Taxonomy', 'bit-integrations'),
 
     'Delete Relation' => __('Delete Relation', 'bit-integrations'),
 
@@ -3740,8 +4724,6 @@ $bit_integrations_i18n_strings = array(
 
     'Address type' => __('Address type', 'bit-integrations'),
 
-    'Add tags' => __('Add tags', 'bit-integrations'),
-
     'Get the Redirect URI, Client Id and Client Secret' => __('Get the Redirect URI, Client Id and Client Secret', 'bit-integrations'),
 
     'First go to your Lion Desk Developer Center Apps.' => __('First go to your Lion Desk Developer Center Apps.', 'bit-integrations'),
@@ -3836,13 +4818,9 @@ $bit_integrations_i18n_strings = array(
 
     'Click on "License Manager " from right top corner menu' => __('Click on "License Manager " from right top corner menu', 'bit-integrations'),
 
-    'Then click "REST API" from the top sub menu' => __('Then click "REST API" from the top sub menu', 'bit-integrations'),
-
     'Then click "Add key" button at the top of the page' => __('Then click "Add key" button at the top of the page', 'bit-integrations'),
 
     'FIll the form & click "Generate API Key"' => __('FIll the form & click "Generate API Key"', 'bit-integrations'),
-
-    'Homepage URL...' => __('Homepage URL...', 'bit-integrations'),
 
     'Consumer key:' => __('Consumer key:', 'bit-integrations'),
 
@@ -3857,36 +4835,6 @@ $bit_integrations_i18n_strings = array(
     'Consumer secret can\'t be empty' => __('Consumer secret can\'t be empty', 'bit-integrations'),
 
     'Authorized failed, Please enter valid Consumer key & Consumer secret' => __('Authorized failed, Please enter valid Consumer key & Consumer secret', 'bit-integrations'),
-
-    'Customers fetched successfully' => __('Customers fetched successfully', 'bit-integrations'),
-
-    'Customers Not Found!' => __('Customers Not Found!', 'bit-integrations'),
-
-    'Customers fetching failed' => __('Customers fetching failed', 'bit-integrations'),
-
-    'Product fetched successfully' => __('Product fetched successfully', 'bit-integrations'),
-
-    'Product Not Found!' => __('Product Not Found!', 'bit-integrations'),
-
-    'Product fetching failed' => __('Product fetching failed', 'bit-integrations'),
-
-    'Order fetched successfully' => __('Order fetched successfully', 'bit-integrations'),
-
-    'Order Not Found!' => __('Order Not Found!', 'bit-integrations'),
-
-    'Order fetching failed' => __('Order fetching failed', 'bit-integrations'),
-
-    'License fetched successfully' => __('License fetched successfully', 'bit-integrations'),
-
-    'License Not Found!' => __('License Not Found!', 'bit-integrations'),
-
-    'License fetching failed' => __('License fetching failed', 'bit-integrations'),
-
-    'Generator fetched successfully' => __('Generator fetched successfully', 'bit-integrations'),
-
-    'Generator Not Found!' => __('Generator Not Found!', 'bit-integrations'),
-
-    'Generator fetching failed' => __('Generator fetching failed', 'bit-integrations'),
 
     'You can also use Valid for (the number of days) instead of Expires at' => __('You can also use Valid for (the number of days) instead of Expires at', 'bit-integrations'),
 
@@ -4052,8 +5000,6 @@ $bit_integrations_i18n_strings = array(
 
     'Spam Complaints' => __('Spam Complaints', 'bit-integrations'),
 
-    'Groups' => __('Groups', 'bit-integrations'),
-
     'Add Groups' => __('Add Groups', 'bit-integrations'),
 
     'Update subscriber' => __('Update subscriber', 'bit-integrations'),
@@ -4133,6 +5079,8 @@ $bit_integrations_i18n_strings = array(
     'Select Lists:' => __('Select Lists:', 'bit-integrations'),
 
     'Mailjet Fields' => __('Mailjet Fields', 'bit-integrations'),
+
+    'Please integrations name is required.' => __('Please integrations name is required.', 'bit-integrations'),
 
     'Add contact' => __('Add contact', 'bit-integrations'),
 
@@ -5026,8 +5974,6 @@ $bit_integrations_i18n_strings = array(
 
     'Post Type' => __('Post Type', 'bit-integrations'),
 
-    'Post Status' => __('Post Status', 'bit-integrations'),
-
     'Publish' => __('Publish', 'bit-integrations'),
 
     'Draft' => __('Draft', 'bit-integrations'),
@@ -5037,8 +5983,6 @@ $bit_integrations_i18n_strings = array(
     'Auto-Draft' => __('Auto-Draft', 'bit-integrations'),
 
     'Comment Status' => __('Comment Status', 'bit-integrations'),
-
-    'Author' => __('Author', 'bit-integrations'),
 
     'Select Author' => __('Select Author', 'bit-integrations'),
 
@@ -5694,8 +6638,6 @@ $bit_integrations_i18n_strings = array(
 
     'State Province Region' => __('State Province Region', 'bit-integrations'),
 
-    'Whatsapp' => __('Whatsapp', 'bit-integrations'),
-
     'Line' => __('Line', 'bit-integrations'),
 
     'Unique Name' => __('Unique Name', 'bit-integrations'),
@@ -5780,7 +6722,7 @@ $bit_integrations_i18n_strings = array(
 
     'SendPulse Fields' => __('SendPulse Fields', 'bit-integrations'),
 
-    'Custom Fields are available exclusively in Bit Integration Pro starting from version 2.2.0.' => __('Custom Fields are available exclusively in Bit Integration Pro starting from version 2.2.0.', 'bit-integrations'),
+    'Custom Fields are available exclusively in Bit Integrations Pro starting from version 2.2.0.' => __('Custom Fields are available exclusively in Bit Integrations Pro starting from version 2.2.0.', 'bit-integrations'),
 
     'Sendy URL can\'t be empty' => __('Sendy URL can\'t be empty', 'bit-integrations'),
 
@@ -6087,8 +7029,6 @@ $bit_integrations_i18n_strings = array(
     'Boards:' => __('Boards:', 'bit-integrations'),
 
     'Select Board' => __('Select Board', 'bit-integrations'),
-
-    'Custom Fields' => __('Custom Fields', 'bit-integrations'),
 
     'Connected with Tutor LMS Successfully' => __('Connected with Tutor LMS Successfully', 'bit-integrations'),
 
@@ -7534,11 +8474,7 @@ $bit_integrations_i18n_strings = array(
 
     'Column  Visibility' => __('Column  Visibility', 'bit-integrations'),
 
-    'Info' => __('Info', 'bit-integrations'),
-
     'Timeline' => __('Timeline', 'bit-integrations'),
-
-    'Edit' => __('Edit', 'bit-integrations'),
 
     'Clone' => __('Clone', 'bit-integrations'),
 
@@ -7565,8 +8501,6 @@ $bit_integrations_i18n_strings = array(
     'Unlock Premium Features with' => __('Unlock Premium Features with', 'bit-integrations'),
 
     'Thanks for using our product! You can explore our Pro plugin with a 7-day trial. Please note that your data will be deleted once the trial ends.' => __('Thanks for using our product! You can explore our Pro plugin with a 7-day trial. Please note that your data will be deleted once the trial ends.', 'bit-integrations'),
-
-    'Search' => __('Search', 'bit-integrations'),
 
     'Do You want Deplicate these' => __('Do You want Deplicate these', 'bit-integrations'),
 

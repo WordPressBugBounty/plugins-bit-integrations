@@ -1,1 +1,1 @@
-var e=""+new URL("kadence.webp",import.meta.url).href;export{e as default};
+var r=""+new URL("groundhogg.webp",import.meta.url).href;export{r as default};
