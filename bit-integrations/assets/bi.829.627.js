@@ -1,1 +1,1 @@
-var r=""+new URL("quillForms.webp",import.meta.url).href;export{r as default};
+var e=""+new URL("perfexCRM.webp",import.meta.url).href;export{e as default};

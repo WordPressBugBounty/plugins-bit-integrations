@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.6.9\n"
+"Project-Id-Version: Bit Integrations 2.6.10\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-09-14T10:00:05+00:00\n"
+"POT-Creation-Date: 2025-09-20T12:25:41+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: bit-integrations\n"
@@ -164,7 +164,7 @@ msgstr ""
 #: includes/Actions/Encharge/EnchargeController.php:110
 #: includes/Actions/Flowlu/FlowluController.php:369
 #: includes/Actions/FluentCrm/FluentCrmController.php:179
-#: includes/Actions/Freshdesk/FreshdeskController.php:198
+#: includes/Actions/Freshdesk/FreshdeskController.php:202
 #: includes/Actions/FreshSales/FreshSalesController.php:186
 #: includes/Actions/Getgist/GetgistController.php:49
 #: includes/Actions/GetResponse/GetResponseController.php:152
@@ -330,9 +330,9 @@ msgstr ""
 #: includes/Actions/Freshdesk/FreshdeskController.php:72
 #: includes/Actions/Freshdesk/FreshdeskController.php:138
 #: includes/Actions/Freshdesk/RecordApiHelper.php:35
-#: includes/Actions/Freshdesk/RecordApiHelper.php:109
-#: includes/Actions/Freshdesk/RecordApiHelper.php:133
-#: includes/Actions/Freshdesk/RecordApiHelper.php:165
+#: includes/Actions/Freshdesk/RecordApiHelper.php:122
+#: includes/Actions/Freshdesk/RecordApiHelper.php:146
+#: includes/Actions/Freshdesk/RecordApiHelper.php:179
 #: includes/Actions/FreshSales/FreshSalesController.php:21
 #: includes/Actions/FreshSales/FreshSalesController.php:53
 #: includes/Actions/FreshSales/FreshSalesController.php:83
@@ -456,7 +456,7 @@ msgstr ""
 #: includes/Actions/Salesforce/SalesforceController.php:218
 #: includes/Actions/Salesforce/SalesforceController.php:254
 #: includes/Actions/Salesforce/SalesforceController.php:290
-#: includes/Actions/Salesforce/SalesforceController.php:523
+#: includes/Actions/Salesforce/SalesforceController.php:522
 #: includes/Actions/Salesmate/SalesmateController.php:242
 #: includes/Actions/Selzy/SelzyController.php:23
 #: includes/Actions/Selzy/SelzyController.php:48
@@ -2646,7 +2646,7 @@ msgstr ""
 msgid "Created case id is : %s"
 msgstr ""
 
-#: includes/Actions/Salesforce/SalesforceController.php:399
+#: includes/Actions/Salesforce/SalesforceController.php:397
 #: includes/Actions/ZohoDesk/ZohoDeskController.php:404
 msgid "list are required for zoho desk api"
 msgstr ""
