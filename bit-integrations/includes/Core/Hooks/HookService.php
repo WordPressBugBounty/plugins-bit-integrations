@@ -80,8 +80,15 @@ class HookService
             $activeTrigger = [];
         }
 
-        $listedTriggers = ['ActionHook', 'Spectra', 'EssentialBlocks', 'Elementor', 'FallbackTrigger'];
-        $activeTrigger = array_merge($activeTrigger, $listedTriggers);
+        $listedTrigger = get_option('btcbi_selected_trigger', []);
+        $activeTrigger = array_unique(
+            array_merge(
+                $activeTrigger,
+                \is_string($listedTrigger)
+                    ? [$listedTrigger]
+                    : $listedTrigger
+            )
+        );
 
         if (empty($activeTrigger) || !\is_array($activeTrigger)) {
             return;
@@ -101,6 +108,10 @@ class HookService
      */
     private function _includeTriggerTaskHooks($task_name)
     {
+        if (!\is_string($task_name) || empty($task_name)) {
+            return;
+        }
+
         $task_dir = BTCBI_PLUGIN_BASEDIR . 'includes' . DIRECTORY_SEPARATOR;
         $task_path = $task_dir . 'Triggers' . DIRECTORY_SEPARATOR . $task_name . DIRECTORY_SEPARATOR;
         if (is_readable($task_path . 'Hooks.php')) {

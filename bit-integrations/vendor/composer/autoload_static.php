@@ -7,12 +7,12 @@ namespace Composer\Autoload;
 class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
 {
     public static $prefixLengthsPsr4 = array (
-        'T' => 
+        'T' =>
         array (
             'TypistTech\\Imposter\\Plugin\\' => 27,
             'TypistTech\\Imposter\\' => 20,
         ),
-        'B' => 
+        'B' =>
         array (
             'BitCode\\FI\\' => 11,
             'BitApps\\WPTelemetry\\' => 20,
@@ -20,19 +20,19 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
     );
 
     public static $prefixDirsPsr4 = array (
-        'TypistTech\\Imposter\\Plugin\\' => 
+        'TypistTech\\Imposter\\Plugin\\' =>
         array (
             0 => __DIR__ . '/..' . '/typisttech/imposter-plugin/src',
         ),
-        'TypistTech\\Imposter\\' => 
+        'TypistTech\\Imposter\\' =>
         array (
             0 => __DIR__ . '/..' . '/typisttech/imposter/src',
         ),
-        'BitCode\\FI\\' => 
+        'BitCode\\FI\\' =>
         array (
             0 => __DIR__ . '/../..' . '/includes',
         ),
-        'BitApps\\WPTelemetry\\' => 
+        'BitApps\\WPTelemetry\\' =>
         array (
             0 => __DIR__ . '/..' . '/bitapps/wp-telemetry/src',
         ),
@@ -113,9 +113,13 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Actions\\EmailOctopus\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/EmailOctopus/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Encharge\\EnchargeController' => __DIR__ . '/../..' . '/includes/Actions/Encharge/EnchargeController.php',
         'BitCode\\FI\\Actions\\Encharge\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Encharge/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\Fabman\\FabmanController' => __DIR__ . '/../..' . '/includes/Actions/Fabman/FabmanController.php',
+        'BitCode\\FI\\Actions\\Fabman\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Fabman/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\FlowMattic\\FlowMatticController' => __DIR__ . '/../..' . '/includes/Actions/FlowMattic/FlowMatticController.php',
         'BitCode\\FI\\Actions\\Flowlu\\FlowluController' => __DIR__ . '/../..' . '/includes/Actions/Flowlu/FlowluController.php',
         'BitCode\\FI\\Actions\\Flowlu\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Flowlu/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\FluentCart\\FluentCartController' => __DIR__ . '/../..' . '/includes/Actions/FluentCart/FluentCartController.php',
+        'BitCode\\FI\\Actions\\FluentCart\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/FluentCart/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\FluentCrm\\FluentCrmController' => __DIR__ . '/../..' . '/includes/Actions/FluentCrm/FluentCrmController.php',
         'BitCode\\FI\\Actions\\FluentCrm\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/FluentCrm/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\FluentSupport\\FluentSupportController' => __DIR__ . '/../..' . '/includes/Actions/FluentSupport/FluentSupportController.php',
@@ -190,6 +194,8 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Actions\\Mail\\MailController' => __DIR__ . '/../..' . '/includes/Actions/Mail/MailController.php',
         'BitCode\\FI\\Actions\\MailerLite\\MailerLiteController' => __DIR__ . '/../..' . '/includes/Actions/MailerLite/MailerLiteController.php',
         'BitCode\\FI\\Actions\\MailerLite\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/MailerLite/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\MailerPress\\MailerPressController' => __DIR__ . '/../..' . '/includes/Actions/MailerPress/MailerPressController.php',
+        'BitCode\\FI\\Actions\\MailerPress\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/MailerPress/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Mailercloud\\MailercloudController' => __DIR__ . '/../..' . '/includes/Actions/Mailercloud/MailercloudController.php',
         'BitCode\\FI\\Actions\\Mailercloud\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Mailercloud/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Mailify\\MailifyController' => __DIR__ . '/../..' . '/includes/Actions/Mailify/MailifyController.php',
@@ -264,6 +270,8 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Actions\\SendinBlue\\SendinBlueController' => __DIR__ . '/../..' . '/includes/Actions/SendinBlue/SendinBlueController.php',
         'BitCode\\FI\\Actions\\Sendy\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Sendy/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Sendy\\SendyController' => __DIR__ . '/../..' . '/includes/Actions/Sendy/SendyController.php',
+        'BitCode\\FI\\Actions\\SeoPress\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/SeoPress/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\SeoPress\\SeoPressController' => __DIR__ . '/../..' . '/includes/Actions/SeoPress/SeoPressController.php',
         'BitCode\\FI\\Actions\\Slack\\FilesApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Slack/FilesApiHelper.php',
         'BitCode\\FI\\Actions\\Slack\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Slack/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Slack\\SlackController' => __DIR__ . '/../..' . '/includes/Actions/Slack/SlackController.php',
@@ -284,6 +292,8 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Actions\\SyncSpider\\SyncSpiderController' => __DIR__ . '/../..' . '/includes/Actions/SyncSpider/SyncSpiderController.php',
         'BitCode\\FI\\Actions\\SystemeIO\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/SystemeIO/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\SystemeIO\\SystemeIOController' => __DIR__ . '/../..' . '/includes/Actions/SystemeIO/SystemeIOController.php',
+        'BitCode\\FI\\Actions\\TeamsForWooCommerceMemberships\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/TeamsForWooCommerceMemberships/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\TeamsForWooCommerceMemberships\\TeamsForWooCommerceMembershipsController' => __DIR__ . '/../..' . '/includes/Actions/TeamsForWooCommerceMemberships/TeamsForWooCommerceMembershipsController.php',
         'BitCode\\FI\\Actions\\Telegram\\FilesApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Telegram/FilesApiHelper.php',
         'BitCode\\FI\\Actions\\Telegram\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/Telegram/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\Telegram\\TelegramController' => __DIR__ . '/../..' . '/includes/Actions/Telegram/TelegramController.php',
@@ -302,6 +312,8 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Actions\\Voxel\\VoxelController' => __DIR__ . '/../..' . '/includes/Actions/Voxel/VoxelController.php',
         'BitCode\\FI\\Actions\\Voxel\\VoxelHelper' => __DIR__ . '/../..' . '/includes/Actions/Voxel/VoxelHelper.php',
         'BitCode\\FI\\Actions\\Voxel\\VoxelTasks' => __DIR__ . '/../..' . '/includes/Actions/Voxel/VoxelTasks.php',
+        'BitCode\\FI\\Actions\\WPCafe\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/WPCafe/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\WPCafe\\WPCafeController' => __DIR__ . '/../..' . '/includes/Actions/WPCafe/WPCafeController.php',
         'BitCode\\FI\\Actions\\WPCourseware\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/WPCourseware/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\WPCourseware\\WPCoursewareController' => __DIR__ . '/../..' . '/includes/Actions/WPCourseware/WPCoursewareController.php',
         'BitCode\\FI\\Actions\\WPForo\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/WPForo/RecordApiHelper.php',
@@ -311,6 +323,8 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Actions\\WebHooks\\WebHooksController' => __DIR__ . '/../..' . '/includes/Actions/WebHooks/WebHooksController.php',
         'BitCode\\FI\\Actions\\WhatsApp\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/WhatsApp/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\WhatsApp\\WhatsAppController' => __DIR__ . '/../..' . '/includes/Actions/WhatsApp/WhatsAppController.php',
+        'BitCode\\FI\\Actions\\WishlistMember\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/WishlistMember/RecordApiHelper.php',
+        'BitCode\\FI\\Actions\\WishlistMember\\WishlistMemberController' => __DIR__ . '/../..' . '/includes/Actions/WishlistMember/WishlistMemberController.php',
         'BitCode\\FI\\Actions\\WooCommerce\\RecordApiHelper' => __DIR__ . '/../..' . '/includes/Actions/WooCommerce/RecordApiHelper.php',
         'BitCode\\FI\\Actions\\WooCommerce\\WooCommerceController' => __DIR__ . '/../..' . '/includes/Actions/WooCommerce/WooCommerceController.php',
         'BitCode\\FI\\Actions\\WooCommerce\\WooCommerceMetaFields' => __DIR__ . '/../..' . '/includes/Actions/WooCommerce/WooCommerceMetaFields.php',
@@ -374,6 +388,7 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Core\\Util\\CustomFuncValidator' => __DIR__ . '/../..' . '/includes/Core/Util/CustomFuncValidator.php',
         'BitCode\\FI\\Core\\Util\\DateTimeHelper' => __DIR__ . '/../..' . '/includes/Core/Util/DateTimeHelper.php',
         'BitCode\\FI\\Core\\Util\\Deactivation' => __DIR__ . '/../..' . '/includes/Core/Util/Deactivation.php',
+        'BitCode\\FI\\Core\\Util\\EmailNotification' => __DIR__ . '/../..' . '/includes/Core/Util/EmailNotification.php',
         'BitCode\\FI\\Core\\Util\\Helper' => __DIR__ . '/../..' . '/includes/Core/Util/Helper.php',
         'BitCode\\FI\\Core\\Util\\Hooks' => __DIR__ . '/../..' . '/includes/Core/Util/Hooks.php',
         'BitCode\\FI\\Core\\Util\\HttpHelper' => __DIR__ . '/../..' . '/includes/Core/Util/HttpHelper.php',
@@ -391,7 +406,10 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Log\\LogHandler' => __DIR__ . '/../..' . '/includes/Log/LogHandler.php',
         'BitCode\\FI\\Plugin' => __DIR__ . '/../..' . '/includes/Plugin.php',
         'BitCode\\FI\\Triggers\\ActionHook\\ActionHookController' => __DIR__ . '/../..' . '/includes/Triggers/ActionHook/ActionHookController.php',
+        'BitCode\\FI\\Triggers\\BitAssist\\BitAssistController' => __DIR__ . '/../..' . '/includes/Triggers/BitAssist/BitAssistController.php',
         'BitCode\\FI\\Triggers\\BitForm\\BitFormController' => __DIR__ . '/../..' . '/includes/Triggers/BitForm/BitFormController.php',
+        'BitCode\\FI\\Triggers\\BitSocial\\BitSocialController' => __DIR__ . '/../..' . '/includes/Triggers/BitSocial/BitSocialController.php',
+        'BitCode\\FI\\Triggers\\BitSocial\\StaticData' => __DIR__ . '/../..' . '/includes/Triggers/BitSocial/StaticData.php',
         'BitCode\\FI\\Triggers\\Breakdance\\BreakdanceAction' => __DIR__ . '/../..' . '/includes/Triggers/Breakdance/BreakdanceAction.php',
         'BitCode\\FI\\Triggers\\Breakdance\\BreakdanceController' => __DIR__ . '/../..' . '/includes/Triggers/Breakdance/BreakdanceController.php',
         'BitCode\\FI\\Triggers\\Breakdance\\BreakdanceHelper' => __DIR__ . '/../..' . '/includes/Triggers/Breakdance/BreakdanceHelper.php',
@@ -406,6 +424,7 @@ class ComposerStaticInit58e2cfdd53b3d3da8745d731eeaef8ae
         'BitCode\\FI\\Triggers\\WC\\WCHelper' => __DIR__ . '/../..' . '/includes/Triggers/WC/WCHelper.php',
         'BitCode\\FI\\Triggers\\WC\\WCStaticFields' => __DIR__ . '/../..' . '/includes/Triggers/WC/WCStaticFields.php',
         'BitCode\\FI\\Triggers\\WPF\\WPFController' => __DIR__ . '/../..' . '/includes/Triggers/WPF/WPFController.php',
+        'BitCode\\FI\\Triggers\\Webhook\\WebhookController' => __DIR__ . '/../..' . '/includes/Triggers/Webhook/WebhookController.php',
         'BitCode\\FI\\controller\\AuthDataController' => __DIR__ . '/../..' . '/includes/controller/AuthDataController.php',
         'BitCode\\FI\\controller\\BtcbiAnalyticsController' => __DIR__ . '/../..' . '/includes/controller/BtcbiAnalyticsController.php',
         'BitCode\\FI\\controller\\OneClickCredentialController' => __DIR__ . '/../..' . '/includes/controller/OneClickCredentialController.php',
