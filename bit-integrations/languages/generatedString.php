@@ -16,6 +16,7 @@ $bit_integrations_i18n_strings = array(
 
     'Checking if Academy Lms is active!!!' => __('Checking if Academy Lms is active!!!', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     '%s plugin must be activated to integrate with Bit Integrations' => __('%s plugin must be activated to integrate with Bit Integrations', 'bit-integrations'),
 
     'Connect' => __('Connect', 'bit-integrations'),
@@ -178,6 +179,7 @@ $bit_integrations_i18n_strings = array(
 
     'Custom...' => __('Custom...', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'General Smart Codes %s' => __('General Smart Codes %s', 'bit-integrations'),
 
     'Pro' => __('Pro', 'bit-integrations'),
@@ -1518,6 +1520,7 @@ $bit_integrations_i18n_strings = array(
 
     'Connect Successfully' => __('Connect Successfully', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Please! First Install or Active %s Plugin' => __('Please! First Install or Active %s Plugin', 'bit-integrations'),
 
     'Connected ✔' => __('Connected ✔', 'bit-integrations'),
@@ -2222,14 +2225,18 @@ $bit_integrations_i18n_strings = array(
 
     'Please select tag continue.' => __('Please select tag continue.', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Update %s' => __('Update %s', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Update Responses with %s existing email?' => __('Update Responses with %s existing email?', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'First go to your %s dashboard.' => __('First go to your %s dashboard.', 'bit-integrations'),
 
     'Click "Settings", Then click "Advanced"' => __('Click "Settings", Then click "Advanced"', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     '%s API Token' => __('%s API Token', 'bit-integrations'),
 
     'Checking API Secret Key' => __('Checking API Secret Key', 'bit-integrations'),
@@ -2238,28 +2245,38 @@ $bit_integrations_i18n_strings = array(
 
     'No Convert Kit forms found. Try changing the header row number or try again' => __('No Convert Kit forms found. Try changing the header row number or try again', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     '%s forms refresh failed. please try again' => __('%s forms refresh failed. please try again', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     '%s tags refreshed' => __('%s tags refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'No %s tags found. Try changing the header row number or try again' => __('No %s tags found. Try changing the header row number or try again', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     '%s tags refresh failed. please try again' => __('%s tags refresh failed. please try again', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     '%s fields refreshed' => __('%s fields refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'No %s fields found. Try changing the header row number or try again' => __('No %s fields found. Try changing the header row number or try again', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     '%s fields refresh failed. please try again' => __('%s fields refresh failed. please try again', 'bit-integrations'),
 
     'Select Module:' => __('Select Module:', 'bit-integrations'),
 
     'Form:' => __('Form:', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Refresh %s Tags' => __('Refresh %s Tags', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Refresh %s Field' => __('Refresh %s Field', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     '%s Fields' => __('%s Fields', 'bit-integrations'),
 
     'Value' => __('Value', 'bit-integrations'),
@@ -2904,6 +2921,7 @@ $bit_integrations_i18n_strings = array(
 
     'To get your Fabman API key:' => __('To get your Fabman API key:', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Log in to your %s.' => __('Log in to your %s.', 'bit-integrations'),
 
     'Go to "Configure" → "Integrations (API & Webhooks)".' => __('Go to "Configure" → "Integrations (API & Webhooks)".', 'bit-integrations'),
@@ -3810,9 +3828,11 @@ $bit_integrations_i18n_strings = array(
 
     'GoogleDrive Client Secret:' => __('GoogleDrive Client Secret:', 'bit-integrations'),
 
+    'Client Secret.....' => __('Client Secret.....', 'bit-integrations'),
+
     'GoogleDrive Folders List refreshed successfully' => __('GoogleDrive Folders List refreshed successfully', 'bit-integrations'),
 
-    'GoogleDrive Folders List refresh failed. please try again' => __('GoogleDrive Folders List refresh failed. please try again', 'bit-integrations'),
+    'Failed to refresh GoogleDrive Folders List. please try again' => __('Failed to refresh GoogleDrive Folders List. please try again', 'bit-integrations'),
 
     'Loading GoogleDrive Folders List...' => __('Loading GoogleDrive Folders List...', 'bit-integrations'),
 
@@ -3826,6 +3846,7 @@ $bit_integrations_i18n_strings = array(
 
     'Spreadsheet refreshed' => __('Spreadsheet refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Spreadsheet refresh failed Cause: %s. please try again' => __('Spreadsheet refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Spreadsheet refresh failed. please try again' => __('Spreadsheet refresh failed. please try again', 'bit-integrations'),
@@ -4302,7 +4323,8 @@ $bit_integrations_i18n_strings = array(
 
     'Unlock Premium Features with Pro Plugin' => __('Unlock Premium Features with Pro Plugin', 'bit-integrations'),
 
-    'The Bit Integrations Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integrations Pro v(%s) plugin needs to be installed and activated to enable the %s feature', 'bit-integrations'),
+    /* translators: 1: %1$s placeholder 2: %2$s placeholder */
+    'The Bit Integrations Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integrations Pro v(%1$s) plugin needs to be installed and activated to enable the %2$s feature', 'bit-integrations'),
 
     'Failed to save integration' => __('Failed to save integration', 'bit-integrations'),
 
@@ -5280,6 +5302,7 @@ $bit_integrations_i18n_strings = array(
 
     'Write down GDPR marketing options' => __('Write down GDPR marketing options', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Write down your preferred GDPR marketing options, separated by commas %s. For example: Email Address, Phone Number.' => __('Write down your preferred GDPR marketing options, separated by commas %s. For example: Email Address, Phone Number.', 'bit-integrations'),
 
     'GDPR Marketing Preferences...' => __('GDPR Marketing Preferences...', 'bit-integrations'),
@@ -5292,12 +5315,14 @@ $bit_integrations_i18n_strings = array(
 
     'Audience list refreshed' => __('Audience list refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Audience list refresh failed Cause: %s. please try again' => __('Audience list refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Audience list failed. please try again' => __('Audience list failed. please try again', 'bit-integrations'),
 
     'Audience tags refreshed' => __('Audience tags refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Audience tags refresh failed Cause: %s. please try again' => __('Audience tags refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Audience tags failed. please try again' => __('Audience tags failed. please try again', 'bit-integrations'),
@@ -5800,7 +5825,8 @@ $bit_integrations_i18n_strings = array(
 
     'Not Confirmed' => __('Not Confirmed', 'bit-integrations'),
 
-    'you have to insert one of the mentioned %s statuses; otherwise, subscriber adding will fail. You can also omit this status field; if omitted, the status will be set to %s by default' => __('you have to insert one of the mentioned %s statuses; otherwise, subscriber adding will fail. You can also omit this status field; if omitted, the status will be set to %s by default', 'bit-integrations'),
+    /* translators: 1: %1$s placeholder 2: %2$s placeholder */
+    'you have to insert one of the mentioned %s statuses; otherwise, subscriber adding will fail. You can also omit this status field; if omitted, the status will be set to %s by default' => __('you have to insert one of the mentioned %1$s statuses; otherwise, subscriber adding will fail. You can also omit this status field; if omitted, the status will be set to %2$s by default', 'bit-integrations'),
 
     'Newsletter Fields' => __('Newsletter Fields', 'bit-integrations'),
 
@@ -6272,32 +6298,38 @@ $bit_integrations_i18n_strings = array(
 
     'Organizations refreshed' => __('Organizations refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Organizations refresh failed Cause: %s. please try again' => __('Organizations refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Organizations refresh failed. please try again' => __('Organizations refresh failed. please try again', 'bit-integrations'),
 
     'Persons refreshed' => __('Persons refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Persons refresh failed Cause: %s. please try again' => __('Persons refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Persons refresh failed. please try again' => __('Persons refresh failed. please try again', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Owners fetch failed Cause: %s. please try again' => __('Owners fetch failed Cause: %s. please try again', 'bit-integrations'),
 
     'Owners fetch failed. please try again' => __('Owners fetch failed. please try again', 'bit-integrations'),
 
     'Labels fetched successfully' => __('Labels fetched successfully', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Labels fetch failed Cause: %s. please try again' => __('Labels fetch failed Cause: %s. please try again', 'bit-integrations'),
 
     'Labels fetch failed. please try again' => __('Labels fetch failed. please try again', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Currencies fetch failed Cause: %s. please try again' => __('Currencies fetch failed Cause: %s. please try again', 'bit-integrations'),
 
     'Currencies fetch failed. please try again' => __('Currencies fetch failed. please try again', 'bit-integrations'),
 
     'Stages fetched successfully' => __('Stages fetched successfully', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Stages fetch failed Cause: %s. please try again' => __('Stages fetch failed Cause: %s. please try again', 'bit-integrations'),
 
     'Stages fetch failed. please try again' => __('Stages fetch failed. please try again', 'bit-integrations'),
@@ -7018,12 +7050,14 @@ $bit_integrations_i18n_strings = array(
 
     'List refreshed' => __('List refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'List refresh failed Cause: %s. please try again' => __('List refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'List failed. please try again' => __('List failed. please try again', 'bit-integrations'),
 
     'Templates refreshed' => __('Templates refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Templates refresh failed Cause: %s. please try again' => __('Templates refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Templates failed. please try again' => __('Templates failed. please try again', 'bit-integrations'),
@@ -7448,12 +7482,14 @@ $bit_integrations_i18n_strings = array(
 
     'Board list refreshed' => __('Board list refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Board list refresh failed Cause: %s. please try again' => __('Board list refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Board list failed. please try again' => __('Board list failed. please try again', 'bit-integrations'),
 
     'Custom Fields refreshed' => __('Custom Fields refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Custom Fields refresh failed Cause: %s. please try again' => __('Custom Fields refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Custom Fields failed. please try again' => __('Custom Fields failed. please try again', 'bit-integrations'),
@@ -7892,12 +7928,14 @@ $bit_integrations_i18n_strings = array(
 
     'Selected reputation will be set as user new reputation' => __('Selected reputation will be set as user new reputation', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Select a group to %s' => __('Select a group to %s', 'bit-integrations'),
 
     'add a user to it' => __('add a user to it', 'bit-integrations'),
 
     'remove a user from it' => __('remove a user from it', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'The user will be %s the selected group' => __('The user will be %s the selected group', 'bit-integrations'),
 
     'added to' => __('added to', 'bit-integrations'),
@@ -8112,12 +8150,14 @@ $bit_integrations_i18n_strings = array(
 
     'Modules refreshed' => __('Modules refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Modules refresh failed Cause: %s. please try again' => __('Modules refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Modules refresh failed. please try again' => __('Modules refresh failed. please try again', 'bit-integrations'),
 
     'Pipeline Layouts refreshed' => __('Pipeline Layouts refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Pipeline Layouts refresh failed Cause: %s. please try again' => __('Pipeline Layouts refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Pipeline Layouts refresh failed. please try again' => __('Pipeline Layouts refresh failed. please try again', 'bit-integrations'),
@@ -8232,6 +8272,7 @@ $bit_integrations_i18n_strings = array(
 
     'Layouts refreshed' => __('Layouts refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Layouts refresh failed Cause: %s. please try again' => __('Layouts refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Layouts refresh failed. please try again' => __('Layouts refresh failed. please try again', 'bit-integrations'),
@@ -8278,6 +8319,7 @@ $bit_integrations_i18n_strings = array(
 
     'Departments refreshed' => __('Departments refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Departments refresh failed Cause: %s. please try again' => __('Departments refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Departments refresh failed. please try again' => __('Departments refresh failed. please try again', 'bit-integrations'),
@@ -8326,10 +8368,12 @@ $bit_integrations_i18n_strings = array(
 
     'Note Types refreshed' => __('Note Types refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Note Types refresh failed Cause: %s. please try again' => __('Note Types refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Note Types refresh failed. please try again' => __('Note Types refresh failed. please try again', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'RelatedLists refresh failed Cause: %s. please try again' => __('RelatedLists refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Please map mandatory workSheetHeaders' => __('Please map mandatory workSheetHeaders', 'bit-integrations'),
@@ -8396,6 +8440,7 @@ $bit_integrations_i18n_strings = array(
 
     'Meeting list refreshed' => __('Meeting list refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'All Meeting list refresh failed Cause: %s. please try again' => __('All Meeting list refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'All Meeting list failed. please try again' => __('All Meeting list failed. please try again', 'bit-integrations'),
@@ -8414,6 +8459,7 @@ $bit_integrations_i18n_strings = array(
 
     'Webinar list refreshed' => __('Webinar list refreshed', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'All Webinar list refresh failed Cause: %s. please try again' => __('All Webinar list refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'All Webinar list failed. please try again' => __('All Webinar list failed. please try again', 'bit-integrations'),
@@ -8442,6 +8488,7 @@ $bit_integrations_i18n_strings = array(
 
     'Please Select Fields' => __('Please Select Fields', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Follow these simple steps to set up the %s' => __('Follow these simple steps to set up the %s', 'bit-integrations'),
 
     'Click <b>Fetch</b>' => __('Click <b>Fetch</b>', 'bit-integrations'),
@@ -8480,6 +8527,7 @@ $bit_integrations_i18n_strings = array(
 
     'Triggered Entity Id not found!' => __('Triggered Entity Id not found!', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     '%s is not installed or activated.' => __('%s is not installed or activated.', 'bit-integrations'),
 
     'Select a Form/Task Name' => __('Select a Form/Task Name', 'bit-integrations'),
@@ -8978,10 +9026,12 @@ $bit_integrations_i18n_strings = array(
 
     'Instruction' => __('Instruction', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     '%s is available in' => __('%s is available in', 'bit-integrations'),
 
     'This feature' => __('This feature', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Thank you for using our product! %s is not available in your plan. Please upgrade to the PRO plan to unlock all these awesome features.' => __('Thank you for using our product! %s is not available in your plan. Please upgrade to the PRO plan to unlock all these awesome features.', 'bit-integrations'),
 
     'Check out our' => __('Check out our', 'bit-integrations'),
@@ -9032,6 +9082,7 @@ $bit_integrations_i18n_strings = array(
 
     'Expand the tree view' => __('Expand the tree view', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'How to setup %s integration' => __('How to setup %s integration', 'bit-integrations'),
 
     'Trigger' => __('Trigger', 'bit-integrations'),
@@ -9068,9 +9119,11 @@ $bit_integrations_i18n_strings = array(
 
     '$10 Cashback' => __('$10 Cashback', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'Thank you for using %s' => __('Thank you for using %s', 'bit-integrations'),
 
-    'Give us a review on WordPress by clicking the <a href={REVIEW_URL} target="_blank" rel="noreferrer">%s</a> button and send an email with the review link to <a href="mailto:support@bitapps.pro" target="_blank" rel="noreferrer">%s</a>. We will honour you with <strong>%s</strong> for your time & effort.' => __('Give us a review on WordPress by clicking the <a href={REVIEW_URL} target="_blank" rel="noreferrer">%s</a> button and send an email with the review link to <a href="mailto:support@bitapps.pro" target="_blank" rel="noreferrer">%s</a>. We will honour you with <strong>%s</strong> for your time & effort.', 'bit-integrations'),
+    /* translators: 1: %1$s placeholder 2: %2$s placeholder 3: %3$s placeholder */
+    'Give us a review on WordPress by clicking the <a href={REVIEW_URL} target="_blank" rel="noreferrer">%s</a> button and send an email with the review link to <a href="mailto:support@bitapps.pro" target="_blank" rel="noreferrer">%s</a>. We will honour you with <strong>%s</strong> for your time & effort.' => __('Give us a review on WordPress by clicking the <a href={REVIEW_URL} target="_blank" rel="noreferrer">%1$s</a> button and send an email with the review link to <a href="mailto:support@bitapps.pro" target="_blank" rel="noreferrer">%2$s</a>. We will honour you with <strong>%3$s</strong> for your time & effort.', 'bit-integrations'),
 
     'Review us' => __('Review us', 'bit-integrations'),
 
@@ -9090,8 +9143,13 @@ $bit_integrations_i18n_strings = array(
 
     'Bug Fixes' => __('Bug Fixes', 'bit-integrations'),
 
+    'Security' => __('Security', 'bit-integrations'),
+
+    'Compatibility & Compliance' => __('Compatibility & Compliance', 'bit-integrations'),
+
     'What\'s New' => __('What\'s New', 'bit-integrations'),
 
+    /* translators: %s: placeholder */
     'What\'s New in v%s' => __('What\'s New in v%s', 'bit-integrations'),
 
     'Updated at:' => __('Updated at:', 'bit-integrations'),

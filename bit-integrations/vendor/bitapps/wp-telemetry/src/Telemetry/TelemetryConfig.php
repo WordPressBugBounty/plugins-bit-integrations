@@ -1,6 +1,6 @@
 <?php
 
-namespace BTCBI\Deps\BitApps\WPTelemetry\Telemetry;
+namespace BitApps\Integrations\Deps\BitApps\WPTelemetry\Telemetry;
 
 class TelemetryConfig
 {

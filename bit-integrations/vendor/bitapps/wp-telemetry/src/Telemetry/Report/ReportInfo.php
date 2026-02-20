@@ -1,6 +1,6 @@
 <?php
 
-namespace BTCBI\Deps\BitApps\WPTelemetry\Telemetry\Report;
+namespace BitApps\Integrations\Deps\BitApps\WPTelemetry\Telemetry\Report;
 
 class ReportInfo
 {

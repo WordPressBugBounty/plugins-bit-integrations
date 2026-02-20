@@ -1,9 +1,9 @@
 <?php
 
-namespace BTCBI\Deps\BitApps\WPTelemetry\Telemetry;
+namespace BitApps\Integrations\Deps\BitApps\WPTelemetry\Telemetry;
 
-use BTCBI\Deps\BitApps\WPTelemetry\Telemetry\Feedback\Feedback;
-use BTCBI\Deps\BitApps\WPTelemetry\Telemetry\Report\Report;
+use BitApps\Integrations\Deps\BitApps\WPTelemetry\Telemetry\Feedback\Feedback;
+use BitApps\Integrations\Deps\BitApps\WPTelemetry\Telemetry\Report\Report;
 
 class Telemetry
 {

@@ -8,6 +8,6 @@ $baseDir = dirname($vendorDir);
 return array(
     'TypistTech\\Imposter\\Plugin\\' => array($vendorDir . '/typisttech/imposter-plugin/src'),
     'TypistTech\\Imposter\\' => array($vendorDir . '/typisttech/imposter/src'),
-    'BitCode\\FI\\' => array($baseDir . '/includes'),
     'BitApps\\WPTelemetry\\' => array($vendorDir . '/bitapps/wp-telemetry/src'),
+    'BitApps\\Integrations\\' => array($baseDir . '/backend'),
 );
