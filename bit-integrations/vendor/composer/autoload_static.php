@@ -388,7 +388,6 @@ class ComposerStaticInit9f7baab1235411d6132c7c026411dbb9
         'BitApps\\Integrations\\Core\\Util\\HttpHelper' => __DIR__ . '/../..' . '/backend/Core/Util/HttpHelper.php',
         'BitApps\\Integrations\\Core\\Util\\IpTool' => __DIR__ . '/../..' . '/backend/Core/Util/IpTool.php',
         'BitApps\\Integrations\\Core\\Util\\Multisite' => __DIR__ . '/../..' . '/backend/Core/Util/Multisite.php',
-        'BitApps\\Integrations\\Core\\Util\\PhpSyntaxChecker' => __DIR__ . '/../..' . '/backend/Core/Util/PhpSyntaxChecker.php',
         'BitApps\\Integrations\\Core\\Util\\Post' => __DIR__ . '/../..' . '/backend/Core/Util/Post.php',
         'BitApps\\Integrations\\Core\\Util\\Request' => __DIR__ . '/../..' . '/backend/Core/Util/Request.php',
         'BitApps\\Integrations\\Core\\Util\\Route' => __DIR__ . '/../..' . '/backend/Core/Util/Route.php',

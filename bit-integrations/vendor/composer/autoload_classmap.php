@@ -355,7 +355,6 @@ return array(
     'BitApps\\Integrations\\Core\\Util\\HttpHelper' => $baseDir . '/backend/Core/Util/HttpHelper.php',
     'BitApps\\Integrations\\Core\\Util\\IpTool' => $baseDir . '/backend/Core/Util/IpTool.php',
     'BitApps\\Integrations\\Core\\Util\\Multisite' => $baseDir . '/backend/Core/Util/Multisite.php',
-    'BitApps\\Integrations\\Core\\Util\\PhpSyntaxChecker' => $baseDir . '/backend/Core/Util/PhpSyntaxChecker.php',
     'BitApps\\Integrations\\Core\\Util\\Post' => $baseDir . '/backend/Core/Util/Post.php',
     'BitApps\\Integrations\\Core\\Util\\Request' => $baseDir . '/backend/Core/Util/Request.php',
     'BitApps\\Integrations\\Core\\Util\\Route' => $baseDir . '/backend/Core/Util/Route.php',
