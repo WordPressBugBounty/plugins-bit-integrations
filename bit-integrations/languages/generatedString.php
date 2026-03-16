@@ -5874,6 +5874,74 @@ $bit_integrations_i18n_strings = array(
 
     'Nimble Fields' => __('Nimble Fields', 'bit-integrations'),
 
+    'Please select a notification to continue.' => __('Please select a notification to continue.', 'bit-integrations'),
+
+    'To use NotificationX integration, make sure NotificationX plugin is installed and active on your site.' => __('To use NotificationX integration, make sure NotificationX plugin is installed and active on your site.', 'bit-integrations'),
+
+    'Failed to fetch notifications' => __('Failed to fetch notifications', 'bit-integrations'),
+
+    'Entry Fields Key' => __('Entry Fields Key', 'bit-integrations'),
+
+    'Select Notification:' => __('Select Notification:', 'bit-integrations'),
+
+    'Refresh Notifications' => __('Refresh Notifications', 'bit-integrations'),
+
+    'NotificationX Fields' => __('NotificationX Fields', 'bit-integrations'),
+
+    'Entry Data Mapping' => __('Entry Data Mapping', 'bit-integrations'),
+
+    'Entry Key' => __('Entry Key', 'bit-integrations'),
+
+    'Make sure to select Bit Integrations as the notification source in your NotificationX settings for this action.' => __('Make sure to select Bit Integrations as the notification source in your NotificationX settings for this action.', 'bit-integrations'),
+
+    'Add Sales Notification' => __('Add Sales Notification', 'bit-integrations'),
+
+    'Add Reviews' => __('Add Reviews', 'bit-integrations'),
+
+    'Add Email Subscription' => __('Add Email Subscription', 'bit-integrations'),
+
+    'Add Notification Entry' => __('Add Notification Entry', 'bit-integrations'),
+
+    'Delete Notification' => __('Delete Notification', 'bit-integrations'),
+
+    'Enable Notification' => __('Enable Notification', 'bit-integrations'),
+
+    'Disable Notification' => __('Disable Notification', 'bit-integrations'),
+
+    'Notification ID' => __('Notification ID', 'bit-integrations'),
+
+    'Sales Count' => __('Sales Count', 'bit-integrations'),
+
+    'Title / Product Title' => __('Title / Product Title', 'bit-integrations'),
+
+    'Anonymous Title / Product' => __('Anonymous Title / Product', 'bit-integrations'),
+
+    'Definite Time' => __('Definite Time', 'bit-integrations'),
+
+    'Sometime' => __('Sometime', 'bit-integrations'),
+
+    'In last 1 day' => __('In last 1 day', 'bit-integrations'),
+
+    'In last 7 days' => __('In last 7 days', 'bit-integrations'),
+
+    'In last 30 days' => __('In last 30 days', 'bit-integrations'),
+
+    'City, Country' => __('City, Country', 'bit-integrations'),
+
+    'Rated' => __('Rated', 'bit-integrations'),
+
+    'Plugin Name' => __('Plugin Name', 'bit-integrations'),
+
+    'Plugin Review' => __('Plugin Review', 'bit-integrations'),
+
+    'Review Title' => __('Review Title', 'bit-integrations'),
+
+    'Anonymous Title' => __('Anonymous Title', 'bit-integrations'),
+
+    'Rating' => __('Rating', 'bit-integrations'),
+
+    'Some time ago' => __('Some time ago', 'bit-integrations'),
+
     'Step of get Client Id & Client Secret' => __('Step of get Client Id & Client Secret', 'bit-integrations'),
 
     'Click new integration.' => __('Click new integration.', 'bit-integrations'),
@@ -6701,8 +6769,6 @@ $bit_integrations_i18n_strings = array(
     'Ownership' => __('Ownership', 'bit-integrations'),
 
     'Add Account Ownership' => __('Add Account Ownership', 'bit-integrations'),
-
-    'Rating' => __('Rating', 'bit-integrations'),
 
     'Add Lead Rating' => __('Add Lead Rating', 'bit-integrations'),
 
@@ -7537,6 +7603,26 @@ $bit_integrations_i18n_strings = array(
     'Phone number can\'t be empty' => __('Phone number can\'t be empty', 'bit-integrations'),
 
     'Select Number:' => __('Select Number:', 'bit-integrations'),
+
+    'Note: User Registration & Membership plugin must be installed and activated.' => __('Note: User Registration & Membership plugin must be installed and activated.', 'bit-integrations'),
+
+    'Connection failed' => __('Connection failed', 'bit-integrations'),
+
+    'Forms refreshed successfully' => __('Forms refreshed successfully', 'bit-integrations'),
+
+    'Failed to refresh forms' => __('Failed to refresh forms', 'bit-integrations'),
+
+    'Form fields refreshed successfully' => __('Form fields refreshed successfully', 'bit-integrations'),
+
+    'Failed to refresh form fields' => __('Failed to refresh form fields', 'bit-integrations'),
+
+    'Create User' => __('Create User', 'bit-integrations'),
+
+    'Select Form:' => __('Select Form:', 'bit-integrations'),
+
+    'Refresh forms' => __('Refresh forms', 'bit-integrations'),
+
+    'User Registration Fields' => __('User Registration Fields', 'bit-integrations'),
 
     'Update Responses with Vbout exist Contact?' => __('Update Responses with Vbout exist Contact?', 'bit-integrations'),
 
@@ -8413,8 +8499,6 @@ $bit_integrations_i18n_strings = array(
     'Delete Registrant' => __('Delete Registrant', 'bit-integrations'),
 
     'Delete Meeting registrant using email' => __('Delete Meeting registrant using email', 'bit-integrations'),
-
-    'Create User' => __('Create User', 'bit-integrations'),
 
     'Create User to your account' => __('Create User to your account', 'bit-integrations'),
 
