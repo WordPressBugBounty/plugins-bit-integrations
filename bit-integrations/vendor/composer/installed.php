@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'bitapps/bit-integrations',
-        'pretty_version' => '2.8.0',
-        'version' => '2.8.0.0',
-        'reference' => 'fe1cd89260cb8fa2bb29265643420ca7868342bc',
+        'pretty_version' => '2.8.1',
+        'version' => '2.8.1.0',
+        'reference' => '156a079ccbc8058d675986ef0ea3ee6ff91b1683',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'bitapps/bit-integrations' => array(
-            'pretty_version' => '2.8.0',
-            'version' => '2.8.0.0',
-            'reference' => 'fe1cd89260cb8fa2bb29265643420ca7868342bc',
+            'pretty_version' => '2.8.1',
+            'version' => '2.8.1.0',
+            'reference' => '156a079ccbc8058d675986ef0ea3ee6ff91b1683',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

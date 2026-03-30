@@ -6488,6 +6488,12 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh Post Types' => __('Refresh Post Types', 'bit-integrations'),
 
+    'Post Categories' => __('Post Categories', 'bit-integrations'),
+
+    'Select one or multiple categories for the post' => __('Select one or multiple categories for the post', 'bit-integrations'),
+
+    'Refresh Post Categories' => __('Refresh Post Categories', 'bit-integrations'),
+
     'Select the status for the post. If published status is selected and the post date is in the future, it will automatically be changed to scheduled' => __('Select the status for the post. If published status is selected and the post date is in the future, it will automatically be changed to scheduled', 'bit-integrations'),
 
     'Add Post Tags' => __('Add Post Tags', 'bit-integrations'),
@@ -6503,6 +6509,12 @@ $bit_integrations_i18n_strings = array(
     'Post Types not found' => __('Post Types not found', 'bit-integrations'),
 
     'Loading Post Types...' => __('Loading Post Types...', 'bit-integrations'),
+
+    'Successfully refreshed Post Categories.' => __('Successfully refreshed Post Categories.', 'bit-integrations'),
+
+    'Post Categories not found' => __('Post Categories not found', 'bit-integrations'),
+
+    'Loading Post Categories...' => __('Loading Post Categories...', 'bit-integrations'),
 
     'Person Id' => __('Person Id', 'bit-integrations'),
 
