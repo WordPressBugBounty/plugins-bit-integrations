@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit9f7baab1235411d6132c7c026411dbb9
+class ComposerStaticInit2011ff2b7a4005209f7af1696e980073
 {
     public static $prefixLengthsPsr4 = array (
         'T' =>
@@ -59,6 +59,8 @@ class ComposerStaticInit9f7baab1235411d6132c7c026411dbb9
         'BitApps\\Integrations\\Actions\\AntApps\\AntAppsController' => __DIR__ . '/../..' . '/backend/Actions/AntApps/AntAppsController.php',
         'BitApps\\Integrations\\Actions\\Asana\\AsanaController' => __DIR__ . '/../..' . '/backend/Actions/Asana/AsanaController.php',
         'BitApps\\Integrations\\Actions\\Asana\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Asana/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\AsgarosForum\\AsgarosForumController' => __DIR__ . '/../..' . '/backend/Actions/AsgarosForum/AsgarosForumController.php',
+        'BitApps\\Integrations\\Actions\\AsgarosForum\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/AsgarosForum/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\AutomatorWP\\AutomatorWPController' => __DIR__ . '/../..' . '/backend/Actions/AutomatorWP/AutomatorWPController.php',
         'BitApps\\Integrations\\Actions\\Autonami\\AutonamiController' => __DIR__ . '/../..' . '/backend/Actions/Autonami/AutonamiController.php',
         'BitApps\\Integrations\\Actions\\Autonami\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Autonami/RecordApiHelper.php',
@@ -87,6 +89,8 @@ class ComposerStaticInit9f7baab1235411d6132c7c026411dbb9
         'BitApps\\Integrations\\Actions\\ConvertKit\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/ConvertKit/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\CopperCRM\\CopperCRMController' => __DIR__ . '/../..' . '/backend/Actions/CopperCRM/CopperCRMController.php',
         'BitApps\\Integrations\\Actions\\CopperCRM\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/CopperCRM/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\CreatorLms\\CreatorLmsController' => __DIR__ . '/../..' . '/backend/Actions/CreatorLms/CreatorLmsController.php',
+        'BitApps\\Integrations\\Actions\\CreatorLms\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/CreatorLms/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\CustomAction\\CustomActionController' => __DIR__ . '/../..' . '/backend/Actions/CustomAction/CustomActionController.php',
         'BitApps\\Integrations\\Actions\\CustomApi\\CustomApiController' => __DIR__ . '/../..' . '/backend/Actions/CustomApi/CustomApiController.php',
         'BitApps\\Integrations\\Actions\\Demio\\DemioController' => __DIR__ . '/../..' . '/backend/Actions/Demio/DemioController.php',
@@ -218,6 +222,8 @@ class ComposerStaticInit9f7baab1235411d6132c7c026411dbb9
         'BitApps\\Integrations\\Actions\\Newsletter\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Newsletter/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\Nimble\\NimbleController' => __DIR__ . '/../..' . '/backend/Actions/Nimble/NimbleController.php',
         'BitApps\\Integrations\\Actions\\Nimble\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Nimble/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\NinjaTables\\NinjaTablesController' => __DIR__ . '/../..' . '/backend/Actions/NinjaTables/NinjaTablesController.php',
+        'BitApps\\Integrations\\Actions\\NinjaTables\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/NinjaTables/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\NotificationX\\NotificationXController' => __DIR__ . '/../..' . '/backend/Actions/NotificationX/NotificationXController.php',
         'BitApps\\Integrations\\Actions\\NotificationX\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/NotificationX/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\Notion\\NotionController' => __DIR__ . '/../..' . '/backend/Actions/Notion/NotionController.php',
@@ -302,6 +308,8 @@ class ComposerStaticInit9f7baab1235411d6132c7c026411dbb9
         'BitApps\\Integrations\\Actions\\TutorLms\\TutorLmsController' => __DIR__ . '/../..' . '/backend/Actions/TutorLms/TutorLmsController.php',
         'BitApps\\Integrations\\Actions\\Twilio\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Twilio/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\Twilio\\TwilioController' => __DIR__ . '/../..' . '/backend/Actions/Twilio/TwilioController.php',
+        'BitApps\\Integrations\\Actions\\UltimateAffiliatePro\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/UltimateAffiliatePro/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\UltimateAffiliatePro\\UltimateAffiliateProController' => __DIR__ . '/../..' . '/backend/Actions/UltimateAffiliatePro/UltimateAffiliateProController.php',
         'BitApps\\Integrations\\Actions\\UncannyAutomator\\UncannyAutomatorController' => __DIR__ . '/../..' . '/backend/Actions/UncannyAutomator/UncannyAutomatorController.php',
         'BitApps\\Integrations\\Actions\\UserRegistrationMembership\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/UserRegistrationMembership/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\UserRegistrationMembership\\UserRegistrationMembershipController' => __DIR__ . '/../..' . '/backend/Actions/UserRegistrationMembership/UserRegistrationMembershipController.php',
@@ -311,6 +319,8 @@ class ComposerStaticInit9f7baab1235411d6132c7c026411dbb9
         'BitApps\\Integrations\\Actions\\Voxel\\VoxelController' => __DIR__ . '/../..' . '/backend/Actions/Voxel/VoxelController.php',
         'BitApps\\Integrations\\Actions\\Voxel\\VoxelHelper' => __DIR__ . '/../..' . '/backend/Actions/Voxel/VoxelHelper.php',
         'BitApps\\Integrations\\Actions\\Voxel\\VoxelTasks' => __DIR__ . '/../..' . '/backend/Actions/Voxel/VoxelTasks.php',
+        'BitApps\\Integrations\\Actions\\WCAffiliate\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WCAffiliate/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\WCAffiliate\\WCAffiliateController' => __DIR__ . '/../..' . '/backend/Actions/WCAffiliate/WCAffiliateController.php',
         'BitApps\\Integrations\\Actions\\WPCafe\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WPCafe/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\WPCafe\\WPCafeController' => __DIR__ . '/../..' . '/backend/Actions/WPCafe/WPCafeController.php',
         'BitApps\\Integrations\\Actions\\WPCourseware\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WPCourseware/RecordApiHelper.php',
@@ -319,6 +329,8 @@ class ComposerStaticInit9f7baab1235411d6132c7c026411dbb9
         'BitApps\\Integrations\\Actions\\WPForo\\WPForoController' => __DIR__ . '/../..' . '/backend/Actions/WPForo/WPForoController.php',
         'BitApps\\Integrations\\Actions\\WPFusion\\WPFusionController' => __DIR__ . '/../..' . '/backend/Actions/WPFusion/WPFusionController.php',
         'BitApps\\Integrations\\Actions\\WPWebhooks\\WPWebhooksController' => __DIR__ . '/../..' . '/backend/Actions/WPWebhooks/WPWebhooksController.php',
+        'BitApps\\Integrations\\Actions\\WeDocs\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WeDocs/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\WeDocs\\WeDocsController' => __DIR__ . '/../..' . '/backend/Actions/WeDocs/WeDocsController.php',
         'BitApps\\Integrations\\Actions\\WebHooks\\WebHooksController' => __DIR__ . '/../..' . '/backend/Actions/WebHooks/WebHooksController.php',
         'BitApps\\Integrations\\Actions\\WhatsApp\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WhatsApp/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\WhatsApp\\WhatsAppController' => __DIR__ . '/../..' . '/backend/Actions/WhatsApp/WhatsAppController.php',
@@ -430,6 +442,7 @@ class ComposerStaticInit9f7baab1235411d6132c7c026411dbb9
         'BitApps\\Integrations\\Triggers\\Webhook\\WebhookController' => __DIR__ . '/../..' . '/backend/Triggers/Webhook/WebhookController.php',
         'BitApps\\Integrations\\controller\\AnalyticsController' => __DIR__ . '/../..' . '/backend/controller/AnalyticsController.php',
         'BitApps\\Integrations\\controller\\AuthDataController' => __DIR__ . '/../..' . '/backend/controller/AuthDataController.php',
+        'BitApps\\Integrations\\controller\\IntegrationTagController' => __DIR__ . '/../..' . '/backend/controller/IntegrationTagController.php',
         'BitApps\\Integrations\\controller\\PostController' => __DIR__ . '/../..' . '/backend/controller/PostController.php',
         'BitApps\\Integrations\\controller\\UserController' => __DIR__ . '/../..' . '/backend/controller/UserController.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
@@ -458,9 +471,9 @@ class ComposerStaticInit9f7baab1235411d6132c7c026411dbb9
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit9f7baab1235411d6132c7c026411dbb9::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit9f7baab1235411d6132c7c026411dbb9::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit9f7baab1235411d6132c7c026411dbb9::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit2011ff2b7a4005209f7af1696e980073::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit2011ff2b7a4005209f7af1696e980073::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit2011ff2b7a4005209f7af1696e980073::$classMap;
 
         }, null, ClassLoader::class);
     }
