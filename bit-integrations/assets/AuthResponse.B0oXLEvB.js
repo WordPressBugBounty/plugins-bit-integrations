@@ -1,0 +1,1 @@
+import{R as e,a as s,j as a}from"./main.2.8.4.js";import{b as r}from"./react-router.7Vrfb7-V.js";import"./react-vendor.DujQXnNB.js";function m(){const t=e(s);return r.useEffect(()=>{const o=new URLSearchParams(window.location.hash).get("code");o&&(t({code:o}),setTimeout(()=>{window.close()},100))},[]),a.jsx("h4",{children:"Auth Response Captured"})}export{m as default};
