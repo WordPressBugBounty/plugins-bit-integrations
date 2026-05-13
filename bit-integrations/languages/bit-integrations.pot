@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.8.4\n"
+"Project-Id-Version: Bit Integrations 2.8.5\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-05-07T04:30:37+00:00\n"
+"POT-Creation-Date: 2026-05-13T08:49:26+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: bit-integrations\n"
@@ -1631,13 +1631,13 @@ msgid "Please a enter valid API key"
 msgstr ""
 
 #: backend/Actions/EmailOctopus/EmailOctopusController.php:63
-#: languages/generatedString.php:5668
+#: languages/generatedString.php:5670
 msgid "Groups fetch failed"
 msgstr ""
 
 #: backend/Actions/EmailOctopus/EmailOctopusController.php:85
 #: backend/Actions/MondayCom/MondayComController.php:80
-#: languages/generatedString.php:5842
+#: languages/generatedString.php:5844
 msgid "Groups fetching failed"
 msgstr ""
 
@@ -2300,7 +2300,7 @@ msgid "Failed to unenroll user from membership."
 msgstr ""
 
 #: backend/Actions/Livestorm/LivestormController.php:38
-#: languages/generatedString.php:6095
+#: languages/generatedString.php:6097
 msgid "Authorized failed, Please enter valid API Key"
 msgstr ""
 
@@ -2426,7 +2426,7 @@ msgid "Subscriber created successfully"
 msgstr ""
 
 #: backend/Actions/MailerPress/MailerPressController.php:27
-#: languages/generatedString.php:5512
+#: languages/generatedString.php:5514
 msgid "MailerPress is not activated or not installed"
 msgstr ""
 
@@ -2486,18 +2486,18 @@ msgid "Mailster Plugin is not active or not installed"
 msgstr ""
 
 #: backend/Actions/Mailster/MailsterController.php:57
-#: languages/generatedString.php:5698
+#: languages/generatedString.php:5700
 msgid "Fields fetching failed!"
 msgstr ""
 
 #: backend/Actions/Mailster/MailsterController.php:91
-#: languages/generatedString.php:5700
+#: languages/generatedString.php:5702
 msgid "Lists fetching failed!"
 msgstr ""
 
 #: backend/Actions/Mailster/MailsterController.php:110
 #: backend/Actions/Salesflare/SalesflareController.php:80
-#: languages/generatedString.php:5704
+#: languages/generatedString.php:5706
 msgid "Tags fetching failed!"
 msgstr ""
 
@@ -2566,7 +2566,7 @@ msgid "API Token is empty"
 msgstr ""
 
 #: backend/Actions/MondayCom/MondayComController.php:49
-#: languages/generatedString.php:5838
+#: languages/generatedString.php:5840
 msgid "Boards fetching failed"
 msgstr ""
 
@@ -2577,12 +2577,12 @@ msgid "Board ID is empty"
 msgstr ""
 
 #: backend/Actions/MondayCom/MondayComController.php:112
-#: languages/generatedString.php:5846
+#: languages/generatedString.php:5848
 msgid "Columns fetching failed"
 msgstr ""
 
 #: backend/Actions/MondayCom/MondayComController.php:159
-#: languages/generatedString.php:5850
+#: languages/generatedString.php:5852
 msgid "Items fetching failed"
 msgstr ""
 
@@ -2591,7 +2591,7 @@ msgid "API Token is required for Monday.com api"
 msgstr ""
 
 #: backend/Actions/MoxieCRM/MoxieCRMController.php:131
-#: languages/generatedString.php:6002
+#: languages/generatedString.php:6004
 msgid "Clients fetching failed"
 msgstr ""
 
@@ -2644,7 +2644,7 @@ msgid "Please enter valid User Name & Secret or Access Api URL"
 msgstr ""
 
 #: backend/Actions/NutshellCRM/NutshellCRMController.php:128
-#: languages/generatedString.php:6293
+#: languages/generatedString.php:6295
 msgid "Products fetching failed"
 msgstr ""
 
@@ -2655,7 +2655,7 @@ msgid "Sources fetching failed"
 msgstr ""
 
 #: backend/Actions/NutshellCRM/NutshellCRMController.php:218
-#: languages/generatedString.php:6297
+#: languages/generatedString.php:6299
 msgid "CompanyTypes fetching failed"
 msgstr ""
 
@@ -3467,7 +3467,7 @@ msgstr ""
 #: backend/Actions/WooCommerce/WooCommerceController.php:95
 #: backend/Actions/WooCommerce/WooCommerceStaticFields.php:77
 #: backend/Triggers/WC/WCStaticFields.php:842
-#: languages/generatedString.php:5654
+#: languages/generatedString.php:5656
 msgid "Locale"
 msgstr ""
 
@@ -4214,7 +4214,7 @@ msgstr ""
 
 #: backend/Actions/ZohoProjects/ZohoProjectsController.php:684
 #: backend/Triggers/WC/WCStaticFields.php:342
-#: languages/generatedString.php:5942
+#: languages/generatedString.php:5944
 msgid "Currency"
 msgstr ""
 
@@ -4253,7 +4253,7 @@ msgid "Task Description"
 msgstr ""
 
 #: backend/Actions/ZohoProjects/ZohoProjectsController.php:804
-#: languages/generatedString.php:4991
+#: languages/generatedString.php:4993
 msgid "Duration"
 msgstr ""
 
@@ -4347,7 +4347,7 @@ msgstr ""
 
 #: backend/Admin/Admin_Bar.php:47
 #: backend/Config.php:263
-#: languages/generatedString.php:5257
+#: languages/generatedString.php:5259
 msgid "Settings"
 msgstr ""
 
@@ -4858,7 +4858,7 @@ msgstr ""
 #: backend/Triggers/WC/WCStaticFields.php:62
 #: backend/Triggers/WC/WCStaticFields.php:206
 #: backend/Triggers/WC/WCStaticFields.php:583
-#: languages/generatedString.php:4977
+#: languages/generatedString.php:4979
 msgid "Product Id"
 msgstr ""
 
@@ -14335,3180 +14335,3180 @@ msgid "The Jet Engine Action requires user login to perform any of the tasks lis
 msgstr ""
 
 #: languages/generatedString.php:4741
-msgid "Email Addresses"
-msgstr ""
-
-#: languages/generatedString.php:4743
-msgid "Phone Numbers"
-msgstr ""
-
-#: languages/generatedString.php:4745
-msgid "Billing Address Street (Line 1)"
-msgstr ""
-
-#: languages/generatedString.php:4747
-msgid "Billing Address Street (Line 2)"
-msgstr ""
-
-#: languages/generatedString.php:4749
-msgid "Billing Zip Code"
-msgstr ""
-
-#: languages/generatedString.php:4751
-msgid "Shipping Country Code"
-msgstr ""
-
-#: languages/generatedString.php:4753
-msgid "Shipping Address Street (Line 1)"
-msgstr ""
-
-#: languages/generatedString.php:4755
-msgid "Shipping Address Street (Line 2)"
-msgstr ""
-
-#: languages/generatedString.php:4757
-msgid "Shipping Zip Code"
-msgstr ""
-
-#: languages/generatedString.php:4759
-msgid "Birthday"
-msgstr ""
-
-#: languages/generatedString.php:4761
-msgid "Fax Numbers"
-msgstr ""
-
-#: languages/generatedString.php:4763
 msgid "Get Keap client id and secret"
 msgstr ""
 
-#: languages/generatedString.php:4765
+#: languages/generatedString.php:4743
 msgid "Tag Fetched Successfully"
 msgstr ""
 
-#: languages/generatedString.php:4767
+#: languages/generatedString.php:4745
 msgid "Tag Couldn't Fetched Successfully"
 msgstr ""
 
-#: languages/generatedString.php:4769
+#: languages/generatedString.php:4747
 msgid "Custom Field Fetched Successfully"
 msgstr ""
 
-#: languages/generatedString.php:4771
+#: languages/generatedString.php:4749
 msgid "Custom Field Couldn't Fetched Successfully"
 msgstr ""
 
-#: languages/generatedString.php:4773
+#: languages/generatedString.php:4751
 msgid "Refresh Lemlist Field"
 msgstr ""
 
-#: languages/generatedString.php:4775
+#: languages/generatedString.php:4753
 msgid "Keap Fields"
 msgstr ""
 
+#: languages/generatedString.php:4755
+msgid "Middle Name"
+msgstr ""
+
+#: languages/generatedString.php:4757
+msgid "Email Addresses"
+msgstr ""
+
+#: languages/generatedString.php:4759
+msgid "Phone Numbers"
+msgstr ""
+
+#: languages/generatedString.php:4761
+msgid "Billing Address Street (Line 1)"
+msgstr ""
+
+#: languages/generatedString.php:4763
+msgid "Billing Address Street (Line 2)"
+msgstr ""
+
+#: languages/generatedString.php:4765
+msgid "Billing Zip Code"
+msgstr ""
+
+#: languages/generatedString.php:4767
+msgid "Shipping Country Code"
+msgstr ""
+
+#: languages/generatedString.php:4769
+msgid "Shipping Address Street (Line 1)"
+msgstr ""
+
+#: languages/generatedString.php:4771
+msgid "Shipping Address Street (Line 2)"
+msgstr ""
+
+#: languages/generatedString.php:4773
+msgid "Shipping Zip Code"
+msgstr ""
+
+#: languages/generatedString.php:4775
+msgid "Birthday"
+msgstr ""
+
 #: languages/generatedString.php:4777
-msgid "Full Name"
+msgid "Fax Numbers"
 msgstr ""
 
 #: languages/generatedString.php:4779
-msgid "Add Subscriber"
+msgid "Full Name"
 msgstr ""
 
 #: languages/generatedString.php:4781
-msgid "Remove Subscriber"
+msgid "Add Subscriber"
 msgstr ""
 
 #: languages/generatedString.php:4783
-msgid "Your username:"
+msgid "Remove Subscriber"
 msgstr ""
 
 #: languages/generatedString.php:4785
-msgid "username..."
+msgid "Your username:"
 msgstr ""
 
 #: languages/generatedString.php:4787
-msgid "Api key..."
+msgid "username..."
 msgstr ""
 
 #: languages/generatedString.php:4789
-msgid "To get Api key , Please Visit"
+msgid "Api key..."
 msgstr ""
 
 #: languages/generatedString.php:4791
-msgid "Kirim Email"
+msgid "To get Api key , Please Visit"
 msgstr ""
 
 #: languages/generatedString.php:4793
-msgid "All list fetched successfully"
+msgid "Kirim Email"
 msgstr ""
 
 #: languages/generatedString.php:4795
-msgid "Kirim Email list fetch failed. please try again"
+msgid "All list fetched successfully"
 msgstr ""
 
 #: languages/generatedString.php:4797
-msgid "Fetch All lists"
+msgid "Kirim Email list fetch failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:4799
-msgid "Kirim Email Fields"
+msgid "Fetch All lists"
 msgstr ""
 
 #: languages/generatedString.php:4801
-msgid "Update Profile"
+msgid "Kirim Email Fields"
 msgstr ""
 
 #: languages/generatedString.php:4803
-msgid "A record gets updated based on the email, else a new profile will be created"
+msgid "Update Profile"
 msgstr ""
 
 #: languages/generatedString.php:4805
-msgid "Step of get API Key:"
+msgid "A record gets updated based on the email, else a new profile will be created"
 msgstr ""
 
 #: languages/generatedString.php:4807
-msgid "Goto Settings and click on"
+msgid "Step of get API Key:"
 msgstr ""
 
 #: languages/generatedString.php:4809
-msgid "API Keys."
+msgid "Goto Settings and click on"
 msgstr ""
 
 #: languages/generatedString.php:4811
-msgid "Click on Create Private API key."
+msgid "API Keys."
 msgstr ""
 
 #: languages/generatedString.php:4813
-msgid "Copy the <b>Private API Key</b> and paste into <b>API Key</b> field of your authorization form."
+msgid "Click on Create Private API key."
 msgstr ""
 
 #: languages/generatedString.php:4815
-msgid "here."
+msgid "Copy the <b>Private API Key</b> and paste into <b>API Key</b> field of your authorization form."
 msgstr ""
 
 #: languages/generatedString.php:4817
-msgid "List refresh successfully"
+msgid "here."
 msgstr ""
 
 #: languages/generatedString.php:4819
-msgid "List refresh failed"
+msgid "List refresh successfully"
 msgstr ""
 
 #: languages/generatedString.php:4821
-msgid "You must select email or phone in klaviyo fields"
+msgid "List refresh failed"
 msgstr ""
 
 #: languages/generatedString.php:4823
-msgid "Klaviyo Fields"
+msgid "You must select email or phone in klaviyo fields"
 msgstr ""
 
 #: languages/generatedString.php:4825
-msgid "Custom Properties"
+msgid "Klaviyo Fields"
 msgstr ""
 
 #: languages/generatedString.php:4827
-msgid "Klaviyo Property name"
+msgid "Custom Properties"
 msgstr ""
 
 #: languages/generatedString.php:4829
-msgid "Create Group"
+msgid "Klaviyo Property name"
 msgstr ""
 
 #: languages/generatedString.php:4831
-msgid "Add the user to a group pro"
+msgid "Create Group"
 msgstr ""
 
 #: languages/generatedString.php:4833
-msgid "Make the user the leader of group"
+msgid "Add the user to a group pro"
 msgstr ""
 
 #: languages/generatedString.php:4835
-msgid "Mark a lesson not complete for the user pro"
+msgid "Make the user the leader of group"
 msgstr ""
 
 #: languages/generatedString.php:4837
-msgid "Mark a topic complete for the user"
+msgid "Mark a lesson not complete for the user pro"
 msgstr ""
 
 #: languages/generatedString.php:4839
-msgid "Mark a topic not complete for the user pro"
+msgid "Mark a topic complete for the user"
 msgstr ""
 
 #: languages/generatedString.php:4841
-msgid "Remove the Leader from a group and its children pro"
+msgid "Mark a topic not complete for the user pro"
 msgstr ""
 
 #: languages/generatedString.php:4843
-msgid "Remove the user from a group pro"
+msgid "Remove the Leader from a group and its children pro"
 msgstr ""
 
 #: languages/generatedString.php:4845
-msgid "Remove the user from a group and its children pro"
+msgid "Remove the user from a group pro"
 msgstr ""
 
 #: languages/generatedString.php:4847
-msgid "Reset the users attempts for a quiz pro"
+msgid "Remove the user from a group and its children pro"
 msgstr ""
 
 #: languages/generatedString.php:4849
-msgid "Reset the users progress in a course pro"
+msgid "Reset the users attempts for a quiz pro"
 msgstr ""
 
 #: languages/generatedString.php:4851
-msgid "Send an email to the users group leaders"
+msgid "Reset the users progress in a course pro"
 msgstr ""
 
 #: languages/generatedString.php:4853
-msgid "Unenroll the user from a course pro"
+msgid "Send an email to the users group leaders"
 msgstr ""
 
 #: languages/generatedString.php:4855
-msgid "Do not add group leader role"
+msgid "Unenroll the user from a course pro"
 msgstr ""
 
 #: languages/generatedString.php:4857
-msgid "Add the role to their exiting role"
+msgid "Do not add group leader role"
 msgstr ""
 
 #: languages/generatedString.php:4859
-msgid "Replace their existing role(s) with the Group Leader role"
+msgid "Add the role to their exiting role"
 msgstr ""
 
 #: languages/generatedString.php:4861
-msgid "Do nothing"
+msgid "Replace their existing role(s) with the Group Leader role"
 msgstr ""
 
 #: languages/generatedString.php:4863
-msgid "Connected with LearnDash Successfully"
+msgid "Do nothing"
 msgstr ""
 
 #: languages/generatedString.php:4865
-msgid "Course fetched successfully"
+msgid "Connected with LearnDash Successfully"
 msgstr ""
 
 #: languages/generatedString.php:4867
-msgid "Course fetch failed. please try again"
+msgid "Course fetched successfully"
 msgstr ""
 
 #: languages/generatedString.php:4869
-msgid "Group fetched successfully"
+msgid "Course fetch failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:4871
-msgid "Lesson fetched successfully"
+msgid "Group fetched successfully"
 msgstr ""
 
 #: languages/generatedString.php:4873
-msgid "Lesson fetch failed. please try again"
+msgid "Lesson fetched successfully"
 msgstr ""
 
 #: languages/generatedString.php:4875
-msgid "Topic fetched successfully"
+msgid "Lesson fetch failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:4877
-msgid "Topic fetch failed. please try again"
+msgid "Topic fetched successfully"
 msgstr ""
 
 #: languages/generatedString.php:4879
-msgid "Quiz fetched successfully"
+msgid "Topic fetch failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:4881
-msgid "Quiz fetch failed. please try again"
+msgid "Quiz fetched successfully"
 msgstr ""
 
 #: languages/generatedString.php:4883
-msgid "User Role :"
+msgid "Quiz fetch failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:4885
-msgid "Select User Role"
+msgid "User Role :"
 msgstr ""
 
 #: languages/generatedString.php:4887
-msgid "Fetch Course List"
+msgid "Select User Role"
 msgstr ""
 
 #: languages/generatedString.php:4889
-msgid "Fetch Group List"
+msgid "Fetch Course List"
 msgstr ""
 
 #: languages/generatedString.php:4891
-msgid "All Groups :"
+msgid "Fetch Group List"
 msgstr ""
 
 #: languages/generatedString.php:4893
-msgid "Group leader Role :"
+msgid "All Groups :"
 msgstr ""
 
 #: languages/generatedString.php:4895
-msgid "Select Leader Role"
+msgid "Group leader Role :"
 msgstr ""
 
 #: languages/generatedString.php:4897
-msgid "Select Lesson:"
+msgid "Select Leader Role"
 msgstr ""
 
 #: languages/generatedString.php:4899
-msgid "Fetch Lesson List"
+msgid "Select Lesson:"
 msgstr ""
 
 #: languages/generatedString.php:4901
-msgid "Select Quiz:"
+msgid "Fetch Lesson List"
 msgstr ""
 
 #: languages/generatedString.php:4903
-msgid "Fetch course List"
+msgid "Select Quiz:"
 msgstr ""
 
 #: languages/generatedString.php:4905
-msgid "LearnDesh Fields"
+msgid "Fetch course List"
 msgstr ""
 
 #: languages/generatedString.php:4907
-msgid "Update Lemlist"
+msgid "LearnDesh Fields"
 msgstr ""
 
 #: languages/generatedString.php:4909
-msgid "Update Responses with Lemlist existing email?"
+msgid "Update Lemlist"
 msgstr ""
 
 #: languages/generatedString.php:4911
-msgid "Get Api key"
+msgid "Update Responses with Lemlist existing email?"
 msgstr ""
 
 #: languages/generatedString.php:4913
-msgid "First go to your Lemlist dashboard."
+msgid "Get Api key"
 msgstr ""
 
 #: languages/generatedString.php:4915
-msgid "Click on the \"Team Setting\" from sidebar"
+msgid "First go to your Lemlist dashboard."
 msgstr ""
 
 #: languages/generatedString.php:4917
-msgid "Then click \"Api\", Then click \"Generate Api Key\""
+msgid "Click on the \"Team Setting\" from sidebar"
 msgstr ""
 
 #: languages/generatedString.php:4919
-msgid "Lemlist API Token"
+msgid "Then click \"Api\", Then click \"Generate Api Key\""
 msgstr ""
 
 #: languages/generatedString.php:4921
-msgid "Lemlist Campaigns refreshed"
+msgid "Lemlist API Token"
 msgstr ""
 
 #: languages/generatedString.php:4923
-msgid "No Lemlist campaigns found. Try changing the header row number or try again"
+msgid "Lemlist Campaigns refreshed"
 msgstr ""
 
 #: languages/generatedString.php:4925
-msgid "Lemlist campaigns refresh failed. please try again"
+msgid "No Lemlist campaigns found. Try changing the header row number or try again"
 msgstr ""
 
 #: languages/generatedString.php:4927
-msgid "Lemlist fields refreshed"
+msgid "Lemlist campaigns refresh failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:4929
-msgid "Select Campaigns"
+msgid "Lemlist fields refreshed"
 msgstr ""
 
 #: languages/generatedString.php:4931
-msgid "Lemlist Fields"
+msgid "Select Campaigns"
 msgstr ""
 
 #: languages/generatedString.php:4933
-msgid "Lesson complete for the user"
+msgid "Lemlist Fields"
 msgstr ""
 
 #: languages/generatedString.php:4935
-msgid "Section complete for the user"
+msgid "Lesson complete for the user"
 msgstr ""
 
 #: languages/generatedString.php:4937
-msgid "Enroll user in a Course"
+msgid "Section complete for the user"
 msgstr ""
 
 #: languages/generatedString.php:4939
-msgid "Enroll user in a membership"
+msgid "Enroll user in a Course"
 msgstr ""
 
 #: languages/generatedString.php:4941
-msgid "Course complete for the user"
+msgid "Enroll user in a membership"
 msgstr ""
 
 #: languages/generatedString.php:4943
-msgid "Unenroll user from a membership"
+msgid "Course complete for the user"
 msgstr ""
 
 #: languages/generatedString.php:4945
-msgid "Connected with LifterLms Successfully"
+msgid "Unenroll user from a membership"
 msgstr ""
 
 #: languages/generatedString.php:4947
-msgid "Section fetched successfully"
+msgid "Connected with LifterLms Successfully"
 msgstr ""
 
 #: languages/generatedString.php:4949
-msgid "Section fetch failed. please try again"
+msgid "Section fetched successfully"
 msgstr ""
 
 #: languages/generatedString.php:4951
-msgid "Membership fetched successfully"
+msgid "Section fetch failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:4953
-msgid "Membership fetch failed. please try again"
+msgid "Membership fetched successfully"
 msgstr ""
 
 #: languages/generatedString.php:4955
-msgid "Fetch lesson list"
+msgid "Membership fetch failed. please try again"
 msgstr ""
 
 #: languages/generatedString.php:4957
-msgid "Select a Section:"
+msgid "Fetch lesson list"
 msgstr ""
 
 #: languages/generatedString.php:4959
-msgid "Fetch section list"
+msgid "Select a Section:"
 msgstr ""
 
 #: languages/generatedString.php:4961
-msgid "Select a Course:"
+msgid "Fetch section list"
 msgstr ""
 
 #: languages/generatedString.php:4963
-msgid "Fetch course list"
+msgid "Select a Course:"
 msgstr ""
 
 #: languages/generatedString.php:4965
-msgid "Select a membership:"
+msgid "Fetch course list"
 msgstr ""
 
 #: languages/generatedString.php:4967
-msgid "Fetch membership list"
+msgid "Select a membership:"
 msgstr ""
 
 #: languages/generatedString.php:4969
-msgid "Send a Push Message"
+msgid "Fetch membership list"
 msgstr ""
 
 #: languages/generatedString.php:4971
-msgid "Send a Reply Message"
+msgid "Send a Push Message"
 msgstr ""
 
 #: languages/generatedString.php:4973
-msgid "Send Broadcast Message"
+msgid "Send a Reply Message"
 msgstr ""
 
 #: languages/generatedString.php:4975
+msgid "Send Broadcast Message"
+msgstr ""
+
+#: languages/generatedString.php:4977
 msgid "Emojis ID"
 msgstr ""
 
-#: languages/generatedString.php:4979
+#: languages/generatedString.php:4981
 msgid "Emoji Position (0-based index in text)"
 msgstr ""
 
-#: languages/generatedString.php:4981
+#: languages/generatedString.php:4983
 msgid "Sticker ID"
 msgstr ""
 
-#: languages/generatedString.php:4983
+#: languages/generatedString.php:4985
 msgid "Package Id"
 msgstr ""
 
-#: languages/generatedString.php:4985
+#: languages/generatedString.php:4987
 msgid "Image's Original Content URL"
 msgstr ""
 
-#: languages/generatedString.php:4987
+#: languages/generatedString.php:4989
 msgid "Image's Preview Image URL"
 msgstr ""
 
-#: languages/generatedString.php:4989
+#: languages/generatedString.php:4991
 msgid "Audio's Original Content URL"
 msgstr ""
 
-#: languages/generatedString.php:4993
+#: languages/generatedString.php:4995
 msgid "Original Content URL"
 msgstr ""
 
-#: languages/generatedString.php:4995
+#: languages/generatedString.php:4997
 msgid "Preview Image URL"
 msgstr ""
 
-#: languages/generatedString.php:4997
+#: languages/generatedString.php:4999
 msgid "Latitude"
 msgstr ""
 
-#: languages/generatedString.php:4999
+#: languages/generatedString.php:5001
 msgid "longitude"
 msgstr ""
 
-#: languages/generatedString.php:5001
+#: languages/generatedString.php:5003
 msgid "Please complete required fields to continue."
 msgstr ""
 
-#: languages/generatedString.php:5003
+#: languages/generatedString.php:5005
 msgid "Send Emojis"
 msgstr ""
 
-#: languages/generatedString.php:5005
+#: languages/generatedString.php:5007
 msgid "If want add more field in Emojis"
 msgstr ""
 
-#: languages/generatedString.php:5007
+#: languages/generatedString.php:5009
 msgid "Send Sticker"
 msgstr ""
 
-#: languages/generatedString.php:5009
+#: languages/generatedString.php:5011
 msgid "If want add more field in Stickers"
 msgstr ""
 
-#: languages/generatedString.php:5011
+#: languages/generatedString.php:5013
 msgid "Send Image"
 msgstr ""
 
-#: languages/generatedString.php:5013
+#: languages/generatedString.php:5015
 msgid "If want add more field in Images"
 msgstr ""
 
-#: languages/generatedString.php:5015
+#: languages/generatedString.php:5017
 msgid "Send Audio"
 msgstr ""
 
-#: languages/generatedString.php:5017
+#: languages/generatedString.php:5019
 msgid "If want add more field in Audio"
 msgstr ""
 
-#: languages/generatedString.php:5019
+#: languages/generatedString.php:5021
 msgid "Send Video"
 msgstr ""
 
-#: languages/generatedString.php:5021
+#: languages/generatedString.php:5023
 msgid "If want add more field in Video"
 msgstr ""
 
-#: languages/generatedString.php:5023
+#: languages/generatedString.php:5025
 msgid "Send Location"
 msgstr ""
 
-#: languages/generatedString.php:5025
+#: languages/generatedString.php:5027
 msgid "If want add more field in Location"
 msgstr ""
 
-#: languages/generatedString.php:5027
+#: languages/generatedString.php:5029
 msgid "Line Console"
 msgstr ""
 
-#: languages/generatedString.php:5029
+#: languages/generatedString.php:5031
 msgid "To get your Line access token:"
 msgstr ""
 
-#: languages/generatedString.php:5031
+#: languages/generatedString.php:5033
 msgid "Log in to the <a href=\"https://developers.line.biz/console/\" target=\"_blank\">Line Developers Console</a>."
 msgstr ""
 
-#: languages/generatedString.php:5033
+#: languages/generatedString.php:5035
 msgid "Go to your provider and select the channel you want to use."
 msgstr ""
 
-#: languages/generatedString.php:5035
+#: languages/generatedString.php:5037
 msgid "Navigate to the \"Messaging API\" tab."
 msgstr ""
 
-#: languages/generatedString.php:5037
+#: languages/generatedString.php:5039
 msgid "Scroll down to the \"Channel access token (long-lived)\" section."
 msgstr ""
 
-#: languages/generatedString.php:5039
+#: languages/generatedString.php:5041
 msgid "Click the \"issue\" button to generate a new token."
 msgstr ""
 
-#: languages/generatedString.php:5041
+#: languages/generatedString.php:5043
 msgid "Copy the generated token — this is your Line access token."
 msgstr ""
 
-#: languages/generatedString.php:5043
+#: languages/generatedString.php:5045
 msgid "Please try again"
 msgstr ""
 
-#: languages/generatedString.php:5045
+#: languages/generatedString.php:5047
 msgid "Authorization failed. Please try again"
 msgstr ""
 
-#: languages/generatedString.php:5047
+#: languages/generatedString.php:5049
 msgid "An error occurred during authorization:"
 msgstr ""
 
-#: languages/generatedString.php:5049
+#: languages/generatedString.php:5051
 msgid "Recipient ID is required"
 msgstr ""
 
-#: languages/generatedString.php:5051
+#: languages/generatedString.php:5053
 msgid "Message field mapping is required"
 msgstr ""
 
-#: languages/generatedString.php:5053
+#: languages/generatedString.php:5055
 msgid "Reply Token is required"
 msgstr ""
 
-#: languages/generatedString.php:5055
+#: languages/generatedString.php:5057
 msgid "Please select a message type"
 msgstr ""
 
-#: languages/generatedString.php:5057
+#: languages/generatedString.php:5059
 msgid "Enter message template with #field_name#"
 msgstr ""
 
-#: languages/generatedString.php:5059
+#: languages/generatedString.php:5061
 msgid "Message Type:"
 msgstr ""
 
-#: languages/generatedString.php:5061
+#: languages/generatedString.php:5063
 msgid "Recipient ID:"
 msgstr ""
 
-#: languages/generatedString.php:5063
+#: languages/generatedString.php:5065
 msgid "Recipient ID"
 msgstr ""
 
-#: languages/generatedString.php:5065
+#: languages/generatedString.php:5067
 msgid "Reply Token:"
 msgstr ""
 
-#: languages/generatedString.php:5067
+#: languages/generatedString.php:5069
 msgid "Reply Token"
 msgstr ""
 
-#: languages/generatedString.php:5069
+#: languages/generatedString.php:5071
 msgid "Message:"
 msgstr ""
 
-#: languages/generatedString.php:5071
+#: languages/generatedString.php:5073
 msgid "Message Field"
 msgstr ""
 
-#: languages/generatedString.php:5073
+#: languages/generatedString.php:5075
 msgid "Emojis Map Fields"
 msgstr ""
 
-#: languages/generatedString.php:5075
+#: languages/generatedString.php:5077
 msgid "Line Emoji Fields"
 msgstr ""
 
-#: languages/generatedString.php:5077
+#: languages/generatedString.php:5079
 msgid "Sticker Map Fields"
 msgstr ""
 
-#: languages/generatedString.php:5079
+#: languages/generatedString.php:5081
 msgid "Line Sticker Fields"
 msgstr ""
 
-#: languages/generatedString.php:5081
+#: languages/generatedString.php:5083
 msgid "Image Map Fields"
 msgstr ""
 
-#: languages/generatedString.php:5083
+#: languages/generatedString.php:5085
 msgid "Line Image Fields"
 msgstr ""
 
-#: languages/generatedString.php:5085
+#: languages/generatedString.php:5087
 msgid "Audio Map Fields"
 msgstr ""
 
-#: languages/generatedString.php:5087
+#: languages/generatedString.php:5089
 msgid "Line Audio Fields"
 msgstr ""
 
-#: languages/generatedString.php:5089
+#: languages/generatedString.php:5091
 msgid "Video Map Fields"
 msgstr ""
 
-#: languages/generatedString.php:5091
+#: languages/generatedString.php:5093
 msgid "Line Video Fields"
 msgstr ""
 
-#: languages/generatedString.php:5093
+#: languages/generatedString.php:5095
 msgid "Location Map Fields"
 msgstr ""
 
-#: languages/generatedString.php:5095
+#: languages/generatedString.php:5097
 msgid "Line Location Fields"
 msgstr ""
 
-#: languages/generatedString.php:5097
+#: languages/generatedString.php:5099
 msgid "To get your Line Recipient ID:"
 msgstr ""
 
-#: languages/generatedString.php:5099
+#: languages/generatedString.php:5101
 msgid "From Line Developers Console go to the Messaging API tab. Your User ID is listed under the Webhook URL section."
 msgstr ""
 
-#: languages/generatedString.php:5101
+#: languages/generatedString.php:5103
 msgid "The User ID is included in the webhook event data every time a user sends a message to your bot."
 msgstr ""
 
-#: languages/generatedString.php:5103
+#: languages/generatedString.php:5105
 msgid "To get your Line Reply Token:"
 msgstr ""
 
-#: languages/generatedString.php:5105
+#: languages/generatedString.php:5107
 msgid "From Line Developers Console go to the Messaging API tab. Your Reply Token is listed under the Webhook URL section."
 msgstr ""
 
-#: languages/generatedString.php:5107
+#: languages/generatedString.php:5109
 msgid "The Reply Token is included in the webhook event data every time a user sends a message to your bot."
 msgstr ""
 
-#: languages/generatedString.php:5109
+#: languages/generatedString.php:5111
 msgid "To get Line Emoji IDs and Product IDs:"
 msgstr ""
 
-#: languages/generatedString.php:5111
+#: languages/generatedString.php:5113
 msgid "For more information visit the <a href=\"https://developers.line.biz/en/docs/messaging-api/emoji-list/\" target=\"_blank\">Line Emoji List</a> documentation."
 msgstr ""
 
-#: languages/generatedString.php:5113
+#: languages/generatedString.php:5115
 msgid "To get Line Sticker IDs and Package IDs:"
 msgstr ""
 
-#: languages/generatedString.php:5115
+#: languages/generatedString.php:5117
 msgid "For more information visit the <a href=\"https://developers.line.biz/en/docs/messaging-api/sticker-list/\" target=\"_blank\">Line Sticker List</a> documentation."
 msgstr ""
 
-#: languages/generatedString.php:5117
+#: languages/generatedString.php:5119
 msgid "To set up LINE Image Messages:"
 msgstr ""
 
-#: languages/generatedString.php:5119
+#: languages/generatedString.php:5121
 msgid "Use JPG, PNG, or GIF image files under 10MB in size."
 msgstr ""
 
-#: languages/generatedString.php:5121
+#: languages/generatedString.php:5123
 msgid "Original Content URL: Direct HTTPS link to the image file."
 msgstr ""
 
-#: languages/generatedString.php:5123
+#: languages/generatedString.php:5125
 msgid "Preview Image URL: Direct HTTPS link to a smaller preview image."
 msgstr ""
 
-#: languages/generatedString.php:5125
+#: languages/generatedString.php:5127
 msgid "To set up LINE Audio Messages:"
 msgstr ""
 
-#: languages/generatedString.php:5127
+#: languages/generatedString.php:5129
 msgid "Use M4A audio files under 10MB in size."
 msgstr ""
 
-#: languages/generatedString.php:5129
+#: languages/generatedString.php:5131
 msgid "Original Content URL: Direct HTTPS link to the audio file."
 msgstr ""
 
-#: languages/generatedString.php:5131
+#: languages/generatedString.php:5133
 msgid "Duration: Length of the audio in milliseconds (e.g., 60000 for 1 minute)."
 msgstr ""
 
-#: languages/generatedString.php:5133
+#: languages/generatedString.php:5135
 msgid "Host your audio file on a web server or cloud storage."
 msgstr ""
 
-#: languages/generatedString.php:5135
+#: languages/generatedString.php:5137
 msgid "Make sure the URL is publicly accessible and uses HTTPS."
 msgstr ""
 
-#: languages/generatedString.php:5137
+#: languages/generatedString.php:5139
 msgid "To set up LINE Video Messages:"
 msgstr ""
 
-#: languages/generatedString.php:5139
+#: languages/generatedString.php:5141
 msgid "Use MP4 video files under 200MB in size."
 msgstr ""
 
-#: languages/generatedString.php:5141
+#: languages/generatedString.php:5143
 msgid "Original Content URL: Direct HTTPS link to the video file."
 msgstr ""
 
-#: languages/generatedString.php:5143
+#: languages/generatedString.php:5145
 msgid "Preview Image URL: Direct HTTPS link to the video thumbnail."
 msgstr ""
 
-#: languages/generatedString.php:5145
+#: languages/generatedString.php:5147
 msgid "Host your video and image on a web server or cloud storage."
 msgstr ""
 
-#: languages/generatedString.php:5147
+#: languages/generatedString.php:5149
 msgid "Make sure both URLs are publicly accessible and use HTTPS."
 msgstr ""
 
-#: languages/generatedString.php:5149
+#: languages/generatedString.php:5151
 msgid "To set up LINE Location Messages:"
 msgstr ""
 
-#: languages/generatedString.php:5151
+#: languages/generatedString.php:5153
 msgid "Title: Name of the location (e.g., \"Tokyo Tower\")."
 msgstr ""
 
-#: languages/generatedString.php:5153
+#: languages/generatedString.php:5155
 msgid "Address: Full address of the location."
 msgstr ""
 
-#: languages/generatedString.php:5155
+#: languages/generatedString.php:5157
 msgid "Latitude: GPS latitude coordinate (e.g., 35.6586)."
 msgstr ""
 
-#: languages/generatedString.php:5157
+#: languages/generatedString.php:5159
 msgid "Longitude: GPS longitude coordinate (e.g., 139.7454)."
 msgstr ""
 
-#: languages/generatedString.php:5159
+#: languages/generatedString.php:5161
 msgid "You can get coordinates from Google Maps or other mapping services."
 msgstr ""
 
-#: languages/generatedString.php:5161
+#: languages/generatedString.php:5163
 msgid "Home Phone"
 msgstr ""
 
-#: languages/generatedString.php:5163
+#: languages/generatedString.php:5165
 msgid "Office Phone"
 msgstr ""
 
-#: languages/generatedString.php:5165
+#: languages/generatedString.php:5167
 msgid "Spouse Name"
 msgstr ""
 
-#: languages/generatedString.php:5167
+#: languages/generatedString.php:5169
 msgid "Spouse Email"
 msgstr ""
 
-#: languages/generatedString.php:5169
+#: languages/generatedString.php:5171
 msgid "Spouse Phone"
 msgstr ""
 
-#: languages/generatedString.php:5171
+#: languages/generatedString.php:5173
 msgid "Spouse Birthday"
 msgstr ""
 
-#: languages/generatedString.php:5173
+#: languages/generatedString.php:5175
 msgid "Address type"
 msgstr ""
 
-#: languages/generatedString.php:5175
+#: languages/generatedString.php:5177
 msgid "Get the Redirect URI, Client Id and Client Secret"
 msgstr ""
 
-#: languages/generatedString.php:5177
+#: languages/generatedString.php:5179
 msgid "First go to your Lion Desk Developer Center Apps."
 msgstr ""
 
-#: languages/generatedString.php:5179
+#: languages/generatedString.php:5181
 msgid "Then Click \"New App+\" from Right in the middle"
 msgstr ""
 
-#: languages/generatedString.php:5181
+#: languages/generatedString.php:5183
 msgid "Then input the \"Name and Redirect URI\" then save"
 msgstr ""
 
-#: languages/generatedString.php:5183
+#: languages/generatedString.php:5185
 msgid "Then click \"REVEAL CLIENT ID\" and \"REVEAL CLIENT SECRET\", Then Copied"
 msgstr ""
 
-#: languages/generatedString.php:5185
+#: languages/generatedString.php:5187
 msgid "Lion Desk Apps"
 msgstr ""
 
-#: languages/generatedString.php:5187
+#: languages/generatedString.php:5189
 msgid "No Tags found"
 msgstr ""
 
-#: languages/generatedString.php:5189
+#: languages/generatedString.php:5191
 msgid "Create Campaign"
 msgstr ""
 
-#: languages/generatedString.php:5191
+#: languages/generatedString.php:5193
 msgid "LionDesk Fields"
 msgstr ""
 
-#: languages/generatedString.php:5193
+#: languages/generatedString.php:5195
 msgid "Please select an Event"
 msgstr ""
 
-#: languages/generatedString.php:5195
+#: languages/generatedString.php:5197
 msgid "Please select a Session"
 msgstr ""
 
-#: languages/generatedString.php:5197
+#: languages/generatedString.php:5199
 msgid "To Get API Token"
 msgstr ""
 
-#: languages/generatedString.php:5199
+#: languages/generatedString.php:5201
 msgid "First go to your Livestorm dashboard."
 msgstr ""
 
-#: languages/generatedString.php:5201
+#: languages/generatedString.php:5203
 msgid "Click go to \"Account Settings\""
 msgstr ""
 
-#: languages/generatedString.php:5203
+#: languages/generatedString.php:5205
 msgid "Then Click \"App marketplace\""
 msgstr ""
 
-#: languages/generatedString.php:5205
+#: languages/generatedString.php:5207
 msgid "Then Click \"Public API\" card"
 msgstr ""
 
-#: languages/generatedString.php:5207
+#: languages/generatedString.php:5209
 msgid "Then you'll be able to generate your own API tokens"
 msgstr ""
 
-#: languages/generatedString.php:5209
+#: languages/generatedString.php:5211
 msgid "Livestorm API Token"
 msgstr ""
 
-#: languages/generatedString.php:5211
+#: languages/generatedString.php:5213
 msgid "Livestorm Fields"
 msgstr ""
 
-#: languages/generatedString.php:5213
+#: languages/generatedString.php:5215
 msgid "Please select Status"
 msgstr ""
 
-#: languages/generatedString.php:5215
+#: languages/generatedString.php:5217
 msgid "License key"
 msgstr ""
 
-#: languages/generatedString.php:5217
+#: languages/generatedString.php:5219
 msgid "Valid for (days)"
 msgstr ""
 
-#: languages/generatedString.php:5219
+#: languages/generatedString.php:5221
 msgid "Expires at"
 msgstr ""
 
-#: languages/generatedString.php:5221
+#: languages/generatedString.php:5223
 msgid "Maximum activation count"
 msgstr ""
 
-#: languages/generatedString.php:5223
+#: languages/generatedString.php:5225
 msgid "Character map"
 msgstr ""
 
-#: languages/generatedString.php:5225
+#: languages/generatedString.php:5227
 msgid "Number of chunks"
 msgstr ""
 
-#: languages/generatedString.php:5227
+#: languages/generatedString.php:5229
 msgid "Chunk length"
 msgstr ""
 
-#: languages/generatedString.php:5229
+#: languages/generatedString.php:5231
 msgid "Separator"
 msgstr ""
 
-#: languages/generatedString.php:5231
+#: languages/generatedString.php:5233
 msgid "Prefix"
 msgstr ""
 
-#: languages/generatedString.php:5233
+#: languages/generatedString.php:5235
 msgid "Suffix"
 msgstr ""
 
-#: languages/generatedString.php:5235
+#: languages/generatedString.php:5237
 msgid "Expires in\t(days)"
 msgstr ""
 
-#: languages/generatedString.php:5237
+#: languages/generatedString.php:5239
 msgid "Create a license"
 msgstr ""
 
-#: languages/generatedString.php:5239
+#: languages/generatedString.php:5241
 msgid "Update a license"
 msgstr ""
 
-#: languages/generatedString.php:5241
+#: languages/generatedString.php:5243
 msgid "Activate a license"
 msgstr ""
 
-#: languages/generatedString.php:5243
+#: languages/generatedString.php:5245
 msgid "Deactivate a license"
 msgstr ""
 
-#: languages/generatedString.php:5245
+#: languages/generatedString.php:5247
 msgid "Delete a License"
 msgstr ""
 
-#: languages/generatedString.php:5247
+#: languages/generatedString.php:5249
 msgid "Reactivate a License"
 msgstr ""
 
-#: languages/generatedString.php:5249
+#: languages/generatedString.php:5251
 msgid "Create a generator"
 msgstr ""
 
-#: languages/generatedString.php:5251
+#: languages/generatedString.php:5253
 msgid "Update a Generator"
 msgstr ""
 
-#: languages/generatedString.php:5253
+#: languages/generatedString.php:5255
 msgid "Requirements"
 msgstr ""
 
-#: languages/generatedString.php:5255
+#: languages/generatedString.php:5257
 msgid "WordPress permalinks must be enabled at"
 msgstr ""
 
-#: languages/generatedString.php:5259
+#: languages/generatedString.php:5261
 msgid "Permalinks"
 msgstr ""
 
-#: languages/generatedString.php:5261
+#: languages/generatedString.php:5263
 msgid "To Get Consumer key & Consumer secret"
 msgstr ""
 
-#: languages/generatedString.php:5263
+#: languages/generatedString.php:5265
 msgid "First go to \"WooCommerce\""
 msgstr ""
 
-#: languages/generatedString.php:5265
+#: languages/generatedString.php:5267
 msgid "Then go to \"Settings\" page"
 msgstr ""
 
-#: languages/generatedString.php:5267
+#: languages/generatedString.php:5269
 msgid "Click on \"License Manager \" from right top corner menu"
 msgstr ""
 
-#: languages/generatedString.php:5269
+#: languages/generatedString.php:5271
 msgid "Then click \"Add key\" button at the top of the page"
 msgstr ""
 
-#: languages/generatedString.php:5271
+#: languages/generatedString.php:5273
 msgid "FIll the form & click \"Generate API Key\""
 msgstr ""
 
-#: languages/generatedString.php:5273
+#: languages/generatedString.php:5275
 msgid "Consumer key:"
 msgstr ""
 
-#: languages/generatedString.php:5275
+#: languages/generatedString.php:5277
 msgid "Consumer key..."
 msgstr ""
 
-#: languages/generatedString.php:5277
+#: languages/generatedString.php:5279
 msgid "Consumer secret:"
 msgstr ""
 
-#: languages/generatedString.php:5279
+#: languages/generatedString.php:5281
 msgid "Consumer secret..."
 msgstr ""
 
-#: languages/generatedString.php:5281
+#: languages/generatedString.php:5283
 msgid "Consumer key can't be empty"
 msgstr ""
 
-#: languages/generatedString.php:5283
+#: languages/generatedString.php:5285
 msgid "Consumer secret can't be empty"
 msgstr ""
 
-#: languages/generatedString.php:5285
+#: languages/generatedString.php:5287
 msgid "Authorized failed, Please enter valid Consumer key & Consumer secret"
 msgstr ""
 
-#: languages/generatedString.php:5287
+#: languages/generatedString.php:5289
 msgid "Customers fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5289
+#: languages/generatedString.php:5291
 msgid "Customers Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:5291
+#: languages/generatedString.php:5293
 msgid "Customers fetching failed"
 msgstr ""
 
-#: languages/generatedString.php:5293
+#: languages/generatedString.php:5295
 msgid "Product fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5295
+#: languages/generatedString.php:5297
 msgid "Product Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:5297
+#: languages/generatedString.php:5299
 msgid "Product fetching failed"
 msgstr ""
 
-#: languages/generatedString.php:5299
+#: languages/generatedString.php:5301
 msgid "Order fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5301
+#: languages/generatedString.php:5303
 msgid "Order Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:5303
+#: languages/generatedString.php:5305
 msgid "Order fetching failed"
 msgstr ""
 
-#: languages/generatedString.php:5305
+#: languages/generatedString.php:5307
 msgid "License fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5307
+#: languages/generatedString.php:5309
 msgid "License Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:5309
+#: languages/generatedString.php:5311
 msgid "License fetching failed"
 msgstr ""
 
-#: languages/generatedString.php:5311
+#: languages/generatedString.php:5313
 msgid "Generator fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5313
+#: languages/generatedString.php:5315
 msgid "Generator Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:5315
+#: languages/generatedString.php:5317
 msgid "Generator fetching failed"
 msgstr ""
 
-#: languages/generatedString.php:5317
+#: languages/generatedString.php:5319
 msgid "You can also use Valid for (the number of days) instead of Expires at"
 msgstr ""
 
-#: languages/generatedString.php:5319
+#: languages/generatedString.php:5321
 msgid "please do not use both at a time"
 msgstr ""
 
-#: languages/generatedString.php:5321
+#: languages/generatedString.php:5323
 msgid "Activation Token"
 msgstr ""
 
-#: languages/generatedString.php:5323
+#: languages/generatedString.php:5325
 msgid "Select License:"
 msgstr ""
 
-#: languages/generatedString.php:5325
+#: languages/generatedString.php:5327
 msgid "Refresh License"
 msgstr ""
 
-#: languages/generatedString.php:5327
+#: languages/generatedString.php:5329
 msgid "Select Generator:"
 msgstr ""
 
-#: languages/generatedString.php:5329
+#: languages/generatedString.php:5331
 msgid "Refresh Generator"
 msgstr ""
 
-#: languages/generatedString.php:5331
+#: languages/generatedString.php:5333
 msgid "Select Customer:"
 msgstr ""
 
-#: languages/generatedString.php:5333
+#: languages/generatedString.php:5335
 msgid "Select Product:"
 msgstr ""
 
-#: languages/generatedString.php:5335
+#: languages/generatedString.php:5337
 msgid "Select Order:"
 msgstr ""
 
-#: languages/generatedString.php:5337
+#: languages/generatedString.php:5339
 msgid "Refresh Orders"
 msgstr ""
 
-#: languages/generatedString.php:5339
+#: languages/generatedString.php:5341
 msgid "License Manager Fields"
 msgstr ""
 
-#: languages/generatedString.php:5341
+#: languages/generatedString.php:5343
 #: views/emails/integration-failure-notification.php:31
 msgid "Record Type"
 msgstr ""
 
-#: languages/generatedString.php:5343
+#: languages/generatedString.php:5345
 msgid "Response"
 msgstr ""
 
-#: languages/generatedString.php:5345
+#: languages/generatedString.php:5347
 msgid "Date"
 msgstr ""
 
-#: languages/generatedString.php:5347
+#: languages/generatedString.php:5349
 msgid "Response delete successfully"
 msgstr ""
 
-#: languages/generatedString.php:5349
+#: languages/generatedString.php:5351
 msgid "Delete"
 msgstr ""
 
-#: languages/generatedString.php:5351
+#: languages/generatedString.php:5353
 msgid "Are you sure to delete this entry"
 msgstr ""
 
-#: languages/generatedString.php:5353
+#: languages/generatedString.php:5355
 msgid "Refresh Log"
 msgstr ""
 
-#: languages/generatedString.php:5355
+#: languages/generatedString.php:5357
 msgid "Integration Log"
 msgstr ""
 
-#: languages/generatedString.php:5357
+#: languages/generatedString.php:5359
 msgid "No Log Found."
 msgstr ""
 
-#: languages/generatedString.php:5359
+#: languages/generatedString.php:5361
 msgid "WP Emails"
 msgstr ""
 
-#: languages/generatedString.php:5361
+#: languages/generatedString.php:5363
 msgid "Email Receiver can't be empty"
 msgstr ""
 
-#: languages/generatedString.php:5363
+#: languages/generatedString.php:5365
 msgid "Add mail from address"
 msgstr ""
 
-#: languages/generatedString.php:5365
+#: languages/generatedString.php:5367
 msgid "From"
 msgstr ""
 
-#: languages/generatedString.php:5367
+#: languages/generatedString.php:5369
 msgid "Add Email Receiver"
 msgstr ""
 
-#: languages/generatedString.php:5369
+#: languages/generatedString.php:5371
 msgid "To"
 msgstr ""
 
-#: languages/generatedString.php:5371
+#: languages/generatedString.php:5373
 msgid "Add Email CC"
 msgstr ""
 
-#: languages/generatedString.php:5373
+#: languages/generatedString.php:5375
 msgid "CC"
 msgstr ""
 
-#: languages/generatedString.php:5375
+#: languages/generatedString.php:5377
 msgid "Add Email BCC"
 msgstr ""
 
-#: languages/generatedString.php:5377
+#: languages/generatedString.php:5379
 msgid "BCC"
 msgstr ""
 
-#: languages/generatedString.php:5379
+#: languages/generatedString.php:5381
 msgid "Reply To"
 msgstr ""
 
-#: languages/generatedString.php:5381
+#: languages/generatedString.php:5383
 msgid "Add field"
 msgstr ""
 
-#: languages/generatedString.php:5383
+#: languages/generatedString.php:5385
 msgid "Note: If tag already exists, it will be only attached to the lead. Otherwise, it will be created first and then get attached."
 msgstr ""
 
-#: languages/generatedString.php:5385
+#: languages/generatedString.php:5387
 msgid "Update Lead"
 msgstr ""
 
-#: languages/generatedString.php:5387
+#: languages/generatedString.php:5389
 msgid "Override the existing lead info by responses."
 msgstr ""
 
-#: languages/generatedString.php:5389
+#: languages/generatedString.php:5391
 msgid "Add Double Opt-in"
 msgstr ""
 
-#: languages/generatedString.php:5391
+#: languages/generatedString.php:5393
 msgid "Create contact Tags"
 msgstr ""
 
-#: languages/generatedString.php:5393
+#: languages/generatedString.php:5395
 msgid "Note: create custom options by pressing enter or comma"
 msgstr ""
 
-#: languages/generatedString.php:5395
+#: languages/generatedString.php:5397
 msgid "MailBluster API Token"
 msgstr ""
 
-#: languages/generatedString.php:5397
+#: languages/generatedString.php:5399
 msgid "Custom fields fectched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5399
+#: languages/generatedString.php:5401
 msgid "Type:"
 msgstr ""
 
-#: languages/generatedString.php:5401
+#: languages/generatedString.php:5403
 msgid "Select subscription type"
 msgstr ""
 
-#: languages/generatedString.php:5403
+#: languages/generatedString.php:5405
 msgid "Subscribed"
 msgstr ""
 
-#: languages/generatedString.php:5405
+#: languages/generatedString.php:5407
 msgid "MailBluster Fields"
 msgstr ""
 
-#: languages/generatedString.php:5407
+#: languages/generatedString.php:5409
 msgid "Update Mail Chimp"
 msgstr ""
 
-#: languages/generatedString.php:5409
+#: languages/generatedString.php:5411
 msgid "Update Responses with MailChimp exist Aduience?"
 msgstr ""
 
-#: languages/generatedString.php:5411
+#: languages/generatedString.php:5413
 msgid "Add Language"
 msgstr ""
 
-#: languages/generatedString.php:5413
+#: languages/generatedString.php:5415
 msgid "Add GDPR"
 msgstr ""
 
-#: languages/generatedString.php:5415
+#: languages/generatedString.php:5417
 msgid "Add GDPR Marketing Preferences"
 msgstr ""
 
-#: languages/generatedString.php:5417
+#: languages/generatedString.php:5419
 msgid "Write down GDPR marketing options"
 msgstr ""
 
 #. translators: %s: placeholder
-#: languages/generatedString.php:5420
+#: languages/generatedString.php:5422
 #, php-format
 msgid "Write down your preferred GDPR marketing options, separated by commas %s. For example: Email Address, Phone Number."
 msgstr ""
 
-#: languages/generatedString.php:5422
+#: languages/generatedString.php:5424
 msgid "GDPR Marketing Preferences..."
 msgstr ""
 
-#: languages/generatedString.php:5424
+#: languages/generatedString.php:5426
 msgid "Mail Chimp API Console"
 msgstr ""
 
-#: languages/generatedString.php:5426
+#: languages/generatedString.php:5428
 msgid "Module list refreshed"
 msgstr ""
 
-#: languages/generatedString.php:5428
+#: languages/generatedString.php:5430
 msgid "Module Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:5430
+#: languages/generatedString.php:5432
 msgid "Audience list refreshed"
 msgstr ""
 
 #. translators: %s: placeholder
-#: languages/generatedString.php:5433
+#: languages/generatedString.php:5435
 #, php-format
 msgid "Audience list refresh failed Cause: %s. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5435
+#: languages/generatedString.php:5437
 msgid "Audience list failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5437
+#: languages/generatedString.php:5439
 msgid "Audience tags refreshed"
 msgstr ""
 
 #. translators: %s: placeholder
-#: languages/generatedString.php:5440
+#: languages/generatedString.php:5442
 #, php-format
 msgid "Audience tags refresh failed Cause: %s. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5442
+#: languages/generatedString.php:5444
 msgid "Audience tags failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5444
+#: languages/generatedString.php:5446
 msgid "Audience List:"
 msgstr ""
 
-#: languages/generatedString.php:5446
+#: languages/generatedString.php:5448
 msgid "Select Audience List"
 msgstr ""
 
-#: languages/generatedString.php:5448
+#: languages/generatedString.php:5450
 msgid "Refresh MailChimp Tags"
 msgstr ""
 
-#: languages/generatedString.php:5450
+#: languages/generatedString.php:5452
 msgid "Mail Chimp Fields"
 msgstr ""
 
-#: languages/generatedString.php:5452
+#: languages/generatedString.php:5454
 msgid "Mail Chimp Address Fields"
 msgstr ""
 
-#: languages/generatedString.php:5454
+#: languages/generatedString.php:5456
 msgid "Goto Account and click on"
 msgstr ""
 
-#: languages/generatedString.php:5456
+#: languages/generatedString.php:5458
 msgid "Integration"
 msgstr ""
 
-#: languages/generatedString.php:5458
+#: languages/generatedString.php:5460
 msgid "Click on API Integrations ."
 msgstr ""
 
-#: languages/generatedString.php:5460
+#: languages/generatedString.php:5462
 msgid "Copy the <b>API Key</b> and paste into <b>API Key</b> field of your authorization form."
 msgstr ""
 
-#: languages/generatedString.php:5462
+#: languages/generatedString.php:5464
 msgid "API key..."
 msgstr ""
 
-#: languages/generatedString.php:5464
+#: languages/generatedString.php:5466
 msgid "Tag refresh successfully"
 msgstr ""
 
-#: languages/generatedString.php:5466
+#: languages/generatedString.php:5468
 msgid "Tag refresh failed"
 msgstr ""
 
-#: languages/generatedString.php:5468
+#: languages/generatedString.php:5470
 msgid "Contact type:"
 msgstr ""
 
-#: languages/generatedString.php:5470
+#: languages/generatedString.php:5472
 msgid "Refresh Mailer Cloud Field"
 msgstr ""
 
-#: languages/generatedString.php:5472
+#: languages/generatedString.php:5474
 msgid "Mailercloud Fields"
 msgstr ""
 
-#: languages/generatedString.php:5474
+#: languages/generatedString.php:5476
 msgid "Please select a group"
 msgstr ""
 
-#: languages/generatedString.php:5476
+#: languages/generatedString.php:5478
 msgid "Spam Complaints"
 msgstr ""
 
-#: languages/generatedString.php:5478
+#: languages/generatedString.php:5480
 msgid "Add Groups"
 msgstr ""
 
-#: languages/generatedString.php:5480
+#: languages/generatedString.php:5482
 msgid "Update subscriber"
 msgstr ""
 
-#: languages/generatedString.php:5482
+#: languages/generatedString.php:5484
 msgid "Update Responses with MailerLite exist Subscriber?"
 msgstr ""
 
-#: languages/generatedString.php:5484
+#: languages/generatedString.php:5486
 msgid "MailerLite API Token"
 msgstr ""
 
-#: languages/generatedString.php:5486
+#: languages/generatedString.php:5488
 msgid "Fields refresh successfully"
 msgstr ""
 
-#: languages/generatedString.php:5488
+#: languages/generatedString.php:5490
 msgid "Fields refresh failed"
 msgstr ""
 
-#: languages/generatedString.php:5490
+#: languages/generatedString.php:5492
 msgid "Group fetch successfully"
 msgstr ""
 
-#: languages/generatedString.php:5492
+#: languages/generatedString.php:5494
 msgid "Group fetch failed"
 msgstr ""
 
-#: languages/generatedString.php:5494
+#: languages/generatedString.php:5496
 msgid "Delete subscriber"
 msgstr ""
 
-#: languages/generatedString.php:5496
+#: languages/generatedString.php:5498
 msgid "Forget subscriber"
 msgstr ""
 
-#: languages/generatedString.php:5498
+#: languages/generatedString.php:5500
 msgid "Unassign subscriber from a group"
 msgstr ""
 
-#: languages/generatedString.php:5500
+#: languages/generatedString.php:5502
 msgid "Select Group:"
 msgstr ""
 
-#: languages/generatedString.php:5502
+#: languages/generatedString.php:5504
 msgid "Select a group"
 msgstr ""
 
-#: languages/generatedString.php:5504
+#: languages/generatedString.php:5506
 msgid "MailerLite Fields"
 msgstr ""
 
-#: languages/generatedString.php:5506
+#: languages/generatedString.php:5508
 msgid "This action requires a MailerLite New account. It isn’t supported with Classic accounts."
 msgstr ""
 
-#: languages/generatedString.php:5508
+#: languages/generatedString.php:5510
 msgid "Connected with MailerPress Successfully"
 msgstr ""
 
-#: languages/generatedString.php:5510
+#: languages/generatedString.php:5512
 msgid "Checking if MailerPress is active!!!"
 msgstr ""
 
-#: languages/generatedString.php:5514
+#: languages/generatedString.php:5516
 msgid "MailerPress is activated"
 msgstr ""
 
-#: languages/generatedString.php:5516
+#: languages/generatedString.php:5518
 msgid "Connect to MailerPress"
 msgstr ""
 
-#: languages/generatedString.php:5518
+#: languages/generatedString.php:5520
 msgid "All lists fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5520
+#: languages/generatedString.php:5522
 msgid "MailerPress list fetch failed. Please try again"
 msgstr ""
 
-#: languages/generatedString.php:5522
+#: languages/generatedString.php:5524
 msgid "All tags fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5524
+#: languages/generatedString.php:5526
 msgid "MailerPress tags fetch failed. Please try again"
 msgstr ""
 
-#: languages/generatedString.php:5526
+#: languages/generatedString.php:5528
 msgid "Refresh MailerPress Lists"
 msgstr ""
 
-#: languages/generatedString.php:5528
+#: languages/generatedString.php:5530
 msgid "Refresh MailerPress Tags"
 msgstr ""
 
-#: languages/generatedString.php:5530
+#: languages/generatedString.php:5532
 msgid "MailerPress Fields"
 msgstr ""
 
-#: languages/generatedString.php:5532
+#: languages/generatedString.php:5534
 msgid "Create or Update Contact"
 msgstr ""
 
-#: languages/generatedString.php:5534
+#: languages/generatedString.php:5536
 msgid "Delete Contact"
 msgstr ""
 
-#: languages/generatedString.php:5536
+#: languages/generatedString.php:5538
 msgid "Add Tags to Contact"
 msgstr ""
 
-#: languages/generatedString.php:5538
+#: languages/generatedString.php:5540
 msgid "Remove Tags from Contact"
 msgstr ""
 
-#: languages/generatedString.php:5540
+#: languages/generatedString.php:5542
 msgid "Add Contact to Lists"
 msgstr ""
 
-#: languages/generatedString.php:5542
+#: languages/generatedString.php:5544
 msgid "Remove Contact from Lists"
 msgstr ""
 
-#: languages/generatedString.php:5544
+#: languages/generatedString.php:5546
 msgid "Update Mailify"
 msgstr ""
 
-#: languages/generatedString.php:5546
+#: languages/generatedString.php:5548
 msgid "Update Responses with Mailify existing email?"
 msgstr ""
 
-#: languages/generatedString.php:5548
+#: languages/generatedString.php:5550
 msgid "Access Account ID can't be empty"
 msgstr ""
 
-#: languages/generatedString.php:5550
+#: languages/generatedString.php:5552
 msgid "Get Account Id and Api key"
 msgstr ""
 
-#: languages/generatedString.php:5552
+#: languages/generatedString.php:5554
 msgid "First go to your Mailify dashboard."
 msgstr ""
 
-#: languages/generatedString.php:5554
+#: languages/generatedString.php:5556
 msgid "Click on the \"Settings\" from Top-Right corner dropdown"
 msgstr ""
 
-#: languages/generatedString.php:5556
+#: languages/generatedString.php:5558
 msgid "Then Click \"Developers\", Then click \"Add an Api Key\""
 msgstr ""
 
-#: languages/generatedString.php:5558
+#: languages/generatedString.php:5560
 msgid "Access Account ID:"
 msgstr ""
 
-#: languages/generatedString.php:5560
+#: languages/generatedString.php:5562
 msgid "Access Account ID..."
 msgstr ""
 
-#: languages/generatedString.php:5562
+#: languages/generatedString.php:5564
 msgid "To Get Account Id and Api Key, Please Visit"
 msgstr ""
 
-#: languages/generatedString.php:5564
+#: languages/generatedString.php:5566
 msgid "Mailify API Token"
 msgstr ""
 
-#: languages/generatedString.php:5566
+#: languages/generatedString.php:5568
 msgid "Mailify lists refreshed"
 msgstr ""
 
-#: languages/generatedString.php:5568
+#: languages/generatedString.php:5570
 msgid "No Mailify lists found. Try changing the header row number or try again"
 msgstr ""
 
-#: languages/generatedString.php:5570
+#: languages/generatedString.php:5572
 msgid "Mailify lists refresh failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5572
+#: languages/generatedString.php:5574
 msgid "Mailify fields refreshed"
 msgstr ""
 
-#: languages/generatedString.php:5574
+#: languages/generatedString.php:5576
 msgid "No Mailify fields found. Try changing the header row number or try again"
 msgstr ""
 
-#: languages/generatedString.php:5576
+#: languages/generatedString.php:5578
 msgid "Mailify fields refresh failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5578
+#: languages/generatedString.php:5580
 msgid "Refresh Mailify Field"
 msgstr ""
 
-#: languages/generatedString.php:5580
+#: languages/generatedString.php:5582
 msgid "Mailify Fields"
 msgstr ""
 
-#: languages/generatedString.php:5582
+#: languages/generatedString.php:5584
 msgid "Is excluded from campaigns"
 msgstr ""
 
-#: languages/generatedString.php:5584
+#: languages/generatedString.php:5586
 msgid "Indicates whether the contact is added to the exclusion list for campaigns or not. An excluded contact will not be receiving any marketing emails."
 msgstr ""
 
-#: languages/generatedString.php:5586
+#: languages/generatedString.php:5588
 msgid "Your Account"
 msgstr ""
 
-#: languages/generatedString.php:5588
+#: languages/generatedString.php:5590
 msgid "To Get API key & Secret Key, Please Visit"
 msgstr ""
 
-#: languages/generatedString.php:5590
+#: languages/generatedString.php:5592
 msgid "Mailjet API Token"
 msgstr ""
 
-#: languages/generatedString.php:5592
+#: languages/generatedString.php:5594
 msgid "Select Lists:"
 msgstr ""
 
-#: languages/generatedString.php:5594
+#: languages/generatedString.php:5596
 msgid "Mailjet Fields"
 msgstr ""
 
-#: languages/generatedString.php:5596
+#: languages/generatedString.php:5598
 msgid "Please integrations name is required."
 msgstr ""
 
-#: languages/generatedString.php:5598
+#: languages/generatedString.php:5600
 msgid "Add contact"
 msgstr ""
 
-#: languages/generatedString.php:5600
+#: languages/generatedString.php:5602
 msgid "Connected with Mail Mint Successfully"
 msgstr ""
 
-#: languages/generatedString.php:5602
+#: languages/generatedString.php:5604
 msgid "Checking if Mail Mint is active!!!"
 msgstr ""
 
-#: languages/generatedString.php:5604
+#: languages/generatedString.php:5606
 msgid "All custom field fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5606
+#: languages/generatedString.php:5608
 msgid "Mail Mint custom field fetch failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5608
+#: languages/generatedString.php:5610
 msgid "Mail mint list fetch failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5610
+#: languages/generatedString.php:5612
 msgid "Mail Mint fetch failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5612
+#: languages/generatedString.php:5614
 msgid "Fetch All List"
 msgstr ""
 
-#: languages/generatedString.php:5614
+#: languages/generatedString.php:5616
 msgid "Select tags:"
 msgstr ""
 
-#: languages/generatedString.php:5616
+#: languages/generatedString.php:5618
 msgid "Fetch All Tags"
 msgstr ""
 
-#: languages/generatedString.php:5618
+#: languages/generatedString.php:5620
 msgid "Select subscription status:"
 msgstr ""
 
-#: languages/generatedString.php:5620
+#: languages/generatedString.php:5622
 msgid "Mail Mint Fields"
 msgstr ""
 
-#: languages/generatedString.php:5622
+#: languages/generatedString.php:5624
 msgid "Update Contact if contact already exist?"
 msgstr ""
 
-#: languages/generatedString.php:5624
+#: languages/generatedString.php:5626
 msgid "Update Subscriber"
 msgstr ""
 
-#: languages/generatedString.php:5626
+#: languages/generatedString.php:5628
 msgid "Update Mailpoet exist Subscriber? First name, last name, and email may not be updated."
 msgstr ""
 
-#: languages/generatedString.php:5628
+#: languages/generatedString.php:5630
 msgid "Send Confirmation Email"
 msgstr ""
 
-#: languages/generatedString.php:5630
+#: languages/generatedString.php:5632
 msgid "Can be used to disable a confirmation email. Otherwise, a confirmation email is sent as described above. It is strongly recommended to keep this option set to checked so that MailPoet settings for sign-up confirmation are respected. Turning it to unchecked might lead that subscriber to be added as unconfirmed."
 msgstr ""
 
-#: languages/generatedString.php:5632
+#: languages/generatedString.php:5634
 msgid "Checking if MailPoet is active!!!"
 msgstr ""
 
-#: languages/generatedString.php:5634
+#: languages/generatedString.php:5636
 msgid "Please! First Install Mailpoet Plugins"
 msgstr ""
 
-#: languages/generatedString.php:5636
+#: languages/generatedString.php:5638
 msgid "Newsletter list refreshed"
 msgstr ""
 
-#: languages/generatedString.php:5638
+#: languages/generatedString.php:5640
 msgid "Newsletter list refresh failed Cause:"
 msgstr ""
 
-#: languages/generatedString.php:5640
+#: languages/generatedString.php:5642
 msgid "Newsletter list refresh failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5642
+#: languages/generatedString.php:5644
 msgid "Mailpoet fields refreshed"
 msgstr ""
 
-#: languages/generatedString.php:5644
+#: languages/generatedString.php:5646
 msgid "No Mailpoet fields found. Try changing the header row number or try again"
 msgstr ""
 
-#: languages/generatedString.php:5646
+#: languages/generatedString.php:5648
 msgid "Mailpoet fields refresh failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5648
+#: languages/generatedString.php:5650
 msgid "Refresh MailPoet List"
 msgstr ""
 
-#: languages/generatedString.php:5650
+#: languages/generatedString.php:5652
 msgid "MailPoet Fields"
 msgstr ""
 
-#: languages/generatedString.php:5652
+#: languages/generatedString.php:5654
 msgid "SMS Phone"
 msgstr ""
 
-#: languages/generatedString.php:5656
+#: languages/generatedString.php:5658
 msgid "Override the existing subscriber info by responses."
 msgstr ""
 
-#: languages/generatedString.php:5658
+#: languages/generatedString.php:5660
 msgid "Select groups"
 msgstr ""
 
-#: languages/generatedString.php:5660
+#: languages/generatedString.php:5662
 msgid "Example: bitapps.ipzmarketing.com"
 msgstr ""
 
-#: languages/generatedString.php:5662
+#: languages/generatedString.php:5664
 msgid "MailRelay API Token"
 msgstr ""
 
-#: languages/generatedString.php:5664
+#: languages/generatedString.php:5666
 msgid "Account Name can't be empty"
 msgstr ""
 
-#: languages/generatedString.php:5666
+#: languages/generatedString.php:5668
 msgid "Groups fetch successfully"
 msgstr ""
 
-#: languages/generatedString.php:5670
+#: languages/generatedString.php:5672
 msgid "Phone numbers from the following countries will work only in the Mailrelay SMS Phone number field:"
 msgstr ""
 
-#: languages/generatedString.php:5672
+#: languages/generatedString.php:5674
 msgid "<span>Ecuador</span>, <span>Peru</span>, <span>Argentina</span>, <span>Italy</span>, <span>Uruguay</span>, <span>Chile</span>, <span>Portugal</span>, <span>Brazil</span>, <span>Mexico</span>, <span>Colombia</span> & <span>Spain</span>"
 msgstr ""
 
-#: languages/generatedString.php:5674
+#: languages/generatedString.php:5676
 msgid "Subscriber Status:"
 msgstr ""
 
-#: languages/generatedString.php:5676
+#: languages/generatedString.php:5678
 msgid "MailRelay Fields"
 msgstr ""
 
-#: languages/generatedString.php:5678
+#: languages/generatedString.php:5680
 msgid "Actions"
 msgstr ""
 
-#: languages/generatedString.php:5680
+#: languages/generatedString.php:5682
 msgid "Select Lists"
 msgstr ""
 
-#: languages/generatedString.php:5682
+#: languages/generatedString.php:5684
 msgid "Choose which lists to add subscribers to."
 msgstr ""
 
-#: languages/generatedString.php:5684
+#: languages/generatedString.php:5686
 msgid "Choose which tags to add to subscribers."
 msgstr ""
 
-#: languages/generatedString.php:5686
+#: languages/generatedString.php:5688
 msgid "Hardbounced"
 msgstr ""
 
-#: languages/generatedString.php:5688
+#: languages/generatedString.php:5690
 msgid "Subscribers will be associated with the selected lists"
 msgstr ""
 
-#: languages/generatedString.php:5690
+#: languages/generatedString.php:5692
 msgid "Selected tags will be associated with the subscriber. You can also add custom tags by pressing enter or comma (,) after writing them"
 msgstr ""
 
-#: languages/generatedString.php:5692
+#: languages/generatedString.php:5694
 msgid "Connect to Mailster"
 msgstr ""
 
-#: languages/generatedString.php:5694
+#: languages/generatedString.php:5696
 msgid "Connection failed: install and active Mailster plugin first!"
 msgstr ""
 
-#: languages/generatedString.php:5696
+#: languages/generatedString.php:5698
 msgid "Fields fetched successfully."
 msgstr ""
 
-#: languages/generatedString.php:5702
+#: languages/generatedString.php:5704
 msgid "Tags fetched successfully."
 msgstr ""
 
-#: languages/generatedString.php:5706
+#: languages/generatedString.php:5708
 msgid "Available values or options for the selected Mailster field"
 msgstr ""
 
-#: languages/generatedString.php:5708
+#: languages/generatedString.php:5710
 msgid "Mailster Fields"
 msgstr ""
 
-#: languages/generatedString.php:5710
+#: languages/generatedString.php:5712
 msgid "Mailup all Lists fetched successfully."
 msgstr ""
 
-#: languages/generatedString.php:5712
+#: languages/generatedString.php:5714
 msgid "Mailup lists fetching failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5714
+#: languages/generatedString.php:5716
 msgid "Mailup all fields fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5716
+#: languages/generatedString.php:5718
 msgid "Mailup fields fetching failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5718
+#: languages/generatedString.php:5720
 msgid "All groups fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5720
+#: languages/generatedString.php:5722
 msgid "Groups fetching failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5722
+#: languages/generatedString.php:5724
 msgid "Client ID can't be empty"
 msgstr ""
 
-#: languages/generatedString.php:5724
+#: languages/generatedString.php:5726
 msgid "Groups:"
 msgstr ""
 
-#: languages/generatedString.php:5726
+#: languages/generatedString.php:5728
 msgid "If you want to assign a subscriber to a group then select a group otherwise leave it blank"
 msgstr ""
 
-#: languages/generatedString.php:5728
+#: languages/generatedString.php:5730
 msgid "Fetch All Fields"
 msgstr ""
 
-#: languages/generatedString.php:5730
+#: languages/generatedString.php:5732
 msgid "Mailup Fields"
 msgstr ""
 
-#: languages/generatedString.php:5732
+#: languages/generatedString.php:5734
 msgid "Quiz complete for the user"
 msgstr ""
 
-#: languages/generatedString.php:5734
+#: languages/generatedString.php:5736
 msgid "Reset user course"
 msgstr ""
 
-#: languages/generatedString.php:5736
+#: languages/generatedString.php:5738
 msgid "Reset user lesson"
 msgstr ""
 
-#: languages/generatedString.php:5738
+#: languages/generatedString.php:5740
 msgid "Connected with MasterStudyLMs Successfully"
 msgstr ""
 
-#: languages/generatedString.php:5740
+#: languages/generatedString.php:5742
 msgid "Fetch quiz list"
 msgstr ""
 
-#: languages/generatedString.php:5742
+#: languages/generatedString.php:5744
 msgid "Add Tag"
 msgstr ""
 
-#: languages/generatedString.php:5744
+#: languages/generatedString.php:5746
 msgid "Add tag to mautic contact"
 msgstr ""
 
-#: languages/generatedString.php:5746
+#: languages/generatedString.php:5748
 msgid "Add Contact Owner"
 msgstr ""
 
-#: languages/generatedString.php:5748
+#: languages/generatedString.php:5750
 msgid "Add a Owner to mautic contact"
 msgstr ""
 
-#: languages/generatedString.php:5750
+#: languages/generatedString.php:5752
 msgid "Tag Records"
 msgstr ""
 
-#: languages/generatedString.php:5752
+#: languages/generatedString.php:5754
 msgid "Add a tag to contacts"
 msgstr ""
 
-#: languages/generatedString.php:5754
+#: languages/generatedString.php:5756
 msgid "Add a owner to contacts"
 msgstr ""
 
-#: languages/generatedString.php:5756
+#: languages/generatedString.php:5758
 msgid "Refresh Contact Owner"
 msgstr ""
 
-#: languages/generatedString.php:5758
+#: languages/generatedString.php:5760
 msgid "Mautic API Console"
 msgstr ""
 
-#: languages/generatedString.php:5760
+#: languages/generatedString.php:5762
 msgid "Mautic Base URL:"
 msgstr ""
 
-#: languages/generatedString.php:5762
+#: languages/generatedString.php:5764
 msgid "Example: https://mautic.bit-integration.pro"
 msgstr ""
 
-#: languages/generatedString.php:5764
+#: languages/generatedString.php:5766
 msgid "Tags refreshed"
 msgstr ""
 
-#: languages/generatedString.php:5766
+#: languages/generatedString.php:5768
 msgid "Tags refresh failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5768
+#: languages/generatedString.php:5770
 msgid "Contact Owner refreshed"
 msgstr ""
 
-#: languages/generatedString.php:5770
+#: languages/generatedString.php:5772
 msgid "Contact Owner refresh failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5772
+#: languages/generatedString.php:5774
 msgid "Base Url can't be empty"
 msgstr ""
 
-#: languages/generatedString.php:5774
+#: languages/generatedString.php:5776
 msgid "Refresh Mautic Fields"
 msgstr ""
 
-#: languages/generatedString.php:5776
+#: languages/generatedString.php:5778
 msgid "Mautic Fields"
 msgstr ""
 
-#: languages/generatedString.php:5778
+#: languages/generatedString.php:5780
 msgid "Add the user to a membership"
 msgstr ""
 
-#: languages/generatedString.php:5780
+#: languages/generatedString.php:5782
 msgid "Remove the user from a membership"
 msgstr ""
 
-#: languages/generatedString.php:5782
+#: languages/generatedString.php:5784
 msgid "Sub Total"
 msgstr ""
 
-#: languages/generatedString.php:5784
+#: languages/generatedString.php:5786
 msgid "Tax Amount"
 msgstr ""
 
-#: languages/generatedString.php:5786
+#: languages/generatedString.php:5788
 msgid "Tax Rate"
 msgstr ""
 
-#: languages/generatedString.php:5788
+#: languages/generatedString.php:5790
 msgid "Expiration Date"
 msgstr ""
 
-#: languages/generatedString.php:5790
+#: languages/generatedString.php:5792
 msgid "Complete"
 msgstr ""
 
-#: languages/generatedString.php:5792
+#: languages/generatedString.php:5794
 msgid "Add status of Membership"
 msgstr ""
 
-#: languages/generatedString.php:5794
+#: languages/generatedString.php:5796
 msgid "Select Gateway"
 msgstr ""
 
-#: languages/generatedString.php:5796
+#: languages/generatedString.php:5798
 msgid "Connected with Memberpress Successfully"
 msgstr ""
 
-#: languages/generatedString.php:5798
+#: languages/generatedString.php:5800
 msgid "All membership fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5800
+#: languages/generatedString.php:5802
 msgid "All payment method fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5802
+#: languages/generatedString.php:5804
 msgid "Payment method fetch failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:5804
+#: languages/generatedString.php:5806
 msgid "Select Membership:"
 msgstr ""
 
-#: languages/generatedString.php:5806
+#: languages/generatedString.php:5808
 msgid "Fetch All Membership"
 msgstr ""
 
-#: languages/generatedString.php:5808
+#: languages/generatedString.php:5810
 msgid "Memberpress Fields"
 msgstr ""
 
-#: languages/generatedString.php:5810
+#: languages/generatedString.php:5812
 msgid "Please select a board"
 msgstr ""
 
-#: languages/generatedString.php:5812
+#: languages/generatedString.php:5814
 msgid "Please select an item"
 msgstr ""
 
-#: languages/generatedString.php:5814
+#: languages/generatedString.php:5816
 msgid "Please select a column type"
 msgstr ""
 
-#: languages/generatedString.php:5816
+#: languages/generatedString.php:5818
 msgid "Add To Top"
 msgstr ""
 
-#: languages/generatedString.php:5818
+#: languages/generatedString.php:5820
 msgid "Duplicate selected group at the top of the board"
 msgstr ""
 
-#: languages/generatedString.php:5820
+#: languages/generatedString.php:5822
 msgid "To Get Monday.com API Token"
 msgstr ""
 
-#: languages/generatedString.php:5822
+#: languages/generatedString.php:5824
 msgid "Log in to your Monday.com account."
 msgstr ""
 
-#: languages/generatedString.php:5824
+#: languages/generatedString.php:5826
 msgid "Click on your avatar in the bottom left corner."
 msgstr ""
 
-#: languages/generatedString.php:5826
+#: languages/generatedString.php:5828
 msgid "Select Developers → API Token."
 msgstr ""
 
-#: languages/generatedString.php:5828
+#: languages/generatedString.php:5830
 msgid "Copy your personal API token (v2)."
 msgstr ""
 
-#: languages/generatedString.php:5830
+#: languages/generatedString.php:5832
 msgid "Monday.com Developers"
 msgstr ""
 
-#: languages/generatedString.php:5832
+#: languages/generatedString.php:5834
 msgid "API Token can't be empty"
 msgstr ""
 
-#: languages/generatedString.php:5834
+#: languages/generatedString.php:5836
 msgid "Boards fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:5836
+#: languages/generatedString.php:5838
 msgid "Boards Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:5840
+#: languages/generatedString.php:5842
 msgid "Groups Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:5844
+#: languages/generatedString.php:5846
 msgid "Columns Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:5848
+#: languages/generatedString.php:5850
 msgid "Items Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:5852
+#: languages/generatedString.php:5854
 msgid "Remove field mapping"
 msgstr ""
 
-#: languages/generatedString.php:5854
+#: languages/generatedString.php:5856
 msgid "Select Board:"
 msgstr ""
 
-#: languages/generatedString.php:5856
+#: languages/generatedString.php:5858
 msgid "Refresh Boards"
 msgstr ""
 
-#: languages/generatedString.php:5858
+#: languages/generatedString.php:5860
 msgid "Select Item:"
 msgstr ""
 
-#: languages/generatedString.php:5860
+#: languages/generatedString.php:5862
 msgid "Refresh Items"
 msgstr ""
 
-#: languages/generatedString.php:5862
+#: languages/generatedString.php:5864
 msgid "Column Type:"
 msgstr ""
 
-#: languages/generatedString.php:5864
+#: languages/generatedString.php:5866
 msgid "Monday.com Fields"
 msgstr ""
 
-#: languages/generatedString.php:5866
+#: languages/generatedString.php:5868
 msgid "Create Item"
 msgstr ""
 
-#: languages/generatedString.php:5868
+#: languages/generatedString.php:5870
 msgid "Create Subitem"
 msgstr ""
 
-#: languages/generatedString.php:5870
+#: languages/generatedString.php:5872
 msgid "Move Item to Group"
 msgstr ""
 
-#: languages/generatedString.php:5872
+#: languages/generatedString.php:5874
 msgid "Archive Item"
 msgstr ""
 
-#: languages/generatedString.php:5874
+#: languages/generatedString.php:5876
 msgid "Delete Item"
 msgstr ""
 
-#: languages/generatedString.php:5876
+#: languages/generatedString.php:5878
 msgid "Archive Board"
 msgstr ""
 
-#: languages/generatedString.php:5878
+#: languages/generatedString.php:5880
 msgid "Duplicate Group"
 msgstr ""
 
-#: languages/generatedString.php:5880
+#: languages/generatedString.php:5882
 msgid "Archive Group"
 msgstr ""
 
-#: languages/generatedString.php:5882
+#: languages/generatedString.php:5884
 msgid "Delete Group"
 msgstr ""
 
-#: languages/generatedString.php:5884
+#: languages/generatedString.php:5886
 msgid "Create Column"
 msgstr ""
 
-#: languages/generatedString.php:5886
+#: languages/generatedString.php:5888
 msgid "Item Name"
 msgstr ""
 
-#: languages/generatedString.php:5888
+#: languages/generatedString.php:5890
 msgid "Item ID"
 msgstr ""
 
-#: languages/generatedString.php:5890
+#: languages/generatedString.php:5892
 msgid "Subitem Name"
 msgstr ""
 
-#: languages/generatedString.php:5892
+#: languages/generatedString.php:5894
 msgid "Group ID"
 msgstr ""
 
-#: languages/generatedString.php:5894
+#: languages/generatedString.php:5896
 msgid "Board ID"
 msgstr ""
 
-#: languages/generatedString.php:5896
+#: languages/generatedString.php:5898
 msgid "Group Title"
 msgstr ""
 
-#: languages/generatedString.php:5898
+#: languages/generatedString.php:5900
 msgid "Column Title"
 msgstr ""
 
-#: languages/generatedString.php:5900
+#: languages/generatedString.php:5902
 msgid "Long Text"
 msgstr ""
 
-#: languages/generatedString.php:5902
+#: languages/generatedString.php:5904
 msgid "Number"
 msgstr ""
 
-#: languages/generatedString.php:5904
+#: languages/generatedString.php:5906
 msgid "Checkbox"
 msgstr ""
 
-#: languages/generatedString.php:5906
+#: languages/generatedString.php:5908
 msgid "Link"
 msgstr ""
 
-#: languages/generatedString.php:5908
+#: languages/generatedString.php:5910
 msgid "Rating"
 msgstr ""
 
-#: languages/generatedString.php:5910
+#: languages/generatedString.php:5912
 msgid "People"
 msgstr ""
 
-#: languages/generatedString.php:5912
+#: languages/generatedString.php:5914
 msgid "Timeline"
 msgstr ""
 
-#: languages/generatedString.php:5914
+#: languages/generatedString.php:5916
 msgid "First login on account."
 msgstr ""
 
-#: languages/generatedString.php:5916
+#: languages/generatedString.php:5918
 msgid "Goto Settings and click on <b>API Key</b>"
 msgstr ""
 
-#: languages/generatedString.php:5918
+#: languages/generatedString.php:5920
 msgid "Unsubscribe"
 msgstr ""
 
-#: languages/generatedString.php:5920
+#: languages/generatedString.php:5922
 msgid "Unsubscribe from list"
 msgstr ""
 
-#: languages/generatedString.php:5922
+#: languages/generatedString.php:5924
 msgid "Custom Field Available in Pro (v2.3.1)"
 msgstr ""
 
-#: languages/generatedString.php:5924
+#: languages/generatedString.php:5926
 msgid "With the release of version 2.3.1, Pro users can now take advantage of the custom field feature."
 msgstr ""
 
-#: languages/generatedString.php:5926
+#: languages/generatedString.php:5928
 msgid "Select Method"
 msgstr ""
 
-#: languages/generatedString.php:5928
+#: languages/generatedString.php:5930
 msgid "Moosend Fields"
 msgstr ""
 
-#: languages/generatedString.php:5930
+#: languages/generatedString.php:5932
 msgid "Address1"
 msgstr ""
 
-#: languages/generatedString.php:5932
+#: languages/generatedString.php:5934
 msgid "Address2"
 msgstr ""
 
-#: languages/generatedString.php:5934
+#: languages/generatedString.php:5936
 msgid "Locality"
 msgstr ""
 
-#: languages/generatedString.php:5936
+#: languages/generatedString.php:5938
 msgid "Postal"
 msgstr ""
 
-#: languages/generatedString.php:5938
+#: languages/generatedString.php:5940
 msgid "Lead Source"
 msgstr ""
 
-#: languages/generatedString.php:5940
+#: languages/generatedString.php:5942
 msgid "Hourly Amount"
 msgstr ""
 
-#: languages/generatedString.php:5944
+#: languages/generatedString.php:5946
 msgid "Contact First Name"
 msgstr ""
 
-#: languages/generatedString.php:5946
+#: languages/generatedString.php:5948
 msgid "Contact Last Name"
 msgstr ""
 
-#: languages/generatedString.php:5948
+#: languages/generatedString.php:5950
 msgid "Contact Email"
 msgstr ""
 
-#: languages/generatedString.php:5950
+#: languages/generatedString.php:5952
 msgid "Lead First Name"
 msgstr ""
 
-#: languages/generatedString.php:5952
+#: languages/generatedString.php:5954
 msgid "Lead Last Name"
 msgstr ""
 
-#: languages/generatedString.php:5954
+#: languages/generatedString.php:5956
 msgid "Lead Email"
 msgstr ""
 
-#: languages/generatedString.php:5956
+#: languages/generatedString.php:5958
 msgid "Lead Phone"
 msgstr ""
 
-#: languages/generatedString.php:5958
+#: languages/generatedString.php:5960
 msgid "Lead Role"
 msgstr ""
 
-#: languages/generatedString.php:5960
+#: languages/generatedString.php:5962
 msgid "Lead Business Name"
 msgstr ""
 
-#: languages/generatedString.php:5962
+#: languages/generatedString.php:5964
 msgid "Lead Website"
 msgstr ""
 
-#: languages/generatedString.php:5964
+#: languages/generatedString.php:5966
 msgid "Lead Address 1"
 msgstr ""
 
-#: languages/generatedString.php:5966
+#: languages/generatedString.php:5968
 msgid "Lead Address 2"
 msgstr ""
 
-#: languages/generatedString.php:5968
+#: languages/generatedString.php:5970
 msgid "Lead City"
 msgstr ""
 
-#: languages/generatedString.php:5970
+#: languages/generatedString.php:5972
 msgid "Lead Locality"
 msgstr ""
 
-#: languages/generatedString.php:5972
+#: languages/generatedString.php:5974
 msgid "Lead Postal"
 msgstr ""
 
-#: languages/generatedString.php:5974
+#: languages/generatedString.php:5976
 msgid "Lead Country"
 msgstr ""
 
-#: languages/generatedString.php:5976
+#: languages/generatedString.php:5978
 msgid "Lead Source Url"
 msgstr ""
 
-#: languages/generatedString.php:5978
+#: languages/generatedString.php:5980
 msgid "Add Client"
 msgstr ""
 
-#: languages/generatedString.php:5980
+#: languages/generatedString.php:5982
 msgid "Add an client"
 msgstr ""
 
-#: languages/generatedString.php:5982
+#: languages/generatedString.php:5984
 msgid "Clients"
 msgstr ""
 
-#: languages/generatedString.php:5984
+#: languages/generatedString.php:5986
 msgid "Select Client"
 msgstr ""
 
-#: languages/generatedString.php:5986
+#: languages/generatedString.php:5988
 msgid "Refresh Clients"
 msgstr ""
 
-#: languages/generatedString.php:5988
+#: languages/generatedString.php:5990
 msgid "First go to your Moxie dashboard."
 msgstr ""
 
-#: languages/generatedString.php:5990
+#: languages/generatedString.php:5992
 msgid "Then click Workspace Settings from bottom left corner."
 msgstr ""
 
-#: languages/generatedString.php:5992
+#: languages/generatedString.php:5994
 msgid "Click \"Connneted Apps\", Then click \"Integrations\""
 msgstr ""
 
-#: languages/generatedString.php:5994
+#: languages/generatedString.php:5996
 msgid "Select \"Custom Integrations\""
 msgstr ""
 
-#: languages/generatedString.php:5996
+#: languages/generatedString.php:5998
 msgid "Your Client..."
 msgstr ""
 
-#: languages/generatedString.php:5998
+#: languages/generatedString.php:6000
 msgid "Example: {name}.withmoxie.com"
 msgstr ""
 
-#: languages/generatedString.php:6000
+#: languages/generatedString.php:6002
 msgid "Clients fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:6004
+#: languages/generatedString.php:6006
 msgid "Create Client"
 msgstr ""
 
-#: languages/generatedString.php:6006
+#: languages/generatedString.php:6008
 msgid "Select Record Type:"
 msgstr ""
 
-#: languages/generatedString.php:6008
+#: languages/generatedString.php:6010
 msgid "MoxieCRM Fields"
 msgstr ""
 
-#: languages/generatedString.php:6010
+#: languages/generatedString.php:6012
 msgid "Connect to Newsletter"
 msgstr ""
 
-#: languages/generatedString.php:6012
+#: languages/generatedString.php:6014
 msgid "Connection failed: install and active Newsletter plugin first!"
 msgstr ""
 
-#: languages/generatedString.php:6014
+#: languages/generatedString.php:6016
 msgid "Custom Field 1"
 msgstr ""
 
-#: languages/generatedString.php:6016
+#: languages/generatedString.php:6018
 msgid "Custom Field 2"
 msgstr ""
 
-#: languages/generatedString.php:6018
+#: languages/generatedString.php:6020
 msgid "Custom Field 3"
 msgstr ""
 
-#: languages/generatedString.php:6020
+#: languages/generatedString.php:6022
 msgid "Custom Field 4"
 msgstr ""
 
-#: languages/generatedString.php:6022
+#: languages/generatedString.php:6024
 msgid "Custom Field 5"
 msgstr ""
 
-#: languages/generatedString.php:6024
+#: languages/generatedString.php:6026
 msgid "Custom Field 6"
 msgstr ""
 
-#: languages/generatedString.php:6026
+#: languages/generatedString.php:6028
 msgid "Custom Field 7"
 msgstr ""
 
-#: languages/generatedString.php:6028
+#: languages/generatedString.php:6030
 msgid "Custom Field 8"
 msgstr ""
 
-#: languages/generatedString.php:6030
+#: languages/generatedString.php:6032
 msgid "Custom Field 9"
 msgstr ""
 
-#: languages/generatedString.php:6032
+#: languages/generatedString.php:6034
 msgid "Custom Field 10"
 msgstr ""
 
-#: languages/generatedString.php:6034
+#: languages/generatedString.php:6036
 msgid "Custom Field 11"
 msgstr ""
 
-#: languages/generatedString.php:6036
+#: languages/generatedString.php:6038
 msgid "Custom Field 12"
 msgstr ""
 
-#: languages/generatedString.php:6038
+#: languages/generatedString.php:6040
 msgid "Custom Field 13"
 msgstr ""
 
-#: languages/generatedString.php:6040
+#: languages/generatedString.php:6042
 msgid "Custom Field 14"
 msgstr ""
 
-#: languages/generatedString.php:6042
+#: languages/generatedString.php:6044
 msgid "Custom Field 15"
 msgstr ""
 
-#: languages/generatedString.php:6044
+#: languages/generatedString.php:6046
 msgid "Custom Field 16"
 msgstr ""
 
-#: languages/generatedString.php:6046
+#: languages/generatedString.php:6048
 msgid "Custom Field 17"
 msgstr ""
 
-#: languages/generatedString.php:6048
+#: languages/generatedString.php:6050
 msgid "Custom Field 18"
 msgstr ""
 
-#: languages/generatedString.php:6050
+#: languages/generatedString.php:6052
 msgid "Custom Field 19"
 msgstr ""
 
-#: languages/generatedString.php:6052
+#: languages/generatedString.php:6054
 msgid "Custom Field 20"
 msgstr ""
 
-#: languages/generatedString.php:6054
+#: languages/generatedString.php:6056
 msgid "Below are the available statuses for newsletter (single letters are the value)"
 msgstr ""
 
-#: languages/generatedString.php:6056
+#: languages/generatedString.php:6058
 msgid "Not Confirmed"
 msgstr ""
 
 #. translators: 1: %1$s placeholder 2: %2$s placeholder
-#: languages/generatedString.php:6059
+#: languages/generatedString.php:6061
 #, php-format
 msgid "you have to insert one of the mentioned %1$s statuses; otherwise, subscriber adding will fail. You can also omit this status field; if omitted, the status will be set to %2$s by default"
 msgstr ""
 
-#: languages/generatedString.php:6061
+#: languages/generatedString.php:6063
 msgid "Newsletter Fields"
 msgstr ""
 
-#: languages/generatedString.php:6063
+#: languages/generatedString.php:6065
 msgid "Add Employee Size"
 msgstr ""
 
-#: languages/generatedString.php:6065
+#: languages/generatedString.php:6067
 msgid "Add Ratings"
 msgstr ""
 
-#: languages/generatedString.php:6067
+#: languages/generatedString.php:6069
 msgid "Add Lead Status"
 msgstr ""
 
-#: languages/generatedString.php:6069
+#: languages/generatedString.php:6071
 msgid "Add Lead Source"
 msgstr ""
 
-#: languages/generatedString.php:6071
+#: languages/generatedString.php:6073
 msgid "Add Lead Type"
 msgstr ""
 
-#: languages/generatedString.php:6073
+#: languages/generatedString.php:6075
 msgid "Select Employee Size"
 msgstr ""
 
-#: languages/generatedString.php:6075
+#: languages/generatedString.php:6077
 msgid "Add Rating"
 msgstr ""
 
-#: languages/generatedString.php:6077
+#: languages/generatedString.php:6079
 msgid "Select Rating"
 msgstr ""
 
-#: languages/generatedString.php:6079
+#: languages/generatedString.php:6081
 msgid "Select Lead Status"
 msgstr ""
 
-#: languages/generatedString.php:6081
+#: languages/generatedString.php:6083
 msgid "Select Lead Source"
 msgstr ""
 
-#: languages/generatedString.php:6083
+#: languages/generatedString.php:6085
 msgid "Select Lead Type"
 msgstr ""
 
-#: languages/generatedString.php:6085
+#: languages/generatedString.php:6087
 msgid "First go to your Nimble dashboard."
 msgstr ""
 
-#: languages/generatedString.php:6087
+#: languages/generatedString.php:6089
 msgid "Click go to \"Settings\""
 msgstr ""
 
-#: languages/generatedString.php:6089
+#: languages/generatedString.php:6091
 msgid "Then Click \"API Tokens\""
 msgstr ""
 
-#: languages/generatedString.php:6091
+#: languages/generatedString.php:6093
 msgid "Then Click \"Generate New Token"
 msgstr ""
 
-#: languages/generatedString.php:6093
+#: languages/generatedString.php:6095
 msgid "Nimble API Token"
 msgstr ""
 
-#: languages/generatedString.php:6097
+#: languages/generatedString.php:6099
 msgid "Fields Not Found!"
 msgstr ""
 
-#: languages/generatedString.php:6099
+#: languages/generatedString.php:6101
 msgid "Add people"
 msgstr ""
 
-#: languages/generatedString.php:6101
+#: languages/generatedString.php:6103
 msgid "Nimble Fields"
 msgstr ""
 
-#: languages/generatedString.php:6103
+#: languages/generatedString.php:6105
 msgid "Please select all required options to continue."
 msgstr ""
 
-#: languages/generatedString.php:6105
+#: languages/generatedString.php:6107
 msgid "Connected with Ninja Tables successfully"
 msgstr ""
 
-#: languages/generatedString.php:6107
+#: languages/generatedString.php:6109
 msgid "NinjaTables"
 msgstr ""
 
-#: languages/generatedString.php:6109
+#: languages/generatedString.php:6111
 msgid "Connect to Ninja Tables"
 msgstr ""
 
-#: languages/generatedString.php:6111
+#: languages/generatedString.php:6113
 msgid "Reminder:"
 msgstr ""
 
-#: languages/generatedString.php:6113
+#: languages/generatedString.php:6115
 msgid "Please make sure Ninja Tables plugin is installed and activated."
 msgstr ""
 
-#: languages/generatedString.php:6115
+#: languages/generatedString.php:6117
 msgid "Please select a table first"
 msgstr ""
 
-#: languages/generatedString.php:6117
+#: languages/generatedString.php:6119
 msgid "Failed to fetch data"
 msgstr ""
 
-#: languages/generatedString.php:6119
+#: languages/generatedString.php:6121
 msgid "Tables refreshed successfully"
 msgstr ""
 
-#: languages/generatedString.php:6121
+#: languages/generatedString.php:6123
 msgid "Failed to fetch tables"
 msgstr ""
 
-#: languages/generatedString.php:6123
+#: languages/generatedString.php:6125
 msgid "Rows refreshed successfully"
 msgstr ""
 
-#: languages/generatedString.php:6125
+#: languages/generatedString.php:6127
 msgid "Failed to fetch rows"
 msgstr ""
 
-#: languages/generatedString.php:6127
+#: languages/generatedString.php:6129
 msgid "Users refreshed successfully"
 msgstr ""
 
-#: languages/generatedString.php:6129
+#: languages/generatedString.php:6131
 msgid "Failed to fetch users"
 msgstr ""
 
-#: languages/generatedString.php:6131
+#: languages/generatedString.php:6133
 msgid "Columns refreshed successfully"
 msgstr ""
 
-#: languages/generatedString.php:6133
+#: languages/generatedString.php:6135
 msgid "Failed to fetch columns"
 msgstr ""
 
-#: languages/generatedString.php:6135
+#: languages/generatedString.php:6137
 msgid "Select Column"
 msgstr ""
 
-#: languages/generatedString.php:6137
+#: languages/generatedString.php:6139
 msgid "Refresh Tables"
 msgstr ""
 
-#: languages/generatedString.php:6139
+#: languages/generatedString.php:6141
 msgid "Select Owner (User):"
 msgstr ""
 
-#: languages/generatedString.php:6141
+#: languages/generatedString.php:6143
 msgid "Refresh Users"
 msgstr ""
 
-#: languages/generatedString.php:6143
+#: languages/generatedString.php:6145
 msgid "Select Row:"
 msgstr ""
 
-#: languages/generatedString.php:6145
+#: languages/generatedString.php:6147
 msgid "Refresh Rows"
 msgstr ""
 
-#: languages/generatedString.php:6147
+#: languages/generatedString.php:6149
 msgid "Update Owner (Optional):"
 msgstr ""
 
-#: languages/generatedString.php:6149
+#: languages/generatedString.php:6151
 msgid "Refresh Columns"
 msgstr ""
 
-#: languages/generatedString.php:6151
+#: languages/generatedString.php:6153
 msgid "Table Columns"
 msgstr ""
 
-#: languages/generatedString.php:6153
+#: languages/generatedString.php:6155
 msgid "Add Row in Table"
 msgstr ""
 
-#: languages/generatedString.php:6155
+#: languages/generatedString.php:6157
 msgid "Update Row in Table"
 msgstr ""
 
-#: languages/generatedString.php:6157
+#: languages/generatedString.php:6159
 msgid "Please select a notification to continue."
 msgstr ""
 
-#: languages/generatedString.php:6159
+#: languages/generatedString.php:6161
 msgid "To use NotificationX integration, make sure NotificationX plugin is installed and active on your site."
 msgstr ""
 
-#: languages/generatedString.php:6161
+#: languages/generatedString.php:6163
 msgid "Failed to fetch notifications"
 msgstr ""
 
-#: languages/generatedString.php:6163
+#: languages/generatedString.php:6165
 msgid "Entry Fields Key"
 msgstr ""
 
-#: languages/generatedString.php:6165
+#: languages/generatedString.php:6167
 msgid "Select Notification:"
 msgstr ""
 
-#: languages/generatedString.php:6167
+#: languages/generatedString.php:6169
 msgid "Refresh Notifications"
 msgstr ""
 
-#: languages/generatedString.php:6169
+#: languages/generatedString.php:6171
 msgid "NotificationX Fields"
 msgstr ""
 
-#: languages/generatedString.php:6171
+#: languages/generatedString.php:6173
 msgid "Entry Data Mapping"
 msgstr ""
 
-#: languages/generatedString.php:6173
+#: languages/generatedString.php:6175
 msgid "Entry Key"
 msgstr ""
 
-#: languages/generatedString.php:6175
+#: languages/generatedString.php:6177
 msgid "Make sure to select Bit Integrations as the notification source in your NotificationX settings for this action."
 msgstr ""
 
-#: languages/generatedString.php:6177
+#: languages/generatedString.php:6179
 msgid "Add Sales Notification"
 msgstr ""
 
-#: languages/generatedString.php:6179
+#: languages/generatedString.php:6181
 msgid "Add Reviews"
 msgstr ""
 
-#: languages/generatedString.php:6181
+#: languages/generatedString.php:6183
 msgid "Add Email Subscription"
 msgstr ""
 
-#: languages/generatedString.php:6183
+#: languages/generatedString.php:6185
 msgid "Add Notification Entry"
 msgstr ""
 
-#: languages/generatedString.php:6185
+#: languages/generatedString.php:6187
 msgid "Delete Notification"
 msgstr ""
 
-#: languages/generatedString.php:6187
+#: languages/generatedString.php:6189
 msgid "Enable Notification"
 msgstr ""
 
-#: languages/generatedString.php:6189
+#: languages/generatedString.php:6191
 msgid "Disable Notification"
 msgstr ""
 
-#: languages/generatedString.php:6191
+#: languages/generatedString.php:6193
 msgid "Notification ID"
 msgstr ""
 
-#: languages/generatedString.php:6193
+#: languages/generatedString.php:6195
 msgid "Sales Count"
 msgstr ""
 
-#: languages/generatedString.php:6195
+#: languages/generatedString.php:6197
 msgid "Title / Product Title"
 msgstr ""
 
-#: languages/generatedString.php:6197
+#: languages/generatedString.php:6199
 msgid "Anonymous Title / Product"
 msgstr ""
 
-#: languages/generatedString.php:6199
+#: languages/generatedString.php:6201
 msgid "Definite Time"
 msgstr ""
 
-#: languages/generatedString.php:6201
+#: languages/generatedString.php:6203
 msgid "Sometime"
 msgstr ""
 
-#: languages/generatedString.php:6203
+#: languages/generatedString.php:6205
 msgid "In last 1 day"
 msgstr ""
 
-#: languages/generatedString.php:6205
+#: languages/generatedString.php:6207
 msgid "In last 7 days"
 msgstr ""
 
-#: languages/generatedString.php:6207
+#: languages/generatedString.php:6209
 msgid "In last 30 days"
 msgstr ""
 
-#: languages/generatedString.php:6209
+#: languages/generatedString.php:6211
 msgid "City, Country"
 msgstr ""
 
-#: languages/generatedString.php:6211
+#: languages/generatedString.php:6213
 msgid "Rated"
 msgstr ""
 
-#: languages/generatedString.php:6213
+#: languages/generatedString.php:6215
 msgid "Plugin Name"
 msgstr ""
 
-#: languages/generatedString.php:6215
+#: languages/generatedString.php:6217
 msgid "Plugin Review"
 msgstr ""
 
-#: languages/generatedString.php:6217
+#: languages/generatedString.php:6219
 msgid "Review Title"
 msgstr ""
 
-#: languages/generatedString.php:6219
+#: languages/generatedString.php:6221
 msgid "Anonymous Title"
 msgstr ""
 
-#: languages/generatedString.php:6221
+#: languages/generatedString.php:6223
 msgid "Some time ago"
 msgstr ""
 
-#: languages/generatedString.php:6223
+#: languages/generatedString.php:6225
 msgid "Step of get Client Id & Client Secret"
 msgstr ""
 
-#: languages/generatedString.php:6225
+#: languages/generatedString.php:6227
 msgid "Click new integration."
 msgstr ""
 
-#: languages/generatedString.php:6227
+#: languages/generatedString.php:6229
 msgid "Name to identify your integration to users."
 msgstr ""
 
-#: languages/generatedString.php:6229
+#: languages/generatedString.php:6231
 msgid "<b>User Capabilities</b> always select read user information including email addresses"
 msgstr ""
 
-#: languages/generatedString.php:6231
+#: languages/generatedString.php:6233
 msgid "Submit"
 msgstr ""
 
-#: languages/generatedString.php:6233
+#: languages/generatedString.php:6235
 msgid "Select <b>Integration type</b> Public"
 msgstr ""
 
-#: languages/generatedString.php:6235
+#: languages/generatedString.php:6237
 msgid "Fill up <b>OAuth Domain & URIs</b> information"
 msgstr ""
 
-#: languages/generatedString.php:6237
+#: languages/generatedString.php:6239
 msgid "Homepage & Redirect URIs copy from Integration Settings"
 msgstr ""
 
-#: languages/generatedString.php:6239
+#: languages/generatedString.php:6241
 msgid "OAuth client ID"
 msgstr ""
 
-#: languages/generatedString.php:6241
+#: languages/generatedString.php:6243
 msgid "OAuth client secret"
 msgstr ""
 
-#: languages/generatedString.php:6243
+#: languages/generatedString.php:6245
 msgid "Notion My integrations, please visit"
 msgstr ""
 
-#: languages/generatedString.php:6245
+#: languages/generatedString.php:6247
 msgid "field refresh successfully"
 msgstr ""
 
-#: languages/generatedString.php:6247
+#: languages/generatedString.php:6249
 msgid "field refresh failed"
 msgstr ""
 
-#: languages/generatedString.php:6249
+#: languages/generatedString.php:6251
 msgid "Files & Media"
 msgstr ""
 
-#: languages/generatedString.php:6251
+#: languages/generatedString.php:6253
 msgid "The Notion API does not yet support uploading files to Notion."
 msgstr ""
 
-#: languages/generatedString.php:6253
+#: languages/generatedString.php:6255
 msgid "Please Provide a public URL of the file instead of file attachment."
 msgstr ""
 
-#: languages/generatedString.php:6255
+#: languages/generatedString.php:6257
 msgid "Database List:"
 msgstr ""
 
-#: languages/generatedString.php:6257
+#: languages/generatedString.php:6259
 msgid "Select Database"
 msgstr ""
 
-#: languages/generatedString.php:6259
+#: languages/generatedString.php:6261
 msgid "Notion Fields"
 msgstr ""
 
-#: languages/generatedString.php:6261
+#: languages/generatedString.php:6263
 msgid "URL"
 msgstr ""
 
-#: languages/generatedString.php:6263
+#: languages/generatedString.php:6265
 msgid "Lead Description"
 msgstr ""
 
-#: languages/generatedString.php:6265
+#: languages/generatedString.php:6267
 msgid "Due Time"
 msgstr ""
 
-#: languages/generatedString.php:6267
+#: languages/generatedString.php:6269
 msgid "Confidence"
 msgstr ""
 
-#: languages/generatedString.php:6269
+#: languages/generatedString.php:6271
 msgid "Add Product"
 msgstr ""
 
-#: languages/generatedString.php:6271
+#: languages/generatedString.php:6273
 msgid "Add CompanyType"
 msgstr ""
 
-#: languages/generatedString.php:6273
+#: languages/generatedString.php:6275
 msgid "Select CompanyType"
 msgstr ""
 
-#: languages/generatedString.php:6275
+#: languages/generatedString.php:6277
 msgid "Get API Token"
 msgstr ""
 
-#: languages/generatedString.php:6277
+#: languages/generatedString.php:6279
 msgid "Go to your Nutshell CRM's user dashboard"
 msgstr ""
 
-#: languages/generatedString.php:6279
+#: languages/generatedString.php:6281
 msgid "Then select \"Settings\""
 msgstr ""
 
-#: languages/generatedString.php:6281
+#: languages/generatedString.php:6283
 msgid "Then go to \"API Keys → Add API Key\""
 msgstr ""
 
-#: languages/generatedString.php:6283
+#: languages/generatedString.php:6285
 msgid "To Get User Name & API Token, Please Visit"
 msgstr ""
 
-#: languages/generatedString.php:6285
+#: languages/generatedString.php:6287
 msgid "NutshellCRM User Name & API Token"
 msgstr ""
 
-#: languages/generatedString.php:6287
+#: languages/generatedString.php:6289
 msgid "User Name can't be empty"
 msgstr ""
 
-#: languages/generatedString.php:6289
+#: languages/generatedString.php:6291
 msgid "Authorized failed, Please enter valid User Name & Api Token"
 msgstr ""
 
-#: languages/generatedString.php:6291
+#: languages/generatedString.php:6293
 msgid "Products fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:6295
+#: languages/generatedString.php:6297
 msgid "CompanyTypes fetched successfully"
 msgstr ""
 
-#: languages/generatedString.php:6299
+#: languages/generatedString.php:6301
 msgid "Create People"
 msgstr ""
 
-#: languages/generatedString.php:6301
+#: languages/generatedString.php:6303
 msgid "NutshellCRM Fields"
 msgstr ""
 
-#: languages/generatedString.php:6303
+#: languages/generatedString.php:6305
 msgid "Birth Date"
 msgstr ""
 
-#: languages/generatedString.php:6305
+#: languages/generatedString.php:6307
 msgid "Add Custom Tags"
 msgstr ""
 
-#: languages/generatedString.php:6307
+#: languages/generatedString.php:6309
 msgid "OmniSend API Token"
 msgstr ""
 
-#: languages/generatedString.php:6309
+#: languages/generatedString.php:6311
 msgid "SMS"
 msgstr ""
 
-#: languages/generatedString.php:6311
+#: languages/generatedString.php:6313
 msgid "Channels"
 msgstr ""
 
-#: languages/generatedString.php:6313
+#: languages/generatedString.php:6315
 msgid "Email Status:"
 msgstr ""
 
-#: languages/generatedString.php:6315
+#: languages/generatedString.php:6317
 msgid "nonSubscribed"
 msgstr ""
 
-#: languages/generatedString.php:6317
+#: languages/generatedString.php:6319
 msgid "SMS Status:"
 msgstr ""
 
-#: languages/generatedString.php:6319
+#: languages/generatedString.php:6321
 msgid "OmniSend Fields"
 msgstr ""
 
-#: languages/generatedString.php:6321
+#: languages/generatedString.php:6323
 msgid "OmniSend Property name"
 msgstr ""
 
-#: languages/generatedString.php:6323
+#: languages/generatedString.php:6325
 msgid "Upload Files"
 msgstr ""
 
-#: languages/generatedString.php:6325
+#: languages/generatedString.php:6327
 msgid "Add attachments from Bit-integration-pro to OneDrive folder."
 msgstr ""
 
-#: languages/generatedString.php:6327
+#: languages/generatedString.php:6329
 msgid "Delete file from Wordpress after upload in OneDrive"
 msgstr ""
 
-#: languages/generatedString.php:6329
+#: languages/generatedString.php:6331
 msgid "Azure Portal"
 msgstr ""
 
-#: languages/generatedString.php:6331
+#: languages/generatedString.php:6333
 msgid "OneDrive Client id:"
 msgstr ""
 
-#: languages/generatedString.php:6333
+#: languages/generatedString.php:6335
 msgid "OneDrive Client Secret:"
 msgstr ""
 
-#: languages/generatedString.php:6335
+#: languages/generatedString.php:6337
 msgid "OneDrive Folders List refreshed successfully"
 msgstr ""
 
-#: languages/generatedString.php:6337
+#: languages/generatedString.php:6339
 msgid "OneDrive Folders List refresh failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:6339
+#: languages/generatedString.php:6341
 msgid "Loading OneDrive Folders List..."
 msgstr ""
 
-#: languages/generatedString.php:6341
+#: languages/generatedString.php:6343
 msgid "Sub Folders refreshed"
 msgstr ""
 
-#: languages/generatedString.php:6343
+#: languages/generatedString.php:6345
 msgid "No Sub Folder Found"
 msgstr ""
 
-#: languages/generatedString.php:6345
+#: languages/generatedString.php:6347
 msgid "Sub Folders refresh failed. please try again"
 msgstr ""
 
-#: languages/generatedString.php:6347
+#: languages/generatedString.php:6349
 msgid "Refresh  Folders"
 msgstr ""
 
-#: languages/generatedString.php:6349
+#: languages/generatedString.php:6351
 msgid "Refresh Sub Folders"
 msgstr ""
 
-#: languages/generatedString.php:6351
+#: languages/generatedString.php:6353
 msgid "Please select Customer Type"
 msgstr ""
 
-#: languages/generatedString.php:6353
+#: languages/generatedString.php:6355
 msgid "Please select Lead Status"
 msgstr ""
 
-#: languages/generatedString.php:6355
+#: languages/generatedString.php:6357
 msgid "Mobile Number"
 msgstr ""
 
-#: languages/generatedString.php:6357
+#: languages/generatedString.php:6359
 msgid "Primary Address"
 msgstr ""
 
-#: languages/generatedString.php:6359
+#: languages/generatedString.php:6361
 msgid "customer Primary Contact"
 msgstr ""
 
-#: languages/generatedString.php:6361
-msgid "customer Primary Address"
-msgstr ""
-
 #: languages/generatedString.php:6363
-msgid "Middle Name"
+msgid "customer Primary Address"
 msgstr ""
 
 #: languages/generatedString.php:6365

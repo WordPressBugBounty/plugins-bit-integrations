@@ -4738,6 +4738,22 @@ $bit_integrations_i18n_strings = array(
 
     'The Jet Engine Action requires user login to perform any of the tasks listed above (as webhook does not indicate whether the user is logged in or not, any trigger that uses webhook will not be functional).' => __('The Jet Engine Action requires user login to perform any of the tasks listed above (as webhook does not indicate whether the user is logged in or not, any trigger that uses webhook will not be functional).', 'bit-integrations'),
 
+    'Get Keap client id and secret' => __('Get Keap client id and secret', 'bit-integrations'),
+
+    'Tag Fetched Successfully' => __('Tag Fetched Successfully', 'bit-integrations'),
+
+    'Tag Couldn\'t Fetched Successfully' => __('Tag Couldn\'t Fetched Successfully', 'bit-integrations'),
+
+    'Custom Field Fetched Successfully' => __('Custom Field Fetched Successfully', 'bit-integrations'),
+
+    'Custom Field Couldn\'t Fetched Successfully' => __('Custom Field Couldn\'t Fetched Successfully', 'bit-integrations'),
+
+    'Refresh Lemlist Field' => __('Refresh Lemlist Field', 'bit-integrations'),
+
+    'Keap Fields' => __('Keap Fields', 'bit-integrations'),
+
+    'Middle Name' => __('Middle Name', 'bit-integrations'),
+
     'Email Addresses' => __('Email Addresses', 'bit-integrations'),
 
     'Phone Numbers' => __('Phone Numbers', 'bit-integrations'),
@@ -4759,20 +4775,6 @@ $bit_integrations_i18n_strings = array(
     'Birthday' => __('Birthday', 'bit-integrations'),
 
     'Fax Numbers' => __('Fax Numbers', 'bit-integrations'),
-
-    'Get Keap client id and secret' => __('Get Keap client id and secret', 'bit-integrations'),
-
-    'Tag Fetched Successfully' => __('Tag Fetched Successfully', 'bit-integrations'),
-
-    'Tag Couldn\'t Fetched Successfully' => __('Tag Couldn\'t Fetched Successfully', 'bit-integrations'),
-
-    'Custom Field Fetched Successfully' => __('Custom Field Fetched Successfully', 'bit-integrations'),
-
-    'Custom Field Couldn\'t Fetched Successfully' => __('Custom Field Couldn\'t Fetched Successfully', 'bit-integrations'),
-
-    'Refresh Lemlist Field' => __('Refresh Lemlist Field', 'bit-integrations'),
-
-    'Keap Fields' => __('Keap Fields', 'bit-integrations'),
 
     'Full Name' => __('Full Name', 'bit-integrations'),
 
@@ -6359,8 +6361,6 @@ $bit_integrations_i18n_strings = array(
     'customer Primary Contact' => __('customer Primary Contact', 'bit-integrations'),
 
     'customer Primary Address' => __('customer Primary Address', 'bit-integrations'),
-
-    'Middle Name' => __('Middle Name', 'bit-integrations'),
 
     'Department' => __('Department', 'bit-integrations'),
 
