@@ -1597,6 +1597,38 @@ $bit_integrations_i18n_strings = array(
 
     'Autonami Fields' => __('Autonami Fields', 'bit-integrations'),
 
+    'Connected with B2BKing Successfully' => __('Connected with B2BKing Successfully', 'bit-integrations'),
+
+    'Checking B2BKing connection…' => __('Checking B2BKing connection…', 'bit-integrations'),
+
+    'B2BKing is not activated or not installed' => __('B2BKing is not activated or not installed', 'bit-integrations'),
+
+    'B2BKing is activated' => __('B2BKing is activated', 'bit-integrations'),
+
+    'Connected' => __('Connected', 'bit-integrations'),
+
+    'Connect to B2BKing' => __('Connect to B2BKing', 'bit-integrations'),
+
+    'All groups fetched successfully' => __('All groups fetched successfully', 'bit-integrations'),
+
+    'B2BKing groups fetch failed. Please try again' => __('B2BKing groups fetch failed. Please try again', 'bit-integrations'),
+
+    'Remove field mapping' => __('Remove field mapping', 'bit-integrations'),
+
+    'Group:' => __('Group:', 'bit-integrations'),
+
+    'Refresh Groups' => __('Refresh Groups', 'bit-integrations'),
+
+    'B2BKing Fields' => __('B2BKing Fields', 'bit-integrations'),
+
+    'Update Customer Group' => __('Update Customer Group', 'bit-integrations'),
+
+    'Approve Customer' => __('Approve Customer', 'bit-integrations'),
+
+    'Enable B2B for User' => __('Enable B2B for User', 'bit-integrations'),
+
+    'User Email' => __('User Email', 'bit-integrations'),
+
     'Update BenchMark' => __('Update BenchMark', 'bit-integrations'),
 
     'Update Responses with BenchMark existing email?' => __('Update Responses with BenchMark existing email?', 'bit-integrations'),
@@ -1716,6 +1748,82 @@ $bit_integrations_i18n_strings = array(
     'Fetch All Form' => __('Fetch All Form', 'bit-integrations'),
 
     'Bit Form Fields' => __('Bit Form Fields', 'bit-integrations'),
+
+    'Connected with BookingPress Successfully' => __('Connected with BookingPress Successfully', 'bit-integrations'),
+
+    'Checking if BookingPress is authorized!!!' => __('Checking if BookingPress is authorized!!!', 'bit-integrations'),
+
+    'BookingPress is not activated or not installed' => __('BookingPress is not activated or not installed', 'bit-integrations'),
+
+    'BookingPress is activated' => __('BookingPress is activated', 'bit-integrations'),
+
+    'Connect to BookingPress' => __('Connect to BookingPress', 'bit-integrations'),
+
+    'BookingPress Fields' => __('BookingPress Fields', 'bit-integrations'),
+
+    'When mapping the Status field, use these values: Approved = 1, Pending = 2, Cancelled = 3, Rejected = 4.' => __('When mapping the Status field, use these values: Approved = 1, Pending = 2, Cancelled = 3, Rejected = 4.', 'bit-integrations'),
+
+    'Cancel Appointment' => __('Cancel Appointment', 'bit-integrations'),
+
+    'Update Appointment Status' => __('Update Appointment Status', 'bit-integrations'),
+
+    'Create Customer' => __('Create Customer', 'bit-integrations'),
+
+    'Update Customer' => __('Update Customer', 'bit-integrations'),
+
+    'Delete Appointment' => __('Delete Appointment', 'bit-integrations'),
+
+    'Delete Customer' => __('Delete Customer', 'bit-integrations'),
+
+    'Appointment ID' => __('Appointment ID', 'bit-integrations'),
+
+    'Customer ID' => __('Customer ID', 'bit-integrations'),
+
+    'Connected with Bookly Successfully' => __('Connected with Bookly Successfully', 'bit-integrations'),
+
+    'Checking if Bookly is authorized!!!' => __('Checking if Bookly is authorized!!!', 'bit-integrations'),
+
+    'Bookly is not activated or not installed' => __('Bookly is not activated or not installed', 'bit-integrations'),
+
+    'Bookly is activated' => __('Bookly is activated', 'bit-integrations'),
+
+    'Connect to Bookly' => __('Connect to Bookly', 'bit-integrations'),
+
+    'Please select a Staff member to continue.' => __('Please select a Staff member to continue.', 'bit-integrations'),
+
+    'Please select a Status to continue.' => __('Please select a Status to continue.', 'bit-integrations'),
+
+    'Staff:' => __('Staff:', 'bit-integrations'),
+
+    'Refresh Staff' => __('Refresh Staff', 'bit-integrations'),
+
+    'Service:' => __('Service:', 'bit-integrations'),
+
+    'Refresh Services' => __('Refresh Services', 'bit-integrations'),
+
+    'Status:' => __('Status:', 'bit-integrations'),
+
+    'Refresh Statuses' => __('Refresh Statuses', 'bit-integrations'),
+
+    'Bookly Fields' => __('Bookly Fields', 'bit-integrations'),
+
+    'Create Appointment' => __('Create Appointment', 'bit-integrations'),
+
+    'Customer Email' => __('Customer Email', 'bit-integrations'),
+
+    'Start Date' => __('Start Date', 'bit-integrations'),
+
+    'End Date' => __('End Date', 'bit-integrations'),
+
+    'Number of Persons' => __('Number of Persons', 'bit-integrations'),
+
+    'Internal Note' => __('Internal Note', 'bit-integrations'),
+
+    'Customer Appointment ID' => __('Customer Appointment ID', 'bit-integrations'),
+
+    'Full Name' => __('Full Name', 'bit-integrations'),
+
+    'WordPress User ID' => __('WordPress User ID', 'bit-integrations'),
 
     'Create Group Pro' => __('Create Group Pro', 'bit-integrations'),
 
@@ -1986,8 +2094,6 @@ $bit_integrations_i18n_strings = array(
     'Refresh Milestones' => __('Refresh Milestones', 'bit-integrations'),
 
     'CapsuleCRM Fields' => __('CapsuleCRM Fields', 'bit-integrations'),
-
-    'Start Date' => __('Start Date', 'bit-integrations'),
 
     'Due Date' => __('Due Date', 'bit-integrations'),
 
@@ -2384,8 +2490,6 @@ $bit_integrations_i18n_strings = array(
     'Creator LMS is not activated or not installed' => __('Creator LMS is not activated or not installed', 'bit-integrations'),
 
     'Creator LMS is activated' => __('Creator LMS is activated', 'bit-integrations'),
-
-    'Connected' => __('Connected', 'bit-integrations'),
 
     'Connect to Creator LMS' => __('Connect to Creator LMS', 'bit-integrations'),
 
@@ -2909,8 +3013,6 @@ $bit_integrations_i18n_strings = array(
 
     'Please map mandatory emailOctopusFields' => __('Please map mandatory emailOctopusFields', 'bit-integrations'),
 
-    'Refresh Groups' => __('Refresh Groups', 'bit-integrations'),
-
     'To get API key, please visit' => __('To get API key, please visit', 'bit-integrations'),
 
     'EmailOctopus API keys' => __('EmailOctopus API keys', 'bit-integrations'),
@@ -3354,12 +3456,6 @@ $bit_integrations_i18n_strings = array(
 
     'Update Shipping Status' => __('Update Shipping Status', 'bit-integrations'),
 
-    'Create Customer' => __('Create Customer', 'bit-integrations'),
-
-    'Update Customer' => __('Update Customer', 'bit-integrations'),
-
-    'Delete Customer' => __('Delete Customer', 'bit-integrations'),
-
     'Create Product' => __('Create Product', 'bit-integrations'),
 
     'Delete Product' => __('Delete Product', 'bit-integrations'),
@@ -3401,8 +3497,6 @@ $bit_integrations_i18n_strings = array(
     'Order Note' => __('Order Note', 'bit-integrations'),
 
     'Postcode' => __('Postcode', 'bit-integrations'),
-
-    'Customer Email' => __('Customer Email', 'bit-integrations'),
 
     'Product Title' => __('Product Title', 'bit-integrations'),
 
@@ -3555,6 +3649,36 @@ $bit_integrations_i18n_strings = array(
     'Refresh Custom Ticket Fields' => __('Refresh Custom Ticket Fields', 'bit-integrations'),
 
     'fluentSupport Fields' => __('fluentSupport Fields', 'bit-integrations'),
+
+    'Connected with FormyChat Successfully' => __('Connected with FormyChat Successfully', 'bit-integrations'),
+
+    'Checking if FormyChat is authorized!!!' => __('Checking if FormyChat is authorized!!!', 'bit-integrations'),
+
+    'FormyChat is not activated or not installed' => __('FormyChat is not activated or not installed', 'bit-integrations'),
+
+    'FormyChat is activated' => __('FormyChat is activated', 'bit-integrations'),
+
+    'Connect to FormyChat' => __('Connect to FormyChat', 'bit-integrations'),
+
+    'FormyChat widgets fetched successfully' => __('FormyChat widgets fetched successfully', 'bit-integrations'),
+
+    'FormyChat widgets fetch failed. Please try again' => __('FormyChat widgets fetch failed. Please try again', 'bit-integrations'),
+
+    'FormyChat widget fields fetch failed. Please try again' => __('FormyChat widget fields fetch failed. Please try again', 'bit-integrations'),
+
+    'Select Widget:' => __('Select Widget:', 'bit-integrations'),
+
+    'Refresh Widgets' => __('Refresh Widgets', 'bit-integrations'),
+
+    'Refresh Fields' => __('Refresh Fields', 'bit-integrations'),
+
+    'FormyChat Fields' => __('FormyChat Fields', 'bit-integrations'),
+
+    'Meta Fields' => __('Meta Fields', 'bit-integrations'),
+
+    'Meta Key' => __('Meta Key', 'bit-integrations'),
+
+    'Meta Key...' => __('Meta Key...', 'bit-integrations'),
 
     'Open' => __('Open', 'bit-integrations'),
 
@@ -4776,8 +4900,6 @@ $bit_integrations_i18n_strings = array(
 
     'Fax Numbers' => __('Fax Numbers', 'bit-integrations'),
 
-    'Full Name' => __('Full Name', 'bit-integrations'),
-
     'Add Subscriber' => __('Add Subscriber', 'bit-integrations'),
 
     'Remove Subscriber' => __('Remove Subscriber', 'bit-integrations'),
@@ -5717,8 +5839,6 @@ $bit_integrations_i18n_strings = array(
 
     'Mailup fields fetching failed. please try again' => __('Mailup fields fetching failed. please try again', 'bit-integrations'),
 
-    'All groups fetched successfully' => __('All groups fetched successfully', 'bit-integrations'),
-
     'Groups fetching failed. please try again' => __('Groups fetching failed. please try again', 'bit-integrations'),
 
     'Client ID can\'t be empty' => __('Client ID can\'t be empty', 'bit-integrations'),
@@ -5850,8 +5970,6 @@ $bit_integrations_i18n_strings = array(
     'Items Not Found!' => __('Items Not Found!', 'bit-integrations'),
 
     'Items fetching failed' => __('Items fetching failed', 'bit-integrations'),
-
-    'Remove field mapping' => __('Remove field mapping', 'bit-integrations'),
 
     'Select Board:' => __('Select Board:', 'bit-integrations'),
 
@@ -6470,8 +6588,6 @@ $bit_integrations_i18n_strings = array(
 
     'Follow User' => __('Follow User', 'bit-integrations'),
 
-    'User Email' => __('User Email', 'bit-integrations'),
-
     'Post Title' => __('Post Title', 'bit-integrations'),
 
     'Post Content' => __('Post Content', 'bit-integrations'),
@@ -6965,8 +7081,6 @@ $bit_integrations_i18n_strings = array(
     'User Meta Field Mappping' => __('User Meta Field Mappping', 'bit-integrations'),
 
     'Meta Value' => __('Meta Value', 'bit-integrations'),
-
-    'Meta Key' => __('Meta Key', 'bit-integrations'),
 
     'User Name' => __('User Name', 'bit-integrations'),
 
@@ -7758,6 +7872,58 @@ $bit_integrations_i18n_strings = array(
 
     'SureCart Fields' => __('SureCart Fields', 'bit-integrations'),
 
+    'Create Post' => __('Create Post', 'bit-integrations'),
+
+    'Delete Post' => __('Delete Post', 'bit-integrations'),
+
+    'Create Comment' => __('Create Comment', 'bit-integrations'),
+
+    'Delete Comment' => __('Delete Comment', 'bit-integrations'),
+
+    'Update User Profile' => __('Update User Profile', 'bit-integrations'),
+
+    'Bookmark Item' => __('Bookmark Item', 'bit-integrations'),
+
+    'React to Entity' => __('React to Entity', 'bit-integrations'),
+
+    'Comment Content' => __('Comment Content', 'bit-integrations'),
+
+    'Comment ID' => __('Comment ID', 'bit-integrations'),
+
+    'Item Type' => __('Item Type', 'bit-integrations'),
+
+    'Entity ID' => __('Entity ID', 'bit-integrations'),
+
+    'Entity Type (post/comment)' => __('Entity Type (post/comment)', 'bit-integrations'),
+
+    'Connected with SureDash Successfully' => __('Connected with SureDash Successfully', 'bit-integrations'),
+
+    'Checking if SureDash is authorized!!!' => __('Checking if SureDash is authorized!!!', 'bit-integrations'),
+
+    'SureDash is not activated or not installed' => __('SureDash is not activated or not installed', 'bit-integrations'),
+
+    'SureDash is activated' => __('SureDash is activated', 'bit-integrations'),
+
+    'Connect to SureDash' => __('Connect to SureDash', 'bit-integrations'),
+
+    'All spaces fetched successfully' => __('All spaces fetched successfully', 'bit-integrations'),
+
+    'SureDash spaces fetch failed. Please try again' => __('SureDash spaces fetch failed. Please try again', 'bit-integrations'),
+
+    'All posts fetched successfully' => __('All posts fetched successfully', 'bit-integrations'),
+
+    'SureDash posts fetch failed. Please try again' => __('SureDash posts fetch failed. Please try again', 'bit-integrations'),
+
+    'Space:' => __('Space:', 'bit-integrations'),
+
+    'Refresh Spaces' => __('Refresh Spaces', 'bit-integrations'),
+
+    'Post:' => __('Post:', 'bit-integrations'),
+
+    'Refresh Posts' => __('Refresh Posts', 'bit-integrations'),
+
+    'SureDash Fields' => __('SureDash Fields', 'bit-integrations'),
+
     'Please select a group!' => __('Please select a group!', 'bit-integrations'),
 
     'Select a group to grant or revoke access.' => __('Select a group to grant or revoke access.', 'bit-integrations'),
@@ -8089,8 +8255,6 @@ $bit_integrations_i18n_strings = array(
     'Select Post Type:' => __('Select Post Type:', 'bit-integrations'),
 
     'Select Post:' => __('Select Post:', 'bit-integrations'),
-
-    'Refresh Posts' => __('Refresh Posts', 'bit-integrations'),
 
     'Select Post Status:' => __('Select Post Status:', 'bit-integrations'),
 
@@ -8501,6 +8665,30 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh WP Courseware Courses' => __('Refresh WP Courseware Courses', 'bit-integrations'),
 
+    'Add Row' => __('Add Row', 'bit-integrations'),
+
+    'Connected with wpDataTables Successfully' => __('Connected with wpDataTables Successfully', 'bit-integrations'),
+
+    'Checking if wpDataTables is authorized!!!' => __('Checking if wpDataTables is authorized!!!', 'bit-integrations'),
+
+    'wpDataTables is not activated or not installed' => __('wpDataTables is not activated or not installed', 'bit-integrations'),
+
+    'wpDataTables is activated' => __('wpDataTables is activated', 'bit-integrations'),
+
+    'Connect to wpDataTables' => __('Connect to wpDataTables', 'bit-integrations'),
+
+    'Tables fetch failed. Please try again' => __('Tables fetch failed. Please try again', 'bit-integrations'),
+
+    'Columns fetched successfully' => __('Columns fetched successfully', 'bit-integrations'),
+
+    'Columns fetch failed. Please try again' => __('Columns fetch failed. Please try again', 'bit-integrations'),
+
+    'Remove mapping row' => __('Remove mapping row', 'bit-integrations'),
+
+    'Refresh tables' => __('Refresh tables', 'bit-integrations'),
+
+    'wpDataTables Columns' => __('wpDataTables Columns', 'bit-integrations'),
+
     'Update Company' => __('Update Company', 'bit-integrations'),
 
     'Create Contact Group' => __('Create Contact Group', 'bit-integrations'),
@@ -8541,8 +8729,6 @@ $bit_integrations_i18n_strings = array(
 
     'Designation Title' => __('Designation Title', 'bit-integrations'),
 
-    'End Date' => __('End Date', 'bit-integrations'),
-
     'People ID' => __('People ID', 'bit-integrations'),
 
     'Voucher Date (Y-m-d)' => __('Voucher Date (Y-m-d)', 'bit-integrations'),
@@ -8556,8 +8742,6 @@ $bit_integrations_i18n_strings = array(
     'Transaction By (1=Cash)' => __('Transaction By (1=Cash)', 'bit-integrations'),
 
     'Ledger ID' => __('Ledger ID', 'bit-integrations'),
-
-    'Customer ID' => __('Customer ID', 'bit-integrations'),
 
     'Deposit To' => __('Deposit To', 'bit-integrations'),
 
