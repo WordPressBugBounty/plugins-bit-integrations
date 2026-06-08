@@ -4241,6 +4241,100 @@ $bit_integrations_i18n_strings = array(
 
     'All Tags:' => __('All Tags:', 'bit-integrations'),
 
+    'Heffl CRM API Key...' => __('Heffl CRM API Key...', 'bit-integrations'),
+
+    'Steps to generate API Key:' => __('Steps to generate API Key:', 'bit-integrations'),
+
+    'Log in to your Heffl CRM account.' => __('Log in to your Heffl CRM account.', 'bit-integrations'),
+
+    'Go to Settings → Developers / API Keys and generate a new key.' => __('Go to Settings → Developers / API Keys and generate a new key.', 'bit-integrations'),
+
+    'Copy the API key and paste it into the field above, then click Authorize.' => __('Copy the API key and paste it into the field above, then click Authorize.', 'bit-integrations'),
+
+    'Authorize first to refresh' => __('Authorize first to refresh', 'bit-integrations'),
+
+    'Lead sources fetched' => __('Lead sources fetched', 'bit-integrations'),
+
+    'Failed to fetch lead sources' => __('Failed to fetch lead sources', 'bit-integrations'),
+
+    'Lead stages fetched' => __('Lead stages fetched', 'bit-integrations'),
+
+    'Failed to fetch lead stages' => __('Failed to fetch lead stages', 'bit-integrations'),
+
+    'Pipelines fetched' => __('Pipelines fetched', 'bit-integrations'),
+
+    'Failed to fetch pipelines' => __('Failed to fetch pipelines', 'bit-integrations'),
+
+    'Pipeline stages fetched' => __('Pipeline stages fetched', 'bit-integrations'),
+
+    'Failed to fetch pipeline stages' => __('Failed to fetch pipeline stages', 'bit-integrations'),
+
+    'Clients fetched' => __('Clients fetched', 'bit-integrations'),
+
+    'Failed to fetch clients' => __('Failed to fetch clients', 'bit-integrations'),
+
+    'Leads fetched' => __('Leads fetched', 'bit-integrations'),
+
+    'Failed to fetch leads' => __('Failed to fetch leads', 'bit-integrations'),
+
+    'Lead Source:' => __('Lead Source:', 'bit-integrations'),
+
+    'Refresh Lead Sources' => __('Refresh Lead Sources', 'bit-integrations'),
+
+    'Lead Stage:' => __('Lead Stage:', 'bit-integrations'),
+
+    'Refresh Lead Stages' => __('Refresh Lead Stages', 'bit-integrations'),
+
+    'Client Type:' => __('Client Type:', 'bit-integrations'),
+
+    'Pipeline:' => __('Pipeline:', 'bit-integrations'),
+
+    'Refresh Pipelines' => __('Refresh Pipelines', 'bit-integrations'),
+
+    'Deal Stage:' => __('Deal Stage:', 'bit-integrations'),
+
+    'Refresh Stages' => __('Refresh Stages', 'bit-integrations'),
+
+    'Deal Source:' => __('Deal Source:', 'bit-integrations'),
+
+    'Priority:' => __('Priority:', 'bit-integrations'),
+
+    'Client:' => __('Client:', 'bit-integrations'),
+
+    'Refresh Clients' => __('Refresh Clients', 'bit-integrations'),
+
+    'Lead (optional):' => __('Lead (optional):', 'bit-integrations'),
+
+    'Refresh Leads' => __('Refresh Leads', 'bit-integrations'),
+
+    'Heffl CRM Fields' => __('Heffl CRM Fields', 'bit-integrations'),
+
+    'Create Client' => __('Create Client', 'bit-integrations'),
+
+    'Secondary Mobile' => __('Secondary Mobile', 'bit-integrations'),
+
+    'Salutation' => __('Salutation', 'bit-integrations'),
+
+    'Tax Number' => __('Tax Number', 'bit-integrations'),
+
+    'Opening Balance' => __('Opening Balance', 'bit-integrations'),
+
+    'Billing Landmark' => __('Billing Landmark', 'bit-integrations'),
+
+    'Primary Contact First Name' => __('Primary Contact First Name', 'bit-integrations'),
+
+    'Primary Contact Last Name' => __('Primary Contact Last Name', 'bit-integrations'),
+
+    'Primary Contact Email' => __('Primary Contact Email', 'bit-integrations'),
+
+    'Primary Contact Phone' => __('Primary Contact Phone', 'bit-integrations'),
+
+    'Primary Contact Salutation' => __('Primary Contact Salutation', 'bit-integrations'),
+
+    'Primary Contact Job Title' => __('Primary Contact Job Title', 'bit-integrations'),
+
+    'Price' => __('Price', 'bit-integrations'),
+
     'Do Not Disturb' => __('Do Not Disturb', 'bit-integrations'),
 
     'Enable do not disturb for contact.' => __('Enable do not disturb for contact.', 'bit-integrations'),
@@ -4425,8 +4519,6 @@ $bit_integrations_i18n_strings = array(
 
     'Create Ticket' => __('Create Ticket', 'bit-integrations'),
 
-    'Pipeline:' => __('Pipeline:', 'bit-integrations'),
-
     'Select Pipeline' => __('Select Pipeline', 'bit-integrations'),
 
     'Stage:' => __('Stage:', 'bit-integrations'),
@@ -4607,6 +4699,30 @@ $bit_integrations_i18n_strings = array(
     'Delete Integration' => __('Delete Integration', 'bit-integrations'),
 
     'Bulk Tag Assign' => __('Bulk Tag Assign', 'bit-integrations'),
+
+    'Connected with IvyForms Successfully' => __('Connected with IvyForms Successfully', 'bit-integrations'),
+
+    'Checking if IvyForms is authorized!!!' => __('Checking if IvyForms is authorized!!!', 'bit-integrations'),
+
+    'IvyForms is not activated or not installed' => __('IvyForms is not activated or not installed', 'bit-integrations'),
+
+    'IvyForms is activated' => __('IvyForms is activated', 'bit-integrations'),
+
+    'Connect to IvyForms' => __('Connect to IvyForms', 'bit-integrations'),
+
+    'IvyForms forms fetched successfully' => __('IvyForms forms fetched successfully', 'bit-integrations'),
+
+    'IvyForms forms fetch failed. Please try again' => __('IvyForms forms fetch failed. Please try again', 'bit-integrations'),
+
+    'IvyForms fields fetch failed. Please try again' => __('IvyForms fields fetch failed. Please try again', 'bit-integrations'),
+
+    'Create Entry' => __('Create Entry', 'bit-integrations'),
+
+    'Select Form:' => __('Select Form:', 'bit-integrations'),
+
+    'Refresh Forms' => __('Refresh Forms', 'bit-integrations'),
+
+    'IvyForms Fields' => __('IvyForms Fields', 'bit-integrations'),
 
     'Please select post type(s)!' => __('Please select post type(s)!', 'bit-integrations'),
 
@@ -5480,6 +5596,14 @@ $bit_integrations_i18n_strings = array(
 
     'No Log Found.' => __('No Log Found.', 'bit-integrations'),
 
+    'Response Preview' => __('Response Preview', 'bit-integrations'),
+
+    'Unknown' => __('Unknown', 'bit-integrations'),
+
+    'Copied on Clipboard.' => __('Copied on Clipboard.', 'bit-integrations'),
+
+    'Copy' => __('Copy', 'bit-integrations'),
+
     'WP Emails' => __('WP Emails', 'bit-integrations'),
 
     'Email Receiver can\'t be empty' => __('Email Receiver can\'t be empty', 'bit-integrations'),
@@ -6047,6 +6171,70 @@ $bit_integrations_i18n_strings = array(
 
     'Moosend Fields' => __('Moosend Fields', 'bit-integrations'),
 
+    'Refresh' => __('Refresh', 'bit-integrations'),
+
+    'Assign a customer to the wishlist' => __('Assign a customer to the wishlist', 'bit-integrations'),
+
+    'User' => __('User', 'bit-integrations'),
+
+    'Assign a WordPress user to the wishlist' => __('Assign a WordPress user to the wishlist', 'bit-integrations'),
+
+    'Set the wishlist privacy' => __('Set the wishlist privacy', 'bit-integrations'),
+
+    'Default Wishlist' => __('Default Wishlist', 'bit-integrations'),
+
+    'Mark as the default wishlist' => __('Mark as the default wishlist', 'bit-integrations'),
+
+    'Link the customer to a WordPress user' => __('Link the customer to a WordPress user', 'bit-integrations'),
+
+    'Wishlist' => __('Wishlist', 'bit-integrations'),
+
+    'Select the target wishlist' => __('Select the target wishlist', 'bit-integrations'),
+
+    'Connected with MoreConvert Wishlist Successfully' => __('Connected with MoreConvert Wishlist Successfully', 'bit-integrations'),
+
+    'Checking if MoreConvert Wishlist is authorized!!!' => __('Checking if MoreConvert Wishlist is authorized!!!', 'bit-integrations'),
+
+    'MoreConvert Wishlist is not activated or not installed' => __('MoreConvert Wishlist is not activated or not installed', 'bit-integrations'),
+
+    'MoreConvert Wishlist is activated' => __('MoreConvert Wishlist is activated', 'bit-integrations'),
+
+    'Connect to MoreConvert Wishlist' => __('Connect to MoreConvert Wishlist', 'bit-integrations'),
+
+    'All wishlists fetched successfully' => __('All wishlists fetched successfully', 'bit-integrations'),
+
+    'MoreConvert Wishlist wishlists fetch failed. Please try again' => __('MoreConvert Wishlist wishlists fetch failed. Please try again', 'bit-integrations'),
+
+    'MoreConvert Wishlist customers fetch failed. Please try again' => __('MoreConvert Wishlist customers fetch failed. Please try again', 'bit-integrations'),
+
+    'All users fetched successfully' => __('All users fetched successfully', 'bit-integrations'),
+
+    'MoreConvert Wishlist users fetch failed. Please try again' => __('MoreConvert Wishlist users fetch failed. Please try again', 'bit-integrations'),
+
+    'MoreConvert Wishlist Fields' => __('MoreConvert Wishlist Fields', 'bit-integrations'),
+
+    'Create Wishlist' => __('Create Wishlist', 'bit-integrations'),
+
+    'Update Wishlist' => __('Update Wishlist', 'bit-integrations'),
+
+    'Delete Wishlist' => __('Delete Wishlist', 'bit-integrations'),
+
+    'Add Product to Wishlist' => __('Add Product to Wishlist', 'bit-integrations'),
+
+    'Remove Product from Wishlist' => __('Remove Product from Wishlist', 'bit-integrations'),
+
+    'Subscribe Customer' => __('Subscribe Customer', 'bit-integrations'),
+
+    'Unsubscribe Customer' => __('Unsubscribe Customer', 'bit-integrations'),
+
+    'Wishlist Name' => __('Wishlist Name', 'bit-integrations'),
+
+    'Wishlist ID' => __('Wishlist ID', 'bit-integrations'),
+
+    'Product ID' => __('Product ID', 'bit-integrations'),
+
+    'Shared' => __('Shared', 'bit-integrations'),
+
     'Address1' => __('Address1', 'bit-integrations'),
 
     'Address2' => __('Address2', 'bit-integrations'),
@@ -6103,8 +6291,6 @@ $bit_integrations_i18n_strings = array(
 
     'Select Client' => __('Select Client', 'bit-integrations'),
 
-    'Refresh Clients' => __('Refresh Clients', 'bit-integrations'),
-
     'First go to your Moxie dashboard.' => __('First go to your Moxie dashboard.', 'bit-integrations'),
 
     'Then click Workspace Settings from bottom left corner.' => __('Then click Workspace Settings from bottom left corner.', 'bit-integrations'),
@@ -6120,8 +6306,6 @@ $bit_integrations_i18n_strings = array(
     'Clients fetched successfully' => __('Clients fetched successfully', 'bit-integrations'),
 
     'Clients fetching failed' => __('Clients fetching failed', 'bit-integrations'),
-
-    'Create Client' => __('Create Client', 'bit-integrations'),
 
     'Select Record Type:' => __('Select Record Type:', 'bit-integrations'),
 
@@ -6798,8 +6982,6 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh Labels' => __('Refresh Labels', 'bit-integrations'),
 
-    'Refresh Stages' => __('Refresh Stages', 'bit-integrations'),
-
     'PipeDrive API Token' => __('PipeDrive API Token', 'bit-integrations'),
 
     'Organizations refreshed' => __('Organizations refreshed', 'bit-integrations'),
@@ -6916,6 +7098,8 @@ $bit_integrations_i18n_strings = array(
 
     'Post Type can\'t be empty' => __('Post Type can\'t be empty', 'bit-integrations'),
 
+    'Action Type' => __('Action Type', 'bit-integrations'),
+
     'Select one of the defined WordPress post types Or custom post types for the post' => __('Select one of the defined WordPress post types Or custom post types for the post', 'bit-integrations'),
 
     'Refresh Post Types' => __('Refresh Post Types', 'bit-integrations'),
@@ -6928,6 +7112,8 @@ $bit_integrations_i18n_strings = array(
 
     'Select the status for the post. If published status is selected and the post date is in the future, it will automatically be changed to scheduled' => __('Select the status for the post. If published status is selected and the post date is in the future, it will automatically be changed to scheduled', 'bit-integrations'),
 
+    'Select the user to be assigned to the post' => __('Select the user to be assigned to the post', 'bit-integrations'),
+
     'Add Post Tags' => __('Add Post Tags', 'bit-integrations'),
 
     'Use commas to separate multiple tags. Example: tag1, tag2, tag3' => __('Use commas to separate multiple tags. Example: tag1, tag2, tag3', 'bit-integrations'),
@@ -6936,7 +7122,47 @@ $bit_integrations_i18n_strings = array(
 
     'Post Field Mapping' => __('Post Field Mapping', 'bit-integrations'),
 
-    'Select the user to be assigned to the post' => __('Select the user to be assigned to the post', 'bit-integrations'),
+    'Action type' => __('Action type', 'bit-integrations'),
+
+    'Create New Post' => __('Create New Post', 'bit-integrations'),
+
+    'Update Existing Post' => __('Update Existing Post', 'bit-integrations'),
+
+    'Update Post Status' => __('Update Post Status', 'bit-integrations'),
+
+    'Delete Existing Post' => __('Delete Existing Post', 'bit-integrations'),
+
+    'Create New Comment' => __('Create New Comment', 'bit-integrations'),
+
+    'Reply To Comment' => __('Reply To Comment', 'bit-integrations'),
+
+    'Delete Existing Comment' => __('Delete Existing Comment', 'bit-integrations'),
+
+    'Post ID' => __('Post ID', 'bit-integrations'),
+
+    'Post Author ID' => __('Post Author ID', 'bit-integrations'),
+
+    'Post Date' => __('Post Date', 'bit-integrations'),
+
+    'Post Slug' => __('Post Slug', 'bit-integrations'),
+
+    'Post Excerpt' => __('Post Excerpt', 'bit-integrations'),
+
+    'Featured Image URL' => __('Featured Image URL', 'bit-integrations'),
+
+    'Force Delete (true/false)' => __('Force Delete (true/false)', 'bit-integrations'),
+
+    'Comment Content' => __('Comment Content', 'bit-integrations'),
+
+    'Author Name' => __('Author Name', 'bit-integrations'),
+
+    'Author Email' => __('Author Email', 'bit-integrations'),
+
+    'Author URL' => __('Author URL', 'bit-integrations'),
+
+    'Parent Comment ID' => __('Parent Comment ID', 'bit-integrations'),
+
+    'Comment ID' => __('Comment ID', 'bit-integrations'),
 
     'Post Types not found' => __('Post Types not found', 'bit-integrations'),
 
@@ -7048,12 +7274,6 @@ $bit_integrations_i18n_strings = array(
 
     'If the Username and Password fields are blank then the user will take the value of the email field as the field and the password will be auto-generated.' => __('If the Username and Password fields are blank then the user will take the value of the email field as the field and the password will be auto-generated.', 'bit-integrations'),
 
-    'Action type' => __('Action type', 'bit-integrations'),
-
-    'New User Create' => __('New User Create', 'bit-integrations'),
-
-    'Updated User' => __('Updated User', 'bit-integrations'),
-
     'User Email Notification' => __('User Email Notification', 'bit-integrations'),
 
     'When this option is enabled, a welcome email will be sent from WordPress after registration.' => __('When this option is enabled, a welcome email will be sent from WordPress after registration.', 'bit-integrations'),
@@ -7078,9 +7298,43 @@ $bit_integrations_i18n_strings = array(
 
     'User Fields' => __('User Fields', 'bit-integrations'),
 
-    'User Meta Field Mappping' => __('User Meta Field Mappping', 'bit-integrations'),
+    'New User Create' => __('New User Create', 'bit-integrations'),
+
+    'Updated User' => __('Updated User', 'bit-integrations'),
+
+    'Delete Existing User' => __('Delete Existing User', 'bit-integrations'),
+
+    'Update User Metadata' => __('Update User Metadata', 'bit-integrations'),
+
+    'Create Role' => __('Create Role', 'bit-integrations'),
+
+    'Delete Role' => __('Delete Role', 'bit-integrations'),
+
+    'Add User Roles' => __('Add User Roles', 'bit-integrations'),
+
+    'Remove User Role' => __('Remove User Role', 'bit-integrations'),
+
+    'Update User Role' => __('Update User Role', 'bit-integrations'),
+
+    'Add Role Capabilities' => __('Add Role Capabilities', 'bit-integrations'),
+
+    'Remove Role Capabilities' => __('Remove Role Capabilities', 'bit-integrations'),
+
+    'Add User Capabilities' => __('Add User Capabilities', 'bit-integrations'),
+
+    'Remove User Capabilities' => __('Remove User Capabilities', 'bit-integrations'),
+
+    'Reassign ID' => __('Reassign ID', 'bit-integrations'),
 
     'Meta Value' => __('Meta Value', 'bit-integrations'),
+
+    'Role Name' => __('Role Name', 'bit-integrations'),
+
+    'Capabilities (comma separated)' => __('Capabilities (comma separated)', 'bit-integrations'),
+
+    'Role' => __('Role', 'bit-integrations'),
+
+    'User Meta Field Mappping' => __('User Meta Field Mappping', 'bit-integrations'),
 
     'User Name' => __('User Name', 'bit-integrations'),
 
@@ -7123,8 +7377,6 @@ $bit_integrations_i18n_strings = array(
     'Zip/Postal Code' => __('Zip/Postal Code', 'bit-integrations'),
 
     'State/Region' => __('State/Region', 'bit-integrations'),
-
-    'Role' => __('Role', 'bit-integrations'),
 
     'Organisation' => __('Organisation', 'bit-integrations'),
 
@@ -7488,6 +7740,58 @@ $bit_integrations_i18n_strings = array(
 
     'Salesmate Fields' => __('Salesmate Fields', 'bit-integrations'),
 
+    'Please select an action to continue.' => __('Please select an action to continue.', 'bit-integrations'),
+
+    'Connected with Secure Custom Fields Successfully' => __('Connected with Secure Custom Fields Successfully', 'bit-integrations'),
+
+    'Checking if Secure Custom Fields is authorized!!!' => __('Checking if Secure Custom Fields is authorized!!!', 'bit-integrations'),
+
+    'Secure Custom Fields is not activated or not installed' => __('Secure Custom Fields is not activated or not installed', 'bit-integrations'),
+
+    'Secure Custom Fields is activated' => __('Secure Custom Fields is activated', 'bit-integrations'),
+
+    'Connect to Secure Custom Fields' => __('Connect to Secure Custom Fields', 'bit-integrations'),
+
+    'Repeater Field Name:' => __('Repeater Field Name:', 'bit-integrations'),
+
+    'Group Field Name:' => __('Group Field Name:', 'bit-integrations'),
+
+    'Secure Custom Fields' => __('Secure Custom Fields', 'bit-integrations'),
+
+    'Post ID:' => __('Post ID:', 'bit-integrations'),
+
+    'Post ID...' => __('Post ID...', 'bit-integrations'),
+
+    'Field name or key...' => __('Field name or key...', 'bit-integrations'),
+
+    'Map Sub-Fields' => __('Map Sub-Fields', 'bit-integrations'),
+
+    'Form Field' => __('Form Field', 'bit-integrations'),
+
+    'Sub-field Name' => __('Sub-field Name', 'bit-integrations'),
+
+    'Row #' => __('Row #', 'bit-integrations'),
+
+    'Map each sub-field of the repeater with its Row # (0 based). Add a row per sub-field; reuse the same Row # to fill multiple sub-fields of one row.' => __('Map each sub-field of the repeater with its Row # (0 based). Add a row per sub-field; reuse the same Row # to fill multiple sub-fields of one row.', 'bit-integrations'),
+
+    'Field Name accepts the field name or field key. Post ID / User ID must be numeric. Values are saved with update_field().' => __('Field Name accepts the field name or field key. Post ID / User ID must be numeric. Values are saved with update_field().', 'bit-integrations'),
+
+    'Sub-field name' => __('Sub-field name', 'bit-integrations'),
+
+    'Update Post Custom Field Value' => __('Update Post Custom Field Value', 'bit-integrations'),
+
+    'Update User Custom Field Value' => __('Update User Custom Field Value', 'bit-integrations'),
+
+    'Update Options Page Field Value' => __('Update Options Page Field Value', 'bit-integrations'),
+
+    'Update Group Field Value' => __('Update Group Field Value', 'bit-integrations'),
+
+    'Update Repeater Field Value' => __('Update Repeater Field Value', 'bit-integrations'),
+
+    'Field Name / Key' => __('Field Name / Key', 'bit-integrations'),
+
+    'Field Value' => __('Field Value', 'bit-integrations'),
+
     'Add Option' => __('Add Option', 'bit-integrations'),
 
     'Customize you subcription' => __('Customize you subcription', 'bit-integrations'),
@@ -7663,8 +7967,6 @@ $bit_integrations_i18n_strings = array(
     'SEOPress Fields' => __('SEOPress Fields', 'bit-integrations'),
 
     'Update Post SEO Meta' => __('Update Post SEO Meta', 'bit-integrations'),
-
-    'Post ID' => __('Post ID', 'bit-integrations'),
 
     'Keywords' => __('Keywords', 'bit-integrations'),
 
@@ -7885,10 +8187,6 @@ $bit_integrations_i18n_strings = array(
     'Bookmark Item' => __('Bookmark Item', 'bit-integrations'),
 
     'React to Entity' => __('React to Entity', 'bit-integrations'),
-
-    'Comment Content' => __('Comment Content', 'bit-integrations'),
-
-    'Comment ID' => __('Comment ID', 'bit-integrations'),
 
     'Item Type' => __('Item Type', 'bit-integrations'),
 
@@ -8158,8 +8456,6 @@ $bit_integrations_i18n_strings = array(
 
     'Payment ID' => __('Payment ID', 'bit-integrations'),
 
-    'Please select an action to continue.' => __('Please select an action to continue.', 'bit-integrations'),
-
     'Connected with Ultimate Affiliate Pro Successfully' => __('Connected with Ultimate Affiliate Pro Successfully', 'bit-integrations'),
 
     'Checking if Ultimate Affiliate Pro is authorized...' => __('Checking if Ultimate Affiliate Pro is authorized...', 'bit-integrations'),
@@ -8185,8 +8481,6 @@ $bit_integrations_i18n_strings = array(
     'Failed to refresh form fields' => __('Failed to refresh form fields', 'bit-integrations'),
 
     'Create User' => __('Create User', 'bit-integrations'),
-
-    'Select Form:' => __('Select Form:', 'bit-integrations'),
 
     'Refresh forms' => __('Refresh forms', 'bit-integrations'),
 
@@ -8217,8 +8511,6 @@ $bit_integrations_i18n_strings = array(
     'Posts fetched successfully' => __('Posts fetched successfully', 'bit-integrations'),
 
     'Profile ID' => __('Profile ID', 'bit-integrations'),
-
-    'Create New Post' => __('Create New Post', 'bit-integrations'),
 
     'Create New Collection Post' => __('Create New Collection Post', 'bit-integrations'),
 
@@ -8623,6 +8915,178 @@ $bit_integrations_i18n_strings = array(
 
     'Woodpecker Fields' => __('Woodpecker Fields', 'bit-integrations'),
 
+    'Register Post Type' => __('Register Post Type', 'bit-integrations'),
+
+    'Unregister Post Type' => __('Unregister Post Type', 'bit-integrations'),
+
+    'Add Post Type Features' => __('Add Post Type Features', 'bit-integrations'),
+
+    'Create Post Tag' => __('Create Post Tag', 'bit-integrations'),
+
+    'Update Post Tag' => __('Update Post Tag', 'bit-integrations'),
+
+    'Delete Post Tag' => __('Delete Post Tag', 'bit-integrations'),
+
+    'Add Taxonomy To Post' => __('Add Taxonomy To Post', 'bit-integrations'),
+
+    'Remove Taxonomy From Post' => __('Remove Taxonomy From Post', 'bit-integrations'),
+
+    'Add Tags To Post' => __('Add Tags To Post', 'bit-integrations'),
+
+    'Remove Tags From Post' => __('Remove Tags From Post', 'bit-integrations'),
+
+    'Add New Image' => __('Add New Image', 'bit-integrations'),
+
+    'Delete Media' => __('Delete Media', 'bit-integrations'),
+
+    'Rename Media' => __('Rename Media', 'bit-integrations'),
+
+    'Register Taxonomy' => __('Register Taxonomy', 'bit-integrations'),
+
+    'Unregister Taxonomy' => __('Unregister Taxonomy', 'bit-integrations'),
+
+    'Create New Term' => __('Create New Term', 'bit-integrations'),
+
+    'Update Term' => __('Update Term', 'bit-integrations'),
+
+    'Delete Term' => __('Delete Term', 'bit-integrations'),
+
+    'Create Category' => __('Create Category', 'bit-integrations'),
+
+    'Update Category' => __('Update Category', 'bit-integrations'),
+
+    'Delete Category' => __('Delete Category', 'bit-integrations'),
+
+    'Add Category To Post' => __('Add Category To Post', 'bit-integrations'),
+
+    'Create Product Tag' => __('Create Product Tag', 'bit-integrations'),
+
+    'Update Product Tag' => __('Update Product Tag', 'bit-integrations'),
+
+    'Delete Product Tag' => __('Delete Product Tag', 'bit-integrations'),
+
+    'Create Product Category' => __('Create Product Category', 'bit-integrations'),
+
+    'Update Product Category' => __('Update Product Category', 'bit-integrations'),
+
+    'Delete Product Category' => __('Delete Product Category', 'bit-integrations'),
+
+    'Create Product Type' => __('Create Product Type', 'bit-integrations'),
+
+    'Update Product Type' => __('Update Product Type', 'bit-integrations'),
+
+    'Delete Product Type' => __('Delete Product Type', 'bit-integrations'),
+
+    'Check Plugin Activation Status' => __('Check Plugin Activation Status', 'bit-integrations'),
+
+    'Activate Plugin' => __('Activate Plugin', 'bit-integrations'),
+
+    'Website URL' => __('Website URL', 'bit-integrations'),
+
+    'Field Name (login/email/slug/id)' => __('Field Name (login/email/slug/id)', 'bit-integrations'),
+
+    'Role Name (slug)' => __('Role Name (slug)', 'bit-integrations'),
+
+    'Old Role' => __('Old Role', 'bit-integrations'),
+
+    'Menu Order' => __('Menu Order', 'bit-integrations'),
+
+    'Comment Status (open/closed)' => __('Comment Status (open/closed)', 'bit-integrations'),
+
+    'Post Password' => __('Post Password', 'bit-integrations'),
+
+    'Post Type Slug' => __('Post Type Slug', 'bit-integrations'),
+
+    'Supports (comma separated)' => __('Supports (comma separated)', 'bit-integrations'),
+
+    'Rewrite Slug' => __('Rewrite Slug', 'bit-integrations'),
+
+    'Features (comma separated)' => __('Features (comma separated)', 'bit-integrations'),
+
+    'Tag ID' => __('Tag ID', 'bit-integrations'),
+
+    'Taxonomy' => __('Taxonomy', 'bit-integrations'),
+
+    'Term (ID or slug)' => __('Term (ID or slug)', 'bit-integrations'),
+
+    'Tags (comma separated IDs/slugs)' => __('Tags (comma separated IDs/slugs)', 'bit-integrations'),
+
+    'Image URL' => __('Image URL', 'bit-integrations'),
+
+    'Alt Text' => __('Alt Text', 'bit-integrations'),
+
+    'Media ID' => __('Media ID', 'bit-integrations'),
+
+    'New Title' => __('New Title', 'bit-integrations'),
+
+    'Post Types (comma separated)' => __('Post Types (comma separated)', 'bit-integrations'),
+
+    'Term ID' => __('Term ID', 'bit-integrations'),
+
+    'Field (id/name/slug)' => __('Field (id/name/slug)', 'bit-integrations'),
+
+    'Term Name' => __('Term Name', 'bit-integrations'),
+
+    'Category Name' => __('Category Name', 'bit-integrations'),
+
+    'Category ID' => __('Category ID', 'bit-integrations'),
+
+    'Category IDs (comma separated)' => __('Category IDs (comma separated)', 'bit-integrations'),
+
+    'Type Name' => __('Type Name', 'bit-integrations'),
+
+    'Type ID' => __('Type ID', 'bit-integrations'),
+
+    'Plugin Path (folder/file.php)' => __('Plugin Path (folder/file.php)', 'bit-integrations'),
+
+    'Append Terms' => __('Append Terms', 'bit-integrations'),
+
+    'Append taxonomy terms instead of replacing existing terms.' => __('Append taxonomy terms instead of replacing existing terms.', 'bit-integrations'),
+
+    'Append Tags' => __('Append Tags', 'bit-integrations'),
+
+    'Append tags instead of replacing existing tags on the post.' => __('Append tags instead of replacing existing tags on the post.', 'bit-integrations'),
+
+    'Append Categories' => __('Append Categories', 'bit-integrations'),
+
+    'Append categories instead of replacing existing categories on the post.' => __('Append categories instead of replacing existing categories on the post.', 'bit-integrations'),
+
+    'Make this post type publicly queryable.' => __('Make this post type publicly queryable.', 'bit-integrations'),
+
+    'Enable hierarchical behavior for this post type.' => __('Enable hierarchical behavior for this post type.', 'bit-integrations'),
+
+    'Show admin UI for managing this post type.' => __('Show admin UI for managing this post type.', 'bit-integrations'),
+
+    'Show this post type in the WordPress admin menu.' => __('Show this post type in the WordPress admin menu.', 'bit-integrations'),
+
+    'Show In Nav Menu' => __('Show In Nav Menu', 'bit-integrations'),
+
+    'Allow this post type in navigation menu selection.' => __('Allow this post type in navigation menu selection.', 'bit-integrations'),
+
+    'Show this post type in the WordPress admin bar.' => __('Show this post type in the WordPress admin bar.', 'bit-integrations'),
+
+    'Make this taxonomy publicly queryable.' => __('Make this taxonomy publicly queryable.', 'bit-integrations'),
+
+    'Admin UI' => __('Admin UI', 'bit-integrations'),
+
+    'Show admin UI for managing this taxonomy.' => __('Show admin UI for managing this taxonomy.', 'bit-integrations'),
+
+    'Enable hierarchical taxonomy behavior.' => __('Enable hierarchical taxonomy behavior.', 'bit-integrations'),
+
+    'Show In REST API' => __('Show In REST API', 'bit-integrations'),
+
+    'Expose taxonomy in WordPress REST API.' => __('Expose taxonomy in WordPress REST API.', 'bit-integrations'),
+
+    'Force Delete' => __('Force Delete', 'bit-integrations'),
+
+    'Permanently delete media instead of moving it to trash.' => __('Permanently delete media instead of moving it to trash.', 'bit-integrations'),
+
+    'WordPress connected' => __('WordPress connected', 'bit-integrations'),
+
+    'Connect to WordPress' => __('Connect to WordPress', 'bit-integrations'),
+
+    'WordPress Fields' => __('WordPress Fields', 'bit-integrations'),
+
     'Create Reservation' => __('Create Reservation', 'bit-integrations'),
 
     'Update Reservation' => __('Update Reservation', 'bit-integrations'),
@@ -8905,8 +9369,6 @@ $bit_integrations_i18n_strings = array(
 
     'Select Lead' => __('Select Lead', 'bit-integrations'),
 
-    'Refresh Leads' => __('Refresh Leads', 'bit-integrations'),
-
     'Lead types' => __('Lead types', 'bit-integrations'),
 
     'Zendesk API Token' => __('Zendesk API Token', 'bit-integrations'),
@@ -8922,6 +9384,112 @@ $bit_integrations_i18n_strings = array(
     'Select Source:' => __('Select Source:', 'bit-integrations'),
 
     'Zendesk Fields' => __('Zendesk Fields', 'bit-integrations'),
+
+    'Hold' => __('Hold', 'bit-integrations'),
+
+    'Solved' => __('Solved', 'bit-integrations'),
+
+    'Problem' => __('Problem', 'bit-integrations'),
+
+    'Incident' => __('Incident', 'bit-integrations'),
+
+    'Question' => __('Question', 'bit-integrations'),
+
+    'End User' => __('End User', 'bit-integrations'),
+
+    'Admin' => __('Admin', 'bit-integrations'),
+
+    'Brand' => __('Brand', 'bit-integrations'),
+
+    'Ticket Form' => __('Ticket Form', 'bit-integrations'),
+
+    'Assignee' => __('Assignee', 'bit-integrations'),
+
+    'Is Default' => __('Is Default', 'bit-integrations'),
+
+    'Update Ticket' => __('Update Ticket', 'bit-integrations'),
+
+    'Delete Ticket' => __('Delete Ticket', 'bit-integrations'),
+
+    'Add Ticket Comment' => __('Add Ticket Comment', 'bit-integrations'),
+
+    'Add Tags to Ticket' => __('Add Tags to Ticket', 'bit-integrations'),
+
+    'Remove Tags from Ticket' => __('Remove Tags from Ticket', 'bit-integrations'),
+
+    'Update User' => __('Update User', 'bit-integrations'),
+
+    'Create or Update User' => __('Create or Update User', 'bit-integrations'),
+
+    'Delete User' => __('Delete User', 'bit-integrations'),
+
+    'Suspend User' => __('Suspend User', 'bit-integrations'),
+
+    'Update Organization' => __('Update Organization', 'bit-integrations'),
+
+    'Delete Organization' => __('Delete Organization', 'bit-integrations'),
+
+    'Update Group' => __('Update Group', 'bit-integrations'),
+
+    'Subject' => __('Subject', 'bit-integrations'),
+
+    'Requester Email' => __('Requester Email', 'bit-integrations'),
+
+    'Requester Name' => __('Requester Name', 'bit-integrations'),
+
+    'External ID' => __('External ID', 'bit-integrations'),
+
+    'Tags (comma separated)' => __('Tags (comma separated)', 'bit-integrations'),
+
+    'Ticket ID' => __('Ticket ID', 'bit-integrations'),
+
+    'Comment Body' => __('Comment Body', 'bit-integrations'),
+
+    'Details' => __('Details', 'bit-integrations'),
+
+    'Domain Names (comma separated)' => __('Domain Names (comma separated)', 'bit-integrations'),
+
+    'Organization ID' => __('Organization ID', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    'Select %s for this action' => __('Select %s for this action', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    'Select %s' => __('Select %s', 'bit-integrations'),
+
+    'Subdomain:' => __('Subdomain:', 'bit-integrations'),
+
+    'your-subdomain' => __('your-subdomain', 'bit-integrations'),
+
+    'agent@example.com' => __('agent@example.com', 'bit-integrations'),
+
+    'Enable token access and create a token at' => __('Enable token access and create a token at', 'bit-integrations'),
+
+    'Zendesk API Settings' => __('Zendesk API Settings', 'bit-integrations'),
+
+    'How to connect Zendesk Support:' => __('How to connect Zendesk Support:', 'bit-integrations'),
+
+    'Your <b>Subdomain</b> is the part before <b>.zendesk.com</b> in your account URL. Example: for <b>https://acme.zendesk.com</b> the subdomain is <b>acme</b>.' => __('Your <b>Subdomain</b> is the part before <b>.zendesk.com</b> in your account URL. Example: for <b>https://acme.zendesk.com</b> the subdomain is <b>acme</b>.', 'bit-integrations'),
+
+    'Use the <b>Email</b> of an agent/admin account that has API access.' => __('Use the <b>Email</b> of an agent/admin account that has API access.', 'bit-integrations'),
+
+    'In Zendesk, go to <b>Admin Center → Apps and integrations → APIs → Zendesk API</b> and enable <b>Token access</b>, then click <b>Add API token</b>.' => __('In Zendesk, go to <b>Admin Center → Apps and integrations → APIs → Zendesk API</b> and enable <b>Token access</b>, then click <b>Add API token</b>.', 'bit-integrations'),
+
+    'Copy the generated token and paste it into the <b>API Token</b> field below.' => __('Copy the generated token and paste it into the <b>API Token</b> field below.', 'bit-integrations'),
+
+    'Finally, click the <b>Authorize</b> button.' => __('Finally, click the <b>Authorize</b> button.', 'bit-integrations'),
+
+    'Please authorize first' => __('Please authorize first', 'bit-integrations'),
+
+    'Data fetched successfully' => __('Data fetched successfully', 'bit-integrations'),
+
+    'Data fetching failed' => __('Data fetching failed', 'bit-integrations'),
+
+    'Email can\'t be empty' => __('Email can\'t be empty', 'bit-integrations'),
+
+    'Authorization failed, please enter valid credentials' => __('Authorization failed, please enter valid credentials', 'bit-integrations'),
+
+    'Zendesk Support Fields' => __('Zendesk Support Fields', 'bit-integrations'),
 
     'Email is invalid' => __('Email is invalid', 'bit-integrations'),
 
@@ -9260,8 +9828,6 @@ $bit_integrations_i18n_strings = array(
     'Delete Meeting registrant using email' => __('Delete Meeting registrant using email', 'bit-integrations'),
 
     'Create User to your account' => __('Create User to your account', 'bit-integrations'),
-
-    'Delete User' => __('Delete User', 'bit-integrations'),
 
     'Delete User from your account' => __('Delete User from your account', 'bit-integrations'),
 
@@ -9805,8 +10371,6 @@ $bit_integrations_i18n_strings = array(
 
     'When response data appears, click <b>Set Action</b> to continue.' => __('When response data appears, click <b>Set Action</b> to continue.', 'bit-integrations'),
 
-    'Copied on Clipboard.' => __('Copied on Clipboard.', 'bit-integrations'),
-
     'Click to edit' => __('Click to edit', 'bit-integrations'),
 
     'Click to remove' => __('Click to remove', 'bit-integrations'),
@@ -10112,8 +10676,6 @@ $bit_integrations_i18n_strings = array(
 
     'Post Name' => __('Post Name', 'bit-integrations'),
 
-    'Post Excerpt' => __('Post Excerpt', 'bit-integrations'),
-
     'Current Date Time' => __('Current Date Time', 'bit-integrations'),
 
     'Administrator Email' => __('Administrator Email', 'bit-integrations'),
@@ -10151,8 +10713,6 @@ $bit_integrations_i18n_strings = array(
     'User Url' => __('User Url', 'bit-integrations'),
 
     'Current User Role' => __('Current User Role', 'bit-integrations'),
-
-    'Post Author ID' => __('Post Author ID', 'bit-integrations'),
 
     'Post Author Display Name' => __('Post Author Display Name', 'bit-integrations'),
 
