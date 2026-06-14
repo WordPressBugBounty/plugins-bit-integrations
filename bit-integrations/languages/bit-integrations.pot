@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.8.7\n"
+"Project-Id-Version: Bit Integrations 2.8.8\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-06-08T07:31:05+00:00\n"
+"POT-Creation-Date: 2026-06-14T06:58:16+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: bit-integrations\n"
@@ -554,7 +554,7 @@ msgstr ""
 #: backend/Actions/Zoom/ZoomController.php:67
 #: backend/Actions/ZoomWebinar/ZoomWebinarController.php:21
 #: backend/Actions/ZoomWebinar/ZoomWebinarController.php:44
-#: backend/Triggers/FallbackTrigger/TriggerFallback.php:1389
+#: backend/Triggers/FallbackTrigger/TriggerFallback.php:1391
 #: backend/Triggers/WC/WCController.php:252
 msgid "Requested parameter is empty"
 msgstr ""
@@ -616,7 +616,7 @@ msgstr ""
 #: backend/Actions/ACPT/ACPTHelper.php:134
 #: backend/Actions/Bento/RecordApiHelper.php:100
 #: backend/Actions/FluentCart/RecordApiHelper.php:54
-#: backend/Actions/FluentSupport/RecordApiHelper.php:166
+#: backend/Actions/FluentSupport/RecordApiHelper.php:167
 #: backend/Actions/HighLevel/RecordApiHelper.php:51
 #: backend/Actions/Klaviyo/RecordApiHelper.php:103
 #: backend/Actions/LMFWC/RecordApiHelper.php:104
@@ -713,7 +713,7 @@ msgid "Phone"
 msgstr ""
 
 #: backend/Actions/ActiveCampaign/RecordApiHelper.php:110
-#: backend/Actions/MailMint/RecordApiHelper.php:198
+#: backend/Actions/MailMint/RecordApiHelper.php:199
 msgid "Email already exist"
 msgstr ""
 
@@ -895,6 +895,7 @@ msgstr ""
 #. translators: %s is the plugin name "Bit Integrations Pro"
 #. translators: %s is the plugin name
 #. translators: %s: Plugin name.
+#. translators: %s is the name of the integration.
 #: backend/Actions/AsgarosForum/RecordApiHelper.php:44
 #: backend/Actions/B2BKing/RecordApiHelper.php:37
 #: backend/Actions/BookingPress/RecordApiHelper.php:37
@@ -920,7 +921,7 @@ msgstr ""
 #: backend/Actions/WordPress/RecordApiHelper.php:31
 #: backend/Actions/WpDataTables/RecordApiHelper.php:38
 #: backend/Actions/WpErp/RecordApiHelper.php:41
-#: backend/Actions/ZendeskSupport/RecordApiHelper.php:85
+#: backend/Actions/ZendeskSupport/RecordApiHelper.php:86
 #, php-format
 msgid "%s plugin is not installed or activated"
 msgstr ""
@@ -1005,7 +1006,7 @@ msgstr ""
 #: backend/Actions/UserRegistrationMembership/UserRegistrationMembershipController.php:63
 #: backend/Actions/WCAffiliate/WCAffiliateController.php:36
 #: backend/Actions/WPCafe/WPCafeController.php:42
-#: backend/Actions/WpDataTables/WpDataTablesController.php:87
+#: backend/Actions/WpDataTables/WpDataTablesController.php:89
 #: backend/Actions/WpErp/WpErpController.php:110
 msgid "Field map is empty"
 msgstr ""
@@ -1624,7 +1625,7 @@ msgstr ""
 #: backend/Actions/TutorLms/TutorLmsController.php:68
 #: backend/Triggers/BitForm/BitFormController.php:39
 #: backend/Triggers/CF7/CF7Controller.php:45
-#: backend/Triggers/FallbackTrigger/TriggerFallback.php:4721
+#: backend/Triggers/FallbackTrigger/TriggerFallback.php:4743
 #: backend/Triggers/WPF/WPFController.php:51
 #: backend/Triggers/WPF/WPFController.php:70
 #: languages/generatedString.php:9938
@@ -1682,15 +1683,22 @@ msgstr ""
 msgid "Required fields not mapped"
 msgstr ""
 
-#: backend/Actions/Dropbox/RecordApiHelper.php:84
-#: backend/Actions/GoogleDrive/RecordApiHelper.php:80
-#: backend/Actions/OneDrive/RecordApiHelper.php:103
+#: backend/Actions/Dropbox/RecordApiHelper.php:33
+#: backend/Actions/Dropbox/RecordApiHelper.php:39
+#: backend/Actions/GoogleDrive/RecordApiHelper.php:30
+#: backend/Actions/OneDrive/RecordApiHelper.php:35
+msgid "Can't open file!"
+msgstr ""
+
+#: backend/Actions/Dropbox/RecordApiHelper.php:89
+#: backend/Actions/GoogleDrive/RecordApiHelper.php:84
+#: backend/Actions/OneDrive/RecordApiHelper.php:106
 msgid "All Files Uploaded."
 msgstr ""
 
-#: backend/Actions/Dropbox/RecordApiHelper.php:87
-#: backend/Actions/GoogleDrive/RecordApiHelper.php:83
-#: backend/Actions/OneDrive/RecordApiHelper.php:106
+#: backend/Actions/Dropbox/RecordApiHelper.php:92
+#: backend/Actions/GoogleDrive/RecordApiHelper.php:87
+#: backend/Actions/OneDrive/RecordApiHelper.php:109
 msgid "Some Files Can't Upload."
 msgstr ""
 
@@ -1862,11 +1870,11 @@ msgstr ""
 msgid "module, required fields are empty"
 msgstr ""
 
-#: backend/Actions/FluentSupport/RecordApiHelper.php:59
+#: backend/Actions/FluentSupport/RecordApiHelper.php:60
 msgid "Create Customer Failed!"
 msgstr ""
 
-#: backend/Actions/FluentSupport/RecordApiHelper.php:85
+#: backend/Actions/FluentSupport/RecordApiHelper.php:86
 msgid "Create Ticket Failed!"
 msgstr ""
 
@@ -2046,13 +2054,13 @@ msgstr ""
 
 #: backend/Actions/HefflCRM/HefflCRMController.php:26
 #: backend/Actions/HefflCRM/HefflCRMController.php:64
-#: backend/Actions/HefflCRM/HefflCRMController.php:139
+#: backend/Actions/HefflCRM/HefflCRMController.php:140
 msgid "API key is required"
 msgstr ""
 
 #: backend/Actions/HefflCRM/HefflCRMController.php:32
 #: backend/Actions/HefflCRM/HefflCRMController.php:74
-#: backend/Actions/HefflCRM/HefflCRMController.php:153
+#: backend/Actions/HefflCRM/HefflCRMController.php:154
 msgid "Failed to connect to Heffl CRM: "
 msgstr ""
 
@@ -2070,12 +2078,13 @@ msgstr ""
 msgid "Failed to fetch pipeline stages"
 msgstr ""
 
-#: backend/Actions/HefflCRM/HefflCRMController.php:119
+#. translators: %s is the name of the integration.
+#: backend/Actions/HefflCRM/HefflCRMController.php:120
 #, php-format
 msgid "API key and field map are required for %s api"
 msgstr ""
 
-#: backend/Actions/HefflCRM/HefflCRMController.php:157
+#: backend/Actions/HefflCRM/HefflCRMController.php:158
 msgid "Failed to fetch from Heffl CRM"
 msgstr ""
 
@@ -2594,7 +2603,7 @@ msgid "Email is required"
 msgstr ""
 
 #: backend/Actions/MailerPress/RecordApiHelper.php:207
-#: backend/Actions/MailMint/RecordApiHelper.php:191
+#: backend/Actions/MailMint/RecordApiHelper.php:192
 msgid "Contact updated successfully"
 msgstr ""
 
@@ -2607,13 +2616,13 @@ msgid "Failed to create or update contact"
 msgstr ""
 
 #. translators: %s: Placeholder value
-#: backend/Actions/MailMint/RecordApiHelper.php:178
+#: backend/Actions/MailMint/RecordApiHelper.php:179
 #, php-format
 msgid "Contact created successfully and id is %s"
 msgstr ""
 
-#: backend/Actions/MailMint/RecordApiHelper.php:180
-#: backend/Actions/MailMint/RecordApiHelper.php:193
+#: backend/Actions/MailMint/RecordApiHelper.php:181
+#: backend/Actions/MailMint/RecordApiHelper.php:194
 msgid "Failed to create contact"
 msgstr ""
 
@@ -2782,7 +2791,7 @@ msgid "Ninja Tables is not activated or not installed"
 msgstr ""
 
 #: backend/Actions/NinjaTables/NinjaTablesController.php:217
-#: backend/Actions/WpDataTables/WpDataTablesController.php:49
+#: backend/Actions/WpDataTables/WpDataTablesController.php:50
 msgid "Table ID is required"
 msgstr ""
 
@@ -4179,7 +4188,7 @@ msgstr ""
 msgid "wpDataTables is not activated or not installed"
 msgstr ""
 
-#: backend/Actions/WpDataTables/WpDataTablesController.php:62
+#: backend/Actions/WpDataTables/WpDataTablesController.php:64
 msgid "Table not found"
 msgstr ""
 
@@ -4526,30 +4535,56 @@ msgstr ""
 msgid "Field map, token details are required for ZohoSheet api"
 msgstr ""
 
-#: backend/Actions/Zoom/RecordApiHelper.php:150
+#: backend/Actions/Zoom/RecordApiHelper.php:151
 #: backend/Actions/ZoomWebinar/RecordApiHelper.php:149
 msgid "User deleted successfully"
 msgstr ""
 
-#: backend/Actions/Zoom/RecordApiHelper.php:156
+#: backend/Actions/Zoom/RecordApiHelper.php:157
 #: backend/Actions/ZoomWebinar/RecordApiHelper.php:155
 msgid "Attendee deleted successfully"
 msgstr ""
 
-#: backend/Admin/AdminAjax.php:20
+#: backend/Admin/AdminAjax.php:23
 msgid "Data can't be empty"
 msgstr ""
 
-#: backend/Admin/AdminAjax.php:24
+#: backend/Admin/AdminAjax.php:27
 msgid "save successfully done"
 msgstr ""
 
-#: backend/Admin/AdminAjax.php:42
+#: backend/Admin/AdminAjax.php:49
 msgid "Token expired"
 msgstr ""
 
-#: backend/Admin/AdminAjax.php:63
+#: backend/Admin/AdminAjax.php:70
 msgid "Token expired or no data received"
+msgstr ""
+
+#: backend/Admin/AdminAjax.php:82
+#: backend/controller/AuthDataController.php:145
+#: backend/controller/IntegrationTagController.php:13
+#: backend/controller/IntegrationTagController.php:24
+#: backend/controller/PostController.php:17
+#: backend/controller/PostController.php:203
+#: backend/controller/PostController.php:225
+#: backend/controller/PostController.php:240
+#: backend/controller/UserController.php:17
+#: backend/controller/UserController.php:28
+#: backend/Flow/Flow.php:53
+#: backend/Flow/Flow.php:84
+#: backend/Flow/Flow.php:139
+#: backend/Flow/Flow.php:178
+#: backend/Flow/Flow.php:218
+#: backend/Flow/Flow.php:314
+#: backend/Flow/Flow.php:334
+#: backend/Log/LogHandler.php:23
+#: backend/Log/LogHandler.php:118
+#: backend/Triggers/TriggerController.php:17
+#: backend/Triggers/TriggerController.php:45
+#: backend/Triggers/TriggerController.php:68
+#: backend/Triggers/TriggerController.php:88
+msgid "User don't have permission to access this page"
 msgstr ""
 
 #: backend/Admin/Admin_Bar.php:38
@@ -4574,25 +4609,16 @@ msgstr ""
 msgid "Help"
 msgstr ""
 
-#: backend/controller/IntegrationTagController.php:13
-#: backend/controller/IntegrationTagController.php:24
-#: backend/controller/PostController.php:17
-#: backend/controller/PostController.php:203
-#: backend/controller/PostController.php:225
-#: backend/controller/PostController.php:240
-#: backend/controller/UserController.php:17
-#: backend/controller/UserController.php:28
-#: backend/Flow/Flow.php:53
-#: backend/Flow/Flow.php:84
-#: backend/Flow/Flow.php:139
-#: backend/Flow/Flow.php:178
-#: backend/Flow/Flow.php:218
-#: backend/Flow/Flow.php:314
-#: backend/Flow/Flow.php:334
-#: backend/Log/LogHandler.php:23
-#: backend/Log/LogHandler.php:118
-#: backend/Triggers/TriggerController.php:17
-msgid "User don't have permission to access this page"
+#: backend/controller/AuthDataController.php:124
+msgid "Invalid credential id"
+msgstr ""
+
+#: backend/controller/AuthDataController.php:131
+msgid "Failed to delete credential"
+msgstr ""
+
+#: backend/controller/AuthDataController.php:134
+msgid "Credential deleted successfully"
 msgstr ""
 
 #: backend/controller/IntegrationTagController.php:28
@@ -4636,6 +4662,10 @@ msgstr ""
 msgid "prepared query is empty"
 msgstr ""
 
+#: backend/Core/Util/Common.php:84
+msgid "The requested URL is not allowed."
+msgstr ""
+
 #: backend/Core/Util/CustomFuncValidator.php:19
 msgid "No file name provided."
 msgstr ""
@@ -4653,21 +4683,25 @@ msgstr ""
 msgid "Unable to write temporary file for validation."
 msgstr ""
 
-#: backend/Core/Util/CustomFuncValidator.php:185
+#: backend/Core/Util/CustomFuncValidator.php:182
+msgid "Invalid file name."
+msgstr ""
+
+#: backend/Core/Util/CustomFuncValidator.php:191
 msgid "Unable to write to file."
 msgstr ""
 
-#: backend/Core/Util/CustomFuncValidator.php:253
+#: backend/Core/Util/CustomFuncValidator.php:259
 msgid "Unable to communicate back with site to check for fatal errors, so the PHP change was reverted. You will need to fix any issues manually."
 msgstr ""
 
 #. translators: 1: line number, 2: PHP error message
-#: backend/Core/Util/CustomFuncValidator.php:304
+#: backend/Core/Util/CustomFuncValidator.php:310
 #, php-format
 msgid "PHP error on line %1$d: %2$s"
 msgstr ""
 
-#: backend/Core/Util/CustomFuncValidator.php:310
+#: backend/Core/Util/CustomFuncValidator.php:316
 msgid "An error occurred while verifying the function. Please try again."
 msgstr ""
 
@@ -4789,7 +4823,7 @@ msgstr ""
 
 #: backend/Triggers/BitForm/BitFormController.php:60
 #: backend/Triggers/CF7/CF7Controller.php:70
-#: backend/Triggers/FallbackTrigger/TriggerFallback.php:78
+#: backend/Triggers/FallbackTrigger/TriggerFallback.php:79
 #: backend/Triggers/WPF/WPFController.php:77
 msgid "Form doesn't exists any field"
 msgstr ""
@@ -4891,43 +4925,43 @@ msgstr ""
 msgid "Edit Post Id (%s)"
 msgstr ""
 
-#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5837
+#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5859
 #: languages/generatedString.php:10671
 msgid "Index out of bounds or invalid"
 msgstr ""
 
-#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5845
-#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5851
+#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5867
+#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5873
 #: languages/generatedString.php:10673
 msgid "Invalid path"
 msgstr ""
 
 #. translators: %s: Placeholder value
-#: backend/Triggers/TriggerController.php:71
+#: backend/Triggers/TriggerController.php:79
 #, php-format
 msgid "%s data is empty"
 msgstr ""
 
-#: backend/Triggers/TriggerController.php:88
+#: backend/Triggers/TriggerController.php:100
 #: backend/Triggers/Webhook/WebhookController.php:69
 msgid "Failed to remove test data"
 msgstr ""
 
 #. translators: %s: Placeholder value
-#: backend/Triggers/TriggerController.php:92
+#: backend/Triggers/TriggerController.php:104
 #, php-format
 msgid "%s test data removed successfully"
 msgstr ""
 
-#: backend/Triggers/TriggerController.php:98
+#: backend/Triggers/TriggerController.php:110
 msgid "User doesn't have permission to save triggers"
 msgstr ""
 
-#: backend/Triggers/TriggerController.php:102
+#: backend/Triggers/TriggerController.php:114
 msgid "Invalid trigger data"
 msgstr ""
 
-#: backend/Triggers/TriggerController.php:107
+#: backend/Triggers/TriggerController.php:119
 msgid "Listed trigger saved successfully"
 msgstr ""
 
