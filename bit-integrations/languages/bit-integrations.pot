@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Bit Integrations 2.8.8\n"
+"Project-Id-Version: Bit Integrations 2.8.10\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
 "Last-Translator: developer@bitcode.pro\n"
 "Language-Team: support@bitcode.pro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-06-14T06:58:16+00:00\n"
+"POT-Creation-Date: 2026-06-14T10:23:02+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: bit-integrations\n"
@@ -1625,7 +1625,7 @@ msgstr ""
 #: backend/Actions/TutorLms/TutorLmsController.php:68
 #: backend/Triggers/BitForm/BitFormController.php:39
 #: backend/Triggers/CF7/CF7Controller.php:45
-#: backend/Triggers/FallbackTrigger/TriggerFallback.php:4743
+#: backend/Triggers/FallbackTrigger/TriggerFallback.php:4748
 #: backend/Triggers/WPF/WPFController.php:51
 #: backend/Triggers/WPF/WPFController.php:70
 #: languages/generatedString.php:9938
@@ -1690,15 +1690,15 @@ msgstr ""
 msgid "Can't open file!"
 msgstr ""
 
-#: backend/Actions/Dropbox/RecordApiHelper.php:89
+#: backend/Actions/Dropbox/RecordApiHelper.php:91
 #: backend/Actions/GoogleDrive/RecordApiHelper.php:84
-#: backend/Actions/OneDrive/RecordApiHelper.php:106
+#: backend/Actions/OneDrive/RecordApiHelper.php:108
 msgid "All Files Uploaded."
 msgstr ""
 
-#: backend/Actions/Dropbox/RecordApiHelper.php:92
+#: backend/Actions/Dropbox/RecordApiHelper.php:94
 #: backend/Actions/GoogleDrive/RecordApiHelper.php:87
-#: backend/Actions/OneDrive/RecordApiHelper.php:109
+#: backend/Actions/OneDrive/RecordApiHelper.php:111
 msgid "Some Files Can't Upload."
 msgstr ""
 
@@ -2908,11 +2908,11 @@ msgstr ""
 msgid "User removed from membership level successfully"
 msgstr ""
 
-#: backend/Actions/PCloud/RecordApiHelper.php:94
+#: backend/Actions/PCloud/RecordApiHelper.php:105
 msgid "All Files Uploaded"
 msgstr ""
 
-#: backend/Actions/PCloud/RecordApiHelper.php:97
+#: backend/Actions/PCloud/RecordApiHelper.php:108
 msgid "Some Files Can't Upload"
 msgstr ""
 
@@ -3595,7 +3595,7 @@ msgstr ""
 #: backend/Actions/WooCommerce/RecordApiHelper.php:38
 #: backend/Actions/WooCommerce/RecordApiHelper.php:93
 #: backend/Actions/WooCommerce/RecordApiHelper.php:266
-#: backend/Actions/WooCommerce/RecordApiHelper.php:728
+#: backend/Actions/WooCommerce/RecordApiHelper.php:726
 #, php-format
 msgid "%1$s is required for woocommerce %2$s"
 msgstr ""
@@ -3622,7 +3622,7 @@ msgid "Subscription not cancelled"
 msgstr ""
 
 #. translators: %s: Placeholder value
-#: backend/Actions/WooCommerce/RecordApiHelper.php:744
+#: backend/Actions/WooCommerce/RecordApiHelper.php:742
 #, php-format
 msgid "%s is not valid product sku or product price is empty!"
 msgstr ""
@@ -4925,13 +4925,13 @@ msgstr ""
 msgid "Edit Post Id (%s)"
 msgstr ""
 
-#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5859
+#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5864
 #: languages/generatedString.php:10671
 msgid "Index out of bounds or invalid"
 msgstr ""
 
-#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5867
-#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5873
+#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5872
+#: backend/Triggers/FallbackTrigger/TriggerFallback.php:5878
 #: languages/generatedString.php:10673
 msgid "Invalid path"
 msgstr ""
