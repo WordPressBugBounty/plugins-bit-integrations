@@ -7562,6 +7562,10 @@ $bit_integrations_i18n_strings = array(
 
     'Add Lead Industry' => __('Add Lead Industry', 'bit-integrations'),
 
+    'Record Owner' => __('Record Owner', 'bit-integrations'),
+
+    'Assign owner for the record.' => __('Assign owner for the record.', 'bit-integrations'),
+
     'Select Opportunity Stage' => __('Select Opportunity Stage', 'bit-integrations'),
 
     'Select Opportunity Type' => __('Select Opportunity Type', 'bit-integrations'),
@@ -7667,6 +7671,12 @@ $bit_integrations_i18n_strings = array(
     'Loading Contact list...' => __('Loading Contact list...', 'bit-integrations'),
 
     'Loading' => __('Loading', 'bit-integrations'),
+
+    'User list refreshed' => __('User list refreshed', 'bit-integrations'),
+
+    'User list refresh failed. please try again' => __('User list refresh failed. please try again', 'bit-integrations'),
+
+    'Loading User list...' => __('Loading User list...', 'bit-integrations'),
 
     'Account list refreshed' => __('Account list refreshed', 'bit-integrations'),
 
@@ -9755,54 +9765,6 @@ $bit_integrations_i18n_strings = array(
 
     'Zendesk Support Fields' => __('Zendesk Support Fields', 'bit-integrations'),
 
-    'Email is invalid' => __('Email is invalid', 'bit-integrations'),
-
-    'Data Center:' => __('Data Center:', 'bit-integrations'),
-
-    '--Select a data center--' => __('--Select a data center--', 'bit-integrations'),
-
-    'Zoho API Console' => __('Zoho API Console', 'bit-integrations'),
-
-    'Zoho Analytics Owner Email:' => __('Zoho Analytics Owner Email:', 'bit-integrations'),
-
-    'Owner Email' => __('Owner Email', 'bit-integrations'),
-
-    'Workspaces refreshed' => __('Workspaces refreshed', 'bit-integrations'),
-
-    'Workspaces refresh failed Cause:' => __('Workspaces refresh failed Cause:', 'bit-integrations'),
-
-    'Workspaces refresh failed. please try again' => __('Workspaces refresh failed. please try again', 'bit-integrations'),
-
-    'Users refreshed' => __('Users refreshed', 'bit-integrations'),
-
-    'Users refresh failed Cause:' => __('Users refresh failed Cause:', 'bit-integrations'),
-
-    'Users refresh failed. please try again' => __('Users refresh failed. please try again', 'bit-integrations'),
-
-    'Tables refreshed' => __('Tables refreshed', 'bit-integrations'),
-
-    'Tables refresh failed. please try again' => __('Tables refresh failed. please try again', 'bit-integrations'),
-
-    'Table Headers refreshed' => __('Table Headers refreshed', 'bit-integrations'),
-
-    'Zoho didn\'t provide column names for this table' => __('Zoho didn\'t provide column names for this table', 'bit-integrations'),
-
-    'Table Headers refresh failed. please try again' => __('Table Headers refresh failed. please try again', 'bit-integrations'),
-
-    'Workspace:' => __('Workspace:', 'bit-integrations'),
-
-    'Refresh Analytics Workspaces' => __('Refresh Analytics Workspaces', 'bit-integrations'),
-
-    'Table:' => __('Table:', 'bit-integrations'),
-
-    'Select Table' => __('Select Table', 'bit-integrations'),
-
-    '** Zoho Analytics doesn\'t support data INSERT / UPDATE in other integration table' => __('** Zoho Analytics doesn\'t support data INSERT / UPDATE in other integration table', 'bit-integrations'),
-
-    'Refresh Analytics Table Headers' => __('Refresh Analytics Table Headers', 'bit-integrations'),
-
-    'Zoho Fields' => __('Zoho Fields', 'bit-integrations'),
-
     'Please select a layout' => __('Please select a layout', 'bit-integrations'),
 
     'Workflow' => __('Workflow', 'bit-integrations'),
@@ -9823,13 +9785,17 @@ $bit_integrations_i18n_strings = array(
 
     'add tags to records' => __('add tags to records', 'bit-integrations'),
 
-    'Record Owner' => __('Record Owner', 'bit-integrations'),
-
     'Note Title' => __('Note Title', 'bit-integrations'),
 
     'Note Content' => __('Note Content', 'bit-integrations'),
 
     'Field' => __('Field', 'bit-integrations'),
+
+    'Data Center:' => __('Data Center:', 'bit-integrations'),
+
+    '--Select a data center--' => __('--Select a data center--', 'bit-integrations'),
+
+    'Zoho API Console' => __('Zoho API Console', 'bit-integrations'),
 
     'Modules refreshed' => __('Modules refreshed', 'bit-integrations'),
 
@@ -9851,6 +9817,10 @@ $bit_integrations_i18n_strings = array(
 
     'RelatedLists refresh failed. please try again' => __('RelatedLists refresh failed. please try again', 'bit-integrations'),
 
+    'Users refreshed' => __('Users refreshed', 'bit-integrations'),
+
+    'Users refresh failed. please try again' => __('Users refresh failed. please try again', 'bit-integrations'),
+
     'Refresh Bigin Modules' => __('Refresh Bigin Modules', 'bit-integrations'),
 
     'Select Layout:' => __('Select Layout:', 'bit-integrations'),
@@ -9860,6 +9830,8 @@ $bit_integrations_i18n_strings = array(
     'Refresh pipelines Layouts' => __('Refresh pipelines Layouts', 'bit-integrations'),
 
     'Refresh Bigin Fields' => __('Refresh Bigin Fields', 'bit-integrations'),
+
+    'Zoho Fields' => __('Zoho Fields', 'bit-integrations'),
 
     'Map Attachments' => __('Map Attachments', 'bit-integrations'),
 
@@ -9878,32 +9850,6 @@ $bit_integrations_i18n_strings = array(
     'Refresh Campaigns Lists' => __('Refresh Campaigns Lists', 'bit-integrations'),
 
     'Refresh Campaigns Contact Fields' => __('Refresh Campaigns Contact Fields', 'bit-integrations'),
-
-    'Account Owner Name is mandatory!' => __('Account Owner Name is mandatory!', 'bit-integrations'),
-
-    'Owner Name (Your Zoho Creator screen name):' => __('Owner Name (Your Zoho Creator screen name):', 'bit-integrations'),
-
-    'Your Zoho Creator screen name...' => __('Your Zoho Creator screen name...', 'bit-integrations'),
-
-    'Applications refreshed' => __('Applications refreshed', 'bit-integrations'),
-
-    'Applications refresh failed Cause:' => __('Applications refresh failed Cause:', 'bit-integrations'),
-
-    'Applications refresh failed. please try again' => __('Applications refresh failed. please try again', 'bit-integrations'),
-
-    'Forms refreshed' => __('Forms refreshed', 'bit-integrations'),
-
-    'Forms refresh failed Cause:' => __('Forms refresh failed Cause:', 'bit-integrations'),
-
-    'Forms refresh failed. please try again' => __('Forms refresh failed. please try again', 'bit-integrations'),
-
-    'Fields refresh failed Cause:' => __('Fields refresh failed Cause:', 'bit-integrations'),
-
-    'Application:' => __('Application:', 'bit-integrations'),
-
-    'Select Application' => __('Select Application', 'bit-integrations'),
-
-    'Refresh Creator Fields' => __('Refresh Creator Fields', 'bit-integrations'),
 
     'Zoho CRM Tags' => __('Zoho CRM Tags', 'bit-integrations'),
 
@@ -10004,6 +9950,8 @@ $bit_integrations_i18n_strings = array(
     'Departments refresh failed Cause: %s. please try again' => __('Departments refresh failed Cause: %s. please try again', 'bit-integrations'),
 
     'Departments refresh failed. please try again' => __('Departments refresh failed. please try again', 'bit-integrations'),
+
+    'Fields refresh failed Cause:' => __('Fields refresh failed Cause:', 'bit-integrations'),
 
     'Owners refresh failed Cause:' => __('Owners refresh failed Cause:', 'bit-integrations'),
 
