@@ -8933,6 +8933,10 @@ $bit_integrations_i18n_strings = array(
 
     'WhatsApp Fields' => __('WhatsApp Fields', 'bit-integrations'),
 
+    'Template Placeholder Map' => __('Template Placeholder Map', 'bit-integrations'),
+
+    'Template Placeholders' => __('Template Placeholders', 'bit-integrations'),
+
     'Media Field Map' => __('Media Field Map', 'bit-integrations'),
 
     'Contact Field Map' => __('Contact Field Map', 'bit-integrations'),
