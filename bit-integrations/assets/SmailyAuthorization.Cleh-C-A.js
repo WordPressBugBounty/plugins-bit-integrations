@@ -1,0 +1,7 @@
+import{_ as t,j as l}from"./main.2.10.0.js";import{A as m}from"./AddNewConnection.DCTHIFxq.js";import{t as p}from"./TutorialLink.BAPo3x0A.js";import{A as u}from"./Authorization.BmZ1lyOd.js";import"./react-router.DMwpH23k.js";import"./react-vendor.P7K3d6op.js";import"./connectionApi.QyWx8Unk.js";import"./Note.Dyd4oGF7.js";import"./SnackMsg.dVUsvxBp.js";import"./ConfirmModal.BVwU3lxl.js";import"./oauthHelper.Bbf-wdGf.js";import"./BackIcn.B7f1heI_.js";function $({smailyConf:o,setSmailyConf:n,step:e,setStep:a,isInfo:r}){var i;const s=`<h4>${t("To create API username and password, do the following.","bit-integrations")}</h4>
+  <ol>
+  <li>${t("Click on your","bit-integrations")} <a href="https://www.sendsmaily.net/account/login/" target="_blank">account</a>${t("name in the upper right corner of the page.","bit-integrations")}</li>
+  <li>${t("From a dropdown menu choose “Preferences”.","bit-integrations")}</li>
+  <li>${t("Click on the “Integrations” tab.","bit-integrations")}</li>
+  <li>${t("And then underneath API Passwords click on “Create a new user”.","bit-integrations")}</li>
+  </ol>`;return l.jsx(u,{config:o,setConfig:n,step:e,setStep:a,isInfo:r,tutorialTitle:"Smaily",tutorialLinks:((i=p)==null?void 0:i.smaily)||{},authDetails:{authType:m.BASIC_AUTH,apiEndpoint:"https://{subdomain}.sendsmaily.net/api/organizations/users.php",method:"GET",extraFields:[{name:"subdomain",label:t("Subdomain Name","bit-integrations"),required:!0,placeholder:t("Your Account","bit-integrations")}]},noteDetails:{note:s}})}export{$ as default};

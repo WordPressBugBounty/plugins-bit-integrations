@@ -1,0 +1,7 @@
+import{_ as i,j as l}from"./main.2.10.0.js";import{A as m}from"./AddNewConnection.DCTHIFxq.js";import{t as p}from"./TutorialLink.BAPo3x0A.js";import{A as u}from"./Authorization.BmZ1lyOd.js";import"./react-router.DMwpH23k.js";import"./react-vendor.P7K3d6op.js";import"./connectionApi.QyWx8Unk.js";import"./Note.Dyd4oGF7.js";import"./SnackMsg.dVUsvxBp.js";import"./ConfirmModal.BVwU3lxl.js";import"./oauthHelper.Bbf-wdGf.js";import"./BackIcn.B7f1heI_.js";function x({salesmateConf:e,setSalesmateConf:o,step:a,setStep:n,isInfo:s}){var t;const r=`<h4>${i("Get Session Token","bit-integrations")}</h4>
+            <ul>
+                <li>${i("First go to your Salesmate dashboard.","bit-integrations")}</li>
+                <li>${i('Click go to your "Profile" from Right top corner',"bit-integrations")}</li>
+                <li>${i('Then Click "Access Key"',"bit-integrations")}</li>
+                <li>${i('Then click "Session Key / Session Token", Then Copied',"bit-integrations")}</li>
+            </ul>`;return l.jsx(u,{config:e,setConfig:o,step:a,setStep:n,isInfo:s,tutorialTitle:"Salesmate CRM",tutorialLinks:((t=p)==null?void 0:t.salesmate)||{},authDetails:{authType:m.API_KEY,apiEndpoint:"https://{link_name}.salesmate.io/apis/v1/users/active",key:"accessToken",addTo:"header",method:"GET",headers:{"Content-type":"application/json","x-linkname":"{link_name}.salesmate.io"},extraFields:[{name:"link_name",label:"Link Name",required:!0,placeholder:"Link Name..."}]},noteDetails:{note:r}})}export{x as default};

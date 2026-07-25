@@ -8,18 +8,7 @@ $bit_integrations_i18n_strings = array(
 
     'Next' => __('Next', 'bit-integrations'),
 
-    'Connected with Academy Lms Successfully' => __('Connected with Academy Lms Successfully', 'bit-integrations'),
-
-    'Integration Name:' => __('Integration Name:', 'bit-integrations'),
-
-    'Integration Name...' => __('Integration Name...', 'bit-integrations'),
-
-    'Checking if Academy Lms is active!!!' => __('Checking if Academy Lms is active!!!', 'bit-integrations'),
-
-    /* translators: %s: placeholder */
-    '%s plugin must be activated to integrate with Bit Integrations' => __('%s plugin must be activated to integrate with Bit Integrations', 'bit-integrations'),
-
-    'Connect' => __('Connect', 'bit-integrations'),
+    'To use Academy LMS integration, make sure the Academy LMS plugin is installed and active on your site.' => __('To use Academy LMS integration, make sure the Academy LMS plugin is installed and active on your site.', 'bit-integrations'),
 
     'Courses fetched successfully' => __('Courses fetched successfully', 'bit-integrations'),
 
@@ -56,6 +45,10 @@ $bit_integrations_i18n_strings = array(
     'Select Lessons:' => __('Select Lessons:', 'bit-integrations'),
 
     'This integration will only work for logged-in users.' => __('This integration will only work for logged-in users.', 'bit-integrations'),
+
+    'Integration Name:' => __('Integration Name:', 'bit-integrations'),
+
+    'Integration Name...' => __('Integration Name...', 'bit-integrations'),
 
     'Please map mandatory fields' => __('Please map mandatory fields', 'bit-integrations'),
 
@@ -137,41 +130,23 @@ $bit_integrations_i18n_strings = array(
 
     'Select Capabilities' => __('Select Capabilities', 'bit-integrations'),
 
-    'Homepage URL:' => __('Homepage URL:', 'bit-integrations'),
-
-    'Homepage URL...' => __('Homepage URL...', 'bit-integrations'),
-
-    'Api Key-Secret:' => __('Api Key-Secret:', 'bit-integrations'),
-
-    'Authorized ✔' => __('Authorized ✔', 'bit-integrations'),
-
-    'Authorize' => __('Authorize', 'bit-integrations'),
-
     'Please note' => __('Please note', 'bit-integrations'),
 
     'The secret key will no longer be displayed, so please take note of it. Eventually, you can regenerate your API keys.' => __('The secret key will no longer be displayed, so please take note of it. Eventually, you can regenerate your API keys.', 'bit-integrations'),
 
-    'To Get Api Key-secret' => __('To Get Api Key-secret', 'bit-integrations'),
+    'To get API key-secret' => __('To get API key-secret', 'bit-integrations'),
 
-    'First go to "ACPT" dashboard' => __('First go to "ACPT" dashboard', 'bit-integrations'),
+    'Go to the ACPT dashboard.' => __('Go to the ACPT dashboard.', 'bit-integrations'),
 
-    'Then go to "Tools" from menu' => __('Then go to "Tools" from menu', 'bit-integrations'),
+    'Open Tools, then go to API dashboard.' => __('Open Tools, then go to API dashboard.', 'bit-integrations'),
 
-    'Click on "Go to API dashboard" from tools' => __('Click on "Go to API dashboard" from tools', 'bit-integrations'),
+    'Open REST API and generate an API key if needed.' => __('Open REST API and generate an API key if needed.', 'bit-integrations'),
 
-    'Then click "REST API" from the top sub menu' => __('Then click "REST API" from the top sub menu', 'bit-integrations'),
+    'Copy the generated key-secret pair.' => __('Copy the generated key-secret pair.', 'bit-integrations'),
 
-    'Then If you don’t have one API key click on the "Generate API key" button.' => __('Then If you don’t have one API key click on the "Generate API key" button.', 'bit-integrations'),
+    'Homepage URL' => __('Homepage URL', 'bit-integrations'),
 
-    'The API "key-secret" pair will be displayed in a popup.' => __('The API "key-secret" pair will be displayed in a popup.', 'bit-integrations'),
-
-    'Homepage URL can\'t be empty' => __('Homepage URL can\'t be empty', 'bit-integrations'),
-
-    'Api Key-Secret can\'t be empty' => __('Api Key-Secret can\'t be empty', 'bit-integrations'),
-
-    'Authorized Successfully' => __('Authorized Successfully', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid Api Key-Secret' => __('Authorized failed, Please enter valid Api Key-Secret', 'bit-integrations'),
+    'https://example.com' => __('https://example.com', 'bit-integrations'),
 
     'Select Field' => __('Select Field', 'bit-integrations'),
 
@@ -1110,29 +1085,17 @@ $bit_integrations_i18n_strings = array(
 
     'Update existing contact tags in ActiveCampaign?' => __('Update existing contact tags in ActiveCampaign?', 'bit-integrations'),
 
-    'Integration name can\'t be empty' => __('Integration name can\'t be empty', 'bit-integrations'),
+    'Get API URL and API key' => __('Get API URL and API key', 'bit-integrations'),
 
-    'Access Api Key can\'t be empty' => __('Access Api Key can\'t be empty', 'bit-integrations'),
+    'Go to your ActiveCampaign dashboard.' => __('Go to your ActiveCampaign dashboard.', 'bit-integrations'),
 
-    'Access API URL can\'t be empty' => __('Access API URL can\'t be empty', 'bit-integrations'),
+    'Open Settings, then Developer.' => __('Open Settings, then Developer.', 'bit-integrations'),
 
-    'Get api url and api key' => __('Get api url and api key', 'bit-integrations'),
+    'Copy API URL and API Key.' => __('Copy API URL and API Key.', 'bit-integrations'),
 
-    'First go to activeCampaign your dashboard.' => __('First go to activeCampaign your dashboard.', 'bit-integrations'),
+    'Access API URL' => __('Access API URL', 'bit-integrations'),
 
-    'Click Settings, Then click Developer' => __('Click Settings, Then click Developer', 'bit-integrations'),
-
-    'Access API URL:' => __('Access API URL:', 'bit-integrations'),
-
-    'Access API URL...' => __('Access API URL...', 'bit-integrations'),
-
-    'Access API Key:' => __('Access API Key:', 'bit-integrations'),
-
-    'Access API Key...' => __('Access API Key...', 'bit-integrations'),
-
-    'Checking API Key!!!' => __('Checking API Key!!!', 'bit-integrations'),
-
-    'Sorry, Api key is invalid' => __('Sorry, Api key is invalid', 'bit-integrations'),
+    'https://your-account.api-us1.com' => __('https://your-account.api-us1.com', 'bit-integrations'),
 
     'ActiveCampaign lists refreshed' => __('ActiveCampaign lists refreshed', 'bit-integrations'),
 
@@ -1192,23 +1155,19 @@ $bit_integrations_i18n_strings = array(
 
     'Double Opt-In for confirm subscription.' => __('Double Opt-In for confirm subscription.', 'bit-integrations'),
 
-    'To Get Client Auth token, Please Visit' => __('To Get Client Auth token, Please Visit', 'bit-integrations'),
+    'To get your auth token, please visit' => __('To get your auth token, please visit', 'bit-integrations'),
 
-    'Acumbamail doc' => __('Acumbamail doc', 'bit-integrations'),
-
-    'Auth Token:' => __('Auth Token:', 'bit-integrations'),
-
-    'Auth Token...' => __('Auth Token...', 'bit-integrations'),
+    'Acumbamail API docs' => __('Acumbamail API docs', 'bit-integrations'),
 
     'All list field fetched successfully' => __('All list field fetched successfully', 'bit-integrations'),
 
     'Failed to fetch list fields' => __('Failed to fetch list fields', 'bit-integrations'),
 
+    'Authorization info is missing. please authorize again' => __('Authorization info is missing. please authorize again', 'bit-integrations'),
+
     'Lists fetched successfully.' => __('Lists fetched successfully.', 'bit-integrations'),
 
     'Lists fetch failed. please try again' => __('Lists fetch failed. please try again', 'bit-integrations'),
-
-    'Api Key can\'t be empty' => __('Api Key can\'t be empty', 'bit-integrations'),
 
     'Actions:' => __('Actions:', 'bit-integrations'),
 
@@ -1260,7 +1219,7 @@ $bit_integrations_i18n_strings = array(
 
     'Select type of referral' => __('Select type of referral', 'bit-integrations'),
 
-    'Connected with Affiliate Successfully' => __('Connected with Affiliate Successfully', 'bit-integrations'),
+    'To use AffiliateWP integration, make sure the AffiliateWP plugin is installed and active on your site.' => __('To use AffiliateWP integration, make sure the AffiliateWP plugin is installed and active on your site.', 'bit-integrations'),
 
     'All affiliate fetched successfully' => __('All affiliate fetched successfully', 'bit-integrations'),
 
@@ -1350,23 +1309,17 @@ $bit_integrations_i18n_strings = array(
 
     'Deal types' => __('Deal types', 'bit-integrations'),
 
-    'Brand (Your Account URL):' => __('Brand (Your Account URL):', 'bit-integrations'),
+    'Brand (Your Account URL)' => __('Brand (Your Account URL)', 'bit-integrations'),
 
     'Your Account...' => __('Your Account...', 'bit-integrations'),
 
     'Example: name.agiled.app' => __('Example: name.agiled.app', 'bit-integrations'),
 
-    'API Token:' => __('API Token:', 'bit-integrations'),
+    'Visit' => __('Visit', 'bit-integrations'),
 
-    'API Token...' => __('API Token...', 'bit-integrations'),
+    'Agiled API Settings' => __('Agiled API Settings', 'bit-integrations'),
 
-    'To Get API Token, Please Visit' => __('To Get API Token, Please Visit', 'bit-integrations'),
-
-    'Agiled API Token' => __('Agiled API Token', 'bit-integrations'),
-
-    'Brand Name (Account URL) can\'t be empty' => __('Brand Name (Account URL) can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid brand name & API key' => __('Authorized failed, Please enter valid brand name & API key', 'bit-integrations'),
+    'to get your credentials.' => __('to get your credentials.', 'bit-integrations'),
 
     'Owners fetched successfully' => __('Owners fetched successfully', 'bit-integrations'),
 
@@ -1442,17 +1395,19 @@ $bit_integrations_i18n_strings = array(
 
     'Select tags' => __('Select tags', 'bit-integrations'),
 
-    'Personal access token:' => __('Personal access token:', 'bit-integrations'),
+    'To get personal access token:' => __('To get personal access token:', 'bit-integrations'),
 
-    'To Get personal access token, Please Visit' => __('To Get personal access token, Please Visit', 'bit-integrations'),
+    'Create a token with required base/table permissions.' => __('Create a token with required base/table permissions.', 'bit-integrations'),
 
-    'Airtable Personal access tokens' => __('Airtable Personal access tokens', 'bit-integrations'),
+    'Copy the token and paste it into the Bearer Token field.' => __('Copy the token and paste it into the Bearer Token field.', 'bit-integrations'),
 
     'Personal access token can\'t be empty' => __('Personal access token can\'t be empty', 'bit-integrations'),
 
-    'All bases fectched successfully' => __('All bases fectched successfully', 'bit-integrations'),
+    'All bases fetched successfully' => __('All bases fetched successfully', 'bit-integrations'),
 
-    'Authorized failed!' => __('Authorized failed!', 'bit-integrations'),
+    'Bases fetched successfully' => __('Bases fetched successfully', 'bit-integrations'),
+
+    'Bases fetching failed' => __('Bases fetching failed', 'bit-integrations'),
 
     'Tables fetched successfully' => __('Tables fetched successfully', 'bit-integrations'),
 
@@ -1484,13 +1439,15 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a Section' => __('Please select a Section', 'bit-integrations'),
 
-    'API Key:' => __('API Key:', 'bit-integrations'),
+    'Get API token' => __('Get API token', 'bit-integrations'),
 
-    'Asana API Token' => __('Asana API Token', 'bit-integrations'),
+    'Asana Developer Apps' => __('Asana Developer Apps', 'bit-integrations'),
 
-    'API Key can\'t be empty' => __('API Key can\'t be empty', 'bit-integrations'),
+    'Open your Asana account settings.' => __('Open your Asana account settings.', 'bit-integrations'),
 
-    'Authorized failed, Please enter valid API key' => __('Authorized failed, Please enter valid API key', 'bit-integrations'),
+    'Create a personal access token.' => __('Create a personal access token.', 'bit-integrations'),
+
+    'Use that token for this connection.' => __('Use that token for this connection.', 'bit-integrations'),
 
     'No custom fields found' => __('No custom fields found', 'bit-integrations'),
 
@@ -1521,8 +1478,6 @@ $bit_integrations_i18n_strings = array(
     'Please complete all required fields to continue.' => __('Please complete all required fields to continue.', 'bit-integrations'),
 
     'To use Asgaros Forum integration, make sure the Asgaros Forum plugin is installed and active on your site.' => __('To use Asgaros Forum integration, make sure the Asgaros Forum plugin is installed and active on your site.', 'bit-integrations'),
-
-    'Authorization failed' => __('Authorization failed', 'bit-integrations'),
 
     'Asgaros Forum Fields' => __('Asgaros Forum Fields', 'bit-integrations'),
 
@@ -1564,14 +1519,7 @@ $bit_integrations_i18n_strings = array(
 
     'Skip if contact already exist in Autonami' => __('Skip if contact already exist in Autonami', 'bit-integrations'),
 
-    'Connect Successfully' => __('Connect Successfully', 'bit-integrations'),
-
-    /* translators: %s: placeholder */
-    'Please! First Install or Active %s Plugin' => __('Please! First Install or Active %s Plugin', 'bit-integrations'),
-
-    'Connected ✔' => __('Connected ✔', 'bit-integrations'),
-
-    'Connect to Autonami' => __('Connect to Autonami', 'bit-integrations'),
+    'To use FunnelKit (Autonami) integration, make sure the FunnelKit Automations plugin is installed and active on your site.' => __('To use FunnelKit (Autonami) integration, make sure the FunnelKit Automations plugin is installed and active on your site.', 'bit-integrations'),
 
     'Autonami lists and tags refreshed' => __('Autonami lists and tags refreshed', 'bit-integrations'),
 
@@ -1597,17 +1545,7 @@ $bit_integrations_i18n_strings = array(
 
     'Autonami Fields' => __('Autonami Fields', 'bit-integrations'),
 
-    'Connected with B2BKing Successfully' => __('Connected with B2BKing Successfully', 'bit-integrations'),
-
-    'Checking B2BKing connection…' => __('Checking B2BKing connection…', 'bit-integrations'),
-
-    'B2BKing is not activated or not installed' => __('B2BKing is not activated or not installed', 'bit-integrations'),
-
-    'B2BKing is activated' => __('B2BKing is activated', 'bit-integrations'),
-
-    'Connected' => __('Connected', 'bit-integrations'),
-
-    'Connect to B2BKing' => __('Connect to B2BKing', 'bit-integrations'),
+    'To use B2BKing integration, make sure the B2BKing plugin is installed and active on your site.' => __('To use B2BKing integration, make sure the B2BKing plugin is installed and active on your site.', 'bit-integrations'),
 
     'All groups fetched successfully' => __('All groups fetched successfully', 'bit-integrations'),
 
@@ -1633,23 +1571,13 @@ $bit_integrations_i18n_strings = array(
 
     'Update Responses with BenchMark existing email?' => __('Update Responses with BenchMark existing email?', 'bit-integrations'),
 
-    'Access API Secret Key can\'t be empty' => __('Access API Secret Key can\'t be empty', 'bit-integrations'),
-
     'Get api secret key' => __('Get api secret key', 'bit-integrations'),
+
+    'Benchmark API Settings' => __('Benchmark API Settings', 'bit-integrations'),
 
     'First go to your BenchMark dashboard.' => __('First go to your BenchMark dashboard.', 'bit-integrations'),
 
     'Click "Integrations", Then click "API Key"' => __('Click "Integrations", Then click "API Key"', 'bit-integrations'),
-
-    'Access API Secret Key:' => __('Access API Secret Key:', 'bit-integrations'),
-
-    'Access API Secret Key...' => __('Access API Secret Key...', 'bit-integrations'),
-
-    'To Get API Secret Key, Please Visit' => __('To Get API Secret Key, Please Visit', 'bit-integrations'),
-
-    'BenchMark API Token' => __('BenchMark API Token', 'bit-integrations'),
-
-    'Sorry, API Secret key is invalid' => __('Sorry, API Secret key is invalid', 'bit-integrations'),
 
     'Benchmark lists refreshed' => __('Benchmark lists refreshed', 'bit-integrations'),
 
@@ -1679,37 +1607,21 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh Tags' => __('Refresh Tags', 'bit-integrations'),
 
-    'Publishable Key:' => __('Publishable Key:', 'bit-integrations'),
+    'To get Publishable Key, Secret Key and Site UUID' => __('To get Publishable Key, Secret Key and Site UUID', 'bit-integrations'),
 
-    'Publishable Key...' => __('Publishable Key...', 'bit-integrations'),
+    'Bento Team Dashboard' => __('Bento Team Dashboard', 'bit-integrations'),
 
-    'Secret Key:' => __('Secret Key:', 'bit-integrations'),
+    'Open the Bento team dashboard.' => __('Open the Bento team dashboard.', 'bit-integrations'),
 
-    'Secret Key...' => __('Secret Key...', 'bit-integrations'),
+    'Go to Settings, then API Keys.' => __('Go to Settings, then API Keys.', 'bit-integrations'),
 
-    'Site UUID:' => __('Site UUID:', 'bit-integrations'),
+    'Copy Publishable Key, Secret Key and Site UUID.' => __('Copy Publishable Key, Secret Key and Site UUID.', 'bit-integrations'),
+
+    'Use Publishable Key as Username and Secret Key as Password.' => __('Use Publishable Key as Username and Secret Key as Password.', 'bit-integrations'),
+
+    'Site UUID' => __('Site UUID', 'bit-integrations'),
 
     'Site UUID...' => __('Site UUID...', 'bit-integrations'),
-
-    'To Get Publishable Key, Secret Key & Site UUID, Please Visit' => __('To Get Publishable Key, Secret Key & Site UUID, Please Visit', 'bit-integrations'),
-
-    'Bento team dashboard' => __('Bento team dashboard', 'bit-integrations'),
-
-    'To Get Publishable Key, Secret Key & Site UUID' => __('To Get Publishable Key, Secret Key & Site UUID', 'bit-integrations'),
-
-    'Navigate to the Bento team dashboard,.' => __('Navigate to the Bento team dashboard,.', 'bit-integrations'),
-
-    'go to "Settings" and then "API Keys"' => __('go to "Settings" and then "API Keys"', 'bit-integrations'),
-
-    'where you\'ll find your Publishable Key, Secret Key & Site UUID' => __('where you\'ll find your Publishable Key, Secret Key & Site UUID', 'bit-integrations'),
-
-    'Publishable Key can\'t be empty' => __('Publishable Key can\'t be empty', 'bit-integrations'),
-
-    'Secret Key can\'t be empty' => __('Secret Key can\'t be empty', 'bit-integrations'),
-
-    'Site UUID can\'t be empty' => __('Site UUID can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid Publishable Key, Secret Key & Site UUID' => __('Authorized failed, Please enter valid Publishable Key, Secret Key & Site UUID', 'bit-integrations'),
 
     'Fields fetched successfully' => __('Fields fetched successfully', 'bit-integrations'),
 
@@ -1723,15 +1635,13 @@ $bit_integrations_i18n_strings = array(
 
     'Please map address required fields to continue.' => __('Please map address required fields to continue.', 'bit-integrations'),
 
-    'Your Domain Name:' => __('Your Domain Name:', 'bit-integrations'),
+    'To get your Bit Form API key' => __('To get your Bit Form API key', 'bit-integrations'),
 
-    'Client id:' => __('Client id:', 'bit-integrations'),
+    'Open your Bit Form WordPress dashboard.' => __('Open your Bit Form WordPress dashboard.', 'bit-integrations'),
 
-    'client ID...' => __('client ID...', 'bit-integrations'),
+    'Go to Integrations and copy your Client ID (API key).' => __('Go to Integrations and copy your Client ID (API key).', 'bit-integrations'),
 
-    'Authorization Successful' => __('Authorization Successful', 'bit-integrations'),
-
-    'Authorization Failed' => __('Authorization Failed', 'bit-integrations'),
+    'Domain Name' => __('Domain Name', 'bit-integrations'),
 
     'BitForm list fetched successfully' => __('BitForm list fetched successfully', 'bit-integrations'),
 
@@ -1749,15 +1659,7 @@ $bit_integrations_i18n_strings = array(
 
     'Bit Form Fields' => __('Bit Form Fields', 'bit-integrations'),
 
-    'Connected with BookingPress Successfully' => __('Connected with BookingPress Successfully', 'bit-integrations'),
-
-    'Checking if BookingPress is authorized!!!' => __('Checking if BookingPress is authorized!!!', 'bit-integrations'),
-
-    'BookingPress is not activated or not installed' => __('BookingPress is not activated or not installed', 'bit-integrations'),
-
-    'BookingPress is activated' => __('BookingPress is activated', 'bit-integrations'),
-
-    'Connect to BookingPress' => __('Connect to BookingPress', 'bit-integrations'),
+    'To use BookingPress integration, make sure the BookingPress plugin is installed and active on your site.' => __('To use BookingPress integration, make sure the BookingPress plugin is installed and active on your site.', 'bit-integrations'),
 
     'BookingPress Fields' => __('BookingPress Fields', 'bit-integrations'),
 
@@ -1779,15 +1681,7 @@ $bit_integrations_i18n_strings = array(
 
     'Customer ID' => __('Customer ID', 'bit-integrations'),
 
-    'Connected with Bookly Successfully' => __('Connected with Bookly Successfully', 'bit-integrations'),
-
-    'Checking if Bookly is authorized!!!' => __('Checking if Bookly is authorized!!!', 'bit-integrations'),
-
-    'Bookly is not activated or not installed' => __('Bookly is not activated or not installed', 'bit-integrations'),
-
-    'Bookly is activated' => __('Bookly is activated', 'bit-integrations'),
-
-    'Connect to Bookly' => __('Connect to Bookly', 'bit-integrations'),
+    'To use Bookly integration, make sure the Bookly plugin is installed and active on your site.' => __('To use Bookly integration, make sure the Bookly plugin is installed and active on your site.', 'bit-integrations'),
 
     'Please select a Staff member to continue.' => __('Please select a Staff member to continue.', 'bit-integrations'),
 
@@ -1893,7 +1787,7 @@ $bit_integrations_i18n_strings = array(
 
     'Select privacy of group' => __('Select privacy of group', 'bit-integrations'),
 
-    'Connected with BuddyBoss Successfully' => __('Connected with BuddyBoss Successfully', 'bit-integrations'),
+    'To use BuddyBoss integration, make sure the BuddyBoss plugin is installed and active on your site.' => __('To use BuddyBoss integration, make sure the BuddyBoss plugin is installed and active on your site.', 'bit-integrations'),
 
     'All Group fetched successfully' => __('All Group fetched successfully', 'bit-integrations'),
 
@@ -1947,25 +1841,23 @@ $bit_integrations_i18n_strings = array(
 
     'Update Responses with CampaignMonitor existing email?' => __('Update Responses with CampaignMonitor existing email?', 'bit-integrations'),
 
-    'Client Id can\'t be empty' => __('Client Id can\'t be empty', 'bit-integrations'),
-
-    'Authorization failed Cause:' => __('Authorization failed Cause:', 'bit-integrations'),
-
-    'Authorization failed. please try again' => __('Authorization failed. please try again', 'bit-integrations'),
-
     'Get Client Id & Api key' => __('Get Client Id & Api key', 'bit-integrations'),
 
     'First go to your CampaignMonitor dashboard.' => __('First go to your CampaignMonitor dashboard.', 'bit-integrations'),
 
-    'Click on Your "Profile Image" at the top right' => __('Click on Your "Profile Image" at the top right', 'bit-integrations'),
+    'Click on your profile image at the top right.' => __('Click on your profile image at the top right.', 'bit-integrations'),
 
-    'Click on the "Account Settings"' => __('Click on the "Account Settings"', 'bit-integrations'),
+    'Click on Account Settings, then API keys.' => __('Click on Account Settings, then API keys.', 'bit-integrations'),
 
-    'Then Click "API keys"' => __('Then Click "API keys"', 'bit-integrations'),
+    'Use your API key in the Username field.' => __('Use your API key in the Username field.', 'bit-integrations'),
 
-    'To Get Client Id & Api Key, Please Visit' => __('To Get Client Id & Api Key, Please Visit', 'bit-integrations'),
+    'To get Client Id & API key, please visit' => __('To get Client Id & API key, please visit', 'bit-integrations'),
 
     'Campaign Monitor API Key' => __('Campaign Monitor API Key', 'bit-integrations'),
+
+    'Client ID' => __('Client ID', 'bit-integrations'),
+
+    'Client ID...' => __('Client ID...', 'bit-integrations'),
 
     'CampaignMonitor Lists refreshed' => __('CampaignMonitor Lists refreshed', 'bit-integrations'),
 
@@ -2045,17 +1937,21 @@ $bit_integrations_i18n_strings = array(
 
     'Opportunity types' => __('Opportunity types', 'bit-integrations'),
 
-    'Your API URL:' => __('Your API URL:', 'bit-integrations'),
+    'Get API Token' => __('Get API Token', 'bit-integrations'),
 
-    'Your Organisation...' => __('Your Organisation...', 'bit-integrations'),
+    'Capsule API Tokens' => __('Capsule API Tokens', 'bit-integrations'),
 
-    'Example: {name}.capsulecrm.com' => __('Example: {name}.capsulecrm.com', 'bit-integrations'),
+    'Sign in to your CapsuleCRM account.' => __('Sign in to your CapsuleCRM account.', 'bit-integrations'),
 
-    'CapsuleCRM API Token' => __('CapsuleCRM API Token', 'bit-integrations'),
+    'Open My Preferences, then API Authentication Tokens.' => __('Open My Preferences, then API Authentication Tokens.', 'bit-integrations'),
 
-    'API URL can\'t be empty' => __('API URL can\'t be empty', 'bit-integrations'),
+    'Create and copy your API token.' => __('Create and copy your API token.', 'bit-integrations'),
 
-    'Authorized failed, Please enter valid api_url name & API key' => __('Authorized failed, Please enter valid api_url name & API key', 'bit-integrations'),
+    'For reference, your account domain looks like {name}.capsulecrm.com.' => __('For reference, your account domain looks like {name}.capsulecrm.com.', 'bit-integrations'),
+
+    'Account Domain' => __('Account Domain', 'bit-integrations'),
+
+    'your-org.capsulecrm.com' => __('your-org.capsulecrm.com', 'bit-integrations'),
 
     'Opportunities fetched successfully' => __('Opportunities fetched successfully', 'bit-integrations'),
 
@@ -2111,19 +2007,15 @@ $bit_integrations_i18n_strings = array(
 
     'Select file upload field' => __('Select file upload field', 'bit-integrations'),
 
-    'To get the ClickUp API Key' => __('To get the ClickUp API Key', 'bit-integrations'),
+    'To get the ClickUp API key' => __('To get the ClickUp API key', 'bit-integrations'),
 
-    'Navigate to your personal Settings.' => __('Navigate to your personal Settings.', 'bit-integrations'),
+    'ClickUp Apps' => __('ClickUp Apps', 'bit-integrations'),
 
-    'Click Apps in the left sidebar.' => __('Click Apps in the left sidebar.', 'bit-integrations'),
+    'Open your personal Settings in ClickUp.' => __('Open your personal Settings in ClickUp.', 'bit-integrations'),
 
-    'Click Generate to create your API token.' => __('Click Generate to create your API token.', 'bit-integrations'),
+    'Go to Apps in the left sidebar.' => __('Go to Apps in the left sidebar.', 'bit-integrations'),
 
-    'Click Copy to copy the key to your clipboard.' => __('Click Copy to copy the key to your clipboard.', 'bit-integrations'),
-
-    'Paste your API Key into the “API Key” field.' => __('Paste your API Key into the “API Key” field.', 'bit-integrations'),
-
-    'Clickup API Token' => __('Clickup API Token', 'bit-integrations'),
+    'Generate your API token and copy it.' => __('Generate your API token and copy it.', 'bit-integrations'),
 
     'Spaces fetched successfully' => __('Spaces fetched successfully', 'bit-integrations'),
 
@@ -2177,7 +2069,15 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh Contacts' => __('Refresh Contacts', 'bit-integrations'),
 
-    'ClinchPad API Token' => __('ClinchPad API Token', 'bit-integrations'),
+    'Go to your ClinchPad account settings.' => __('Go to your ClinchPad account settings.', 'bit-integrations'),
+
+    'Open API token section and copy the token.' => __('Open API token section and copy the token.', 'bit-integrations'),
+
+    'Paste the token and authorize.' => __('Paste the token and authorize.', 'bit-integrations'),
+
+    'To get API token, visit' => __('To get API token, visit', 'bit-integrations'),
+
+    'ClinchPad Settings' => __('ClinchPad Settings', 'bit-integrations'),
 
     'ParentOrganizations fetched successfully' => __('ParentOrganizations fetched successfully', 'bit-integrations'),
 
@@ -2243,39 +2143,21 @@ $bit_integrations_i18n_strings = array(
 
     'Contact' => __('Contact', 'bit-integrations'),
 
-    'To Get Public Id & Secret Key' => __('To Get Public Id & Secret Key', 'bit-integrations'),
+    'To get Sub Domain & API Key' => __('To get Sub Domain & API Key', 'bit-integrations'),
 
     'First go to your CompanyHub dashboard.' => __('First go to your CompanyHub dashboard.', 'bit-integrations'),
 
-    'Click go to "Settings" from Left Bottom corner' => __('Click go to "Settings" from Left Bottom corner', 'bit-integrations'),
+    'Click Settings from the left-bottom corner.' => __('Click Settings from the left-bottom corner.', 'bit-integrations'),
 
-    'Then Click "Integrations"' => __('Then Click "Integrations"', 'bit-integrations'),
+    'Then click Integrations and generate API key.' => __('Then click Integrations and generate API key.', 'bit-integrations'),
 
-    'Then Click "Generate Api key"' => __('Then Click "Generate Api key"', 'bit-integrations'),
-
-    'Then copy "API Authorization Credentials"' => __('Then copy "API Authorization Credentials"', 'bit-integrations'),
-
-    'Sub Domain:' => __('Sub Domain:', 'bit-integrations'),
-
-    'Sub Domain...' => __('Sub Domain...', 'bit-integrations'),
-
-    'API Key...' => __('API Key...', 'bit-integrations'),
-
-    'To Get Sub Domain & API Key, Please Visit' => __('To Get Sub Domain & API Key, Please Visit', 'bit-integrations'),
+    'To get Sub Domain & API Key, please visit' => __('To get Sub Domain & API Key, please visit', 'bit-integrations'),
 
     'CompanyHub Sub Domain & API Key' => __('CompanyHub Sub Domain & API Key', 'bit-integrations'),
 
-    'Sub Domain can\'t be empty' => __('Sub Domain can\'t be empty', 'bit-integrations'),
+    'Sub Domain' => __('Sub Domain', 'bit-integrations'),
 
-    'Authorized failed, Please enter valid Sub Domain & API Key' => __('Authorized failed, Please enter valid Sub Domain & API Key', 'bit-integrations'),
-
-    'Companies fetched successfully' => __('Companies fetched successfully', 'bit-integrations'),
-
-    'Companies Not Found!' => __('Companies Not Found!', 'bit-integrations'),
-
-    'Companies fetching failed' => __('Companies fetching failed', 'bit-integrations'),
-
-    'Contacts not found!' => __('Contacts not found!', 'bit-integrations'),
+    'your-sub-domain' => __('your-sub-domain', 'bit-integrations'),
 
     'Create Company' => __('Create Company', 'bit-integrations'),
 
@@ -2311,31 +2193,17 @@ $bit_integrations_i18n_strings = array(
 
     'Phone Type' => __('Phone Type', 'bit-integrations'),
 
-    'Step of get API Key(Client Id) And Client Secret:' => __('Step of get API Key(Client Id) And Client Secret:', 'bit-integrations'),
+    'Steps to get Client ID and Client Secret' => __('Steps to get Client ID and Client Secret', 'bit-integrations'),
 
-    'Goto' => __('Goto', 'bit-integrations'),
+    'Constant Contact My Applications' => __('Constant Contact My Applications', 'bit-integrations'),
 
-    'Constant Contact Application' => __('Constant Contact Application', 'bit-integrations'),
+    'Go to Constant Contact developer portal and create app.' => __('Go to Constant Contact developer portal and create app.', 'bit-integrations'),
 
-    'Then create a new application.' => __('Then create a new application.', 'bit-integrations'),
+    'Enable Authorization Code flow and refresh token support.' => __('Enable Authorization Code flow and refresh token support.', 'bit-integrations'),
 
-    'Select  <b>(Authorization Code Flow and Implicit Flow)</b> and <b>(Rotating Refresh Tokens or Long Lived Refresh Tokens).</b>' => __('Select  <b>(Authorization Code Flow and Implicit Flow)</b> and <b>(Rotating Refresh Tokens or Long Lived Refresh Tokens).</b>', 'bit-integrations'),
+    'Copy redirect URI from this form and add it to app configuration.' => __('Copy redirect URI from this form and add it to app configuration.', 'bit-integrations'),
 
-    'Copy the <b>Authorized Redirect URIs</b> from here and paste it into the Constant Contact application form.' => __('Copy the <b>Authorized Redirect URIs</b> from here and paste it into the Constant Contact application form.', 'bit-integrations'),
-
-    'Then generate <b>Client Secret</b> from the Constant Contact application' => __('Then generate <b>Client Secret</b> from the Constant Contact application', 'bit-integrations'),
-
-    'Copy the <b>Client Id</b> and <b>Client Secret</b> from Constant Contact application and paste into this authorization form.' => __('Copy the <b>Client Id</b> and <b>Client Secret</b> from Constant Contact application and paste into this authorization form.', 'bit-integrations'),
-
-    'Finally, click <b>Authorize</b> button.' => __('Finally, click <b>Authorize</b> button.', 'bit-integrations'),
-
-    'Authorized Redirect URIs:' => __('Authorized Redirect URIs:', 'bit-integrations'),
-
-    'To get Client ID and SECRET , Please Visit' => __('To get Client ID and SECRET , Please Visit', 'bit-integrations'),
-
-    'Client secret:' => __('Client secret:', 'bit-integrations'),
-
-    'client Secret...' => __('client Secret...', 'bit-integrations'),
+    'Copy client ID and client secret, then click Authorize.' => __('Copy client ID and client secret, then click Authorize.', 'bit-integrations'),
 
     'List fetch successfully' => __('List fetch successfully', 'bit-integrations'),
 
@@ -2344,8 +2212,6 @@ $bit_integrations_i18n_strings = array(
     'Tags fetch successfully' => __('Tags fetch successfully', 'bit-integrations'),
 
     'Tags fetch failed' => __('Tags fetch failed', 'bit-integrations'),
-
-    'Secret key can\'t be empty' => __('Secret key can\'t be empty', 'bit-integrations'),
 
     'Source:' => __('Source:', 'bit-integrations'),
 
@@ -2377,15 +2243,12 @@ $bit_integrations_i18n_strings = array(
     /* translators: %s: placeholder */
     'Update Responses with %s existing email?' => __('Update Responses with %s existing email?', 'bit-integrations'),
 
+    'Kit (ConvertKit) Advanced Settings' => __('Kit (ConvertKit) Advanced Settings', 'bit-integrations'),
+
     /* translators: %s: placeholder */
     'First go to your %s dashboard.' => __('First go to your %s dashboard.', 'bit-integrations'),
 
     'Click "Settings", Then click "Advanced"' => __('Click "Settings", Then click "Advanced"', 'bit-integrations'),
-
-    /* translators: %s: placeholder */
-    '%s API Token' => __('%s API Token', 'bit-integrations'),
-
-    'Checking API Secret Key' => __('Checking API Secret Key', 'bit-integrations'),
 
     'Convert Kit forms refreshed' => __('Convert Kit forms refreshed', 'bit-integrations'),
 
@@ -2451,19 +2314,21 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh PipelineStages' => __('Refresh PipelineStages', 'bit-integrations'),
 
-    'First go to your Copper dashboard.' => __('First go to your Copper dashboard.', 'bit-integrations'),
+    'Get API credentials' => __('Get API credentials', 'bit-integrations'),
 
-    'Then click Settings from Navbar.' => __('Then click Settings from Navbar.', 'bit-integrations'),
+    'Go to your Copper dashboard.' => __('Go to your Copper dashboard.', 'bit-integrations'),
 
-    'Click "Integrations", Then click "API Keys"' => __('Click "Integrations", Then click "API Keys"', 'bit-integrations'),
+    'Open Settings > Integrations > API Keys.' => __('Open Settings > Integrations > API Keys.', 'bit-integrations'),
 
-    'Your API Email:' => __('Your API Email:', 'bit-integrations'),
+    'Copy your API key and account email, then authorize.' => __('Copy your API key and account email, then authorize.', 'bit-integrations'),
 
-    'Your Company...' => __('Your Company...', 'bit-integrations'),
+    'Your API Email' => __('Your API Email', 'bit-integrations'),
 
-    'API Email can\'t be empty' => __('API Email can\'t be empty', 'bit-integrations'),
+    'john@company.com' => __('john@company.com', 'bit-integrations'),
 
-    'Authorized failed, Please enter valid api_email name & API key' => __('Authorized failed, Please enter valid api_email name & API key', 'bit-integrations'),
+    'Companies fetched successfully' => __('Companies fetched successfully', 'bit-integrations'),
+
+    'Companies fetching failed' => __('Companies fetching failed', 'bit-integrations'),
 
     'Tags fetched successfully' => __('Tags fetched successfully', 'bit-integrations'),
 
@@ -2483,15 +2348,7 @@ $bit_integrations_i18n_strings = array(
 
     'CopperCRM Fields' => __('CopperCRM Fields', 'bit-integrations'),
 
-    'Connected with Creator LMS Successfully' => __('Connected with Creator LMS Successfully', 'bit-integrations'),
-
-    'Checking if Creator LMS is authorized!!!' => __('Checking if Creator LMS is authorized!!!', 'bit-integrations'),
-
-    'Creator LMS is not activated or not installed' => __('Creator LMS is not activated or not installed', 'bit-integrations'),
-
-    'Creator LMS is activated' => __('Creator LMS is activated', 'bit-integrations'),
-
-    'Connect to Creator LMS' => __('Connect to Creator LMS', 'bit-integrations'),
+    'To use Creator LMS integration, make sure the Creator LMS plugin is installed and active on your site.' => __('To use Creator LMS integration, make sure the Creator LMS plugin is installed and active on your site.', 'bit-integrations'),
 
     'Course Status:' => __('Course Status:', 'bit-integrations'),
 
@@ -2601,25 +2458,19 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a Event' => __('Please select a Event', 'bit-integrations'),
 
-    'To Get API Key & API Secret' => __('To Get API Key & API Secret', 'bit-integrations'),
+    'To get API Key and API Secret' => __('To get API Key and API Secret', 'bit-integrations'),
 
-    'First go to your Demio dashboard.' => __('First go to your Demio dashboard.', 'bit-integrations'),
+    'Demio API Details' => __('Demio API Details', 'bit-integrations'),
 
-    'Click go to "Settings" from Right Top corner' => __('Click go to "Settings" from Right Top corner', 'bit-integrations'),
+    'Open your Demio dashboard.' => __('Open your Demio dashboard.', 'bit-integrations'),
 
-    'Then Click "API" from the "Settings Menu"' => __('Then Click "API" from the "Settings Menu"', 'bit-integrations'),
+    'Go to Settings, then API.' => __('Go to Settings, then API.', 'bit-integrations'),
 
-    'Then Click "Generate Api Secret"' => __('Then Click "Generate Api Secret"', 'bit-integrations'),
+    'Generate API secret and copy credentials.' => __('Generate API secret and copy credentials.', 'bit-integrations'),
 
-    'API Secret:' => __('API Secret:', 'bit-integrations'),
+    'API Secret' => __('API Secret', 'bit-integrations'),
 
     'API Secret...' => __('API Secret...', 'bit-integrations'),
-
-    'To Get API Key & API Secret, Please Visit' => __('To Get API Key & API Secret, Please Visit', 'bit-integrations'),
-
-    'Demio API Key & Secret' => __('Demio API Key & Secret', 'bit-integrations'),
-
-    'API Secret can\'t be empty' => __('API Secret can\'t be empty', 'bit-integrations'),
 
     'Events fetched successfully' => __('Events fetched successfully', 'bit-integrations'),
 
@@ -2643,25 +2494,13 @@ $bit_integrations_i18n_strings = array(
 
     'Demio Fields' => __('Demio Fields', 'bit-integrations'),
 
-    'Access Client Id can\'t be empty' => __('Access Client Id can\'t be empty', 'bit-integrations'),
-
-    'Access Client Secret Key can\'t be empty' => __('Access Client Secret Key can\'t be empty', 'bit-integrations'),
-
     'Get client id and client secret key' => __('Get client id and client secret key', 'bit-integrations'),
+
+    'DirectIQ API Keys' => __('DirectIQ API Keys', 'bit-integrations'),
 
     'First go to your DirectIq dashboard.' => __('First go to your DirectIq dashboard.', 'bit-integrations'),
 
-    'Access Client id:' => __('Access Client id:', 'bit-integrations'),
-
-    'Access client ID...' => __('Access client ID...', 'bit-integrations'),
-
-    'Access Client Secret Key:' => __('Access Client Secret Key:', 'bit-integrations'),
-
-    'Access Client Secret Key...' => __('Access Client Secret Key...', 'bit-integrations'),
-
-    'To Get Client Id and Client Secret Key, Please Visit' => __('To Get Client Id and Client Secret Key, Please Visit', 'bit-integrations'),
-
-    'DirectIQ API Token' => __('DirectIQ API Token', 'bit-integrations'),
+    'Click "Integrations", Then click "API Keys"' => __('Click "Integrations", Then click "API Keys"', 'bit-integrations'),
 
     'DirectIQ lists refreshed' => __('DirectIQ lists refreshed', 'bit-integrations'),
 
@@ -2689,6 +2528,8 @@ $bit_integrations_i18n_strings = array(
 
     'Get Access Token few step' => __('Get Access Token few step', 'bit-integrations'),
 
+    'Discord Developer Portal' => __('Discord Developer Portal', 'bit-integrations'),
+
     'First create app.' => __('First create app.', 'bit-integrations'),
 
     'Click on OAuth2.' => __('Click on OAuth2.', 'bit-integrations'),
@@ -2699,21 +2540,15 @@ $bit_integrations_i18n_strings = array(
 
     'Then copy the <b>generated url</b> and paste it in the browser and hit enter.' => __('Then copy the <b>generated url</b> and paste it in the browser and hit enter.', 'bit-integrations'),
 
-    'Then click on <b>Bot</b>  from left navbar and copy the <b>Access token</b>.' => __('Then click on <b>Bot</b>  from left navbar and copy the <b>Access token</b>.', 'bit-integrations'),
-
-    'To get access Token , Please Visit' => __('To get access Token , Please Visit', 'bit-integrations'),
-
-    'Discord Console' => __('Discord Console', 'bit-integrations'),
-
-    'Access Token:' => __('Access Token:', 'bit-integrations'),
-
-    'Access Token...' => __('Access Token...', 'bit-integrations'),
+    'Then click on <b>Bot</b> from left navbar and copy the <b>Access token</b>.' => __('Then click on <b>Bot</b> from left navbar and copy the <b>Access token</b>.', 'bit-integrations'),
 
     'Access Token can\'t be empty' => __('Access Token can\'t be empty', 'bit-integrations'),
 
     'Servers fetched successfully' => __('Servers fetched successfully', 'bit-integrations'),
 
     'Servers fetching failed' => __('Servers fetching failed', 'bit-integrations'),
+
+    'Server is required' => __('Server is required', 'bit-integrations'),
 
     'Channels fetched successfully' => __('Channels fetched successfully', 'bit-integrations'),
 
@@ -2757,13 +2592,7 @@ $bit_integrations_i18n_strings = array(
 
     'Make this vendor featured' => __('Make this vendor featured', 'bit-integrations'),
 
-    'Connect to Dokan' => __('Connect to Dokan', 'bit-integrations'),
-
-    'Name can\'t be empty' => __('Name can\'t be empty', 'bit-integrations'),
-
-    'Connected Successfully' => __('Connected Successfully', 'bit-integrations'),
-
-    'Connection failed: install and active Dokan plugin first!' => __('Connection failed: install and active Dokan plugin first!', 'bit-integrations'),
+    'To use Dokan integration, make sure the Dokan plugin is installed and active on your site.' => __('To use Dokan integration, make sure the Dokan plugin is installed and active on your site.', 'bit-integrations'),
 
     'Vendors fetched successfully' => __('Vendors fetched successfully', 'bit-integrations'),
 
@@ -2861,17 +2690,15 @@ $bit_integrations_i18n_strings = array(
 
     'Drip user settings' => __('Drip user settings', 'bit-integrations'),
 
-    'Copy the the API Token from "User Info"' => __('Copy the the API Token from "User Info"', 'bit-integrations'),
+    'Copy the API Token from "User Info".' => __('Copy the API Token from "User Info".', 'bit-integrations'),
 
-    'Drip Api Token:' => __('Drip Api Token:', 'bit-integrations'),
+    'Use that token as Username in the authorization form and keep Password empty.' => __('Use that token as Username in the authorization form and keep Password empty.', 'bit-integrations'),
 
-    'Access Api Token Key...' => __('Access Api Token Key...', 'bit-integrations'),
+    'Access Api Token can\'t be empty' => __('Access Api Token can\'t be empty', 'bit-integrations'),
 
-    'To Get Drip Api Token, Please Visit' => __('To Get Drip Api Token, Please Visit', 'bit-integrations'),
+    'Accounts fetched Successfully' => __('Accounts fetched Successfully', 'bit-integrations'),
 
-    'Drip User Settings' => __('Drip User Settings', 'bit-integrations'),
-
-    'Access Api Token Key can\'t be empty' => __('Access Api Token Key can\'t be empty', 'bit-integrations'),
+    'Authorized Successfully' => __('Authorized Successfully', 'bit-integrations'),
 
     'Custom fields fetch successfully' => __('Custom fields fetch successfully', 'bit-integrations'),
 
@@ -2897,31 +2724,19 @@ $bit_integrations_i18n_strings = array(
 
     'Delete file from Wordpress after upload in Dropbox' => __('Delete file from Wordpress after upload in Dropbox', 'bit-integrations'),
 
-    'Client Secret can\'t be empty' => __('Client Secret can\'t be empty', 'bit-integrations'),
+    'Dropbox OAuth setup' => __('Dropbox OAuth setup', 'bit-integrations'),
 
-    'To Get Client Id & Secret, Please Visit' => __('To Get Client Id & Secret, Please Visit', 'bit-integrations'),
+    'Dropbox App Console' => __('Dropbox App Console', 'bit-integrations'),
 
-    'Dropbox API Console' => __('Dropbox API Console', 'bit-integrations'),
+    'Create app in Dropbox API Console.' => __('Create app in Dropbox API Console.', 'bit-integrations'),
 
-    'Dropbox Client id:' => __('Dropbox Client id:', 'bit-integrations'),
-
-    'Dropbox Client Secret:' => __('Dropbox Client Secret:', 'bit-integrations'),
-
-    'To Get Access Code, Please Visit' => __('To Get Access Code, Please Visit', 'bit-integrations'),
-
-    'Dropbox Access Code' => __('Dropbox Access Code', 'bit-integrations'),
-
-    'Dropbox Access Code:' => __('Dropbox Access Code:', 'bit-integrations'),
-
-    'Access Code...' => __('Access Code...', 'bit-integrations'),
+    'Add redirect URI from integration settings and keep offline token access enabled.' => __('Add redirect URI from integration settings and keep offline token access enabled.', 'bit-integrations'),
 
     'Dropbox Folders List refreshed successfully' => __('Dropbox Folders List refreshed successfully', 'bit-integrations'),
 
     'Dropbox Folders List refresh failed. please try again' => __('Dropbox Folders List refresh failed. please try again', 'bit-integrations'),
 
     'Loading Dropbox Folders List...' => __('Loading Dropbox Folders List...', 'bit-integrations'),
-
-    'Access Code can\'t be empty' => __('Access Code can\'t be empty', 'bit-integrations'),
 
     'Select Folder' => __('Select Folder', 'bit-integrations'),
 
@@ -2995,7 +2810,7 @@ $bit_integrations_i18n_strings = array(
 
     'LastName' => __('LastName', 'bit-integrations'),
 
-    'To get API , Please Visit' => __('To get API , Please Visit', 'bit-integrations'),
+    'To get API, please visit' => __('To get API, please visit', 'bit-integrations'),
 
     'Elastic Email API Console' => __('Elastic Email API Console', 'bit-integrations'),
 
@@ -3013,19 +2828,19 @@ $bit_integrations_i18n_strings = array(
 
     'Please map mandatory emailOctopusFields' => __('Please map mandatory emailOctopusFields', 'bit-integrations'),
 
-    'To get API key, please visit' => __('To get API key, please visit', 'bit-integrations'),
+    'To get API key:' => __('To get API key:', 'bit-integrations'),
 
-    'EmailOctopus API keys' => __('EmailOctopus API keys', 'bit-integrations'),
+    'Generate/copy your API key and paste it into the Bearer Token field.' => __('Generate/copy your API key and paste it into the Bearer Token field.', 'bit-integrations'),
 
-    'All lists fectched successfully' => __('All lists fectched successfully', 'bit-integrations'),
+    'Api Key can\'t be empty' => __('Api Key can\'t be empty', 'bit-integrations'),
 
-    'Authorized failed, Please enter valid domain name & API key' => __('Authorized failed, Please enter valid domain name & API key', 'bit-integrations'),
+    'All lists fetched successfully' => __('All lists fetched successfully', 'bit-integrations'),
+
+    'Lists fetched successfully' => __('Lists fetched successfully', 'bit-integrations'),
 
     'Refresh  Lists' => __('Refresh  Lists', 'bit-integrations'),
 
     'EmailOctopus Fields' => __('EmailOctopus Fields', 'bit-integrations'),
-
-    'API key' => __('API key', 'bit-integrations'),
 
     'Encharge API Console' => __('Encharge API Console', 'bit-integrations'),
 
@@ -3118,8 +2933,6 @@ $bit_integrations_i18n_strings = array(
     'Booking Names Public' => __('Booking Names Public', 'bit-integrations'),
 
     'Please map email field for member lookup' => __('Please map email field for member lookup', 'bit-integrations'),
-
-    'Your API Key' => __('Your API Key', 'bit-integrations'),
 
     'To get your Fabman API key:' => __('To get your Fabman API key:', 'bit-integrations'),
 
@@ -3222,35 +3035,23 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh Project Opportunity' => __('Refresh Project Opportunity', 'bit-integrations'),
 
-    'Company Name is required!' => __('Company Name is required!', 'bit-integrations'),
-
     'Get the API Key' => __('Get the API Key', 'bit-integrations'),
 
     'First go to your Flowlu dashboard.' => __('First go to your Flowlu dashboard.', 'bit-integrations'),
 
-    'Click go to your "Profile" from Right top corner' => __('Click go to your "Profile" from Right top corner', 'bit-integrations'),
+    'Open Profile from the top-right corner.' => __('Open Profile from the top-right corner.', 'bit-integrations'),
 
-    'Then Click "Portal Settings"' => __('Then Click "Portal Settings"', 'bit-integrations'),
+    'Open Portal Settings, then API Settings.' => __('Open Portal Settings, then API Settings.', 'bit-integrations'),
 
-    'Click go to "API Settings" from "Main Settings"' => __('Click go to "API Settings" from "Main Settings"', 'bit-integrations'),
+    'Create and copy your API key.' => __('Create and copy your API key.', 'bit-integrations'),
 
-    'Then click "create", Then Copy' => __('Then click "create", Then Copy', 'bit-integrations'),
+    'Use your workspace subdomain as Company Name.' => __('Use your workspace subdomain as Company Name.', 'bit-integrations'),
 
-    'Session Token...' => __('Session Token...', 'bit-integrations'),
-
-    'Company Name:' => __('Company Name:', 'bit-integrations'),
-
-    'Link Name...' => __('Link Name...', 'bit-integrations'),
-
-    'Flowlu API Key' => __('Flowlu API Key', 'bit-integrations'),
+    'your-company' => __('your-company', 'bit-integrations'),
 
     'Flowlu fields Fetched Successfully' => __('Flowlu fields Fetched Successfully', 'bit-integrations'),
 
     'Flowlu fields Fetched Successfully. please try again' => __('Flowlu fields Fetched Successfully. please try again', 'bit-integrations'),
-
-    'Company Name can\'t be empty' => __('Company Name can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid API Key or Company Name' => __('Authorized failed, Please enter valid API Key or Company Name', 'bit-integrations'),
 
     'Categories fetched successfully' => __('Categories fetched successfully', 'bit-integrations'),
 
@@ -3388,15 +3189,7 @@ $bit_integrations_i18n_strings = array(
 
     'Free Shipping' => __('Free Shipping', 'bit-integrations'),
 
-    'Connected with FluentCart Successfully' => __('Connected with FluentCart Successfully', 'bit-integrations'),
-
-    'Checking if FluentCart is authorized!!!' => __('Checking if FluentCart is authorized!!!', 'bit-integrations'),
-
-    'FluentCart is not activated or not installed' => __('FluentCart is not activated or not installed', 'bit-integrations'),
-
-    'FluentCart is activated' => __('FluentCart is activated', 'bit-integrations'),
-
-    'Connect to FluentCart' => __('Connect to FluentCart', 'bit-integrations'),
+    'To use FluentCart integration, make sure the FluentCart plugin is installed and active on your site.' => __('To use FluentCart integration, make sure the FluentCart plugin is installed and active on your site.', 'bit-integrations'),
 
     'All product categories fetched successfully' => __('All product categories fetched successfully', 'bit-integrations'),
 
@@ -3536,11 +3329,7 @@ $bit_integrations_i18n_strings = array(
 
     'Assign Company for contact' => __('Assign Company for contact', 'bit-integrations'),
 
-    'Checking if Fluent CRM is active!!!' => __('Checking if Fluent CRM is active!!!', 'bit-integrations'),
-
-    'Please! First Install Fluent CRM Plugins' => __('Please! First Install Fluent CRM Plugins', 'bit-integrations'),
-
-    'Connect to Fluent CRM' => __('Connect to Fluent CRM', 'bit-integrations'),
+    'To use FluentCRM integration, make sure the FluentCRM plugin is installed and active on your site.' => __('To use FluentCRM integration, make sure the FluentCRM plugin is installed and active on your site.', 'bit-integrations'),
 
     'FluentCRM list refreshed' => __('FluentCRM list refreshed', 'bit-integrations'),
 
@@ -3626,7 +3415,7 @@ $bit_integrations_i18n_strings = array(
 
     'Select File Upload Fields' => __('Select File Upload Fields', 'bit-integrations'),
 
-    'Connect to Fluent Support' => __('Connect to Fluent Support', 'bit-integrations'),
+    'To use Fluent Support integration, make sure Fluent Support is installed and active on your site.' => __('To use Fluent Support integration, make sure Fluent Support is installed and active on your site.', 'bit-integrations'),
 
     'Support Staff refreshed' => __('Support Staff refreshed', 'bit-integrations'),
 
@@ -3642,23 +3431,11 @@ $bit_integrations_i18n_strings = array(
 
     'Business Inboxes refresh failed. please try again' => __('Business Inboxes refresh failed. please try again', 'bit-integrations'),
 
-    'Cunnection failed Cause:' => __('Cunnection failed Cause:', 'bit-integrations'),
-
-    'Cunnection failed. please try again' => __('Cunnection failed. please try again', 'bit-integrations'),
-
     'Refresh Custom Ticket Fields' => __('Refresh Custom Ticket Fields', 'bit-integrations'),
 
     'fluentSupport Fields' => __('fluentSupport Fields', 'bit-integrations'),
 
-    'Connected with FormyChat Successfully' => __('Connected with FormyChat Successfully', 'bit-integrations'),
-
-    'Checking if FormyChat is authorized!!!' => __('Checking if FormyChat is authorized!!!', 'bit-integrations'),
-
-    'FormyChat is not activated or not installed' => __('FormyChat is not activated or not installed', 'bit-integrations'),
-
-    'FormyChat is activated' => __('FormyChat is activated', 'bit-integrations'),
-
-    'Connect to FormyChat' => __('Connect to FormyChat', 'bit-integrations'),
+    'To use FormyChat integration, make sure the FormyChat plugin is installed and active on your site.' => __('To use FormyChat integration, make sure the FormyChat plugin is installed and active on your site.', 'bit-integrations'),
 
     'FormyChat widgets fetched successfully' => __('FormyChat widgets fetched successfully', 'bit-integrations'),
 
@@ -3784,15 +3561,13 @@ $bit_integrations_i18n_strings = array(
 
     'Paste the copied App API key into the designated “App API key” field within the integrations you’re configuring.' => __('Paste the copied App API key into the designated “App API key” field within the integrations you’re configuring.', 'bit-integrations'),
 
-    'Your App Domain:' => __('Your App Domain:', 'bit-integrations'),
-
-    'App Domain...' => __('App Domain...', 'bit-integrations'),
-
-    'App Domain Example' => __('App Domain Example', 'bit-integrations'),
-
-    'App api key:' => __('App api key:', 'bit-integrations'),
+    'To get access Token , Please Visit' => __('To get access Token , Please Visit', 'bit-integrations'),
 
     'FreshDesk Console' => __('FreshDesk Console', 'bit-integrations'),
+
+    'Your App Domain' => __('Your App Domain', 'bit-integrations'),
+
+    'https://domain.freshdesk.com' => __('https://domain.freshdesk.com', 'bit-integrations'),
 
     'Ticket fields fetch Successfully' => __('Ticket fields fetch Successfully', 'bit-integrations'),
 
@@ -3822,17 +3597,19 @@ $bit_integrations_i18n_strings = array(
 
     'Step of generate API token:' => __('Step of generate API token:', 'bit-integrations'),
 
+    'Goto' => __('Goto', 'bit-integrations'),
+
     'Generate API Token' => __('Generate API Token', 'bit-integrations'),
 
     'Copy the <b>Token</b> and paste into <b>API Token</b> field of your authorization form.' => __('Copy the <b>Token</b> and paste into <b>API Token</b> field of your authorization form.', 'bit-integrations'),
 
-    'Bundle Alias(Your Account URL):' => __('Bundle Alias(Your Account URL):', 'bit-integrations'),
-
-    'Your Account Url...' => __('Your Account Url...', 'bit-integrations'),
+    'Finally, click <b>Authorize</b> button.' => __('Finally, click <b>Authorize</b> button.', 'bit-integrations'),
 
     'Example: name.myfreshworks.com/crm/sales' => __('Example: name.myfreshworks.com/crm/sales', 'bit-integrations'),
 
-    'FreshSales API Token' => __('FreshSales API Token', 'bit-integrations'),
+    'Bundle Alias(Your Account URL)' => __('Bundle Alias(Your Account URL)', 'bit-integrations'),
+
+    'name.myfreshworks.com/crm/sales' => __('name.myfreshworks.com/crm/sales', 'bit-integrations'),
 
     'Fields refresh failed. please try again' => __('Fields refresh failed. please try again', 'bit-integrations'),
 
@@ -3845,10 +3622,6 @@ $bit_integrations_i18n_strings = array(
     'Accounts refresh failed. please try again' => __('Accounts refresh failed. please try again', 'bit-integrations'),
 
     'Contacts refresh failed. please try again' => __('Contacts refresh failed. please try again', 'bit-integrations'),
-
-    'Bundle Alias (Account URL) can\'t be empty' => __('Bundle Alias (Account URL) can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed' => __('Authorized failed', 'bit-integrations'),
 
     'Module:' => __('Module:', 'bit-integrations'),
 
@@ -3880,7 +3653,7 @@ $bit_integrations_i18n_strings = array(
 
     'Revoke points from the user' => __('Revoke points from the user', 'bit-integrations'),
 
-    'Connected with GamiPress Successfully' => __('Connected with GamiPress Successfully', 'bit-integrations'),
+    'To use GamiPress integration, make sure the GamiPress plugin is installed and active on your site.' => __('To use GamiPress integration, make sure the GamiPress plugin is installed and active on your site.', 'bit-integrations'),
 
     'Rank Type fetched successfully' => __('Rank Type fetched successfully', 'bit-integrations'),
 
@@ -3926,6 +3699,8 @@ $bit_integrations_i18n_strings = array(
 
     'Industry' => __('Industry', 'bit-integrations'),
 
+    'To get API , Please Visit' => __('To get API , Please Visit', 'bit-integrations'),
+
     'Getgist API Console' => __('Getgist API Console', 'bit-integrations'),
 
     'User Type:' => __('User Type:', 'bit-integrations'),
@@ -3946,9 +3721,9 @@ $bit_integrations_i18n_strings = array(
 
     'Autoresponder day...' => __('Autoresponder day...', 'bit-integrations'),
 
-    'GetResponse API Token' => __('GetResponse API Token', 'bit-integrations'),
+    'Campaigns fetched successfully' => __('Campaigns fetched successfully', 'bit-integrations'),
 
-    'Campaigns fectched successfully' => __('Campaigns fectched successfully', 'bit-integrations'),
+    'Campaigns fetching failed' => __('Campaigns fetching failed', 'bit-integrations'),
 
     'Custom fields fetched successfully' => __('Custom fields fetched successfully', 'bit-integrations'),
 
@@ -3966,7 +3741,7 @@ $bit_integrations_i18n_strings = array(
 
     'Purchase Count' => __('Purchase Count', 'bit-integrations'),
 
-    'Connected with GiveWp Successfully' => __('Connected with GiveWp Successfully', 'bit-integrations'),
+    'To use GiveWP integration, make sure the GiveWP plugin is installed and active on your site.' => __('To use GiveWP integration, make sure the GiveWP plugin is installed and active on your site.', 'bit-integrations'),
 
     'GiveWp Fields' => __('GiveWp Fields', 'bit-integrations'),
 
@@ -3992,11 +3767,15 @@ $bit_integrations_i18n_strings = array(
 
     'Minutes' => __('Minutes', 'bit-integrations'),
 
+    'Google Calendar OAuth setup' => __('Google Calendar OAuth setup', 'bit-integrations'),
+
     'Google API Console' => __('Google API Console', 'bit-integrations'),
 
-    'GoogleCalendar Client id:' => __('GoogleCalendar Client id:', 'bit-integrations'),
+    'Create OAuth client in Google API Console.' => __('Create OAuth client in Google API Console.', 'bit-integrations'),
 
-    'GoogleCalendar Client Secret:' => __('GoogleCalendar Client Secret:', 'bit-integrations'),
+    'Set homepage and redirect URI exactly from integration settings.' => __('Set homepage and redirect URI exactly from integration settings.', 'bit-integrations'),
+
+    'Enable Google Calendar API and authorize with required scope.' => __('Enable Google Calendar API and authorize with required scope.', 'bit-integrations'),
 
     'Google Calendar List refreshed successfully' => __('Google Calendar List refreshed successfully', 'bit-integrations'),
 
@@ -4034,19 +3813,17 @@ $bit_integrations_i18n_strings = array(
 
     'Add picture on google contact account.' => __('Add picture on google contact account.', 'bit-integrations'),
 
-    'GoogleContacts Client id:' => __('GoogleContacts Client id:', 'bit-integrations'),
+    'Google Contacts OAuth setup' => __('Google Contacts OAuth setup', 'bit-integrations'),
 
-    'GoogleContacts Client Secret:' => __('GoogleContacts Client Secret:', 'bit-integrations'),
+    'Enable Google People API and authorize with required scope.' => __('Enable Google People API and authorize with required scope.', 'bit-integrations'),
 
     'Google Contacts Fields' => __('Google Contacts Fields', 'bit-integrations'),
 
     'Delete file from Wordpress after upload in GoogleDrive' => __('Delete file from Wordpress after upload in GoogleDrive', 'bit-integrations'),
 
-    'GoogleDrive Client id:' => __('GoogleDrive Client id:', 'bit-integrations'),
+    'Google Drive OAuth setup' => __('Google Drive OAuth setup', 'bit-integrations'),
 
-    'GoogleDrive Client Secret:' => __('GoogleDrive Client Secret:', 'bit-integrations'),
-
-    'Client Secret.....' => __('Client Secret.....', 'bit-integrations'),
+    'Enable Google Drive API and authorize with required scope.' => __('Enable Google Drive API and authorize with required scope.', 'bit-integrations'),
 
     'GoogleDrive Folders List refreshed successfully' => __('GoogleDrive Folders List refreshed successfully', 'bit-integrations'),
 
@@ -4058,9 +3835,7 @@ $bit_integrations_i18n_strings = array(
 
     'GoogleDrive Folder' => __('GoogleDrive Folder', 'bit-integrations'),
 
-    'Client id...' => __('Client id...', 'bit-integrations'),
-
-    'Client secret...' => __('Client secret...', 'bit-integrations'),
+    'Google Sheets OAuth setup' => __('Google Sheets OAuth setup', 'bit-integrations'),
 
     'Spreadsheet refreshed' => __('Spreadsheet refreshed', 'bit-integrations'),
 
@@ -4123,37 +3898,17 @@ $bit_integrations_i18n_strings = array(
 
     'To Get App key & App Secret' => __('To Get App key & App Secret', 'bit-integrations'),
 
+    'Gravitec Dashboard' => __('Gravitec Dashboard', 'bit-integrations'),
+
     'First go to your Gravitec dashboard.' => __('First go to your Gravitec dashboard.', 'bit-integrations'),
 
-    'Click go to your "YOUR SITES" from left SideBar' => __('Click go to your "YOUR SITES" from left SideBar', 'bit-integrations'),
+    'Open your site from the left sidebar.' => __('Open your site from the left sidebar.', 'bit-integrations'),
 
-    'Then click "Settings"' => __('Then click "Settings"', 'bit-integrations'),
+    'Open Settings, then REST API.' => __('Open Settings, then REST API.', 'bit-integrations'),
 
-    'Then Click "REST API"' => __('Then Click "REST API"', 'bit-integrations'),
+    'Use App key as Username and App secret as Password here.' => __('Use App key as Username and App secret as Password here.', 'bit-integrations'),
 
-    'Site Url:' => __('Site Url:', 'bit-integrations'),
-
-    'Site Url...' => __('Site Url...', 'bit-integrations'),
-
-    'App key:' => __('App key:', 'bit-integrations'),
-
-    'App key...' => __('App key...', 'bit-integrations'),
-
-    'App Secret:' => __('App Secret:', 'bit-integrations'),
-
-    'App Secret...' => __('App Secret...', 'bit-integrations'),
-
-    'To Get App key & App Secret, Please Visit' => __('To Get App key & App Secret, Please Visit', 'bit-integrations'),
-
-    'Gravitec App key & Secret' => __('Gravitec App key & Secret', 'bit-integrations'),
-
-    'Site Url can\'t be empty' => __('Site Url can\'t be empty', 'bit-integrations'),
-
-    'App Key can\'t be empty' => __('App Key can\'t be empty', 'bit-integrations'),
-
-    'App Secret can\'t be empty' => __('App Secret can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid Public Id & Secret Key' => __('Authorized failed, Please enter valid Public Id & Secret Key', 'bit-integrations'),
+    'Site Url' => __('Site Url', 'bit-integrations'),
 
     'Push Notification' => __('Push Notification', 'bit-integrations'),
 
@@ -4215,17 +3970,7 @@ $bit_integrations_i18n_strings = array(
 
     'Go to <b> "Setting -> Api" </b>.' => __('Go to <b> "Setting -> Api" </b>.', 'bit-integrations'),
 
-    'Public Key:' => __('Public Key:', 'bit-integrations'),
-
-    'Public Key...' => __('Public Key...', 'bit-integrations'),
-
-    'Token...' => __('Token...', 'bit-integrations'),
-
-    'Public Key can\'t be empty' => __('Public Key can\'t be empty', 'bit-integrations'),
-
-    'token can\'t be empty' => __('token can\'t be empty', 'bit-integrations'),
-
-    'Domain Name can\'t be empty' => __('Domain Name can\'t be empty', 'bit-integrations'),
+    'Authorization data is missing' => __('Authorization data is missing', 'bit-integrations'),
 
     'Groundhogg all tag fetched successfully' => __('Groundhogg all tag fetched successfully', 'bit-integrations'),
 
@@ -4240,8 +3985,6 @@ $bit_integrations_i18n_strings = array(
     'Groundhogg Meta Fields' => __('Groundhogg Meta Fields', 'bit-integrations'),
 
     'All Tags:' => __('All Tags:', 'bit-integrations'),
-
-    'Heffl CRM API Key...' => __('Heffl CRM API Key...', 'bit-integrations'),
 
     'Steps to generate API Key:' => __('Steps to generate API Key:', 'bit-integrations'),
 
@@ -4347,21 +4090,11 @@ $bit_integrations_i18n_strings = array(
 
     'Choose from the existing tags, or create and add new ones by typing them and pressing enter or comma (,).' => __('Choose from the existing tags, or create and add new ones by typing them and pressing enter or comma (,).', 'bit-integrations'),
 
-    'Select Version:' => __('Select Version:', 'bit-integrations'),
+    'Select Version' => __('Select Version', 'bit-integrations'),
 
-    'Location ID:' => __('Location ID:', 'bit-integrations'),
+    'Location ID' => __('Location ID', 'bit-integrations'),
 
     'Location ID...' => __('Location ID...', 'bit-integrations'),
-
-    'To get location id, go to Settings > Business Profile and copy the location id from General Information.' => __('To get location id, go to Settings > Business Profile and copy the location id from General Information.', 'bit-integrations'),
-
-    'GoHighLevel Api Key:' => __('GoHighLevel Api Key:', 'bit-integrations'),
-
-    'GoHighLevel Api Key...' => __('GoHighLevel Api Key...', 'bit-integrations'),
-
-    'To get API key, go to Settings > Business Profile and copy the API Key from there.' => __('To get API key, go to Settings > Business Profile and copy the API Key from there.', 'bit-integrations'),
-
-    'To get API key, go to Settings > Private Integration and create new integration and copy the API token.' => __('To get API key, go to Settings > Private Integration and create new integration and copy the API token.', 'bit-integrations'),
 
     'Get GoHighLevel Api Key' => __('Get GoHighLevel Api Key', 'bit-integrations'),
 
@@ -4390,8 +4123,6 @@ $bit_integrations_i18n_strings = array(
     'Select the scopes/permissions that you want the private integration to have access to on your agency  account. Ensure that you are selecting only the required scopes for better data security.' => __('Select the scopes/permissions that you want the private integration to have access to on your agency  account. Ensure that you are selecting only the required scopes for better data security.', 'bit-integrations'),
 
     'Copy the token generated.' => __('Copy the token generated.', 'bit-integrations'),
-
-    'Location ID can\'t be empty for v2' => __('Location ID can\'t be empty for v2', 'bit-integrations'),
 
     'Users fetched successfully' => __('Users fetched successfully', 'bit-integrations'),
 
@@ -4457,6 +4188,8 @@ $bit_integrations_i18n_strings = array(
 
     'Attempted to contact' => __('Attempted to contact', 'bit-integrations'),
 
+    'Connected' => __('Connected', 'bit-integrations'),
+
     'Bad timing' => __('Bad timing', 'bit-integrations'),
 
     'Partner' => __('Partner', 'bit-integrations'),
@@ -4504,12 +4237,6 @@ $bit_integrations_i18n_strings = array(
     'Give name and description and select all necessary scope.' => __('Give name and description and select all necessary scope.', 'bit-integrations'),
 
     'Then create Access token.' => __('Then create Access token.', 'bit-integrations'),
-
-    'Hubspot Access Token:' => __('Hubspot Access Token:', 'bit-integrations'),
-
-    'Access token can\'t be empty' => __('Access token can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid access token' => __('Authorized failed, Please enter valid access token', 'bit-integrations'),
 
     'contacts fetching failed' => __('contacts fetching failed', 'bit-integrations'),
 
@@ -4603,9 +4330,21 @@ $bit_integrations_i18n_strings = array(
 
     'Categories' => __('Categories', 'bit-integrations'),
 
-    'Example: {name}.insightly.com' => __('Example: {name}.insightly.com', 'bit-integrations'),
+    'Get Insightly API credentials' => __('Get Insightly API credentials', 'bit-integrations'),
 
-    'Insightly API Token' => __('Insightly API Token', 'bit-integrations'),
+    'Insightly User Settings' => __('Insightly User Settings', 'bit-integrations'),
+
+    'Open your Insightly account settings.' => __('Open your Insightly account settings.', 'bit-integrations'),
+
+    'Copy your API key and account host (without https://api.).' => __('Copy your API key and account host (without https://api.).', 'bit-integrations'),
+
+    'Use API key in Username field, leave password empty, then authorize.' => __('Use API key in Username field, leave password empty, then authorize.', 'bit-integrations'),
+
+    'Example host:' => __('Example host:', 'bit-integrations'),
+
+    'API URL' => __('API URL', 'bit-integrations'),
+
+    'name.insightly.com' => __('name.insightly.com', 'bit-integrations'),
 
     'Organisations fetched successfully' => __('Organisations fetched successfully', 'bit-integrations'),
 
@@ -4629,13 +4368,19 @@ $bit_integrations_i18n_strings = array(
 
     'Enable Unicode support for SMS messages (e.g. emojis, special characters)' => __('Enable Unicode support for SMS messages (e.g. emojis, special characters)', 'bit-integrations'),
 
-    'Copy the <b>API Token</b> and paste into <b>API Token</b> field of your authorization form.' => __('Copy the <b>API Token</b> and paste into <b>API Token</b> field of your authorization form.', 'bit-integrations'),
+    'Steps to generate an API token:' => __('Steps to generate an API token:', 'bit-integrations'),
+
+    'Go to the' => __('Go to the', 'bit-integrations'),
 
     'Instasent Dashboard' => __('Instasent Dashboard', 'bit-integrations'),
 
-    'API Token can\'t be empty' => __('API Token can\'t be empty', 'bit-integrations'),
+    'Copy the <b>API Token</b> and paste it into the bearer token field.' => __('Copy the <b>API Token</b> and paste it into the bearer token field.', 'bit-integrations'),
+
+    'Finally, authorize and save the connection.' => __('Finally, authorize and save the connection.', 'bit-integrations'),
 
     'Fields refresh successfully' => __('Fields refresh successfully', 'bit-integrations'),
+
+    'Authorization info is missing. Please authorize again.' => __('Authorization info is missing. Please authorize again.', 'bit-integrations'),
 
     'Please enter a Project Id first' => __('Please enter a Project Id first', 'bit-integrations'),
 
@@ -4680,6 +4425,10 @@ $bit_integrations_i18n_strings = array(
     /* translators: 1: %1$s placeholder 2: %2$s placeholder */
     'The Bit Integrations Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integrations Pro v(%1$s) plugin needs to be installed and activated to enable the %2$s feature', 'bit-integrations'),
 
+    'Authorization failed Cause:' => __('Authorization failed Cause:', 'bit-integrations'),
+
+    'Authorization failed. please try again' => __('Authorization failed. please try again', 'bit-integrations'),
+
     'Failed to save integration' => __('Failed to save integration', 'bit-integrations'),
 
     'Integration updated successfully' => __('Integration updated successfully', 'bit-integrations'),
@@ -4689,6 +4438,12 @@ $bit_integrations_i18n_strings = array(
     'Failed to update integration' => __('Failed to update integration', 'bit-integrations'),
 
     'Data center can\'t be empty' => __('Data center can\'t be empty', 'bit-integrations'),
+
+    'Client Id can\'t be empty' => __('Client Id can\'t be empty', 'bit-integrations'),
+
+    'Secret key can\'t be empty' => __('Secret key can\'t be empty', 'bit-integrations'),
+
+    'Authorization failed' => __('Authorization failed', 'bit-integrations'),
 
     'Conditional Logics' => __('Conditional Logics', 'bit-integrations'),
 
@@ -4744,15 +4499,7 @@ $bit_integrations_i18n_strings = array(
 
     'Bulk Tag Assign' => __('Bulk Tag Assign', 'bit-integrations'),
 
-    'Connected with IvyForms Successfully' => __('Connected with IvyForms Successfully', 'bit-integrations'),
-
-    'Checking if IvyForms is authorized!!!' => __('Checking if IvyForms is authorized!!!', 'bit-integrations'),
-
-    'IvyForms is not activated or not installed' => __('IvyForms is not activated or not installed', 'bit-integrations'),
-
-    'IvyForms is activated' => __('IvyForms is activated', 'bit-integrations'),
-
-    'Connect to IvyForms' => __('Connect to IvyForms', 'bit-integrations'),
+    'To use IvyForms integration, make sure the IvyForms plugin is installed and active on your site.' => __('To use IvyForms integration, make sure the IvyForms plugin is installed and active on your site.', 'bit-integrations'),
 
     'IvyForms forms fetched successfully' => __('IvyForms forms fetched successfully', 'bit-integrations'),
 
@@ -4880,9 +4627,7 @@ $bit_integrations_i18n_strings = array(
 
     'Register separate DB tables to store current relation items and meta data. If you plan to create multiple relations with a big amount of items, this option will help optimize performance.' => __('Register separate DB tables to store current relation items and meta data. If you plan to create multiple relations with a big amount of items, this option will help optimize performance.', 'bit-integrations'),
 
-    'Connect to JetEngine' => __('Connect to JetEngine', 'bit-integrations'),
-
-    'Connection failed: install and active JetEngine plugin first!' => __('Connection failed: install and active JetEngine plugin first!', 'bit-integrations'),
+    'To use JetEngine integration, make sure the JetEngine plugin is installed and active on your site.' => __('To use JetEngine integration, make sure the JetEngine plugin is installed and active on your site.', 'bit-integrations'),
 
     'Menu Positions fetched successfully' => __('Menu Positions fetched successfully', 'bit-integrations'),
 
@@ -5024,6 +4769,14 @@ $bit_integrations_i18n_strings = array(
 
     'Get Keap client id and secret' => __('Get Keap client id and secret', 'bit-integrations'),
 
+    'Keap Developer Apps' => __('Keap Developer Apps', 'bit-integrations'),
+
+    'Go to Keap developer apps page.' => __('Go to Keap developer apps page.', 'bit-integrations'),
+
+    'Create or open app and copy Client ID and Client Secret.' => __('Create or open app and copy Client ID and Client Secret.', 'bit-integrations'),
+
+    'Use callback URL shown in connection form.' => __('Use callback URL shown in connection form.', 'bit-integrations'),
+
     'Tag Fetched Successfully' => __('Tag Fetched Successfully', 'bit-integrations'),
 
     'Tag Couldn\'t Fetched Successfully' => __('Tag Couldn\'t Fetched Successfully', 'bit-integrations'),
@@ -5064,15 +4817,23 @@ $bit_integrations_i18n_strings = array(
 
     'Remove Subscriber' => __('Remove Subscriber', 'bit-integrations'),
 
-    'Your username:' => __('Your username:', 'bit-integrations'),
+    'Get Kirim Email credentials' => __('Get Kirim Email credentials', 'bit-integrations'),
+
+    'Kirim.Email Dashboard' => __('Kirim.Email Dashboard', 'bit-integrations'),
+
+    'Log in to your Kirim Email account.' => __('Log in to your Kirim Email account.', 'bit-integrations'),
+
+    'Copy your username and App API key.' => __('Copy your username and App API key.', 'bit-integrations'),
+
+    'Authorize and save the connection.' => __('Authorize and save the connection.', 'bit-integrations'),
+
+    'Your username' => __('Your username', 'bit-integrations'),
 
     'username...' => __('username...', 'bit-integrations'),
 
+    'App api key' => __('App api key', 'bit-integrations'),
+
     'Api key...' => __('Api key...', 'bit-integrations'),
-
-    'To get Api key , Please Visit' => __('To get Api key , Please Visit', 'bit-integrations'),
-
-    'Kirim Email' => __('Kirim Email', 'bit-integrations'),
 
     'All list fetched successfully' => __('All list fetched successfully', 'bit-integrations'),
 
@@ -5095,8 +4856,6 @@ $bit_integrations_i18n_strings = array(
     'Click on Create Private API key.' => __('Click on Create Private API key.', 'bit-integrations'),
 
     'Copy the <b>Private API Key</b> and paste into <b>API Key</b> field of your authorization form.' => __('Copy the <b>Private API Key</b> and paste into <b>API Key</b> field of your authorization form.', 'bit-integrations'),
-
-    'here.' => __('here.', 'bit-integrations'),
 
     'List refresh successfully' => __('List refresh successfully', 'bit-integrations'),
 
@@ -5144,7 +4903,7 @@ $bit_integrations_i18n_strings = array(
 
     'Do nothing' => __('Do nothing', 'bit-integrations'),
 
-    'Connected with LearnDash Successfully' => __('Connected with LearnDash Successfully', 'bit-integrations'),
+    'To use LearnDash integration, make sure the LearnDash plugin is installed and active on your site.' => __('To use LearnDash integration, make sure the LearnDash plugin is installed and active on your site.', 'bit-integrations'),
 
     'Course fetched successfully' => __('Course fetched successfully', 'bit-integrations'),
 
@@ -5194,13 +4953,15 @@ $bit_integrations_i18n_strings = array(
 
     'Get Api key' => __('Get Api key', 'bit-integrations'),
 
+    'Lemlist Integrations' => __('Lemlist Integrations', 'bit-integrations'),
+
     'First go to your Lemlist dashboard.' => __('First go to your Lemlist dashboard.', 'bit-integrations'),
 
     'Click on the "Team Setting" from sidebar' => __('Click on the "Team Setting" from sidebar', 'bit-integrations'),
 
-    'Then click "Api", Then click "Generate Api Key"' => __('Then click "Api", Then click "Generate Api Key"', 'bit-integrations'),
+    'Then Click "Integrations"' => __('Then Click "Integrations"', 'bit-integrations'),
 
-    'Lemlist API Token' => __('Lemlist API Token', 'bit-integrations'),
+    'Then click "Api", Then click "Generate Api Key"' => __('Then click "Api", Then click "Generate Api Key"', 'bit-integrations'),
 
     'Lemlist Campaigns refreshed' => __('Lemlist Campaigns refreshed', 'bit-integrations'),
 
@@ -5226,7 +4987,7 @@ $bit_integrations_i18n_strings = array(
 
     'Unenroll user from a membership' => __('Unenroll user from a membership', 'bit-integrations'),
 
-    'Connected with LifterLms Successfully' => __('Connected with LifterLms Successfully', 'bit-integrations'),
+    'To use LifterLMS integration, make sure the LifterLMS plugin is installed and active on your site.' => __('To use LifterLMS integration, make sure the LifterLMS plugin is installed and active on your site.', 'bit-integrations'),
 
     'Section fetched successfully' => __('Section fetched successfully', 'bit-integrations'),
 
@@ -5308,8 +5069,6 @@ $bit_integrations_i18n_strings = array(
 
     'If want add more field in Location' => __('If want add more field in Location', 'bit-integrations'),
 
-    'Line Console' => __('Line Console', 'bit-integrations'),
-
     'To get your Line access token:' => __('To get your Line access token:', 'bit-integrations'),
 
     'Log in to the <a href="https://developers.line.biz/console/" target="_blank">Line Developers Console</a>.' => __('Log in to the <a href="https://developers.line.biz/console/" target="_blank">Line Developers Console</a>.', 'bit-integrations'),
@@ -5323,12 +5082,6 @@ $bit_integrations_i18n_strings = array(
     'Click the "issue" button to generate a new token.' => __('Click the "issue" button to generate a new token.', 'bit-integrations'),
 
     'Copy the generated token — this is your Line access token.' => __('Copy the generated token — this is your Line access token.', 'bit-integrations'),
-
-    'Please try again' => __('Please try again', 'bit-integrations'),
-
-    'Authorization failed. Please try again' => __('Authorization failed. Please try again', 'bit-integrations'),
-
-    'An error occurred during authorization:' => __('An error occurred during authorization:', 'bit-integrations'),
 
     'Recipient ID is required' => __('Recipient ID is required', 'bit-integrations'),
 
@@ -5456,17 +5209,17 @@ $bit_integrations_i18n_strings = array(
 
     'Address type' => __('Address type', 'bit-integrations'),
 
-    'Get the Redirect URI, Client Id and Client Secret' => __('Get the Redirect URI, Client Id and Client Secret', 'bit-integrations'),
+    'Get Redirect URI, Client ID and Client Secret' => __('Get Redirect URI, Client ID and Client Secret', 'bit-integrations'),
 
-    'First go to your Lion Desk Developer Center Apps.' => __('First go to your Lion Desk Developer Center Apps.', 'bit-integrations'),
+    'LionDesk Apps' => __('LionDesk Apps', 'bit-integrations'),
 
-    'Then Click "New App+" from Right in the middle' => __('Then Click "New App+" from Right in the middle', 'bit-integrations'),
+    'Go to LionDesk Developer Center Apps.' => __('Go to LionDesk Developer Center Apps.', 'bit-integrations'),
 
-    'Then input the "Name and Redirect URI" then save' => __('Then input the "Name and Redirect URI" then save', 'bit-integrations'),
+    'Create a new app and set redirect URI from this form.' => __('Create a new app and set redirect URI from this form.', 'bit-integrations'),
 
-    'Then click "REVEAL CLIENT ID" and "REVEAL CLIENT SECRET", Then Copied' => __('Then click "REVEAL CLIENT ID" and "REVEAL CLIENT SECRET", Then Copied', 'bit-integrations'),
+    'Copy client ID and client secret from LionDesk app.' => __('Copy client ID and client secret from LionDesk app.', 'bit-integrations'),
 
-    'Lion Desk Apps' => __('Lion Desk Apps', 'bit-integrations'),
+    'Authorize to complete connection.' => __('Authorize to complete connection.', 'bit-integrations'),
 
     'No Tags found' => __('No Tags found', 'bit-integrations'),
 
@@ -5480,6 +5233,8 @@ $bit_integrations_i18n_strings = array(
 
     'To Get API Token' => __('To Get API Token', 'bit-integrations'),
 
+    'Livestorm Public API' => __('Livestorm Public API', 'bit-integrations'),
+
     'First go to your Livestorm dashboard.' => __('First go to your Livestorm dashboard.', 'bit-integrations'),
 
     'Click go to "Account Settings"' => __('Click go to "Account Settings"', 'bit-integrations'),
@@ -5489,8 +5244,6 @@ $bit_integrations_i18n_strings = array(
     'Then Click "Public API" card' => __('Then Click "Public API" card', 'bit-integrations'),
 
     'Then you\'ll be able to generate your own API tokens' => __('Then you\'ll be able to generate your own API tokens', 'bit-integrations'),
-
-    'Livestorm API Token' => __('Livestorm API Token', 'bit-integrations'),
 
     'Livestorm Fields' => __('Livestorm Fields', 'bit-integrations'),
 
@@ -5550,23 +5303,17 @@ $bit_integrations_i18n_strings = array(
 
     'Click on "License Manager " from right top corner menu' => __('Click on "License Manager " from right top corner menu', 'bit-integrations'),
 
+    'Then click "REST API" from the top sub menu' => __('Then click "REST API" from the top sub menu', 'bit-integrations'),
+
     'Then click "Add key" button at the top of the page' => __('Then click "Add key" button at the top of the page', 'bit-integrations'),
 
     'FIll the form & click "Generate API Key"' => __('FIll the form & click "Generate API Key"', 'bit-integrations'),
 
-    'Consumer key:' => __('Consumer key:', 'bit-integrations'),
+    'Homepage URL...' => __('Homepage URL...', 'bit-integrations'),
 
-    'Consumer key...' => __('Consumer key...', 'bit-integrations'),
-
-    'Consumer secret:' => __('Consumer secret:', 'bit-integrations'),
+    'Consumer Secret' => __('Consumer Secret', 'bit-integrations'),
 
     'Consumer secret...' => __('Consumer secret...', 'bit-integrations'),
-
-    'Consumer key can\'t be empty' => __('Consumer key can\'t be empty', 'bit-integrations'),
-
-    'Consumer secret can\'t be empty' => __('Consumer secret can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid Consumer key & Consumer secret' => __('Authorized failed, Please enter valid Consumer key & Consumer secret', 'bit-integrations'),
 
     'Customers fetched successfully' => __('Customers fetched successfully', 'bit-integrations'),
 
@@ -5622,33 +5369,79 @@ $bit_integrations_i18n_strings = array(
 
     'License Manager Fields' => __('License Manager Fields', 'bit-integrations'),
 
+    'All' => __('All', 'bit-integrations'),
+
+    'Success' => __('Success', 'bit-integrations'),
+
+    'Re-executing integration…' => __('Re-executing integration…', 'bit-integrations'),
+
+    'Re-execution triggered. See the latest log entry.' => __('Re-execution triggered. See the latest log entry.', 'bit-integrations'),
+
+    'Re-execution failed' => __('Re-execution failed', 'bit-integrations'),
+
+    'Error during re-execution' => __('Error during re-execution', 'bit-integrations'),
+
+    'Execution' => __('Execution', 'bit-integrations'),
+
+    'Show / hide re-runs' => __('Show / hide re-runs', 'bit-integrations'),
+
+    're-run' => __('re-run', 'bit-integrations'),
+
+    're-runs' => __('re-runs', 'bit-integrations'),
+
+    'from' => __('from', 'bit-integrations'),
+
+    'unknown' => __('unknown', 'bit-integrations'),
+
     'Record Type' => __('Record Type', 'bit-integrations'),
 
     'Response' => __('Response', 'bit-integrations'),
 
+    'Preview' => __('Preview', 'bit-integrations'),
+
     'Date' => __('Date', 'bit-integrations'),
 
-    'Response delete successfully' => __('Response delete successfully', 'bit-integrations'),
+    'Re-execute' => __('Re-execute', 'bit-integrations'),
 
-    'Delete' => __('Delete', 'bit-integrations'),
-
-    'Are you sure to delete this entry' => __('Are you sure to delete this entry', 'bit-integrations'),
-
-    'Refresh Log' => __('Refresh Log', 'bit-integrations'),
+    'Log deleted successfully' => __('Log deleted successfully', 'bit-integrations'),
 
     'Integration Log' => __('Integration Log', 'bit-integrations'),
 
-    'No Log Found.' => __('No Log Found.', 'bit-integrations'),
+    'Filter by status' => __('Filter by status', 'bit-integrations'),
 
-    'Response Preview' => __('Response Preview', 'bit-integrations'),
+    'Search…' => __('Search…', 'bit-integrations'),
+
+    'Search logs' => __('Search logs', 'bit-integrations'),
+
+    'Refresh' => __('Refresh', 'bit-integrations'),
+
+    'No logs' => __('No logs', 'bit-integrations'),
+
+    'No executions logged yet.' => __('No executions logged yet.', 'bit-integrations'),
+
+    'No matches' => __('No matches', 'bit-integrations'),
+
+    'No entries match your filters.' => __('No entries match your filters.', 'bit-integrations'),
+
+    'Clear filters' => __('Clear filters', 'bit-integrations'),
+
+    'Execution details' => __('Execution details', 'bit-integrations'),
 
     'Unknown' => __('Unknown', 'bit-integrations'),
+
+    'Response Output' => __('Response Output', 'bit-integrations'),
+
+    'Trigger Input' => __('Trigger Input', 'bit-integrations'),
+
+    'Loading input data…' => __('Loading input data…', 'bit-integrations'),
 
     'Copied on Clipboard.' => __('Copied on Clipboard.', 'bit-integrations'),
 
     'Copy' => __('Copy', 'bit-integrations'),
 
     'WP Emails' => __('WP Emails', 'bit-integrations'),
+
+    'Integration name can\'t be empty' => __('Integration name can\'t be empty', 'bit-integrations'),
 
     'Email Receiver can\'t be empty' => __('Email Receiver can\'t be empty', 'bit-integrations'),
 
@@ -5684,10 +5477,6 @@ $bit_integrations_i18n_strings = array(
 
     'Note: create custom options by pressing enter or comma' => __('Note: create custom options by pressing enter or comma', 'bit-integrations'),
 
-    'MailBluster API Token' => __('MailBluster API Token', 'bit-integrations'),
-
-    'Custom fields fectched successfully' => __('Custom fields fectched successfully', 'bit-integrations'),
-
     'Type:' => __('Type:', 'bit-integrations'),
 
     'Select subscription type' => __('Select subscription type', 'bit-integrations'),
@@ -5713,7 +5502,15 @@ $bit_integrations_i18n_strings = array(
 
     'GDPR Marketing Preferences...' => __('GDPR Marketing Preferences...', 'bit-integrations'),
 
-    'Mail Chimp API Console' => __('Mail Chimp API Console', 'bit-integrations'),
+    'Get Mailchimp client id and secret' => __('Get Mailchimp client id and secret', 'bit-integrations'),
+
+    'Mailchimp Registered Apps' => __('Mailchimp Registered Apps', 'bit-integrations'),
+
+    'Open Mailchimp developer API keys/apps page.' => __('Open Mailchimp developer API keys/apps page.', 'bit-integrations'),
+
+    'Create or open an app and copy Client ID and Client Secret.' => __('Create or open an app and copy Client ID and Client Secret.', 'bit-integrations'),
+
+    'Use the callback URL shown in the connection form.' => __('Use the callback URL shown in the connection form.', 'bit-integrations'),
 
     'Module list refreshed' => __('Module list refreshed', 'bit-integrations'),
 
@@ -5751,8 +5548,6 @@ $bit_integrations_i18n_strings = array(
 
     'Copy the <b>API Key</b> and paste into <b>API Key</b> field of your authorization form.' => __('Copy the <b>API Key</b> and paste into <b>API Key</b> field of your authorization form.', 'bit-integrations'),
 
-    'API key...' => __('API key...', 'bit-integrations'),
-
     'Tag refresh successfully' => __('Tag refresh successfully', 'bit-integrations'),
 
     'Tag refresh failed' => __('Tag refresh failed', 'bit-integrations'),
@@ -5773,7 +5568,21 @@ $bit_integrations_i18n_strings = array(
 
     'Update Responses with MailerLite exist Subscriber?' => __('Update Responses with MailerLite exist Subscriber?', 'bit-integrations'),
 
-    'MailerLite API Token' => __('MailerLite API Token', 'bit-integrations'),
+    'MailerLite Token Page' => __('MailerLite Token Page', 'bit-integrations'),
+
+    'Choose your API version (Classic or New).' => __('Choose your API version (Classic or New).', 'bit-integrations'),
+
+    'Copy the token and paste it into the API Key field, then click Authorize.' => __('Copy the token and paste it into the API Key field, then click Authorize.', 'bit-integrations'),
+
+    'MailerLite Version' => __('MailerLite Version', 'bit-integrations'),
+
+    'Select version' => __('Select version', 'bit-integrations'),
+
+    'MailerLite Classic (v1)' => __('MailerLite Classic (v1)', 'bit-integrations'),
+
+    'MailerLite New (v2)' => __('MailerLite New (v2)', 'bit-integrations'),
+
+    'API Key can\'t be empty' => __('API Key can\'t be empty', 'bit-integrations'),
 
     'Fields refresh failed' => __('Fields refresh failed', 'bit-integrations'),
 
@@ -5795,17 +5604,7 @@ $bit_integrations_i18n_strings = array(
 
     'This action requires a MailerLite New account. It isn’t supported with Classic accounts.' => __('This action requires a MailerLite New account. It isn’t supported with Classic accounts.', 'bit-integrations'),
 
-    'Connected with MailerPress Successfully' => __('Connected with MailerPress Successfully', 'bit-integrations'),
-
-    'Checking if MailerPress is active!!!' => __('Checking if MailerPress is active!!!', 'bit-integrations'),
-
-    'MailerPress is not activated or not installed' => __('MailerPress is not activated or not installed', 'bit-integrations'),
-
-    'MailerPress is activated' => __('MailerPress is activated', 'bit-integrations'),
-
-    'Connect to MailerPress' => __('Connect to MailerPress', 'bit-integrations'),
-
-    'All lists fetched successfully' => __('All lists fetched successfully', 'bit-integrations'),
+    'To use MailerPress integration, make sure the MailerPress plugin is installed and active on your site.' => __('To use MailerPress integration, make sure the MailerPress plugin is installed and active on your site.', 'bit-integrations'),
 
     'MailerPress list fetch failed. Please try again' => __('MailerPress list fetch failed. Please try again', 'bit-integrations'),
 
@@ -5831,23 +5630,15 @@ $bit_integrations_i18n_strings = array(
 
     'Update Responses with Mailify existing email?' => __('Update Responses with Mailify existing email?', 'bit-integrations'),
 
-    'Access Account ID can\'t be empty' => __('Access Account ID can\'t be empty', 'bit-integrations'),
-
     'Get Account Id and Api key' => __('Get Account Id and Api key', 'bit-integrations'),
+
+    'Mailify Dashboard' => __('Mailify Dashboard', 'bit-integrations'),
 
     'First go to your Mailify dashboard.' => __('First go to your Mailify dashboard.', 'bit-integrations'),
 
     'Click on the "Settings" from Top-Right corner dropdown' => __('Click on the "Settings" from Top-Right corner dropdown', 'bit-integrations'),
 
     'Then Click "Developers", Then click "Add an Api Key"' => __('Then Click "Developers", Then click "Add an Api Key"', 'bit-integrations'),
-
-    'Access Account ID:' => __('Access Account ID:', 'bit-integrations'),
-
-    'Access Account ID...' => __('Access Account ID...', 'bit-integrations'),
-
-    'To Get Account Id and Api Key, Please Visit' => __('To Get Account Id and Api Key, Please Visit', 'bit-integrations'),
-
-    'Mailify API Token' => __('Mailify API Token', 'bit-integrations'),
 
     'Mailify lists refreshed' => __('Mailify lists refreshed', 'bit-integrations'),
 
@@ -5869,11 +5660,17 @@ $bit_integrations_i18n_strings = array(
 
     'Indicates whether the contact is added to the exclusion list for campaigns or not. An excluded contact will not be receiving any marketing emails.' => __('Indicates whether the contact is added to the exclusion list for campaigns or not. An excluded contact will not be receiving any marketing emails.', 'bit-integrations'),
 
-    'Your Account' => __('Your Account', 'bit-integrations'),
+    'To Get API key & Secret Key' => __('To Get API key & Secret Key', 'bit-integrations'),
 
-    'To Get API key & Secret Key, Please Visit' => __('To Get API key & Secret Key, Please Visit', 'bit-integrations'),
+    'Mailjet API Keys' => __('Mailjet API Keys', 'bit-integrations'),
 
-    'Mailjet API Token' => __('Mailjet API Token', 'bit-integrations'),
+    'Open your Mailjet account API keys page.' => __('Open your Mailjet account API keys page.', 'bit-integrations'),
+
+    'Use API Key as Username and Secret Key as Password in this form.' => __('Use API Key as Username and Secret Key as Password in this form.', 'bit-integrations'),
+
+    'All lists fectched successfully' => __('All lists fectched successfully', 'bit-integrations'),
+
+    'Authorized failed' => __('Authorized failed', 'bit-integrations'),
 
     'Select Lists:' => __('Select Lists:', 'bit-integrations'),
 
@@ -5883,9 +5680,7 @@ $bit_integrations_i18n_strings = array(
 
     'Add contact' => __('Add contact', 'bit-integrations'),
 
-    'Connected with Mail Mint Successfully' => __('Connected with Mail Mint Successfully', 'bit-integrations'),
-
-    'Checking if Mail Mint is active!!!' => __('Checking if Mail Mint is active!!!', 'bit-integrations'),
+    'To use Mail Mint integration, make sure the Mail Mint plugin is installed and active on your site.' => __('To use Mail Mint integration, make sure the Mail Mint plugin is installed and active on your site.', 'bit-integrations'),
 
     'All custom field fetched successfully' => __('All custom field fetched successfully', 'bit-integrations'),
 
@@ -5915,9 +5710,7 @@ $bit_integrations_i18n_strings = array(
 
     'Can be used to disable a confirmation email. Otherwise, a confirmation email is sent as described above. It is strongly recommended to keep this option set to checked so that MailPoet settings for sign-up confirmation are respected. Turning it to unchecked might lead that subscriber to be added as unconfirmed.' => __('Can be used to disable a confirmation email. Otherwise, a confirmation email is sent as described above. It is strongly recommended to keep this option set to checked so that MailPoet settings for sign-up confirmation are respected. Turning it to unchecked might lead that subscriber to be added as unconfirmed.', 'bit-integrations'),
 
-    'Checking if MailPoet is active!!!' => __('Checking if MailPoet is active!!!', 'bit-integrations'),
-
-    'Please! First Install Mailpoet Plugins' => __('Please! First Install Mailpoet Plugins', 'bit-integrations'),
+    'To use MailPoet integration, make sure the MailPoet plugin is installed and active on your site.' => __('To use MailPoet integration, make sure the MailPoet plugin is installed and active on your site.', 'bit-integrations'),
 
     'Newsletter list refreshed' => __('Newsletter list refreshed', 'bit-integrations'),
 
@@ -5943,11 +5736,13 @@ $bit_integrations_i18n_strings = array(
 
     'Select groups' => __('Select groups', 'bit-integrations'),
 
-    'Example: bitapps.ipzmarketing.com' => __('Example: bitapps.ipzmarketing.com', 'bit-integrations'),
+    'Your Domain Name' => __('Your Domain Name', 'bit-integrations'),
+
+    'e.g. youraccount' => __('e.g. youraccount', 'bit-integrations'),
+
+    'Example domain:' => __('Example domain:', 'bit-integrations'),
 
     'MailRelay API Token' => __('MailRelay API Token', 'bit-integrations'),
-
-    'Account Name can\'t be empty' => __('Account Name can\'t be empty', 'bit-integrations'),
 
     'Groups fetch successfully' => __('Groups fetch successfully', 'bit-integrations'),
 
@@ -5975,9 +5770,7 @@ $bit_integrations_i18n_strings = array(
 
     'Selected tags will be associated with the subscriber. You can also add custom tags by pressing enter or comma (,) after writing them' => __('Selected tags will be associated with the subscriber. You can also add custom tags by pressing enter or comma (,) after writing them', 'bit-integrations'),
 
-    'Connect to Mailster' => __('Connect to Mailster', 'bit-integrations'),
-
-    'Connection failed: install and active Mailster plugin first!' => __('Connection failed: install and active Mailster plugin first!', 'bit-integrations'),
+    'To use Mailster integration, make sure the Mailster plugin is installed and active on your site.' => __('To use Mailster integration, make sure the Mailster plugin is installed and active on your site.', 'bit-integrations'),
 
     'Fields fetched successfully.' => __('Fields fetched successfully.', 'bit-integrations'),
 
@@ -5993,6 +5786,12 @@ $bit_integrations_i18n_strings = array(
 
     'Mailster Fields' => __('Mailster Fields', 'bit-integrations'),
 
+    'Get Mailup client id and secret' => __('Get Mailup client id and secret', 'bit-integrations'),
+
+    'Go to Mailup developer settings and create or open your app.' => __('Go to Mailup developer settings and create or open your app.', 'bit-integrations'),
+
+    'Copy Client ID and Client Secret.' => __('Copy Client ID and Client Secret.', 'bit-integrations'),
+
     'Mailup all Lists fetched successfully.' => __('Mailup all Lists fetched successfully.', 'bit-integrations'),
 
     'Mailup lists fetching failed. please try again' => __('Mailup lists fetching failed. please try again', 'bit-integrations'),
@@ -6003,8 +5802,6 @@ $bit_integrations_i18n_strings = array(
 
     'Groups fetching failed. please try again' => __('Groups fetching failed. please try again', 'bit-integrations'),
 
-    'Client ID can\'t be empty' => __('Client ID can\'t be empty', 'bit-integrations'),
-
     'Groups:' => __('Groups:', 'bit-integrations'),
 
     'If you want to assign a subscriber to a group then select a group otherwise leave it blank' => __('If you want to assign a subscriber to a group then select a group otherwise leave it blank', 'bit-integrations'),
@@ -6013,15 +5810,7 @@ $bit_integrations_i18n_strings = array(
 
     'Mailup Fields' => __('Mailup Fields', 'bit-integrations'),
 
-    'Connected with MainWP Dashboard Successfully' => __('Connected with MainWP Dashboard Successfully', 'bit-integrations'),
-
-    'Checking if MainWP Dashboard is active...' => __('Checking if MainWP Dashboard is active...', 'bit-integrations'),
-
-    'MainWP Dashboard is not activated or not installed' => __('MainWP Dashboard is not activated or not installed', 'bit-integrations'),
-
-    'MainWP Dashboard is activated' => __('MainWP Dashboard is activated', 'bit-integrations'),
-
-    'Connect to MainWP Dashboard' => __('Connect to MainWP Dashboard', 'bit-integrations'),
+    'To use MainWP integration, make sure the MainWP Dashboard plugin is installed and active on your site.' => __('To use MainWP integration, make sure the MainWP Dashboard plugin is installed and active on your site.', 'bit-integrations'),
 
     'Sites fetched successfully' => __('Sites fetched successfully', 'bit-integrations'),
 
@@ -6077,7 +5866,7 @@ $bit_integrations_i18n_strings = array(
 
     'User Role' => __('User Role', 'bit-integrations'),
 
-    'Connected with MasterStudyLMs Successfully' => __('Connected with MasterStudyLMs Successfully', 'bit-integrations'),
+    'To use MasterStudy LMS integration, make sure the MasterStudy LMS plugin is installed and active on your site.' => __('To use MasterStudy LMS integration, make sure the MasterStudy LMS plugin is installed and active on your site.', 'bit-integrations'),
 
     'Quiz complete for the user' => __('Quiz complete for the user', 'bit-integrations'),
 
@@ -6111,11 +5900,19 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh Contact Owner' => __('Refresh Contact Owner', 'bit-integrations'),
 
-    'Mautic API Console' => __('Mautic API Console', 'bit-integrations'),
+    'Mautic OAuth2 Setup' => __('Mautic OAuth2 Setup', 'bit-integrations'),
 
-    'Mautic Base URL:' => __('Mautic Base URL:', 'bit-integrations'),
+    'Open your Mautic account and create an OAuth2 API credential.' => __('Open your Mautic account and create an OAuth2 API credential.', 'bit-integrations'),
 
-    'Example: https://mautic.bit-integration.pro' => __('Example: https://mautic.bit-integration.pro', 'bit-integrations'),
+    'Set the callback URL exactly as shown below.' => __('Set the callback URL exactly as shown below.', 'bit-integrations'),
+
+    'Use your Mautic base URL (example: https://mautic.example.com).' => __('Use your Mautic base URL (example: https://mautic.example.com).', 'bit-integrations'),
+
+    'Mautic API Credentials Guide' => __('Mautic API Credentials Guide', 'bit-integrations'),
+
+    'Mautic Base URL' => __('Mautic Base URL', 'bit-integrations'),
+
+    'https://mautic.example.com' => __('https://mautic.example.com', 'bit-integrations'),
 
     'Tags refreshed' => __('Tags refreshed', 'bit-integrations'),
 
@@ -6124,8 +5921,6 @@ $bit_integrations_i18n_strings = array(
     'Contact Owner refreshed' => __('Contact Owner refreshed', 'bit-integrations'),
 
     'Contact Owner refresh failed. please try again' => __('Contact Owner refresh failed. please try again', 'bit-integrations'),
-
-    'Base Url can\'t be empty' => __('Base Url can\'t be empty', 'bit-integrations'),
 
     'Refresh Mautic Fields' => __('Refresh Mautic Fields', 'bit-integrations'),
 
@@ -6149,7 +5944,7 @@ $bit_integrations_i18n_strings = array(
 
     'Select Gateway' => __('Select Gateway', 'bit-integrations'),
 
-    'Connected with Memberpress Successfully' => __('Connected with Memberpress Successfully', 'bit-integrations'),
+    'To use MemberPress integration, make sure the MemberPress plugin is installed and active on your site.' => __('To use MemberPress integration, make sure the MemberPress plugin is installed and active on your site.', 'bit-integrations'),
 
     'All membership fetched successfully' => __('All membership fetched successfully', 'bit-integrations'),
 
@@ -6175,6 +5970,8 @@ $bit_integrations_i18n_strings = array(
 
     'To Get Monday.com API Token' => __('To Get Monday.com API Token', 'bit-integrations'),
 
+    'Monday.com Developer Apps' => __('Monday.com Developer Apps', 'bit-integrations'),
+
     'Log in to your Monday.com account.' => __('Log in to your Monday.com account.', 'bit-integrations'),
 
     'Click on your avatar in the bottom left corner.' => __('Click on your avatar in the bottom left corner.', 'bit-integrations'),
@@ -6182,8 +5979,6 @@ $bit_integrations_i18n_strings = array(
     'Select Developers → API Token.' => __('Select Developers → API Token.', 'bit-integrations'),
 
     'Copy your personal API token (v2).' => __('Copy your personal API token (v2).', 'bit-integrations'),
-
-    'Monday.com Developers' => __('Monday.com Developers', 'bit-integrations'),
 
     'Boards fetched successfully' => __('Boards fetched successfully', 'bit-integrations'),
 
@@ -6279,8 +6074,6 @@ $bit_integrations_i18n_strings = array(
 
     'Moosend Fields' => __('Moosend Fields', 'bit-integrations'),
 
-    'Refresh' => __('Refresh', 'bit-integrations'),
-
     'Assign a customer to the wishlist' => __('Assign a customer to the wishlist', 'bit-integrations'),
 
     'User' => __('User', 'bit-integrations'),
@@ -6299,15 +6092,7 @@ $bit_integrations_i18n_strings = array(
 
     'Select the target wishlist' => __('Select the target wishlist', 'bit-integrations'),
 
-    'Connected with MoreConvert Wishlist Successfully' => __('Connected with MoreConvert Wishlist Successfully', 'bit-integrations'),
-
-    'Checking if MoreConvert Wishlist is authorized!!!' => __('Checking if MoreConvert Wishlist is authorized!!!', 'bit-integrations'),
-
-    'MoreConvert Wishlist is not activated or not installed' => __('MoreConvert Wishlist is not activated or not installed', 'bit-integrations'),
-
-    'MoreConvert Wishlist is activated' => __('MoreConvert Wishlist is activated', 'bit-integrations'),
-
-    'Connect to MoreConvert Wishlist' => __('Connect to MoreConvert Wishlist', 'bit-integrations'),
+    'To use MoreConvert Wishlist integration, make sure the MoreConvert Wishlist for WooCommerce plugin is installed and active on your site.' => __('To use MoreConvert Wishlist integration, make sure the MoreConvert Wishlist for WooCommerce plugin is installed and active on your site.', 'bit-integrations'),
 
     'All wishlists fetched successfully' => __('All wishlists fetched successfully', 'bit-integrations'),
 
@@ -6399,17 +6184,17 @@ $bit_integrations_i18n_strings = array(
 
     'Select Client' => __('Select Client', 'bit-integrations'),
 
-    'First go to your Moxie dashboard.' => __('First go to your Moxie dashboard.', 'bit-integrations'),
+    'Get API Key' => __('Get API Key', 'bit-integrations'),
 
-    'Then click Workspace Settings from bottom left corner.' => __('Then click Workspace Settings from bottom left corner.', 'bit-integrations'),
+    'Go to your Moxie dashboard.' => __('Go to your Moxie dashboard.', 'bit-integrations'),
 
-    'Click "Connneted Apps", Then click "Integrations"' => __('Click "Connneted Apps", Then click "Integrations"', 'bit-integrations'),
+    'Open Workspace Settings from the bottom-left corner.' => __('Open Workspace Settings from the bottom-left corner.', 'bit-integrations'),
 
-    'Select "Custom Integrations"' => __('Select "Custom Integrations"', 'bit-integrations'),
+    'Go to Connected Apps, then Integrations.' => __('Go to Connected Apps, then Integrations.', 'bit-integrations'),
 
-    'Your Client...' => __('Your Client...', 'bit-integrations'),
+    'Open Custom Integrations and copy your API key.' => __('Open Custom Integrations and copy your API key.', 'bit-integrations'),
 
-    'Example: {name}.withmoxie.com' => __('Example: {name}.withmoxie.com', 'bit-integrations'),
+    'your-account.withmoxie.com' => __('your-account.withmoxie.com', 'bit-integrations'),
 
     'Clients fetched successfully' => __('Clients fetched successfully', 'bit-integrations'),
 
@@ -6419,9 +6204,7 @@ $bit_integrations_i18n_strings = array(
 
     'MoxieCRM Fields' => __('MoxieCRM Fields', 'bit-integrations'),
 
-    'Connect to Newsletter' => __('Connect to Newsletter', 'bit-integrations'),
-
-    'Connection failed: install and active Newsletter plugin first!' => __('Connection failed: install and active Newsletter plugin first!', 'bit-integrations'),
+    'To use Newsletter integration, make sure the Newsletter plugin is installed and active on your site.' => __('To use Newsletter integration, make sure the Newsletter plugin is installed and active on your site.', 'bit-integrations'),
 
     'Custom Field 1' => __('Custom Field 1', 'bit-integrations'),
 
@@ -6494,6 +6277,8 @@ $bit_integrations_i18n_strings = array(
 
     'Select Lead Type' => __('Select Lead Type', 'bit-integrations'),
 
+    'Nimble API Tokens' => __('Nimble API Tokens', 'bit-integrations'),
+
     'First go to your Nimble dashboard.' => __('First go to your Nimble dashboard.', 'bit-integrations'),
 
     'Click go to "Settings"' => __('Click go to "Settings"', 'bit-integrations'),
@@ -6501,10 +6286,6 @@ $bit_integrations_i18n_strings = array(
     'Then Click "API Tokens"' => __('Then Click "API Tokens"', 'bit-integrations'),
 
     'Then Click "Generate New Token' => __('Then Click "Generate New Token', 'bit-integrations'),
-
-    'Nimble API Token' => __('Nimble API Token', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid API Key' => __('Authorized failed, Please enter valid API Key', 'bit-integrations'),
 
     'Fields Not Found!' => __('Fields Not Found!', 'bit-integrations'),
 
@@ -6514,15 +6295,9 @@ $bit_integrations_i18n_strings = array(
 
     'Please select all required options to continue.' => __('Please select all required options to continue.', 'bit-integrations'),
 
-    'Connected with Ninja Tables successfully' => __('Connected with Ninja Tables successfully', 'bit-integrations'),
-
     'NinjaTables' => __('NinjaTables', 'bit-integrations'),
 
-    'Connect to Ninja Tables' => __('Connect to Ninja Tables', 'bit-integrations'),
-
-    'Reminder:' => __('Reminder:', 'bit-integrations'),
-
-    'Please make sure Ninja Tables plugin is installed and activated.' => __('Please make sure Ninja Tables plugin is installed and activated.', 'bit-integrations'),
+    'Please make sure Ninja Tables plugin is installed and activated on your site.' => __('Please make sure Ninja Tables plugin is installed and activated on your site.', 'bit-integrations'),
 
     'Please select a table first' => __('Please select a table first', 'bit-integrations'),
 
@@ -6568,7 +6343,7 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a notification to continue.' => __('Please select a notification to continue.', 'bit-integrations'),
 
-    'To use NotificationX integration, make sure NotificationX plugin is installed and active on your site.' => __('To use NotificationX integration, make sure NotificationX plugin is installed and active on your site.', 'bit-integrations'),
+    'To use NotificationX integration, make sure the NotificationX plugin is installed and active on your site.' => __('To use NotificationX integration, make sure the NotificationX plugin is installed and active on your site.', 'bit-integrations'),
 
     'Failed to fetch notifications' => __('Failed to fetch notifications', 'bit-integrations'),
 
@@ -6648,12 +6423,6 @@ $bit_integrations_i18n_strings = array(
 
     'Homepage & Redirect URIs copy from Integration Settings' => __('Homepage & Redirect URIs copy from Integration Settings', 'bit-integrations'),
 
-    'OAuth client ID' => __('OAuth client ID', 'bit-integrations'),
-
-    'OAuth client secret' => __('OAuth client secret', 'bit-integrations'),
-
-    'Notion My integrations, please visit' => __('Notion My integrations, please visit', 'bit-integrations'),
-
     'field refresh successfully' => __('field refresh successfully', 'bit-integrations'),
 
     'field refresh failed' => __('field refresh failed', 'bit-integrations'),
@@ -6684,7 +6453,7 @@ $bit_integrations_i18n_strings = array(
 
     'Select CompanyType' => __('Select CompanyType', 'bit-integrations'),
 
-    'Get API Token' => __('Get API Token', 'bit-integrations'),
+    'Nutshell API Key' => __('Nutshell API Key', 'bit-integrations'),
 
     'Go to your Nutshell CRM\'s user dashboard' => __('Go to your Nutshell CRM\'s user dashboard', 'bit-integrations'),
 
@@ -6692,13 +6461,7 @@ $bit_integrations_i18n_strings = array(
 
     'Then go to "API Keys → Add API Key"' => __('Then go to "API Keys → Add API Key"', 'bit-integrations'),
 
-    'To Get User Name & API Token, Please Visit' => __('To Get User Name & API Token, Please Visit', 'bit-integrations'),
-
-    'NutshellCRM User Name & API Token' => __('NutshellCRM User Name & API Token', 'bit-integrations'),
-
-    'User Name can\'t be empty' => __('User Name can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid User Name & Api Token' => __('Authorized failed, Please enter valid User Name & Api Token', 'bit-integrations'),
+    'Use User Name as Username and API Token as Password in this form.' => __('Use User Name as Username and API Token as Password in this form.', 'bit-integrations'),
 
     'Products fetched successfully' => __('Products fetched successfully', 'bit-integrations'),
 
@@ -6715,8 +6478,6 @@ $bit_integrations_i18n_strings = array(
     'Birth Date' => __('Birth Date', 'bit-integrations'),
 
     'Add Custom Tags' => __('Add Custom Tags', 'bit-integrations'),
-
-    'OmniSend API Token' => __('OmniSend API Token', 'bit-integrations'),
 
     'SMS' => __('SMS', 'bit-integrations'),
 
@@ -6738,11 +6499,13 @@ $bit_integrations_i18n_strings = array(
 
     'Delete file from Wordpress after upload in OneDrive' => __('Delete file from Wordpress after upload in OneDrive', 'bit-integrations'),
 
-    'Azure Portal' => __('Azure Portal', 'bit-integrations'),
+    'OneDrive OAuth setup' => __('OneDrive OAuth setup', 'bit-integrations'),
 
-    'OneDrive Client id:' => __('OneDrive Client id:', 'bit-integrations'),
+    'Azure App Registrations' => __('Azure App Registrations', 'bit-integrations'),
 
-    'OneDrive Client Secret:' => __('OneDrive Client Secret:', 'bit-integrations'),
+    'Create app in Azure Portal and add redirect URI from integration settings.' => __('Create app in Azure Portal and add redirect URI from integration settings.', 'bit-integrations'),
+
+    'Use delegated permissions for OneDrive read/write with offline access.' => __('Use delegated permissions for OneDrive read/write with offline access.', 'bit-integrations'),
 
     'OneDrive Folders List refreshed successfully' => __('OneDrive Folders List refreshed successfully', 'bit-integrations'),
 
@@ -6802,19 +6565,13 @@ $bit_integrations_i18n_strings = array(
 
     'Select Market Segment' => __('Select Market Segment', 'bit-integrations'),
 
-    'Access API URL is required!' => __('Access API URL is required!', 'bit-integrations'),
+    'Go to your OneHash CRM user dashboard and click profile from top-right corner.' => __('Go to your OneHash CRM user dashboard and click profile from top-right corner.', 'bit-integrations'),
 
-    'Go to your OneHash CRM\'s user dashboard and click the profile buttom from Right top corner' => __('Go to your OneHash CRM\'s user dashboard and click the profile buttom from Right top corner', 'bit-integrations'),
+    'Select My Settings.' => __('Select My Settings.', 'bit-integrations'),
 
-    'Then select "My Settings"' => __('Then select "My Settings"', 'bit-integrations'),
+    'Then go to API Access → Generate Keys.' => __('Then go to API Access → Generate Keys.', 'bit-integrations'),
 
-    'Then go to "API Access → Generates Keys"' => __('Then go to "API Access → Generates Keys"', 'bit-integrations'),
-
-    'OneHashCRM API Key & API Secret' => __('OneHashCRM API Key & API Secret', 'bit-integrations'),
-
-    'Api Secret can\'t be empty' => __('Api Secret can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid API Key & Secret or Access Api URL' => __('Authorized failed, Please enter valid API Key & Secret or Access Api URL', 'bit-integrations'),
+    'https://your-domain.com' => __('https://your-domain.com', 'bit-integrations'),
 
     'Lead Status:' => __('Lead Status:', 'bit-integrations'),
 
@@ -6822,9 +6579,7 @@ $bit_integrations_i18n_strings = array(
 
     'OneHashCRM Fields' => __('OneHashCRM Fields', 'bit-integrations'),
 
-    'Connected with Paid Membership Pro Successfully' => __('Connected with Paid Membership Pro Successfully', 'bit-integrations'),
-
-    'Checking if Paid Membership Pro is active!!!' => __('Checking if Paid Membership Pro is active!!!', 'bit-integrations'),
+    'To use Paid Memberships Pro integration, make sure the Paid Memberships Pro plugin is installed and active on your site.' => __('To use Paid Memberships Pro integration, make sure the Paid Memberships Pro plugin is installed and active on your site.', 'bit-integrations'),
 
     'All Paid Membership pro level fetched successfully' => __('All Paid Membership pro level fetched successfully', 'bit-integrations'),
 
@@ -6832,11 +6587,15 @@ $bit_integrations_i18n_strings = array(
 
     'Delete file from Wordpress after upload in PCloud' => __('Delete file from Wordpress after upload in PCloud', 'bit-integrations'),
 
-    'pCloud API apps' => __('pCloud API apps', 'bit-integrations'),
+    'PCloud OAuth setup' => __('PCloud OAuth setup', 'bit-integrations'),
 
-    'PCloud Client id:' => __('PCloud Client id:', 'bit-integrations'),
+    'pCloud My Applications' => __('pCloud My Applications', 'bit-integrations'),
 
-    'PCloud Client Secret:' => __('PCloud Client Secret:', 'bit-integrations'),
+    'Create an app from PCloud API apps.' => __('Create an app from PCloud API apps.', 'bit-integrations'),
+
+    'Set the redirect URI exactly as shown below.' => __('Set the redirect URI exactly as shown below.', 'bit-integrations'),
+
+    'Use your app Client ID and Client Secret to authorize.' => __('Use your app Client ID and Client Secret to authorize.', 'bit-integrations'),
 
     'Folders refreshed successfully' => __('Folders refreshed successfully', 'bit-integrations'),
 
@@ -6850,15 +6609,7 @@ $bit_integrations_i18n_strings = array(
 
     'PCloud Folder' => __('PCloud Folder', 'bit-integrations'),
 
-    'Connected with PeepSo Successfully' => __('Connected with PeepSo Successfully', 'bit-integrations'),
-
-    'Checking if PeepSo is authorized!!!' => __('Checking if PeepSo is authorized!!!', 'bit-integrations'),
-
-    'PeepSo is not activated or not installed' => __('PeepSo is not activated or not installed', 'bit-integrations'),
-
-    'PeepSo is activated' => __('PeepSo is activated', 'bit-integrations'),
-
-    'Connect to PeepSo' => __('Connect to PeepSo', 'bit-integrations'),
+    'To use PeepSo integration, make sure the PeepSo plugin is installed and active on your site.' => __('To use PeepSo integration, make sure the PeepSo plugin is installed and active on your site.', 'bit-integrations'),
 
     'PeepSo Fields' => __('PeepSo Fields', 'bit-integrations'),
 
@@ -6982,13 +6733,9 @@ $bit_integrations_i18n_strings = array(
 
     'Go to your Perfex\'s CRM backend as an admin, go to <b>API → API Management</b>, and create a new token.' => __('Go to your Perfex\'s CRM backend as an admin, go to <b>API → API Management</b>, and create a new token.', 'bit-integrations'),
 
-    'PerfexCRM API Token' => __('PerfexCRM API Token', 'bit-integrations'),
-
     'Custom fields refreshed' => __('Custom fields refreshed', 'bit-integrations'),
 
     'Custom fields refresh failed. please try again' => __('Custom fields refresh failed. please try again', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid API Token or Access API URL' => __('Authorized failed, Please enter valid API Token or Access API URL', 'bit-integrations'),
 
     'Lead fetched successfully' => __('Lead fetched successfully', 'bit-integrations'),
 
@@ -7085,8 +6832,6 @@ $bit_integrations_i18n_strings = array(
     'Add Visible To' => __('Add Visible To', 'bit-integrations'),
 
     'Refresh Labels' => __('Refresh Labels', 'bit-integrations'),
-
-    'PipeDrive API Token' => __('PipeDrive API Token', 'bit-integrations'),
 
     'Organizations refreshed' => __('Organizations refreshed', 'bit-integrations'),
 
@@ -7292,9 +7037,7 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh Label' => __('Refresh Label', 'bit-integrations'),
 
-    'Connected with Propovoice CRM Successfully' => __('Connected with Propovoice CRM Successfully', 'bit-integrations'),
-
-    'Checking if Propovoice CRM is active!!!' => __('Checking if Propovoice CRM is active!!!', 'bit-integrations'),
+    'To use Propovoice CRM integration, make sure the Propovoice CRM plugin is installed and active on your site.' => __('To use Propovoice CRM integration, make sure the Propovoice CRM plugin is installed and active on your site.', 'bit-integrations'),
 
     'Propovoice Crm tags fetch failed. please try again' => __('Propovoice Crm tags fetch failed. please try again', 'bit-integrations'),
 
@@ -7341,10 +7084,6 @@ $bit_integrations_i18n_strings = array(
     'Recipientlist refresh failed. please try again' => __('Recipientlist refresh failed. please try again', 'bit-integrations'),
 
     'Loading Recipientslist...' => __('Loading Recipientslist...', 'bit-integrations'),
-
-    'Username can\'t be empty' => __('Username can\'t be empty', 'bit-integrations'),
-
-    'Password can\'t be empty' => __('Password can\'t be empty', 'bit-integrations'),
 
     'Recipient:' => __('Recipient:', 'bit-integrations'),
 
@@ -7438,7 +7177,7 @@ $bit_integrations_i18n_strings = array(
 
     'Remove the user to a level' => __('Remove the user to a level', 'bit-integrations'),
 
-    'Connected with Restrict Content Successfully' => __('Connected with Restrict Content Successfully', 'bit-integrations'),
+    'To use Restrict Content integration, make sure the Restrict Content plugin is installed and active on your site.' => __('To use Restrict Content integration, make sure the Restrict Content plugin is installed and active on your site.', 'bit-integrations'),
 
     'Levels refreshed successfully' => __('Levels refreshed successfully', 'bit-integrations'),
 
@@ -7476,11 +7215,13 @@ $bit_integrations_i18n_strings = array(
 
     'Opportunity name' => __('Opportunity name', 'bit-integrations'),
 
-    'Get API Key' => __('Get API Key', 'bit-integrations'),
+    'Go to your Salesflare user dashboard.' => __('Go to your Salesflare user dashboard.', 'bit-integrations'),
 
-    'Go to your Salesflare user dashboard' => __('Go to your Salesflare user dashboard', 'bit-integrations'),
+    'Open Settings.' => __('Open Settings.', 'bit-integrations'),
 
-    'Then click "API Keys → Generates Keys"' => __('Then click "API Keys → Generates Keys"', 'bit-integrations'),
+    'Open API Keys, then generate/copy your key.' => __('Open API Keys, then generate/copy your key.', 'bit-integrations'),
+
+    'To get API key, please visit' => __('To get API key, please visit', 'bit-integrations'),
 
     'Salesflare API Key' => __('Salesflare API Key', 'bit-integrations'),
 
@@ -7587,6 +7328,12 @@ $bit_integrations_i18n_strings = array(
     'Select Ownership' => __('Select Ownership', 'bit-integrations'),
 
     'Select Reason' => __('Select Reason', 'bit-integrations'),
+
+    'Salesforce OAuth2 Setup' => __('Salesforce OAuth2 Setup', 'bit-integrations'),
+
+    'Create a Connected App in Salesforce.' => __('Create a Connected App in Salesforce.', 'bit-integrations'),
+
+    'Use Consumer Key as Client ID and Consumer Secret as Client Secret.' => __('Use Consumer Key as Client ID and Consumer Secret as Client Secret.', 'bit-integrations'),
 
     'Campaign list refreshed' => __('Campaign list refreshed', 'bit-integrations'),
 
@@ -7800,39 +7547,29 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh Company' => __('Refresh Company', 'bit-integrations'),
 
-    'Link Name is required!' => __('Link Name is required!', 'bit-integrations'),
-
     'Get Session Token' => __('Get Session Token', 'bit-integrations'),
 
     'First go to your Salesmate dashboard.' => __('First go to your Salesmate dashboard.', 'bit-integrations'),
+
+    'Click go to your "Profile" from Right top corner' => __('Click go to your "Profile" from Right top corner', 'bit-integrations'),
 
     'Then Click "Access Key"' => __('Then Click "Access Key"', 'bit-integrations'),
 
     'Then click "Session Key / Session Token", Then Copied' => __('Then click "Session Key / Session Token", Then Copied', 'bit-integrations'),
 
-    'Session Token:' => __('Session Token:', 'bit-integrations'),
-
-    'Link Name:' => __('Link Name:', 'bit-integrations'),
-
-    'To Get Session Token, Please Visit' => __('To Get Session Token, Please Visit', 'bit-integrations'),
-
-    'Salesmate Session Token' => __('Salesmate Session Token', 'bit-integrations'),
-
     'Salesmate fields refreshed' => __('Salesmate fields refreshed', 'bit-integrations'),
 
     'Salesmate fields refresh failed. please try again' => __('Salesmate fields refresh failed. please try again', 'bit-integrations'),
-
-    'Session Token can\'t be empty' => __('Session Token can\'t be empty', 'bit-integrations'),
-
-    'Link Name can\'t be empty' => __('Link Name can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid Session Token or Link Name' => __('Authorized failed, Please enter valid Session Token or Link Name', 'bit-integrations'),
 
     'Types fetched successfully' => __('Types fetched successfully', 'bit-integrations'),
 
     'Lost Reason fetched successfully' => __('Lost Reason fetched successfully', 'bit-integrations'),
 
     'Priority fetched successfully' => __('Priority fetched successfully', 'bit-integrations'),
+
+    'Companies Not Found!' => __('Companies Not Found!', 'bit-integrations'),
+
+    'Contacts not found!' => __('Contacts not found!', 'bit-integrations'),
 
     'Owner fetched successfully' => __('Owner fetched successfully', 'bit-integrations'),
 
@@ -7846,15 +7583,7 @@ $bit_integrations_i18n_strings = array(
 
     'Please select an action to continue.' => __('Please select an action to continue.', 'bit-integrations'),
 
-    'Connected with Secure Custom Fields Successfully' => __('Connected with Secure Custom Fields Successfully', 'bit-integrations'),
-
-    'Checking if Secure Custom Fields is authorized!!!' => __('Checking if Secure Custom Fields is authorized!!!', 'bit-integrations'),
-
-    'Secure Custom Fields is not activated or not installed' => __('Secure Custom Fields is not activated or not installed', 'bit-integrations'),
-
-    'Secure Custom Fields is activated' => __('Secure Custom Fields is activated', 'bit-integrations'),
-
-    'Connect to Secure Custom Fields' => __('Connect to Secure Custom Fields', 'bit-integrations'),
+    'To use Secure Custom Fields integration, make sure the Secure Custom Fields plugin is installed and active on your site.' => __('To use Secure Custom Fields integration, make sure the Secure Custom Fields plugin is installed and active on your site.', 'bit-integrations'),
 
     'Repeater Field Name:' => __('Repeater Field Name:', 'bit-integrations'),
 
@@ -7942,9 +7671,7 @@ $bit_integrations_i18n_strings = array(
 
     'Create a token and copy it.' => __('Create a token and copy it.', 'bit-integrations'),
 
-    'Paste it into the <b>API Token</b> field and click <b>Authorize</b>.' => __('Paste it into the <b>API Token</b> field and click <b>Authorize</b>.', 'bit-integrations'),
-
-    'To get your API token, please visit' => __('To get your API token, please visit', 'bit-integrations'),
+    'Paste it into the <b>Bearer Token</b> field and click <b>Authorize</b>.' => __('Paste it into the <b>Bearer Token</b> field and click <b>Authorize</b>.', 'bit-integrations'),
 
     'API token can\'t be empty' => __('API token can\'t be empty', 'bit-integrations'),
 
@@ -7974,7 +7701,9 @@ $bit_integrations_i18n_strings = array(
 
     'Emails (comma separated)' => __('Emails (comma separated)', 'bit-integrations'),
 
-    'SendFox Access Token' => __('SendFox Access Token', 'bit-integrations'),
+    'To generate an access token, please visit' => __('To generate an access token, please visit', 'bit-integrations'),
+
+    'SendFox OAuth settings' => __('SendFox OAuth settings', 'bit-integrations'),
 
     'SendFox List Fields' => __('SendFox List Fields', 'bit-integrations'),
 
@@ -8000,7 +7729,7 @@ $bit_integrations_i18n_strings = array(
 
     'Select contact lists' => __('Select contact lists', 'bit-integrations'),
 
-    'Your Api Key' => __('Your Api Key', 'bit-integrations'),
+    'To Get API key, Please Visit' => __('To Get API key, Please Visit', 'bit-integrations'),
 
     'SendGrid API Token' => __('SendGrid API Token', 'bit-integrations'),
 
@@ -8056,11 +7785,9 @@ $bit_integrations_i18n_strings = array(
 
     'RedirectionUrl:' => __('RedirectionUrl:', 'bit-integrations'),
 
+    'SendPulse API Settings' => __('SendPulse API Settings', 'bit-integrations'),
+
     'First go to your SendPulse dashboard.' => __('First go to your SendPulse dashboard.', 'bit-integrations'),
-
-    'Send Pulse API Token' => __('Send Pulse API Token', 'bit-integrations'),
-
-    'Sorry, Client Secret key is invalid' => __('Sorry, Client Secret key is invalid', 'bit-integrations'),
 
     'SendPulse lists refreshed' => __('SendPulse lists refreshed', 'bit-integrations'),
 
@@ -8080,15 +7807,11 @@ $bit_integrations_i18n_strings = array(
 
     'Custom Fields are available exclusively in Bit Integrations Pro starting from version 2.2.0.' => __('Custom Fields are available exclusively in Bit Integrations Pro starting from version 2.2.0.', 'bit-integrations'),
 
-    'Sendy URL can\'t be empty' => __('Sendy URL can\'t be empty', 'bit-integrations'),
-
-    'api Key...' => __('api Key...', 'bit-integrations'),
-
     'Sendy API Console' => __('Sendy API Console', 'bit-integrations'),
 
-    'Sendy URL:' => __('Sendy URL:', 'bit-integrations'),
+    'Sendy URL' => __('Sendy URL', 'bit-integrations'),
 
-    'Sendy URL...' => __('Sendy URL...', 'bit-integrations'),
+    'https://your-sendy-domain.com' => __('https://your-sendy-domain.com', 'bit-integrations'),
 
     'BrandList refreshed successfully' => __('BrandList refreshed successfully', 'bit-integrations'),
 
@@ -8106,13 +7829,7 @@ $bit_integrations_i18n_strings = array(
 
     'Sendy Fields' => __('Sendy Fields', 'bit-integrations'),
 
-    'Connected with SEOPress Successfully' => __('Connected with SEOPress Successfully', 'bit-integrations'),
-
-    'Checking if SEOPress is active!!!' => __('Checking if SEOPress is active!!!', 'bit-integrations'),
-
-    'SEOPress is not activated or not installed' => __('SEOPress is not activated or not installed', 'bit-integrations'),
-
-    'SEOPress is activated' => __('SEOPress is activated', 'bit-integrations'),
+    'To use SEOPress integration, make sure the SEOPress plugin is installed and active on your site.' => __('To use SEOPress integration, make sure the SEOPress plugin is installed and active on your site.', 'bit-integrations'),
 
     'SEOPress Fields' => __('SEOPress Fields', 'bit-integrations'),
 
@@ -8150,15 +7867,19 @@ $bit_integrations_i18n_strings = array(
 
     'Add attachments from Bit Integrations to send Slack.' => __('Add attachments from Bit Integrations to send Slack.', 'bit-integrations'),
 
+    'Slack Apps' => __('Slack Apps', 'bit-integrations'),
+
     'Add an OAuth Scope <b>\'channels:read, channels:write, chat:write, files:read, files:write\'</b>.' => __('Add an OAuth Scope <b>\'channels:read, channels:write, chat:write, files:read, files:write\'</b>.', 'bit-integrations'),
 
     'Generate Access Token clicking <b> \'install to Workspace\'</b>.' => __('Generate Access Token clicking <b> \'install to Workspace\'</b>.', 'bit-integrations'),
 
-    'Slack Console' => __('Slack Console', 'bit-integrations'),
+    'Channels loaded successfully' => __('Channels loaded successfully', 'bit-integrations'),
 
     'Channels List:' => __('Channels List:', 'bit-integrations'),
 
     'Select Channel List' => __('Select Channel List', 'bit-integrations'),
+
+    'Refresh channels' => __('Refresh channels', 'bit-integrations'),
 
     'Add commission to user\'s affiliate' => __('Add commission to user\'s affiliate', 'bit-integrations'),
 
@@ -8170,7 +7891,7 @@ $bit_integrations_i18n_strings = array(
 
     'Add status of SliceWp' => __('Add status of SliceWp', 'bit-integrations'),
 
-    'Connected with SliceWp affiliate Successfully' => __('Connected with SliceWp affiliate Successfully', 'bit-integrations'),
+    'To use SliceWP integration, make sure the SliceWP plugin is installed and active on your site.' => __('To use SliceWP integration, make sure the SliceWP plugin is installed and active on your site.', 'bit-integrations'),
 
     'SliceWp Fields' => __('SliceWp Fields', 'bit-integrations'),
 
@@ -8190,29 +7911,9 @@ $bit_integrations_i18n_strings = array(
 
     'And then underneath API Passwords click on “Create a new user”.' => __('And then underneath API Passwords click on “Create a new user”.', 'bit-integrations'),
 
-    'Subdomain Name:' => __('Subdomain Name:', 'bit-integrations'),
+    'Subdomain Name' => __('Subdomain Name', 'bit-integrations'),
 
-    'API User Name:' => __('API User Name:', 'bit-integrations'),
-
-    'API user name...' => __('API user name...', 'bit-integrations'),
-
-    'API User Password:' => __('API User Password:', 'bit-integrations'),
-
-    'API user password...' => __('API user password...', 'bit-integrations'),
-
-    'To Get subdomain, API user name and password Please Visit' => __('To Get subdomain, API user name and password Please Visit', 'bit-integrations'),
-
-    'Smaily API Token' => __('Smaily API Token', 'bit-integrations'),
-
-    'Integration Name can\'t be empty' => __('Integration Name can\'t be empty', 'bit-integrations'),
-
-    'Subdomain can\'t be empty' => __('Subdomain can\'t be empty', 'bit-integrations'),
-
-    'Api user name can\'t be empty' => __('Api user name can\'t be empty', 'bit-integrations'),
-
-    'Api user password can\'t be empty' => __('Api user password can\'t be empty', 'bit-integrations'),
-
-    'Authorized failed, Please enter valid subdomain name & API credentials' => __('Authorized failed, Please enter valid subdomain name & API credentials', 'bit-integrations'),
+    'Your Account' => __('Your Account', 'bit-integrations'),
 
     'Smaily Fields' => __('Smaily Fields', 'bit-integrations'),
 
@@ -8246,6 +7947,8 @@ $bit_integrations_i18n_strings = array(
 
     'To Get Workspace ID & API Token' => __('To Get Workspace ID & API Token', 'bit-integrations'),
 
+    'SmartSuite Dashboard' => __('SmartSuite Dashboard', 'bit-integrations'),
+
     'First go to your SmartSuite dashboard.' => __('First go to your SmartSuite dashboard.', 'bit-integrations'),
 
     'Click go to Profile Icon from Right Top corner.' => __('Click go to Profile Icon from Right Top corner.', 'bit-integrations'),
@@ -8254,17 +7957,7 @@ $bit_integrations_i18n_strings = array(
 
     'Then Click and Copy the "Hidden Api Token".' => __('Then Click and Copy the "Hidden Api Token".', 'bit-integrations'),
 
-    'Your Workspace Id is the 8 characters that follow https://app.smartsuite.com/ in the SmartSuite URL when you’re logged in.' => __('Your Workspace Id is the 8 characters that follow https://app.smartsuite.com/ in the SmartSuite URL when you’re logged in.', 'bit-integrations'),
-
-    'Workspace ID:' => __('Workspace ID:', 'bit-integrations'),
-
-    'Workspace ID...' => __('Workspace ID...', 'bit-integrations'),
-
-    'To Get API Token & Workspace ID, Please Visit' => __('To Get API Token & Workspace ID, Please Visit', 'bit-integrations'),
-
-    'SmartSuite API Token & Workspace ID' => __('SmartSuite API Token & Workspace ID', 'bit-integrations'),
-
-    'Workspace ID can\'t be empty' => __('Workspace ID can\'t be empty', 'bit-integrations'),
+    'Your Workspace Id is the 8 characters that follow https://app.smartsuite.com/ in the SmartSuite URL when you are logged in.' => __('Your Workspace Id is the 8 characters that follow https://app.smartsuite.com/ in the SmartSuite URL when you are logged in.', 'bit-integrations'),
 
     'Solution fetched successfully' => __('Solution fetched successfully', 'bit-integrations'),
 
@@ -8294,23 +7987,23 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a Role' => __('Please select a Role', 'bit-integrations'),
 
-    'First go to your SuiteDash dashboard.' => __('First go to your SuiteDash dashboard.', 'bit-integrations'),
+    'To get Public ID and Secret Key' => __('To get Public ID and Secret Key', 'bit-integrations'),
 
-    'Then Click "Secure Api"' => __('Then Click "Secure Api"', 'bit-integrations'),
+    'SuiteDash Public API' => __('SuiteDash Public API', 'bit-integrations'),
 
-    'Public Id:' => __('Public Id:', 'bit-integrations'),
+    'Open your SuiteDash dashboard.' => __('Open your SuiteDash dashboard.', 'bit-integrations'),
 
-    'Public Id...' => __('Public Id...', 'bit-integrations'),
+    'Go to Profile, then Integrations.' => __('Go to Profile, then Integrations.', 'bit-integrations'),
 
-    'To Get Public Id & Secret Key, Please Visit' => __('To Get Public Id & Secret Key, Please Visit', 'bit-integrations'),
+    'Open Secure API and copy credentials.' => __('Open Secure API and copy credentials.', 'bit-integrations'),
 
-    'SuiteDash Public Id & Secret Key' => __('SuiteDash Public Id & Secret Key', 'bit-integrations'),
+    'Secret Key' => __('Secret Key', 'bit-integrations'),
+
+    'Secret Key...' => __('Secret Key...', 'bit-integrations'),
 
     'SuiteDash fields refreshed' => __('SuiteDash fields refreshed', 'bit-integrations'),
 
     'SuiteDash fields refresh failed. please try again' => __('SuiteDash fields refresh failed. please try again', 'bit-integrations'),
-
-    'Public Id can\'t be empty' => __('Public Id can\'t be empty', 'bit-integrations'),
 
     'SuiteDash Fields' => __('SuiteDash Fields', 'bit-integrations'),
 
@@ -8320,7 +8013,9 @@ $bit_integrations_i18n_strings = array(
 
     'Customer Phone' => __('Customer Phone', 'bit-integrations'),
 
-    'SureCart' => __('SureCart', 'bit-integrations'),
+    'To get bearer token, please visit' => __('To get bearer token, please visit', 'bit-integrations'),
+
+    'SureCart developer settings' => __('SureCart developer settings', 'bit-integrations'),
 
     'SureCart Fields' => __('SureCart Fields', 'bit-integrations'),
 
@@ -8340,15 +8035,7 @@ $bit_integrations_i18n_strings = array(
 
     'Entity Type (post/comment)' => __('Entity Type (post/comment)', 'bit-integrations'),
 
-    'Connected with SureDash Successfully' => __('Connected with SureDash Successfully', 'bit-integrations'),
-
-    'Checking if SureDash is authorized!!!' => __('Checking if SureDash is authorized!!!', 'bit-integrations'),
-
-    'SureDash is not activated or not installed' => __('SureDash is not activated or not installed', 'bit-integrations'),
-
-    'SureDash is activated' => __('SureDash is activated', 'bit-integrations'),
-
-    'Connect to SureDash' => __('Connect to SureDash', 'bit-integrations'),
+    'To use SureDash integration, make sure the SureDash plugin is installed and active on your site.' => __('To use SureDash integration, make sure the SureDash plugin is installed and active on your site.', 'bit-integrations'),
 
     'All spaces fetched successfully' => __('All spaces fetched successfully', 'bit-integrations'),
 
@@ -8374,9 +8061,7 @@ $bit_integrations_i18n_strings = array(
 
     'The user will be added or removed from the selected group' => __('The user will be added or removed from the selected group', 'bit-integrations'),
 
-    'Connect to SureMembers' => __('Connect to SureMembers', 'bit-integrations'),
-
-    'Connection failed: install and active SureMembers plugin first!' => __('Connection failed: install and active SureMembers plugin first!', 'bit-integrations'),
+    'To use SureMembers integration, make sure the SureMembers plugin is installed and active on your site.' => __('To use SureMembers integration, make sure the SureMembers plugin is installed and active on your site.', 'bit-integrations'),
 
     'Add User to Access Group' => __('Add User to Access Group', 'bit-integrations'),
 
@@ -8386,15 +8071,19 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a Tag' => __('Please select a Tag', 'bit-integrations'),
 
+    'To Get API Key & API Secret' => __('To Get API Key & API Secret', 'bit-integrations'),
+
+    'Systeme.io Public API Settings' => __('Systeme.io Public API Settings', 'bit-integrations'),
+
     'First go to your SystemeIO dashboard.' => __('First go to your SystemeIO dashboard.', 'bit-integrations'),
+
+    'Click go to "Settings" from Right Top corner' => __('Click go to "Settings" from Right Top corner', 'bit-integrations'),
 
     'Then Click "Public API Keys" from the "Settings Menu"' => __('Then Click "Public API Keys" from the "Settings Menu"', 'bit-integrations'),
 
     'Then Click "Create Api key"' => __('Then Click "Create Api key"', 'bit-integrations'),
 
     'Then copy "API Token"' => __('Then copy "API Token"', 'bit-integrations'),
-
-    'SystemeIO API Key & Secret' => __('SystemeIO API Key & Secret', 'bit-integrations'),
 
     'Tags Not Found!' => __('Tags Not Found!', 'bit-integrations'),
 
@@ -8446,13 +8135,7 @@ $bit_integrations_i18n_strings = array(
 
     'Update Member Role' => __('Update Member Role', 'bit-integrations'),
 
-    'Connected with Teams for WooCommerce Memberships Successfully' => __('Connected with Teams for WooCommerce Memberships Successfully', 'bit-integrations'),
-
-    'Checking if Teams for WooCommerce Memberships is authorized!!!' => __('Checking if Teams for WooCommerce Memberships is authorized!!!', 'bit-integrations'),
-
-    'Teams for WooCommerce Memberships is not activated or not installed' => __('Teams for WooCommerce Memberships is not activated or not installed', 'bit-integrations'),
-
-    'Teams for WooCommerce Memberships is activated' => __('Teams for WooCommerce Memberships is activated', 'bit-integrations'),
+    'To use Teams for WooCommerce Memberships integration, make sure the Teams for WooCommerce Memberships plugin is installed and active on your site.' => __('To use Teams for WooCommerce Memberships integration, make sure the Teams for WooCommerce Memberships plugin is installed and active on your site.', 'bit-integrations'),
 
     'All teams fetched successfully' => __('All teams fetched successfully', 'bit-integrations'),
 
@@ -8470,11 +8153,7 @@ $bit_integrations_i18n_strings = array(
 
     'Add attachments from Bit Integrations to send Telegram.' => __('Add attachments from Bit Integrations to send Telegram.', 'bit-integrations'),
 
-    'Authorized Filled' => __('Authorized Filled', 'bit-integrations'),
-
-    'Bot API Key:' => __('Bot API Key:', 'bit-integrations'),
-
-    'Bot API Key...' => __('Bot API Key...', 'bit-integrations'),
+    'Create a Telegram bot with BotFather and copy the bot token.' => __('Create a Telegram bot with BotFather and copy the bot token.', 'bit-integrations'),
 
     'Chat list refreshed' => __('Chat list refreshed', 'bit-integrations'),
 
@@ -8496,7 +8175,7 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a event!' => __('Please select a event!', 'bit-integrations'),
 
-    'Connect to The Events Calendar' => __('Connect to The Events Calendar', 'bit-integrations'),
+    'To use The Events Calendar integration, make sure the The Events Calendar and Event Tickets plugins are installed and active on your site.' => __('To use The Events Calendar integration, make sure the The Events Calendar and Event Tickets plugins are installed and active on your site.', 'bit-integrations'),
 
     'Number of Guests' => __('Number of Guests', 'bit-integrations'),
 
@@ -8512,9 +8191,19 @@ $bit_integrations_i18n_strings = array(
 
     'Select Card Position' => __('Select Card Position', 'bit-integrations'),
 
-    'To get Client ID , Please Visit' => __('To get Client ID , Please Visit', 'bit-integrations'),
+    'Get Trello OAuth details' => __('Get Trello OAuth details', 'bit-integrations'),
 
-    'Trello API Console' => __('Trello API Console', 'bit-integrations'),
+    'Trello API Key' => __('Trello API Key', 'bit-integrations'),
+
+    'Open Trello API key page and copy your API key.' => __('Open Trello API key page and copy your API key.', 'bit-integrations'),
+
+    'Use the callback/return URL from this form when generating your user token.' => __('Use the callback/return URL from this form when generating your user token.', 'bit-integrations'),
+
+    'Authorize and save the connection, then continue to map fields.' => __('Authorize and save the connection, then continue to map fields.', 'bit-integrations'),
+
+    'Client ID (API Key):' => __('Client ID (API Key):', 'bit-integrations'),
+
+    'Return URL:' => __('Return URL:', 'bit-integrations'),
 
     'Board list refreshed' => __('Board list refreshed', 'bit-integrations'),
 
@@ -8542,29 +8231,25 @@ $bit_integrations_i18n_strings = array(
 
     'Select Board' => __('Select Board', 'bit-integrations'),
 
-    'Connected with Tutor LMS Successfully' => __('Connected with Tutor LMS Successfully', 'bit-integrations'),
+    'To use Tutor LMS integration, make sure the Tutor LMS plugin is installed and active on your site.' => __('To use Tutor LMS integration, make sure the Tutor LMS plugin is installed and active on your site.', 'bit-integrations'),
 
     'Please select To and Body field , it is required' => __('Please select To and Body field , it is required', 'bit-integrations'),
 
     'Message Body' => __('Message Body', 'bit-integrations'),
 
-    'Account SID:' => __('Account SID:', 'bit-integrations'),
+    'To get Account SID and Auth Token:' => __('To get Account SID and Auth Token:', 'bit-integrations'),
 
-    'Account SID...' => __('Account SID...', 'bit-integrations'),
+    'Visit your' => __('Visit your', 'bit-integrations'),
 
-    'To get Account SID and Auth Token , Please Visit' => __('To get Account SID and Auth Token , Please Visit', 'bit-integrations'),
+    'Copy your Account SID and use it as Username.' => __('Copy your Account SID and use it as Username.', 'bit-integrations'),
 
-    'Twilio Console' => __('Twilio Console', 'bit-integrations'),
+    'Copy your Auth Token and use it as Password.' => __('Copy your Auth Token and use it as Password.', 'bit-integrations'),
 
-    'From:' => __('From:', 'bit-integrations'),
+    'Use your Twilio sender number in the From Number field.' => __('Use your Twilio sender number in the From Number field.', 'bit-integrations'),
+
+    'From Number' => __('From Number', 'bit-integrations'),
 
     'Phone Number...' => __('Phone Number...', 'bit-integrations'),
-
-    'Account SID can\'t be empty' => __('Account SID can\'t be empty', 'bit-integrations'),
-
-    'Auth Token can\'t be empty' => __('Auth Token can\'t be empty', 'bit-integrations'),
-
-    'Phone number can\'t be empty' => __('Phone number can\'t be empty', 'bit-integrations'),
 
     'Select Number:' => __('Select Number:', 'bit-integrations'),
 
@@ -8600,21 +8285,11 @@ $bit_integrations_i18n_strings = array(
 
     'Payment ID' => __('Payment ID', 'bit-integrations'),
 
-    'Connected with Ultimate Affiliate Pro Successfully' => __('Connected with Ultimate Affiliate Pro Successfully', 'bit-integrations'),
-
-    'Checking if Ultimate Affiliate Pro is authorized...' => __('Checking if Ultimate Affiliate Pro is authorized...', 'bit-integrations'),
-
-    'Ultimate Affiliate Pro is not activated or not installed' => __('Ultimate Affiliate Pro is not activated or not installed', 'bit-integrations'),
-
-    'Ultimate Affiliate Pro is activated' => __('Ultimate Affiliate Pro is activated', 'bit-integrations'),
-
-    'Connect to Ultimate Affiliate Pro' => __('Connect to Ultimate Affiliate Pro', 'bit-integrations'),
+    'To use Ultimate Affiliate Pro integration, make sure the Ultimate Affiliate Pro plugin is installed and active on your site.' => __('To use Ultimate Affiliate Pro integration, make sure the Ultimate Affiliate Pro plugin is installed and active on your site.', 'bit-integrations'),
 
     'Ultimate Affiliate Pro Fields' => __('Ultimate Affiliate Pro Fields', 'bit-integrations'),
 
-    'Note: User Registration & Membership plugin must be installed and activated.' => __('Note: User Registration & Membership plugin must be installed and activated.', 'bit-integrations'),
-
-    'Connection failed' => __('Connection failed', 'bit-integrations'),
+    'To use User Registration Membership integration, make sure the User Registration plugin is installed and active on your site.' => __('To use User Registration Membership integration, make sure the User Registration plugin is installed and active on your site.', 'bit-integrations'),
 
     'Forms refreshed successfully' => __('Forms refreshed successfully', 'bit-integrations'),
 
@@ -8634,8 +8309,6 @@ $bit_integrations_i18n_strings = array(
 
     'Copy the <b>Key</b> and paste into <b>API Key</b> field of your authorization form.' => __('Copy the <b>Key</b> and paste into <b>API Key</b> field of your authorization form.', 'bit-integrations'),
 
-    'Vbout API Key' => __('Vbout API Key', 'bit-integrations'),
-
     'Contact Status:' => __('Contact Status:', 'bit-integrations'),
 
     'Vbout Fields' => __('Vbout Fields', 'bit-integrations'),
@@ -8646,7 +8319,7 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a post!' => __('Please select a post!', 'bit-integrations'),
 
-    'Connect to Voxel' => __('Connect to Voxel', 'bit-integrations'),
+    'To use Voxel integration, make sure the Voxel theme is installed and active on your site.' => __('To use Voxel integration, make sure the Voxel theme is installed and active on your site.', 'bit-integrations'),
 
     'Post Types fetched successfully' => __('Post Types fetched successfully', 'bit-integrations'),
 
@@ -8720,23 +8393,13 @@ $bit_integrations_i18n_strings = array(
 
     'Order Total' => __('Order Total', 'bit-integrations'),
 
-    'Visit' => __('Visit', 'bit-integrations'),
-
     'Time' => __('Time', 'bit-integrations'),
 
     'Referral ID' => __('Referral ID', 'bit-integrations'),
 
     'External Transaction ID' => __('External Transaction ID', 'bit-integrations'),
 
-    'Connected with WC Affiliate successfully' => __('Connected with WC Affiliate successfully', 'bit-integrations'),
-
-    'Checking if WC Affiliate is authorized...' => __('Checking if WC Affiliate is authorized...', 'bit-integrations'),
-
-    'WC Affiliate is not activated or not installed' => __('WC Affiliate is not activated or not installed', 'bit-integrations'),
-
-    'WC Affiliate is activated' => __('WC Affiliate is activated', 'bit-integrations'),
-
-    'Connect to WC Affiliate' => __('Connect to WC Affiliate', 'bit-integrations'),
+    'To use WC Affiliate integration, make sure the WC Affiliate plugin is installed and active on your site.' => __('To use WC Affiliate integration, make sure the WC Affiliate plugin is installed and active on your site.', 'bit-integrations'),
 
     'Commission Type' => __('Commission Type', 'bit-integrations'),
 
@@ -8819,15 +8482,7 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a status to continue.' => __('Please select a status to continue.', 'bit-integrations'),
 
-    'Connected with Webba Booking Successfully' => __('Connected with Webba Booking Successfully', 'bit-integrations'),
-
-    'Checking if Webba Booking is authorized!!!' => __('Checking if Webba Booking is authorized!!!', 'bit-integrations'),
-
-    'Webba Booking is not activated or not installed' => __('Webba Booking is not activated or not installed', 'bit-integrations'),
-
-    'Webba Booking is activated' => __('Webba Booking is activated', 'bit-integrations'),
-
-    'Connect to Webba Booking' => __('Connect to Webba Booking', 'bit-integrations'),
+    'To use Webba Booking integration, make sure the Webba Booking plugin is installed and active on your site.' => __('To use Webba Booking integration, make sure the Webba Booking plugin is installed and active on your site.', 'bit-integrations'),
 
     'All services fetched successfully' => __('All services fetched successfully', 'bit-integrations'),
 
@@ -8907,19 +8562,23 @@ $bit_integrations_i18n_strings = array(
 
     'Media Message' => __('Media Message', 'bit-integrations'),
 
-    'Phone number ID:' => __('Phone number ID:', 'bit-integrations'),
+    'Phone number ID' => __('Phone number ID', 'bit-integrations'),
 
     'Number ID...' => __('Number ID...', 'bit-integrations'),
 
-    'WhatsApp Business Account ID:' => __('WhatsApp Business Account ID:', 'bit-integrations'),
+    'WhatsApp Business Account ID' => __('WhatsApp Business Account ID', 'bit-integrations'),
 
     'Business Account ID...' => __('Business Account ID...', 'bit-integrations'),
 
-    'Phone number ID can\'t be empty or invalid' => __('Phone number ID can\'t be empty or invalid', 'bit-integrations'),
+    'WhatsApp Cloud API setup' => __('WhatsApp Cloud API setup', 'bit-integrations'),
 
-    'WhatsApp Business Account ID can\'t be empty or invalid' => __('WhatsApp Business Account ID can\'t be empty or invalid', 'bit-integrations'),
+    'Provide your WhatsApp Business Account ID.' => __('Provide your WhatsApp Business Account ID.', 'bit-integrations'),
 
-    'Access Token can\'t be empty or invalid' => __('Access Token can\'t be empty or invalid', 'bit-integrations'),
+    'Provide your Phone Number ID.' => __('Provide your Phone Number ID.', 'bit-integrations'),
+
+    'Paste a valid long-lived access token.' => __('Paste a valid long-lived access token.', 'bit-integrations'),
+
+    'Phone number ID, Business Account ID and Access Token are required.' => __('Phone number ID, Business Account ID and Access Token are required.', 'bit-integrations'),
 
     'Template Fetched Successfully' => __('Template Fetched Successfully', 'bit-integrations'),
 
@@ -9033,7 +8692,7 @@ $bit_integrations_i18n_strings = array(
 
     'State/Province' => __('State/Province', 'bit-integrations'),
 
-    'Authorization Failed, Please try again' => __('Authorization Failed, Please try again', 'bit-integrations'),
+    'To use Wishlist Member integration, make sure the Wishlist Member plugin is installed and active on your site.' => __('To use Wishlist Member integration, make sure the Wishlist Member plugin is installed and active on your site.', 'bit-integrations'),
 
     'Membership levels refreshed' => __('Membership levels refreshed', 'bit-integrations'),
 
@@ -9051,7 +8710,7 @@ $bit_integrations_i18n_strings = array(
 
     'Change Status Field Map can\'t be empty' => __('Change Status Field Map can\'t be empty', 'bit-integrations'),
 
-    'Connected with WooCommerce Successfully' => __('Connected with WooCommerce Successfully', 'bit-integrations'),
+    'To use WooCommerce integration, make sure the WooCommerce plugin is installed and active on your site.' => __('To use WooCommerce integration, make sure the WooCommerce plugin is installed and active on your site.', 'bit-integrations'),
 
     'Flexible Checkout Fields are a feature available in the Pro version.' => __('Flexible Checkout Fields are a feature available in the Pro version.', 'bit-integrations'),
 
@@ -9160,12 +8819,6 @@ $bit_integrations_i18n_strings = array(
     'Go to the <b>Marketplace</b> → <b>INTEGRATIONS</b> → <b>API keys</b>.' => __('Go to the <b>Marketplace</b> → <b>INTEGRATIONS</b> → <b>API keys</b>.', 'bit-integrations'),
 
     'Use the purple button to <b>CREATE A KEY</b>.' => __('Use the purple button to <b>CREATE A KEY</b>.', 'bit-integrations'),
-
-    'Woodpecker API Key' => __('Woodpecker API Key', 'bit-integrations'),
-
-    'Campaigns fetched successfully' => __('Campaigns fetched successfully', 'bit-integrations'),
-
-    'Campaigns fetching failed' => __('Campaigns fetching failed', 'bit-integrations'),
 
     'Adding prospects to the Prospects list' => __('Adding prospects to the Prospects list', 'bit-integrations'),
 
@@ -9337,9 +8990,7 @@ $bit_integrations_i18n_strings = array(
 
     'Permanently delete media instead of moving it to trash.' => __('Permanently delete media instead of moving it to trash.', 'bit-integrations'),
 
-    'WordPress connected' => __('WordPress connected', 'bit-integrations'),
-
-    'Connect to WordPress' => __('Connect to WordPress', 'bit-integrations'),
+    'This integration performs actions on the current WordPress site.' => __('This integration performs actions on the current WordPress site.', 'bit-integrations'),
 
     'WordPress Fields' => __('WordPress Fields', 'bit-integrations'),
 
@@ -9363,13 +9014,11 @@ $bit_integrations_i18n_strings = array(
 
     'Reservation ID' => __('Reservation ID', 'bit-integrations'),
 
-    'To use WPCafe integration, make sure WPCafe plugin is installed and active on your site.' => __('To use WPCafe integration, make sure WPCafe plugin is installed and active on your site.', 'bit-integrations'),
-
-    'Integration name cann\'t be empty' => __('Integration name cann\'t be empty', 'bit-integrations'),
+    'To use WPCafe integration, make sure the WPCafe plugin is installed and active on your site.' => __('To use WPCafe integration, make sure the WPCafe plugin is installed and active on your site.', 'bit-integrations'),
 
     'WPCafe Fields' => __('WPCafe Fields', 'bit-integrations'),
 
-    'Connect to WP Courseware' => __('Connect to WP Courseware', 'bit-integrations'),
+    'To use WP Courseware integration, make sure the WP Courseware plugin is installed and active on your site.' => __('To use WP Courseware integration, make sure the WP Courseware plugin is installed and active on your site.', 'bit-integrations'),
 
     'Course Refreshed' => __('Course Refreshed', 'bit-integrations'),
 
@@ -9387,15 +9036,7 @@ $bit_integrations_i18n_strings = array(
 
     'Add Row' => __('Add Row', 'bit-integrations'),
 
-    'Connected with wpDataTables Successfully' => __('Connected with wpDataTables Successfully', 'bit-integrations'),
-
-    'Checking if wpDataTables is authorized!!!' => __('Checking if wpDataTables is authorized!!!', 'bit-integrations'),
-
-    'wpDataTables is not activated or not installed' => __('wpDataTables is not activated or not installed', 'bit-integrations'),
-
-    'wpDataTables is activated' => __('wpDataTables is activated', 'bit-integrations'),
-
-    'Connect to wpDataTables' => __('Connect to wpDataTables', 'bit-integrations'),
+    'To use wpDataTables integration, make sure the wpDataTables plugin is installed and active on your site.' => __('To use wpDataTables integration, make sure the wpDataTables plugin is installed and active on your site.', 'bit-integrations'),
 
     'Tables fetch failed. Please try again' => __('Tables fetch failed. Please try again', 'bit-integrations'),
 
@@ -9465,15 +9106,7 @@ $bit_integrations_i18n_strings = array(
 
     'Deposit To' => __('Deposit To', 'bit-integrations'),
 
-    'Connected with WP ERP Successfully' => __('Connected with WP ERP Successfully', 'bit-integrations'),
-
-    'Checking if WP ERP is authorized!!!' => __('Checking if WP ERP is authorized!!!', 'bit-integrations'),
-
-    'WP ERP is not activated or not installed' => __('WP ERP is not activated or not installed', 'bit-integrations'),
-
-    'WP ERP is activated' => __('WP ERP is activated', 'bit-integrations'),
-
-    'Connect to WP ERP' => __('Connect to WP ERP', 'bit-integrations'),
+    'To use WP ERP integration, make sure the WP ERP plugin is installed and active on your site.' => __('To use WP ERP integration, make sure the WP ERP plugin is installed and active on your site.', 'bit-integrations'),
 
     /* translators: %s: placeholder */
     '%s fetched successfully' => __('%s fetched successfully', 'bit-integrations'),
@@ -9531,9 +9164,7 @@ $bit_integrations_i18n_strings = array(
 
     'Separate tags by pressing enter or comma (,) after writing them' => __('Separate tags by pressing enter or comma (,) after writing them', 'bit-integrations'),
 
-    'Connect to WPForo' => __('Connect to WPForo', 'bit-integrations'),
-
-    'Connection failed: install and active WPForo plugin first!' => __('Connection failed: install and active WPForo plugin first!', 'bit-integrations'),
+    'To use wpForo integration, make sure the wpForo plugin is installed and active on your site.' => __('To use wpForo integration, make sure the wpForo plugin is installed and active on your site.', 'bit-integrations'),
 
     'Reputations fetch successfully' => __('Reputations fetch successfully', 'bit-integrations'),
 
@@ -9567,15 +9198,7 @@ $bit_integrations_i18n_strings = array(
 
     'Media URLs' => __('Media URLs', 'bit-integrations'),
 
-    'Connected with WSMS (WP SMS) Successfully' => __('Connected with WSMS (WP SMS) Successfully', 'bit-integrations'),
-
-    'Checking if WSMS (WP SMS) is authorized!!!' => __('Checking if WSMS (WP SMS) is authorized!!!', 'bit-integrations'),
-
-    'WSMS (WP SMS) is not activated or not installed' => __('WSMS (WP SMS) is not activated or not installed', 'bit-integrations'),
-
-    'WSMS (WP SMS) is activated' => __('WSMS (WP SMS) is activated', 'bit-integrations'),
-
-    'Connect to WSMS (WP SMS)' => __('Connect to WSMS (WP SMS)', 'bit-integrations'),
+    'To use WSMS (WP SMS) integration, make sure the WP SMS plugin is installed and active on your site.' => __('To use WSMS (WP SMS) integration, make sure the WP SMS plugin is installed and active on your site.', 'bit-integrations'),
 
     'WSMS groups fetch failed. Please try again' => __('WSMS groups fetch failed. Please try again', 'bit-integrations'),
 
@@ -9585,8 +9208,6 @@ $bit_integrations_i18n_strings = array(
 
     'Update Responses with ZagoMail existing email?' => __('Update Responses with ZagoMail existing email?', 'bit-integrations'),
 
-    'API Public Key can\'t be empty' => __('API Public Key can\'t be empty', 'bit-integrations'),
-
     'Get API Public Key' => __('Get API Public Key', 'bit-integrations'),
 
     'First go to your ZagoMail dashboard.' => __('First go to your ZagoMail dashboard.', 'bit-integrations'),
@@ -9595,17 +9216,9 @@ $bit_integrations_i18n_strings = array(
 
     'Then click on API' => __('Then click on API', 'bit-integrations'),
 
-    'Access API Public Key Key:' => __('Access API Public Key Key:', 'bit-integrations'),
-
-    'Access API Public Key Key...' => __('Access API Public Key Key...', 'bit-integrations'),
-
-    'To Get API Public Key Key, Please Visit' => __('To Get API Public Key Key, Please Visit', 'bit-integrations'),
+    'To get API Public Key, please visit' => __('To get API Public Key, please visit', 'bit-integrations'),
 
     'ZagoMail API Token' => __('ZagoMail API Token', 'bit-integrations'),
-
-    'Checking API Public Key Key!!!' => __('Checking API Public Key Key!!!', 'bit-integrations'),
-
-    'Sorry, API Public Key key is invalid' => __('Sorry, API Public Key key is invalid', 'bit-integrations'),
 
     'ZagoMail lists refreshed' => __('ZagoMail lists refreshed', 'bit-integrations'),
 
@@ -9650,6 +9263,8 @@ $bit_integrations_i18n_strings = array(
     'Select Lead' => __('Select Lead', 'bit-integrations'),
 
     'Lead types' => __('Lead types', 'bit-integrations'),
+
+    'To Get API Token, Please Visit' => __('To Get API Token, Please Visit', 'bit-integrations'),
 
     'Zendesk API Token' => __('Zendesk API Token', 'bit-integrations'),
 
@@ -9735,16 +9350,6 @@ $bit_integrations_i18n_strings = array(
     /* translators: %s: placeholder */
     'Select %s' => __('Select %s', 'bit-integrations'),
 
-    'Subdomain:' => __('Subdomain:', 'bit-integrations'),
-
-    'your-subdomain' => __('your-subdomain', 'bit-integrations'),
-
-    'agent@example.com' => __('agent@example.com', 'bit-integrations'),
-
-    'Enable token access and create a token at' => __('Enable token access and create a token at', 'bit-integrations'),
-
-    'Zendesk API Settings' => __('Zendesk API Settings', 'bit-integrations'),
-
     'How to connect Zendesk Support:' => __('How to connect Zendesk Support:', 'bit-integrations'),
 
     'Your <b>Subdomain</b> is the part before <b>.zendesk.com</b> in your account URL. Example: for <b>https://acme.zendesk.com</b> the subdomain is <b>acme</b>.' => __('Your <b>Subdomain</b> is the part before <b>.zendesk.com</b> in your account URL. Example: for <b>https://acme.zendesk.com</b> the subdomain is <b>acme</b>.', 'bit-integrations'),
@@ -9753,19 +9358,23 @@ $bit_integrations_i18n_strings = array(
 
     'In Zendesk, go to <b>Admin Center → Apps and integrations → APIs → Zendesk API</b> and enable <b>Token access</b>, then click <b>Add API token</b>.' => __('In Zendesk, go to <b>Admin Center → Apps and integrations → APIs → Zendesk API</b> and enable <b>Token access</b>, then click <b>Add API token</b>.', 'bit-integrations'),
 
-    'Copy the generated token and paste it into the <b>API Token</b> field below.' => __('Copy the generated token and paste it into the <b>API Token</b> field below.', 'bit-integrations'),
+    'Copy the generated token and paste it into the <b>API Token</b> field.' => __('Copy the generated token and paste it into the <b>API Token</b> field.', 'bit-integrations'),
 
-    'Finally, click the <b>Authorize</b> button.' => __('Finally, click the <b>Authorize</b> button.', 'bit-integrations'),
+    'Subdomain' => __('Subdomain', 'bit-integrations'),
+
+    'your-subdomain' => __('your-subdomain', 'bit-integrations'),
+
+    'agent@example.com' => __('agent@example.com', 'bit-integrations'),
+
+    'API Token' => __('API Token', 'bit-integrations'),
+
+    'API Token...' => __('API Token...', 'bit-integrations'),
 
     'Please authorize first' => __('Please authorize first', 'bit-integrations'),
 
     'Data fetched successfully' => __('Data fetched successfully', 'bit-integrations'),
 
     'Data fetching failed' => __('Data fetching failed', 'bit-integrations'),
-
-    'Email can\'t be empty' => __('Email can\'t be empty', 'bit-integrations'),
-
-    'Authorization failed, please enter valid credentials' => __('Authorization failed, please enter valid credentials', 'bit-integrations'),
 
     'Zendesk Support Fields' => __('Zendesk Support Fields', 'bit-integrations'),
 
@@ -9795,11 +9404,15 @@ $bit_integrations_i18n_strings = array(
 
     'Field' => __('Field', 'bit-integrations'),
 
-    'Data Center:' => __('Data Center:', 'bit-integrations'),
-
-    '--Select a data center--' => __('--Select a data center--', 'bit-integrations'),
+    'Zoho Bigin OAuth setup' => __('Zoho Bigin OAuth setup', 'bit-integrations'),
 
     'Zoho API Console' => __('Zoho API Console', 'bit-integrations'),
+
+    'Create app in Zoho API Console.' => __('Create app in Zoho API Console.', 'bit-integrations'),
+
+    'Choose right data center for your account.' => __('Choose right data center for your account.', 'bit-integrations'),
+
+    'Data Center' => __('Data Center', 'bit-integrations'),
 
     'Modules refreshed' => __('Modules refreshed', 'bit-integrations'),
 
@@ -9840,6 +9453,10 @@ $bit_integrations_i18n_strings = array(
     'Map Attachments' => __('Map Attachments', 'bit-integrations'),
 
     'Refresh Bigin Related Lists' => __('Refresh Bigin Related Lists', 'bit-integrations'),
+
+    'Zoho Campaigns OAuth setup' => __('Zoho Campaigns OAuth setup', 'bit-integrations'),
+
+    'Use account data center for auth endpoints.' => __('Use account data center for auth endpoints.', 'bit-integrations'),
 
     'Lists refreshed' => __('Lists refreshed', 'bit-integrations'),
 
@@ -9901,6 +9518,10 @@ $bit_integrations_i18n_strings = array(
 
     'Overwrite existing field values in Zoho CRM with empty field values from Zoho CRM For WPForms while upserting a record?' => __('Overwrite existing field values in Zoho CRM with empty field values from Zoho CRM For WPForms while upserting a record?', 'bit-integrations'),
 
+    'Zoho CRM OAuth setup' => __('Zoho CRM OAuth setup', 'bit-integrations'),
+
+    'Choose data center matching your Zoho account.' => __('Choose data center matching your Zoho account.', 'bit-integrations'),
+
     'Layouts refreshed' => __('Layouts refreshed', 'bit-integrations'),
 
     /* translators: %s: placeholder */
@@ -9942,6 +9563,10 @@ $bit_integrations_i18n_strings = array(
 
     'Add attachments from trigger-end to ticket pushed to Zoho Desk.' => __('Add attachments from trigger-end to ticket pushed to Zoho Desk.', 'bit-integrations'),
 
+    'Zoho Desk OAuth setup' => __('Zoho Desk OAuth setup', 'bit-integrations'),
+
+    'Choose correct data center.' => __('Choose correct data center.', 'bit-integrations'),
+
     'Portals refreshed' => __('Portals refreshed', 'bit-integrations'),
 
     'Portals refresh failed Cause:' => __('Portals refresh failed Cause:', 'bit-integrations'),
@@ -9979,6 +9604,10 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh Desk Fields' => __('Refresh Desk Fields', 'bit-integrations'),
 
+    'Zoho Marketing Hub OAuth setup' => __('Zoho Marketing Hub OAuth setup', 'bit-integrations'),
+
+    'Choose matching data center.' => __('Choose matching data center.', 'bit-integrations'),
+
     'Refresh MarketingHub Lists' => __('Refresh MarketingHub Lists', 'bit-integrations'),
 
     'Refresh MarketingHub Contact Fields' => __('Refresh MarketingHub Contact Fields', 'bit-integrations'),
@@ -9999,6 +9628,10 @@ $bit_integrations_i18n_strings = array(
 
     'Select Note Type' => __('Select Note Type', 'bit-integrations'),
 
+    'Zoho Recruit OAuth setup' => __('Zoho Recruit OAuth setup', 'bit-integrations'),
+
+    'Choose account data center.' => __('Choose account data center.', 'bit-integrations'),
+
     'Note Types refreshed' => __('Note Types refreshed', 'bit-integrations'),
 
     /* translators: %s: placeholder */
@@ -10011,7 +9644,9 @@ $bit_integrations_i18n_strings = array(
 
     'Please map mandatory workSheetHeaders' => __('Please map mandatory workSheetHeaders', 'bit-integrations'),
 
-    'Select a data center' => __('Select a data center', 'bit-integrations'),
+    'Zoho Sheet OAuth setup' => __('Zoho Sheet OAuth setup', 'bit-integrations'),
+
+    'Select account data center.' => __('Select account data center.', 'bit-integrations'),
 
     'Workbooks fetched successfully' => __('Workbooks fetched successfully', 'bit-integrations'),
 
@@ -10053,6 +9688,8 @@ $bit_integrations_i18n_strings = array(
 
     'Scope:' => __('Scope:', 'bit-integrations'),
 
+    'Zoom App Marketplace' => __('Zoom App Marketplace', 'bit-integrations'),
+
     'User:<b>\'user:master, user:read:admin, user:write:admin\'</b>' => __('User:<b>\'user:master, user:read:admin, user:write:admin\'</b>', 'bit-integrations'),
 
     'Meeting:<b>\'meeting:master, meeting:read:admin, meeting:write:admin\'</b>' => __('Meeting:<b>\'meeting:master, meeting:read:admin, meeting:write:admin\'</b>', 'bit-integrations'),
@@ -10064,8 +9701,6 @@ $bit_integrations_i18n_strings = array(
     'Registration:<b>Required</b>' => __('Registration:<b>Required</b>', 'bit-integrations'),
 
     'Participant:<b>On</b>' => __('Participant:<b>On</b>', 'bit-integrations'),
-
-    'Get Zoom client id and secret' => __('Get Zoom client id and secret', 'bit-integrations'),
 
     'Meeting list refreshed' => __('Meeting list refreshed', 'bit-integrations'),
 
@@ -10100,6 +9735,88 @@ $bit_integrations_i18n_strings = array(
     'Select Webinar' => __('Select Webinar', 'bit-integrations'),
 
     'ZoomWebinar Fields' => __('ZoomWebinar Fields', 'bit-integrations'),
+
+    'Connection name is required' => __('Connection name is required', 'bit-integrations'),
+
+    'API key is required' => __('API key is required', 'bit-integrations'),
+
+    'Username is required' => __('Username is required', 'bit-integrations'),
+
+    'Password is required' => __('Password is required', 'bit-integrations'),
+
+    'Bearer token is required' => __('Bearer token is required', 'bit-integrations'),
+
+    'is required' => __('is required', 'bit-integrations'),
+
+    'Unknown error' => __('Unknown error', 'bit-integrations'),
+
+    'Failed to save connection Cause:' => __('Failed to save connection Cause:', 'bit-integrations'),
+
+    'Connection Name:' => __('Connection Name:', 'bit-integrations'),
+
+    'Connection Name...' => __('Connection Name...', 'bit-integrations'),
+
+    'API Key:' => __('API Key:', 'bit-integrations'),
+
+    'api_key' => __('api_key', 'bit-integrations'),
+
+    'Username:' => __('Username:', 'bit-integrations'),
+
+    'Username...' => __('Username...', 'bit-integrations'),
+
+    'Bearer Token:' => __('Bearer Token:', 'bit-integrations'),
+
+    'Bearer token...' => __('Bearer token...', 'bit-integrations'),
+
+    'Authorized ✔' => __('Authorized ✔', 'bit-integrations'),
+
+    'Authorize' => __('Authorize', 'bit-integrations'),
+
+    'Integration name is required' => __('Integration name is required', 'bit-integrations'),
+
+    'Plugin checks are not defined for this integration' => __('Plugin checks are not defined for this integration', 'bit-integrations'),
+
+    'Plugin is not installed or activated' => __('Plugin is not installed or activated', 'bit-integrations'),
+
+    'Plugin check failed' => __('Plugin check failed', 'bit-integrations'),
+
+    '+ Add new connection' => __('+ Add new connection', 'bit-integrations'),
+
+    'Connections:' => __('Connections:', 'bit-integrations'),
+
+    'Select a connection...' => __('Select a connection...', 'bit-integrations'),
+
+    'Refresh connections' => __('Refresh connections', 'bit-integrations'),
+
+    'Client ID is required' => __('Client ID is required', 'bit-integrations'),
+
+    'Client secret is required' => __('Client secret is required', 'bit-integrations'),
+
+    'OAuth1 authorization URL is required' => __('OAuth1 authorization URL is required', 'bit-integrations'),
+
+    'Popup blocked. Please allow popups and try again.' => __('Popup blocked. Please allow popups and try again.', 'bit-integrations'),
+
+    'Authorization window closed before completing.' => __('Authorization window closed before completing.', 'bit-integrations'),
+
+    'Authorization token missing' => __('Authorization token missing', 'bit-integrations'),
+
+    'Homepage URL:' => __('Homepage URL:', 'bit-integrations'),
+
+    'Callback / Return URL:' => __('Callback / Return URL:', 'bit-integrations'),
+
+    'Client ID:' => __('Client ID:', 'bit-integrations'),
+
+    'Client Secret:' => __('Client Secret:', 'bit-integrations'),
+
+    'Client Secret...' => __('Client Secret...', 'bit-integrations'),
+
+    'Authorization code missing' => __('Authorization code missing', 'bit-integrations'),
+
+    'Token exchange failed' => __('Token exchange failed', 'bit-integrations'),
+
+    '--Select--' => __('--Select--', 'bit-integrations'),
+
+    'Callback / Redirect URL:' => __('Callback / Redirect URL:', 'bit-integrations'),
 
     'Please select an Action' => __('Please select an Action', 'bit-integrations'),
 
@@ -10599,6 +10316,8 @@ $bit_integrations_i18n_strings = array(
 
     'Field Type' => __('Field Type', 'bit-integrations'),
 
+    'here.' => __('here.', 'bit-integrations'),
+
     '{ 
     // write here your custom field map 
   }' => __('{ 
@@ -10646,6 +10365,8 @@ $bit_integrations_i18n_strings = array(
     'Column  Visibility' => __('Column  Visibility', 'bit-integrations'),
 
     'Clone' => __('Clone', 'bit-integrations'),
+
+    'Delete' => __('Delete', 'bit-integrations'),
 
     'Instruction' => __('Instruction', 'bit-integrations'),
 
@@ -10832,21 +10553,98 @@ $bit_integrations_i18n_strings = array(
 
     'Accept and continue' => __('Accept and continue', 'bit-integrations'),
 
-    'Go to plugin' => __('Go to plugin', 'bit-integrations'),
+    'Action' => __('Action', 'bit-integrations'),
 
-    'Bit Integrations is a user-friendly automation plugin for WordPress that makes work flows simple, easy to understand, and does not require extensive documentation. However, if you do get confused, the documentation is available for assistance and can be found' => __('Bit Integrations is a user-friendly automation plugin for WordPress that makes work flows simple, easy to understand, and does not require extensive documentation. However, if you do get confused, the documentation is available for assistance and can be found', 'bit-integrations'),
+    'Connection Name' => __('Connection Name', 'bit-integrations'),
 
-    'Support' => __('Support', 'bit-integrations'),
+    'Rename Connection' => __('Rename Connection', 'bit-integrations'),
 
-    'In Bit Apps, we provide all kind product support for any types of customer, it does not matter FREE or PRO user. We actively provide support through Email and Live Chat. Our support team is always ready to help you. We are here to answer your questions and help you with any issues you may have.' => __('In Bit Apps, we provide all kind product support for any types of customer, it does not matter FREE or PRO user. We actively provide support through Email and Live Chat. Our support team is always ready to help you. We are here to answer your questions and help you with any issues you may have.', 'bit-integrations'),
+    'Linked Integrations' => __('Linked Integrations', 'bit-integrations'),
 
-    'Chat here' => __('Chat here', 'bit-integrations'),
+    'Auth Type' => __('Auth Type', 'bit-integrations'),
 
-    'Youtube channel' => __('Youtube channel', 'bit-integrations'),
+    'Created' => __('Created', 'bit-integrations'),
 
-    'Facebook support group' => __('Facebook support group', 'bit-integrations'),
+    /* translators: %d: placeholder */
+    'Connection is used in %d integrations. Unlink first, then delete.' => __('Connection is used in %d integrations. Unlink first, then delete.', 'bit-integrations'),
 
-    'Rate us on WordPress' => __('Rate us on WordPress', 'bit-integrations'),
+    'Failed to delete' => __('Failed to delete', 'bit-integrations'),
+
+    'Failed to load connections' => __('Failed to load connections', 'bit-integrations'),
+
+    'Connection name cannot be empty' => __('Connection name cannot be empty', 'bit-integrations'),
+
+    'Renamed' => __('Renamed', 'bit-integrations'),
+
+    'Failed to rename' => __('Failed to rename', 'bit-integrations'),
+
+    'Saving...' => __('Saving...', 'bit-integrations'),
+
+    'Connection deleted' => __('Connection deleted', 'bit-integrations'),
+
+    'Deleting...' => __('Deleting...', 'bit-integrations'),
+
+    'Connections deleted' => __('Connections deleted', 'bit-integrations'),
+
+    'Some selected connections could not be deleted.' => __('Some selected connections could not be deleted.', 'bit-integrations'),
+
+    'Delete this connection? Linked connections cannot be deleted until removed from integrations.' => __('Delete this connection? Linked connections cannot be deleted until removed from integrations.', 'bit-integrations'),
+
+    'Connections' => __('Connections', 'bit-integrations'),
+
+    'Search connections...' => __('Search connections...', 'bit-integrations'),
+
+    'Delete Connection' => __('Delete Connection', 'bit-integrations'),
+
+    'All Action' => __('All Action', 'bit-integrations'),
+
+    'No connections saved yet. Authorize an app from any integration to add one.' => __('No connections saved yet. Authorize an app from any integration to add one.', 'bit-integrations'),
+
+    'No connections match the current filters.' => __('No connections match the current filters.', 'bit-integrations'),
+
+    'Video tutorials' => __('Video tutorials', 'bit-integrations'),
+
+    'Watch setup walkthroughs on our YouTube channel' => __('Watch setup walkthroughs on our YouTube channel', 'bit-integrations'),
+
+    'Facebook community' => __('Facebook community', 'bit-integrations'),
+
+    'Ask other users and share what you have built' => __('Ask other users and share what you have built', 'bit-integrations'),
+
+    'Rate us on WordPress.org' => __('Rate us on WordPress.org', 'bit-integrations'),
+
+    'Reviews keep the plugin free and actively maintained' => __('Reviews keep the plugin free and actively maintained', 'bit-integrations'),
+
+    'AI agent automation & integrations for forms, CRM and more.' => __('AI agent automation & integrations for forms, CRM and more.', 'bit-integrations'),
+
+    'Auto post scheduler for sharing your blog to social media.' => __('Auto post scheduler for sharing your blog to social media.', 'bit-integrations'),
+
+    'Drag & drop contact form and payment form builder.' => __('Drag & drop contact form and payment form builder.', 'bit-integrations'),
+
+    'Connect every support channel behind a single button.' => __('Connect every support channel behind a single button.', 'bit-integrations'),
+
+    'A 100% free file manager for WordPress.' => __('A 100% free file manager for WordPress.', 'bit-integrations'),
+
+    'Reliable SMTP delivery for every email WordPress sends.' => __('Reliable SMTP delivery for every email WordPress sends.', 'bit-integrations'),
+
+    'Documentation & support' => __('Documentation & support', 'bit-integrations'),
+
+    'Guides for every trigger and action — plus a real person when a guide is not enough.' => __('Guides for every trigger and action — plus a real person when a guide is not enough.', 'bit-integrations'),
+
+    'Read the documentation' => __('Read the documentation', 'bit-integrations'),
+
+    'Bit Integrations is built to be self-explanatory, so the docs stay short. When a trigger, action or field mapping is not behaving the way you expect, start here.' => __('Bit Integrations is built to be self-explanatory, so the docs stay short. When a trigger, action or field mapping is not behaving the way you expect, start here.', 'bit-integrations'),
+
+    'Browse the docs' => __('Browse the docs', 'bit-integrations'),
+
+    'Talk to a human' => __('Talk to a human', 'bit-integrations'),
+
+    'Free or Pro, the support is the same. Email us or open a live chat and our team will pick it up.' => __('Free or Pro, the support is the same. Email us or open a live chat and our team will pick it up.', 'bit-integrations'),
+
+    'Start a live chat' => __('Start a live chat', 'bit-integrations'),
+
+    'Community & feedback' => __('Community & feedback', 'bit-integrations'),
+
+    'More from Bit Apps' => __('More from Bit Apps', 'bit-integrations'),
 
     'Lost In Space' => __('Lost In Space', 'bit-integrations'),
 
@@ -10854,7 +10652,7 @@ $bit_integrations_i18n_strings = array(
 
     'Go Home' => __('Go Home', 'bit-integrations'),
 
-    'Successfully fetched' => __('Successfully fetched', 'bit-integrations'),
+    'Could not load settings' => __('Could not load settings', 'bit-integrations'),
 
     'Save successfully done' => __('Save successfully done', 'bit-integrations'),
 
@@ -10864,17 +10662,35 @@ $bit_integrations_i18n_strings = array(
 
     'Opt-in status updated' => __('Opt-in status updated', 'bit-integrations'),
 
-    'Erase all data of this plugin in deletion' => __('Erase all data of this plugin in deletion', 'bit-integrations'),
+    'Control how Bit Integrations notifies you, how long it keeps logs, and what it leaves behind.' => __('Control how Bit Integrations notifies you, how long it keeps logs, and what it leaves behind.', 'bit-integrations'),
 
-    'Opt In Telemetry Data' => __('Opt In Telemetry Data', 'bit-integrations'),
+    'Notifications' => __('Notifications', 'bit-integrations'),
 
-    'If you turn off, Bit Integrations will no longer collect any telemetry data' => __('If you turn off, Bit Integrations will no longer collect any telemetry data', 'bit-integrations'),
+    'Email me when an integration fails' => __('Email me when an integration fails', 'bit-integrations'),
 
-    'Specify after how many days  old log will be deleted' => __('Specify after how many days  old log will be deleted', 'bit-integrations'),
+    'Sends a notification to the site admin email every time an integration execution fails.' => __('Sends a notification to the site admin email every time an integration execution fails.', 'bit-integrations'),
 
-    'Enable Email Notifications for Failed Integrations' => __('Enable Email Notifications for Failed Integrations', 'bit-integrations'),
+    'Logs' => __('Logs', 'bit-integrations'),
 
-    'When enabled, you will receive an email notification to the admin email whenever an integration execution fails' => __('When enabled, you will receive an email notification to the admin email whenever an integration execution fails', 'bit-integrations'),
+    'Automatically delete old logs' => __('Automatically delete old logs', 'bit-integrations'),
+
+    'Keeps the log table small by removing entries older than the retention period you set.' => __('Keeps the log table small by removing entries older than the retention period you set.', 'bit-integrations'),
+
+    'Delete logs older than' => __('Delete logs older than', 'bit-integrations'),
+
+    'days' => __('days', 'bit-integrations'),
+
+    'Share anonymous usage data' => __('Share anonymous usage data', 'bit-integrations'),
+
+    'Helps us decide what to build next. Turn this off and Bit Integrations collects no telemetry at all.' => __('Helps us decide what to build next. Turn this off and Bit Integrations collects no telemetry at all.', 'bit-integrations'),
+
+    'Read the privacy policy' => __('Read the privacy policy', 'bit-integrations'),
+
+    'Danger zone' => __('Danger zone', 'bit-integrations'),
+
+    'Erase all plugin data on deletion' => __('Erase all plugin data on deletion', 'bit-integrations'),
+
+    'When you delete Bit Integrations, every flow, log and saved credential is permanently removed. This cannot be undone.' => __('When you delete Bit Integrations, every flow, log and saved credential is permanently removed. This cannot be undone.', 'bit-integrations'),
 
     'Welcome to Bit Integrations' => __('Welcome to Bit Integrations', 'bit-integrations'),
 
