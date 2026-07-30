@@ -1,0 +1,8 @@
+import{_ as t,j as s}from"./main.2.10.1.js";import{A as m}from"./AddNewConnection.Cg7SuMmE.js";import{t as l}from"./TutorialLink.7h569T9O.js";import{A as c}from"./Authorization.BlvzxFIu.js";import"./react-router.DMwpH23k.js";import"./react-vendor.P7K3d6op.js";import"./connectionApi.ChZVS3S8.js";import"./Note.C35kKkP7.js";import"./SnackMsg.C9WJBVrt.js";import"./ConfirmModal.CDiTORwS.js";import"./oauthHelper.OhIQKmID.js";import"./BackIcn.BKNyOYwv.js";import"./Integrations.CKp7NfRF.js";import"./Table.pymT9y8u.js";import"./index.DpWdl9V1.js";import"./InfoIcn.BrKQmO96.js";function x({copperCRMConf:o,setCopperCRMConf:e,step:r,setStep:a,isInfo:p}){var i;const n=`
+    <h4>${t("Get API credentials","bit-integrations")}</h4>
+    <ul>
+      <li>${t("Go to your Copper dashboard.","bit-integrations")}</li>
+      <li>${t("Open Settings > Integrations > API Keys.","bit-integrations")}</li>
+      <li>${t("Copy your API key and account email, then authorize.","bit-integrations")}</li>
+    </ul>
+  `;return s.jsx(c,{config:o,setConfig:e,step:r,setStep:a,isInfo:p,tutorialTitle:"Copper CRM",tutorialLinks:((i=l)==null?void 0:i.coppercrm)||{},authDetails:{authType:m.API_KEY,apiEndpoint:"https://api.copper.com/developer_api/v1/account",method:"GET",key:"X-PW-AccessToken",addTo:"header",headers:{"X-PW-Application":"developer_api","X-PW-UserEmail":"{api_email}","X-PW-AccessToken":"{api_key}","Content-Type":"application/json"},extraFields:[{name:"api_email",label:t("Your API Email","bit-integrations"),required:!0,placeholder:t("john@company.com","bit-integrations")}]},noteDetails:{note:n}})}export{x as default};
