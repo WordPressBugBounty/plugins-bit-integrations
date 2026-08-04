@@ -1,0 +1,8 @@
+import{_ as t,j as p}from"./main.2.10.2.js";import{A as l}from"./AddNewConnection.CKMdUmWP.js";import{t as u}from"./TutorialLink.DGZkpRHA.js";import{A as c}from"./Authorization.7o7nffd8.js";import"./react-router.DMwpH23k.js";import"./react-vendor.P7K3d6op.js";import"./connectionApi.CDDMGjAe.js";import"./Note.BxLRMTfj.js";import"./SnackMsg.jeQopGz7.js";import"./ConfirmModal.DWgUNXwM.js";import"./oauthHelper.-jy64Bib.js";import"./BackIcn.CkJ_lS8M.js";import"./Integrations.BtsIooDn.js";import"./Table.CbfGOCkC.js";import"./index.DpWdl9V1.js";import"./InfoIcn.DK8jtAK0.js";function K({suiteDashConf:e,setSuiteDashConf:r,step:o,setStep:a,isInfo:n}){var i;const s=`
+    <h4>${t("To get Public ID and Secret Key","bit-integrations")}</h4>
+    <ul>
+      <li>${t("Visit","bit-integrations")} <a href="https://app.suitedash.com/integrations/publicApi?t=authentication" target="_blank" rel="noreferrer">${t("SuiteDash Public API","bit-integrations")}</a> ${t("to get your credentials.","bit-integrations")}</li>
+      <li>${t("Open your SuiteDash dashboard.","bit-integrations")}</li>
+      <li>${t("Go to Profile, then Integrations.","bit-integrations")}</li>
+      <li>${t("Open Secure API and copy credentials.","bit-integrations")}</li>
+    </ul>`;return p.jsx(c,{config:e,setConfig:r,step:o,setStep:a,isInfo:n,tutorialTitle:"SuiteDash",tutorialLinks:((i=u)==null?void 0:i.suiteDash)||{},authDetails:{authType:l.API_KEY,apiEndpoint:"https://app.suitedash.com/secure-api/contacts",method:"GET",key:"X-Public-ID",addTo:"header",encryptKeys:["secret_key"],headers:{"X-Secret-Key":"{secret_key}"},extraFields:[{name:"secret_key",label:t("Secret Key","bit-integrations"),required:!0,placeholder:t("Secret Key...","bit-integrations")}]},noteDetails:{note:s}})}export{K as default};

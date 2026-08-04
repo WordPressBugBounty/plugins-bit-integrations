@@ -1,0 +1,9 @@
+import{_ as t,j as l}from"./main.2.10.2.js";import{A as p}from"./AddNewConnection.CKMdUmWP.js";import{t as g}from"./TutorialLink.DGZkpRHA.js";import{A as m}from"./Authorization.7o7nffd8.js";import"./react-router.DMwpH23k.js";import"./react-vendor.P7K3d6op.js";import"./connectionApi.CDDMGjAe.js";import"./Note.BxLRMTfj.js";import"./SnackMsg.jeQopGz7.js";import"./ConfirmModal.DWgUNXwM.js";import"./oauthHelper.-jy64Bib.js";import"./BackIcn.CkJ_lS8M.js";import"./Integrations.BtsIooDn.js";import"./Table.CbfGOCkC.js";import"./index.DpWdl9V1.js";import"./InfoIcn.DK8jtAK0.js";function E({googleContactsConf:i,setGoogleContactsConf:e,step:r,setStep:n,isInfo:a}){var o;const s=`
+    <h4>${t("Google Contacts OAuth setup","bit-integrations")}</h4>
+    <ul>
+      <li>${t("Visit","bit-integrations")} <a href="https://console.developers.google.com/apis/credentials" target="_blank" rel="noreferrer">${t("Google API Console","bit-integrations")}</a> ${t("to get your credentials.","bit-integrations")}</li>
+      <li>${t("Create OAuth client in Google API Console.","bit-integrations")}</li>
+      <li>${t("Set homepage and redirect URI exactly from integration settings.","bit-integrations")}</li>
+      <li>${t("Enable Google People API and authorize with required scope.","bit-integrations")}</li>
+    </ul>
+  `;return l.jsx(m,{config:i,setConfig:e,step:r,setStep:n,isInfo:a,tutorialTitle:"Google Contacts",tutorialLinks:((o=g)==null?void 0:o.googleContacts)||{},authDetails:{authType:p.OAUTH2,grantType:"authorization_code",clientAuthentication:"body",authCodeEndpoint:{url:"https://accounts.google.com/o/oauth2/v2/auth",queryParams:{access_type:"offline",prompt:"consent",scope:"https://www.googleapis.com/auth/contacts"}},tokenEndpoint:{url:"https://oauth2.googleapis.com/token",method:"POST"},refreshTokenUrl:"https://oauth2.googleapis.com/token"},noteDetails:{note:s}})}export{E as default};

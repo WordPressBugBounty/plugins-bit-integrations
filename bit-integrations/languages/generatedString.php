@@ -1644,55 +1644,17 @@ $bit_integrations_i18n_strings = array(
 
     'Bit CRM list fetch failed. Please try again' => __('Bit CRM list fetch failed. Please try again', 'bit-integrations'),
 
+    'Fields refreshed successfully' => __('Fields refreshed successfully', 'bit-integrations'),
+
+    'Bit CRM field fetch failed. Please try again' => __('Bit CRM field fetch failed. Please try again', 'bit-integrations'),
+
+    'Refetch Bit CRM Fields' => __('Refetch Bit CRM Fields', 'bit-integrations'),
+
     'Refresh' => __('Refresh', 'bit-integrations'),
 
     'Select a module first.' => __('Select a module first.', 'bit-integrations'),
 
     'Bit CRM Fields' => __('Bit CRM Fields', 'bit-integrations'),
-
-    'Mr' => __('Mr', 'bit-integrations'),
-
-    'Mrs' => __('Mrs', 'bit-integrations'),
-
-    'Miss' => __('Miss', 'bit-integrations'),
-
-    'Ms' => __('Ms', 'bit-integrations'),
-
-    'Dr' => __('Dr', 'bit-integrations'),
-
-    'None' => __('None', 'bit-integrations'),
-
-    'Advertisement' => __('Advertisement', 'bit-integrations'),
-
-    'Cold Call' => __('Cold Call', 'bit-integrations'),
-
-    'Employee Referral' => __('Employee Referral', 'bit-integrations'),
-
-    'External Referral' => __('External Referral', 'bit-integrations'),
-
-    'Online Store' => __('Online Store', 'bit-integrations'),
-
-    'Qualifies' => __('Qualifies', 'bit-integrations'),
-
-    'Negotiation Done' => __('Negotiation Done', 'bit-integrations'),
-
-    'Discount Approved' => __('Discount Approved', 'bit-integrations'),
-
-    'Discount Rejected' => __('Discount Rejected', 'bit-integrations'),
-
-    'Contract Sent' => __('Contract Sent', 'bit-integrations'),
-
-    'Deal Win' => __('Deal Win', 'bit-integrations'),
-
-    'Deal Lost' => __('Deal Lost', 'bit-integrations'),
-
-    'Goods' => __('Goods', 'bit-integrations'),
-
-    'Service' => __('Service', 'bit-integrations'),
-
-    'Active' => __('Active', 'bit-integrations'),
-
-    'Inactive' => __('Inactive', 'bit-integrations'),
 
     'Contact' => __('Contact', 'bit-integrations'),
 
@@ -1834,8 +1796,6 @@ $bit_integrations_i18n_strings = array(
 
     'Details' => __('Details', 'bit-integrations'),
 
-    'Company Name' => __('Company Name', 'bit-integrations'),
-
     'Lead Id' => __('Lead Id', 'bit-integrations'),
 
     'New Tags (comma separated)' => __('New Tags (comma separated)', 'bit-integrations'),
@@ -1845,14 +1805,6 @@ $bit_integrations_i18n_strings = array(
     'Company Id' => __('Company Id', 'bit-integrations'),
 
     'Deal Id' => __('Deal Id', 'bit-integrations'),
-
-    'Product Name' => __('Product Name', 'bit-integrations'),
-
-    'Product Code' => __('Product Code', 'bit-integrations'),
-
-    'Unit Price' => __('Unit Price', 'bit-integrations'),
-
-    'Brand' => __('Brand', 'bit-integrations'),
 
     'Product Id' => __('Product Id', 'bit-integrations'),
 
@@ -1874,23 +1826,11 @@ $bit_integrations_i18n_strings = array(
 
     'Payment Term' => __('Payment Term', 'bit-integrations'),
 
-    'Parent Contact' => __('Parent Contact', 'bit-integrations'),
-
-    'Parent Company' => __('Parent Company', 'bit-integrations'),
-
-    'Owner' => __('Owner', 'bit-integrations'),
-
     'Assigned To' => __('Assigned To', 'bit-integrations'),
 
     'Record' => __('Record', 'bit-integrations'),
 
-    'Lead Source' => __('Lead Source', 'bit-integrations'),
-
-    'Lead Status' => __('Lead Status', 'bit-integrations'),
-
-    'Deal Type' => __('Deal Type', 'bit-integrations'),
-
-    'Product Type' => __('Product Type', 'bit-integrations'),
+    'Closing Date (YYYY-MM-DD HH:MM:SS)' => __('Closing Date (YYYY-MM-DD HH:MM:SS)', 'bit-integrations'),
 
     'Module' => __('Module', 'bit-integrations'),
 
@@ -2051,6 +1991,8 @@ $bit_integrations_i18n_strings = array(
     'Public' => __('Public', 'bit-integrations'),
 
     'Private' => __('Private', 'bit-integrations'),
+
+    'Active' => __('Active', 'bit-integrations'),
 
     'Suspend' => __('Suspend', 'bit-integrations'),
 
@@ -2373,6 +2315,8 @@ $bit_integrations_i18n_strings = array(
     'GooglePlus' => __('GooglePlus', 'bit-integrations'),
 
     'Postal Code' => __('Postal Code', 'bit-integrations'),
+
+    'Company Name' => __('Company Name', 'bit-integrations'),
 
     'Billing Street' => __('Billing Street', 'bit-integrations'),
 
@@ -3085,6 +3029,10 @@ $bit_integrations_i18n_strings = array(
 
     'Please map mandatory emailOctopusFields' => __('Please map mandatory emailOctopusFields', 'bit-integrations'),
 
+    'Pending contact' => __('Pending contact', 'bit-integrations'),
+
+    'Set the contact status to "pending".' => __('Set the contact status to "pending".', 'bit-integrations'),
+
     'To get API key:' => __('To get API key:', 'bit-integrations'),
 
     'Generate/copy your API key and paste it into the Bearer Token field.' => __('Generate/copy your API key and paste it into the Bearer Token field.', 'bit-integrations'),
@@ -3437,6 +3385,8 @@ $bit_integrations_i18n_strings = array(
     'Out of Stock' => __('Out of Stock', 'bit-integrations'),
 
     'On Backorder' => __('On Backorder', 'bit-integrations'),
+
+    'Inactive' => __('Inactive', 'bit-integrations'),
 
     'Percentage' => __('Percentage', 'bit-integrations'),
 
@@ -4605,11 +4555,15 @@ $bit_integrations_i18n_strings = array(
 
     'Add a lifecycle stage' => __('Add a lifecycle stage', 'bit-integrations'),
 
+    'Lead Status' => __('Lead Status', 'bit-integrations'),
+
     'Add lead status' => __('Add lead status', 'bit-integrations'),
 
     'Associate deal with contacts' => __('Associate deal with contacts', 'bit-integrations'),
 
     'Associate deal with company' => __('Associate deal with company', 'bit-integrations'),
+
+    'Deal Type' => __('Deal Type', 'bit-integrations'),
 
     'Add type to deal' => __('Add type to deal', 'bit-integrations'),
 
@@ -4824,10 +4778,6 @@ $bit_integrations_i18n_strings = array(
     /* translators: 1: %1$s placeholder 2: %2$s placeholder */
     'The Bit Integrations Pro v(%s) plugin needs to be installed and activated to enable the %s feature' => __('The Bit Integrations Pro v(%1$s) plugin needs to be installed and activated to enable the %2$s feature', 'bit-integrations'),
 
-    'Authorization failed Cause:' => __('Authorization failed Cause:', 'bit-integrations'),
-
-    'Authorization failed. please try again' => __('Authorization failed. please try again', 'bit-integrations'),
-
     'Failed to save integration' => __('Failed to save integration', 'bit-integrations'),
 
     'Integration updated successfully' => __('Integration updated successfully', 'bit-integrations'),
@@ -4835,14 +4785,6 @@ $bit_integrations_i18n_strings = array(
     'Integration saved successfully' => __('Integration saved successfully', 'bit-integrations'),
 
     'Failed to update integration' => __('Failed to update integration', 'bit-integrations'),
-
-    'Data center can\'t be empty' => __('Data center can\'t be empty', 'bit-integrations'),
-
-    'Client Id can\'t be empty' => __('Client Id can\'t be empty', 'bit-integrations'),
-
-    'Secret key can\'t be empty' => __('Secret key can\'t be empty', 'bit-integrations'),
-
-    'Authorization failed' => __('Authorization failed', 'bit-integrations'),
 
     'Conditional Logics' => __('Conditional Logics', 'bit-integrations'),
 
@@ -5876,6 +5818,8 @@ $bit_integrations_i18n_strings = array(
 
     'Note: create custom options by pressing enter or comma' => __('Note: create custom options by pressing enter or comma', 'bit-integrations'),
 
+    'Authorization failed' => __('Authorization failed', 'bit-integrations'),
+
     'Type:' => __('Type:', 'bit-integrations'),
 
     'Select subscription type' => __('Select subscription type', 'bit-integrations'),
@@ -6064,6 +6008,8 @@ $bit_integrations_i18n_strings = array(
     'Open your Mailjet account API keys page.' => __('Open your Mailjet account API keys page.', 'bit-integrations'),
 
     'Use API Key as Username and Secret Key as Password in this form.' => __('Use API Key as Username and Secret Key as Password in this form.', 'bit-integrations'),
+
+    'Secret key can\'t be empty' => __('Secret key can\'t be empty', 'bit-integrations'),
 
     'All lists fectched successfully' => __('All lists fectched successfully', 'bit-integrations'),
 
@@ -6528,6 +6474,8 @@ $bit_integrations_i18n_strings = array(
     'Locality' => __('Locality', 'bit-integrations'),
 
     'Postal' => __('Postal', 'bit-integrations'),
+
+    'Lead Source' => __('Lead Source', 'bit-integrations'),
 
     'Hourly Amount' => __('Hourly Amount', 'bit-integrations'),
 
@@ -7819,6 +7767,8 @@ $bit_integrations_i18n_strings = array(
     'Account list refresh failed. please try again' => __('Account list refresh failed. please try again', 'bit-integrations'),
 
     'Loading Account list...' => __('Loading Account list...', 'bit-integrations'),
+
+    'None' => __('None', 'bit-integrations'),
 
     'Prospecting' => __('Prospecting', 'bit-integrations'),
 
@@ -9675,6 +9625,8 @@ $bit_integrations_i18n_strings = array(
 
     'Admin' => __('Admin', 'bit-integrations'),
 
+    'Brand' => __('Brand', 'bit-integrations'),
+
     'Ticket Form' => __('Ticket Form', 'bit-integrations'),
 
     'Assignee' => __('Assignee', 'bit-integrations'),
@@ -9934,6 +9886,8 @@ $bit_integrations_i18n_strings = array(
 
     'ticket owner is required' => __('ticket owner is required', 'bit-integrations'),
 
+    'Product Name' => __('Product Name', 'bit-integrations'),
+
     'Add a product to ticket pushed to Zoho Desk.' => __('Add a product to ticket pushed to Zoho Desk.', 'bit-integrations'),
 
     'Add attachments from trigger-end to ticket pushed to Zoho Desk.' => __('Add attachments from trigger-end to ticket pushed to Zoho Desk.', 'bit-integrations'),
@@ -10122,6 +10076,8 @@ $bit_integrations_i18n_strings = array(
     'Bearer token is required' => __('Bearer token is required', 'bit-integrations'),
 
     'is required' => __('is required', 'bit-integrations'),
+
+    'Authorization failed Cause:' => __('Authorization failed Cause:', 'bit-integrations'),
 
     'Unknown error' => __('Unknown error', 'bit-integrations'),
 
@@ -10793,6 +10749,14 @@ $bit_integrations_i18n_strings = array(
 
     'Thanks for using our product! You can explore our Pro plugin with a 7-day trial. Please note that your data will be deleted once the trial ends.' => __('Thanks for using our product! You can explore our Pro plugin with a 7-day trial. Please note that your data will be deleted once the trial ends.', 'bit-integrations'),
 
+    'Hide' => __('Hide', 'bit-integrations'),
+
+    'Show' => __('Show', 'bit-integrations'),
+
+    'Hide value' => __('Hide value', 'bit-integrations'),
+
+    'Show value' => __('Show value', 'bit-integrations'),
+
     'Do You want Deplicate these' => __('Do You want Deplicate these', 'bit-integrations'),
 
     'item' => __('item', 'bit-integrations'),
@@ -10818,8 +10782,6 @@ $bit_integrations_i18n_strings = array(
     'Total Response:' => __('Total Response:', 'bit-integrations'),
 
     'of' => __('of', 'bit-integrations'),
-
-    'Show' => __('Show', 'bit-integrations'),
 
     'Duplicate' => __('Duplicate', 'bit-integrations'),
 

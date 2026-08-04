@@ -1,0 +1,8 @@
+import{_ as t,j as l}from"./main.2.10.2.js";import{A as m}from"./AddNewConnection.CKMdUmWP.js";import{t as p}from"./TutorialLink.DGZkpRHA.js";import{A as d}from"./Authorization.7o7nffd8.js";import"./react-router.DMwpH23k.js";import"./react-vendor.P7K3d6op.js";import"./connectionApi.CDDMGjAe.js";import"./Note.BxLRMTfj.js";import"./SnackMsg.jeQopGz7.js";import"./ConfirmModal.DWgUNXwM.js";import"./oauthHelper.-jy64Bib.js";import"./BackIcn.CkJ_lS8M.js";import"./Integrations.BtsIooDn.js";import"./Table.CbfGOCkC.js";import"./index.DpWdl9V1.js";import"./InfoIcn.DK8jtAK0.js";function R({perfexCRMConf:e,setPerfexCRMConf:o,step:n,setStep:r,isInfo:a}){var i;const s=`
+    <h4>${t("Get API Token","bit-integrations")}</h4>
+    <ul>
+      <li>${t("Go to your Perfex CRM's Admin area and select the following menu item: <b>SETUP → MODULES</b>.","bit-integrations")}</li>
+      <li>${t("Select the extracted upload.zip at Module installation selection prompt and press <b>INSTALL</b>.","bit-integrations")}</li>
+      <li>${t("Find the newly installed module in the list, press <b>ACTIVATE</b> and enter your license key.","bit-integrations")}</li>
+      <li>${t("Go to your Perfex's CRM backend as an admin, go to <b>API → API Management</b>, and create a new token.","bit-integrations")}</li>
+    </ul>`;return l.jsx(d,{config:e,setConfig:o,step:n,setStep:r,isInfo:a,tutorialTitle:"Perfex CRM",tutorialLinks:((i=p)==null?void 0:i.perfexCRM)||{},authDetails:{authType:m.API_KEY,apiEndpoint:"{domain}/api/staffs",method:"GET",key:"authtoken",addTo:"header",extraFields:[{name:"domain",label:t("Access API URL","bit-integrations"),required:!0,placeholder:t("https://example.com","bit-integrations")}]},noteDetails:{note:s}})}export{R as default};
