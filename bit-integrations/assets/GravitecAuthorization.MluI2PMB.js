@@ -1,0 +1,9 @@
+import{_ as t,j as p}from"./main.2.10.3.js";import{A as l}from"./AddNewConnection.BCtQJFwj.js";import{t as u}from"./TutorialLink.Cx9cwS8W.js";import{A as m}from"./Authorization.hFl5SniY.js";import"./react-router.DMwpH23k.js";import"./react-vendor.P7K3d6op.js";import"./connectionApi.BRDXEvT3.js";import"./Note.CGYSFn76.js";import"./SnackMsg.CziG1LAl.js";import"./ConfirmModal.Bv5a6udM.js";import"./oauthHelper.B8KZ6m8n.js";import"./BackIcn.BNm9Wd7j.js";import"./Integrations.DwaOhg5C.js";import"./Table.CAuj7UWX.js";import"./index.DpWdl9V1.js";import"./InfoIcn.R6rudVDk.js";function U({gravitecConf:e,setGravitecConf:r,step:o,setStep:a,isInfo:s}){var i;const n=`
+    <h4>${t("To Get App key & App Secret","bit-integrations")}</h4>
+    <ul>
+      <li>${t("Visit","bit-integrations")} <a href="https://push.gravitec.net/" target="_blank" rel="noreferrer">${t("Gravitec Dashboard","bit-integrations")}</a> ${t("to get your credentials.","bit-integrations")}</li>
+      <li>${t("First go to your Gravitec dashboard.","bit-integrations")}</li>
+      <li>${t("Open your site from the left sidebar.","bit-integrations")}</li>
+      <li>${t("Open Settings, then REST API.","bit-integrations")}</li>
+      <li>${t("Use App key as Username and App secret as Password here.","bit-integrations")}</li>
+    </ul>`;return p.jsx(m,{config:e,setConfig:r,step:o,setStep:a,isInfo:s,tutorialTitle:"Gravitec",tutorialLinks:((i=u)==null?void 0:i.gravitec)||{},authDetails:{authType:l.BASIC_AUTH,apiEndpoint:"https://uapi.gravitec.net/api/v3/push",method:"POST",headers:{"Content-Type":"application/json"},payload:'{"payload":{"title":"Authorization","message":"Authorized Successfully","icon":"{site_url}/favicon.ico","redirect_url":"{site_url}"}}',extraFields:[{name:"site_url",label:t("Site Url","bit-integrations"),required:!0,placeholder:t("https://example.com","bit-integrations")}]},noteDetails:{note:n}})}export{U as default};

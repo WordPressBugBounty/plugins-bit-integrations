@@ -1,0 +1,22 @@
+var P=Object.defineProperty,S=Object.defineProperties;var G=Object.getOwnPropertyDescriptors;var A=Object.getOwnPropertySymbols;var L=Object.prototype.hasOwnProperty,E=Object.prototype.propertyIsEnumerable;var $=(i,e,o)=>e in i?P(i,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):i[e]=o,m=(i,e)=>{for(var o in e||(e={}))L.call(e,o)&&$(i,o,e[o]);if(A)for(var o of A(e))E.call(e,o)&&$(i,o,e[o]);return i},f=(i,e)=>S(i,G(e));var I=(i,e,o)=>new Promise((c,u)=>{var h=r=>{try{a(o.next(r))}catch(l){u(l)}},g=r=>{try{a(o.throw(r))}catch(l){u(l)}},a=r=>r.done?c(r.value):Promise.resolve(r.value).then(h,g);a((o=o.apply(i,e)).next())});import{i as k,e as D,j as H,_ as t}from"./main.2.10.3.js";import{b as _}from"./react-router.DMwpH23k.js";import{A as w}from"./AddNewConnection.BCtQJFwj.js";import{A as x}from"./Authorization.hFl5SniY.js";import{t as T}from"./TutorialLink.Cx9cwS8W.js";import{g as V}from"./ProUtilHelpers.zn0l9USO.js";import{g as C}from"./connectionApi.BRDXEvT3.js";import"./react-vendor.P7K3d6op.js";import"./Note.CGYSFn76.js";import"./SnackMsg.CziG1LAl.js";import"./ConfirmModal.Bv5a6udM.js";import"./oauthHelper.B8KZ6m8n.js";import"./BackIcn.BNm9Wd7j.js";import"./Integrations.DwaOhg5C.js";import"./Table.CAuj7UWX.js";import"./index.DpWdl9V1.js";import"./InfoIcn.R6rudVDk.js";function et({highLevelConf:i,setHighLevelConf:e,step:o,setstep:c,isInfo:u}){var v;const h=k(D),{isPro:g}=h,a=_.useCallback(n=>I(null,null,function*(){var y,d;if(!n)return;const s=yield C(n),p=s!=null&&s.success?(d=(y=s==null?void 0:s.data)==null?void 0:y.data)==null?void 0:d.auth_details:null;p&&e(b=>f(m({},b),{version:p.version||b.version||"v1",location_id:p.location_id||b.location_id||""}))}),[e]),r=_.useCallback(n=>{c(n)},[c]),l=g?[{value:"v1",label:"HighLevel API V1"},{value:"v2",label:"HighLevel API V2"}]:[{value:"v1",label:V("HighLevel API V1")}];return H.jsx(x,{config:i,setConfig:e,step:o,setStep:r,isInfo:u,tutorialTitle:"HighLevel",tutorialLinks:((v=T)==null?void 0:v.highLevel)||{},authDetails:{authType:w.BEARER_TOKEN,apiEndpoint:n=>(n==null?void 0:n.version)==="v2"?`https://services.leadconnectorhq.com/locations/${(n==null?void 0:n.location_id)||""}`:"https://rest.gohighlevel.com/v1/contacts/?limit=1",method:"GET",headers:n=>m({Accept:"application/json"},(n==null?void 0:n.version)==="v2"?{Version:"2021-07-28"}:{}),extraFields:[{name:"version",label:t("Select Version","bit-integrations"),required:!0,type:"select",placeholder:t("Select Version","bit-integrations"),options:l},...g?[{name:"location_id",label:t("Location ID","bit-integrations"),required:!1,placeholder:t("Location ID...","bit-integrations")}]:[]]},noteDetails:{note:j(i==null?void 0:i.version)},onConnectionSelected:a})}const j=i=>i!=="v2"?`
+            <h4>${t("Get GoHighLevel Api Key","bit-integrations")}</h4>
+            <ul>
+                <li>${t("First go to your GoHighLevel sub account settings then business profile tab","bit-integrations")}.</li>
+                <li>${t("Copy the the API key.","bit-integrations")}</li>
+                <li>${t("You can also get the API key from Agency view. Navigate to settings then API keys tab.","bit-integrations")}</li>
+            </ul>`:`
+            <h4>${t("Get GoHighLevel Location ID","bit-integrations")}</h4>
+            <ul>
+                <li>${t("From the Sub-Account Dashboard, go to Settings in lower right-hand corner","bit-integrations")}.</li>
+                <li>${t("Select Business Profile on the left-side navigation bar.","bit-integrations")}</li>
+                <li>${t("The Location ID will be visible as shown in General Information.","bit-integrations")}</li>
+                <li>${t("Copy the location ID.","bit-integrations")}</li>
+            </ul>
+            <h4>${t("Get GoHighLevel Api Key","bit-integrations")}</h4>
+            <ul>
+                <li>${t("First go to your GoHighLevel sub account settings then Private Integration tab","bit-integrations")}.</li>
+                <li>${t('Click on "Create new Integration"',"bit-integrations")}</li>
+                <li>${t("Give your Private Integration a name and description to help you and your team identify what it's for.","bit-integrations")}</li>
+                <li>${t("Select the scopes/permissions that you want the private integration to have access to on your agency  account. Ensure that you are selecting only the required scopes for better data security.","bit-integrations")}</li>
+                <li>${t("Copy the token generated.","bit-integrations")}</li>
+            </ul>`;export{et as default};
