@@ -44,6 +44,10 @@ $bit_integrations_i18n_strings = array(
 
     'Select Lessons:' => __('Select Lessons:', 'bit-integrations'),
 
+    'Academy LMS Fields' => __('Academy LMS Fields', 'bit-integrations'),
+
+    'This action runs for the user matching the mapped email. The user must already exist on your site, otherwise the action fails.' => __('This action runs for the user matching the mapped email. The user must already exist on your site, otherwise the action fails.', 'bit-integrations'),
+
     'This integration will only work for logged-in users.' => __('This integration will only work for logged-in users.', 'bit-integrations'),
 
     'Integration Name:' => __('Integration Name:', 'bit-integrations'),
@@ -1230,6 +1234,8 @@ $bit_integrations_i18n_strings = array(
     'Fetch All Affiliate List' => __('Fetch All Affiliate List', 'bit-integrations'),
 
     'Affiliate Fields' => __('Affiliate Fields', 'bit-integrations'),
+
+    'AffiliateWP Fields' => __('AffiliateWP Fields', 'bit-integrations'),
 
     'Some integrations will only work for logged-in users.' => __('Some integrations will only work for logged-in users.', 'bit-integrations'),
 
@@ -3313,6 +3319,13 @@ $bit_integrations_i18n_strings = array(
 
     'Integration Settings' => __('Integration Settings', 'bit-integrations'),
 
+    'Integration settings unavailable' => __('Integration settings unavailable', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    'No settings screen is registered for "%s". If this action came from Bit Integrations Pro, activate Pro to edit it.' => __('No settings screen is registered for "%s". If this action came from Bit Integrations Pro, activate Pro to edit it.', 'bit-integrations'),
+
+    'unknown' => __('unknown', 'bit-integrations'),
+
     'Edit Tag' => __('Edit Tag', 'bit-integrations'),
 
     'Rename this tag for filters and integration assignments.' => __('Rename this tag for filters and integration assignments.', 'bit-integrations'),
@@ -4414,6 +4427,10 @@ $bit_integrations_i18n_strings = array(
 
     'If checked, Event create will skip if slot not free' => __('If checked, Event create will skip if slot not free', 'bit-integrations'),
 
+    'Description Editor' => __('Description Editor', 'bit-integrations'),
+
+    'Write the description in an editor with Markdown formatting and a preview, instead of mapping a plain text field. Description is removed from Field Map.' => __('Write the description in an editor with Markdown formatting and a preview, instead of mapping a plain text field. Description is removed from Field Map.', 'bit-integrations'),
+
     'Set Reminders' => __('Set Reminders', 'bit-integrations'),
 
     'Notification Type' => __('Notification Type', 'bit-integrations'),
@@ -4447,6 +4464,12 @@ $bit_integrations_i18n_strings = array(
     'Time Zone:' => __('Time Zone:', 'bit-integrations'),
 
     'Google Calendar Fields' => __('Google Calendar Fields', 'bit-integrations'),
+
+    'Event Description' => __('Event Description', 'bit-integrations'),
+
+    'Write in Markdown and check the Preview tab. It is converted to the formatting Google Calendar renders in event descriptions.' => __('Write in Markdown and check the Preview tab. It is converted to the formatting Google Calendar renders in event descriptions.', 'bit-integrations'),
+
+    'Write the event description...' => __('Write the event description...', 'bit-integrations'),
 
     'Select Notification Type' => __('Select Notification Type', 'bit-integrations'),
 
@@ -5087,6 +5110,14 @@ $bit_integrations_i18n_strings = array(
     'Failed to update integration' => __('Failed to update integration', 'bit-integrations'),
 
     'Conditional Logics' => __('Conditional Logics', 'bit-integrations'),
+
+    'Map User Email' => __('Map User Email', 'bit-integrations'),
+
+    'Run Action For:' => __('Run Action For:', 'bit-integrations'),
+
+    'Logged-in User' => __('Logged-in User', 'bit-integrations'),
+
+    'User Matched by Email' => __('User Matched by Email', 'bit-integrations'),
 
     'Select Authorization' => __('Select Authorization', 'bit-integrations'),
 
@@ -5736,6 +5767,8 @@ $bit_integrations_i18n_strings = array(
 
     'LearnDesh Fields' => __('LearnDesh Fields', 'bit-integrations'),
 
+    'LearnDash Fields' => __('LearnDash Fields', 'bit-integrations'),
+
     'Update Lemlist' => __('Update Lemlist', 'bit-integrations'),
 
     'Update Responses with Lemlist existing email?' => __('Update Responses with Lemlist existing email?', 'bit-integrations'),
@@ -5799,6 +5832,8 @@ $bit_integrations_i18n_strings = array(
     'Select a membership:' => __('Select a membership:', 'bit-integrations'),
 
     'Fetch membership list' => __('Fetch membership list', 'bit-integrations'),
+
+    'LifterLMS Fields' => __('LifterLMS Fields', 'bit-integrations'),
 
     'Send a Push Message' => __('Send a Push Message', 'bit-integrations'),
 
@@ -6175,8 +6210,6 @@ $bit_integrations_i18n_strings = array(
     're-runs' => __('re-runs', 'bit-integrations'),
 
     'from' => __('from', 'bit-integrations'),
-
-    'unknown' => __('unknown', 'bit-integrations'),
 
     'Record Type' => __('Record Type', 'bit-integrations'),
 
@@ -6653,8 +6686,6 @@ $bit_integrations_i18n_strings = array(
 
     'Fetch quiz list' => __('Fetch quiz list', 'bit-integrations'),
 
-    'Map User Email' => __('Map User Email', 'bit-integrations'),
-
     'MasterStudy LMS Fields' => __('MasterStudy LMS Fields', 'bit-integrations'),
 
     'This action targets the user matching the provided email. The user must already exist.' => __('This action targets the user matching the provided email. The user must already exist.', 'bit-integrations'),
@@ -6732,6 +6763,8 @@ $bit_integrations_i18n_strings = array(
     'Fetch All Membership' => __('Fetch All Membership', 'bit-integrations'),
 
     'Memberpress Fields' => __('Memberpress Fields', 'bit-integrations'),
+
+    'MemberPress Fields' => __('MemberPress Fields', 'bit-integrations'),
 
     'To use Modern Cart integration, make sure the Modern Cart and WooCommerce plugins are installed and active on your site.' => __('To use Modern Cart integration, make sure the Modern Cart and WooCommerce plugins are installed and active on your site.', 'bit-integrations'),
 
@@ -7006,6 +7039,14 @@ $bit_integrations_i18n_strings = array(
     'Select Record Type:' => __('Select Record Type:', 'bit-integrations'),
 
     'MoxieCRM Fields' => __('MoxieCRM Fields', 'bit-integrations'),
+
+    'Action not available' => __('Action not available', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    'No settings screen is registered for "%s".' => __('No settings screen is registered for "%s".', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    '%s settings could not be loaded' => __('%s settings could not be loaded', 'bit-integrations'),
 
     'To use Newsletter integration, make sure the Newsletter plugin is installed and active on your site.' => __('To use Newsletter integration, make sure the Newsletter plugin is installed and active on your site.', 'bit-integrations'),
 
@@ -7465,6 +7506,8 @@ $bit_integrations_i18n_strings = array(
     'All Paid Membership pro level fetched successfully' => __('All Paid Membership pro level fetched successfully', 'bit-integrations'),
 
     'Paid Membership pro level fetch failed. please try again' => __('Paid Membership pro level fetch failed. please try again', 'bit-integrations'),
+
+    'Paid Memberships Pro Fields' => __('Paid Memberships Pro Fields', 'bit-integrations'),
 
     'Delete file from Wordpress after upload in PCloud' => __('Delete file from Wordpress after upload in PCloud', 'bit-integrations'),
 
@@ -8292,6 +8335,8 @@ $bit_integrations_i18n_strings = array(
 
     'Expiry Date' => __('Expiry Date', 'bit-integrations'),
 
+    'Restrict Content Fields' => __('Restrict Content Fields', 'bit-integrations'),
+
     'Please select an Account' => __('Please select an Account', 'bit-integrations'),
 
     'Please select a Stage' => __('Please select a Stage', 'bit-integrations'),
@@ -9020,6 +9065,8 @@ $bit_integrations_i18n_strings = array(
 
     'commission_date' => __('commission_date', 'bit-integrations'),
 
+    'Please map the user email' => __('Please map the user email', 'bit-integrations'),
+
     'Rejected' => __('Rejected', 'bit-integrations'),
 
     'Subscription' => __('Subscription', 'bit-integrations'),
@@ -9525,6 +9572,8 @@ $bit_integrations_i18n_strings = array(
     'Write the card description...' => __('Write the card description...', 'bit-integrations'),
 
     'To use Tutor LMS integration, make sure the Tutor LMS plugin is installed and active on your site.' => __('To use Tutor LMS integration, make sure the Tutor LMS plugin is installed and active on your site.', 'bit-integrations'),
+
+    'Tutor LMS Fields' => __('Tutor LMS Fields', 'bit-integrations'),
 
     'Please select To and Body field , it is required' => __('Please select To and Body field , it is required', 'bit-integrations'),
 
@@ -10294,6 +10343,8 @@ $bit_integrations_i18n_strings = array(
     'WP Courseware Courses:' => __('WP Courseware Courses:', 'bit-integrations'),
 
     'Refresh WP Courseware Courses' => __('Refresh WP Courseware Courses', 'bit-integrations'),
+
+    'WP Courseware Fields' => __('WP Courseware Fields', 'bit-integrations'),
 
     'Add Row' => __('Add Row', 'bit-integrations'),
 
@@ -11617,6 +11668,12 @@ $bit_integrations_i18n_strings = array(
 
     'When response data appears, click <b>Set Action</b> to continue.' => __('When response data appears, click <b>Set Action</b> to continue.', 'bit-integrations'),
 
+    'Something went wrong' => __('Something went wrong', 'bit-integrations'),
+
+    'This screen could not be displayed. The details below help us fix it — please include them in a support report.' => __('This screen could not be displayed. The details below help us fix it — please include them in a support report.', 'bit-integrations'),
+
+    'Try again' => __('Try again', 'bit-integrations'),
+
     'Click to edit' => __('Click to edit', 'bit-integrations'),
 
     'Click to remove' => __('Click to remove', 'bit-integrations'),
@@ -11709,11 +11766,11 @@ $bit_integrations_i18n_strings = array(
 
     'Code Block' => __('Code Block', 'bit-integrations'),
 
-    'Insert Form Field' => __('Insert Form Field', 'bit-integrations'),
-
-    'Insert Smart Tag' => __('Insert Smart Tag', 'bit-integrations'),
-
     'Smart Tags' => __('Smart Tags', 'bit-integrations'),
+
+    'Write' => __('Write', 'bit-integrations'),
+
+    'Nothing to preview yet.' => __('Nothing to preview yet.', 'bit-integrations'),
 
     'Column  Visibility' => __('Column  Visibility', 'bit-integrations'),
 
@@ -11798,8 +11855,6 @@ $bit_integrations_i18n_strings = array(
 
     /* translators: %s: placeholder */
     'Summarize using %s' => __('Summarize using %s', 'bit-integrations'),
-
-    'Something went wrong' => __('Something went wrong', 'bit-integrations'),
 
     'Integration deleted successfully' => __('Integration deleted successfully', 'bit-integrations'),
 

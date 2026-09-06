@@ -476,6 +476,7 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Core\\Http\\OauthCallbackController' => __DIR__ . '/../..' . '/backend/Core/Http/OauthCallbackController.php',
         'BitApps\\Integrations\\Core\\Integration\\IntegrationHandler' => __DIR__ . '/../..' . '/backend/Core/Integration/IntegrationHandler.php',
         'BitApps\\Integrations\\Core\\Util\\API' => __DIR__ . '/../..' . '/backend/Core/Util/API.php',
+        'BitApps\\Integrations\\Core\\Util\\ActionUser' => __DIR__ . '/../..' . '/backend/Core/Util/ActionUser.php',
         'BitApps\\Integrations\\Core\\Util\\Activation' => __DIR__ . '/../..' . '/backend/Core/Util/Activation.php',
         'BitApps\\Integrations\\Core\\Util\\AllTriggersName' => __DIR__ . '/../..' . '/backend/Core/Util/AllTriggersName.php',
         'BitApps\\Integrations\\Core\\Util\\AttachmentHandler' => __DIR__ . '/../..' . '/backend/Core/Util/AttachmentHandler.php',

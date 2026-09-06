@@ -448,6 +448,7 @@ return array(
     'BitApps\\Integrations\\Core\\Http\\OauthCallbackController' => $baseDir . '/backend/Core/Http/OauthCallbackController.php',
     'BitApps\\Integrations\\Core\\Integration\\IntegrationHandler' => $baseDir . '/backend/Core/Integration/IntegrationHandler.php',
     'BitApps\\Integrations\\Core\\Util\\API' => $baseDir . '/backend/Core/Util/API.php',
+    'BitApps\\Integrations\\Core\\Util\\ActionUser' => $baseDir . '/backend/Core/Util/ActionUser.php',
     'BitApps\\Integrations\\Core\\Util\\Activation' => $baseDir . '/backend/Core/Util/Activation.php',
     'BitApps\\Integrations\\Core\\Util\\AllTriggersName' => $baseDir . '/backend/Core/Util/AllTriggersName.php',
     'BitApps\\Integrations\\Core\\Util\\AttachmentHandler' => $baseDir . '/backend/Core/Util/AttachmentHandler.php',

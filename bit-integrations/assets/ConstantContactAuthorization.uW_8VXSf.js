@@ -1,0 +1,10 @@
+import{_ as t,j as c}from"./main.2.10.4.js";import{A as p}from"./AddNewConnection.B2iullfe.js";import{t as l}from"./TutorialLink.Jph0Wyx1.js";import{A as u}from"./Authorization.CEG4BCsq.js";import"./react-router.BiLdldC0.js";import"./react-vendor.BZTAuXQx.js";import"./connectionApi.BAYnB26G.js";import"./Note.BlcqXpwI.js";import"./SnackMsg.CjV2AznC.js";import"./ConfirmModal.LX-d7pCX.js";import"./oauthHelper.DdIjK7ap.js";import"./BackIcn.C0X1dWEt.js";import"./Integrations.cQMbRc1e.js";import"./Table.CDoeMbPk.js";import"./index.Cj5suhk1.js";import"./InfoIcn.Bqjy485j.js";function v({constantContactConf:a,setConstantContactConf:i,step:n,setstep:e,isInfo:r}){var o;const s=`
+  <h4>${t("Steps to get Client ID and Client Secret","bit-integrations")}</h4>
+  <ul>
+    <li>${t("Visit","bit-integrations")} <a href="https://app.constantcontact.com/pages/dma/portal/" target="_blank" rel="noreferrer">${t("Constant Contact My Applications","bit-integrations")}</a> ${t("to get your credentials.","bit-integrations")}</li>
+    <li>${t("Go to Constant Contact developer portal and create app.","bit-integrations")}</li>
+    <li>${t("Enable Authorization Code flow and refresh token support.","bit-integrations")}</li>
+    <li>${t("Copy redirect URI from this form and add it to app configuration.","bit-integrations")}</li>
+    <li>${t("Copy client ID and client secret, then click Authorize.","bit-integrations")}</li>
+  </ul>
+`;return c.jsx(u,{config:a,setConfig:i,step:n,setStep:e,isInfo:r,tutorialTitle:"Constant Contact",tutorialLinks:((o=l)==null?void 0:o.constantContact)||{},authDetails:{authType:p.OAUTH2,grantType:"authorization_code",clientAuthentication:"header",authCodeEndpoint:{url:"https://authz.constantcontact.com/oauth2/default/v1/authorize",queryParams:{scope:"account_read account_update contact_data offline_access campaign_data"}},tokenEndpoint:{url:"https://authz.constantcontact.com/oauth2/default/v1/token",method:"POST"},refreshTokenUrl:"https://authz.constantcontact.com/oauth2/default/v1/token"},noteDetails:{note:s}})}export{v as default};

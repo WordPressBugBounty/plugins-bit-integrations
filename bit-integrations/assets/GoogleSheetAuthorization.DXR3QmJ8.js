@@ -1,0 +1,9 @@
+import{_ as t,j as l}from"./main.2.10.4.js";import{A as p}from"./AddNewConnection.B2iullfe.js";import{t as g}from"./TutorialLink.Jph0Wyx1.js";import{A as h}from"./Authorization.CEG4BCsq.js";import"./react-router.BiLdldC0.js";import"./react-vendor.BZTAuXQx.js";import"./connectionApi.BAYnB26G.js";import"./Note.BlcqXpwI.js";import"./SnackMsg.CjV2AznC.js";import"./ConfirmModal.LX-d7pCX.js";import"./oauthHelper.DdIjK7ap.js";import"./BackIcn.C0X1dWEt.js";import"./Integrations.cQMbRc1e.js";import"./Table.CDoeMbPk.js";import"./index.Cj5suhk1.js";import"./InfoIcn.Bqjy485j.js";function C({sheetConf:e,setSheetConf:i,step:r,setstep:n,isInfo:a}){var o;const s=`
+    <h4>${t("Google Sheets OAuth setup","bit-integrations")}</h4>
+    <ul>
+      <li>${t("Visit","bit-integrations")} <a href="https://console.developers.google.com/apis/credentials" target="_blank" rel="noreferrer">${t("Google API Console","bit-integrations")}</a> ${t("to get your credentials.","bit-integrations")}</li>
+      <li>${t("Create OAuth client in Google API Console.","bit-integrations")}</li>
+      <li>${t("Set homepage and redirect URI exactly from integration settings.","bit-integrations")}</li>
+      <li>${t("Enable Google Drive API and authorize with required scope.","bit-integrations")}</li>
+    </ul>
+  `;return l.jsx(h,{config:e,setConfig:i,step:r,setStep:n,isInfo:a,tutorialTitle:"Google Sheets",tutorialLinks:((o=g)==null?void 0:o.googleSheet)||{},authDetails:{authType:p.OAUTH2,grantType:"authorization_code",clientAuthentication:"body",authCodeEndpoint:{url:"https://accounts.google.com/o/oauth2/v2/auth",queryParams:{access_type:"offline",prompt:"consent",scope:"https://www.googleapis.com/auth/drive"}},tokenEndpoint:{url:"https://oauth2.googleapis.com/token",method:"POST"},refreshTokenUrl:"https://oauth2.googleapis.com/token"},noteDetails:{note:s}})}export{C as default};
