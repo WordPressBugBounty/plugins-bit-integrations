@@ -263,6 +263,8 @@ return array(
     'BitApps\\Integrations\\Actions\\PipeDrive\\PipeDriveController' => $baseDir . '/backend/Actions/PipeDrive/PipeDriveController.php',
     'BitApps\\Integrations\\Actions\\PipeDrive\\RecordApiHelper' => $baseDir . '/backend/Actions/PipeDrive/RecordApiHelper.php',
     'BitApps\\Integrations\\Actions\\Pods\\PodsController' => $baseDir . '/backend/Actions/Pods/PodsController.php',
+    'BitApps\\Integrations\\Actions\\Pointics\\PointicsController' => $baseDir . '/backend/Actions/Pointics/PointicsController.php',
+    'BitApps\\Integrations\\Actions\\Pointics\\RecordApiHelper' => $baseDir . '/backend/Actions/Pointics/RecordApiHelper.php',
     'BitApps\\Integrations\\Actions\\PopupMaker\\PopupMakerController' => $baseDir . '/backend/Actions/PopupMaker/PopupMakerController.php',
     'BitApps\\Integrations\\Actions\\PopupMaker\\RecordApiHelper' => $baseDir . '/backend/Actions/PopupMaker/RecordApiHelper.php',
     'BitApps\\Integrations\\Actions\\PostCreation\\PostCreationController' => $baseDir . '/backend/Actions/PostCreation/PostCreationController.php',

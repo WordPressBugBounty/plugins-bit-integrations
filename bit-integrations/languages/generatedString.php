@@ -1087,7 +1087,11 @@ $bit_integrations_i18n_strings = array(
 
     'Update ActiveCampaign Tags' => __('Update ActiveCampaign Tags', 'bit-integrations'),
 
-    'Update existing contact tags in ActiveCampaign?' => __('Update existing contact tags in ActiveCampaign?', 'bit-integrations'),
+    'Replace existing contact tags with the selected tags?' => __('Replace existing contact tags with the selected tags?', 'bit-integrations'),
+
+    'Append ActiveCampaign Tags' => __('Append ActiveCampaign Tags', 'bit-integrations'),
+
+    'Add the selected tags alongside existing contact tags?' => __('Add the selected tags alongside existing contact tags?', 'bit-integrations'),
 
     'Get API URL and API key' => __('Get API URL and API key', 'bit-integrations'),
 
@@ -7842,6 +7846,60 @@ $bit_integrations_i18n_strings = array(
     'Pod Fields Mapping' => __('Pod Fields Mapping', 'bit-integrations'),
 
     'Pod File Upload Mapping' => __('Pod File Upload Mapping', 'bit-integrations'),
+
+    'Please select a channel to continue.' => __('Please select a channel to continue.', 'bit-integrations'),
+
+    'Promote Only' => __('Promote Only', 'bit-integrations'),
+
+    'Never demote a member on recompute' => __('Never demote a member on recompute', 'bit-integrations'),
+
+    'To use Pointics integration, make sure the Pointics plugin is installed and active on your site.' => __('To use Pointics integration, make sure the Pointics plugin is installed and active on your site.', 'bit-integrations'),
+
+    'All channels fetched successfully' => __('All channels fetched successfully', 'bit-integrations'),
+
+    'Pointics channels fetch failed. Please try again' => __('Pointics channels fetch failed. Please try again', 'bit-integrations'),
+
+    'Channel:' => __('Channel:', 'bit-integrations'),
+
+    'Refresh Channels' => __('Refresh Channels', 'bit-integrations'),
+
+    'Pointics Fields' => __('Pointics Fields', 'bit-integrations'),
+
+    'Adjust Points' => __('Adjust Points', 'bit-integrations'),
+
+    'Award Channel Points' => __('Award Channel Points', 'bit-integrations'),
+
+    'Cancel Redemption' => __('Cancel Redemption', 'bit-integrations'),
+
+    'Recompute Member Tier' => __('Recompute Member Tier', 'bit-integrations'),
+
+    'Send Referral Invite' => __('Send Referral Invite', 'bit-integrations'),
+
+    'Cancel Referral Invite' => __('Cancel Referral Invite', 'bit-integrations'),
+
+    'Complete Referral Registration' => __('Complete Referral Registration', 'bit-integrations'),
+
+    'Complete Referral Purchase' => __('Complete Referral Purchase', 'bit-integrations'),
+
+    'Member Email' => __('Member Email', 'bit-integrations'),
+
+    'Points (negative debits)' => __('Points (negative debits)', 'bit-integrations'),
+
+    'Idempotency Key' => __('Idempotency Key', 'bit-integrations'),
+
+    'Dedupe Key' => __('Dedupe Key', 'bit-integrations'),
+
+    'Redemption Id' => __('Redemption Id', 'bit-integrations'),
+
+    'Referrer Email' => __('Referrer Email', 'bit-integrations'),
+
+    'Invite Email' => __('Invite Email', 'bit-integrations'),
+
+    'Referral Id' => __('Referral Id', 'bit-integrations'),
+
+    'Referee Email' => __('Referee Email', 'bit-integrations'),
+
+    'Order Amount' => __('Order Amount', 'bit-integrations'),
 
     'Please select a status to continue.' => __('Please select a status to continue.', 'bit-integrations'),
 

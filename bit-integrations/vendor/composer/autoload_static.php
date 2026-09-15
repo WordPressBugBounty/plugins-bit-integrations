@@ -291,6 +291,8 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Actions\\PipeDrive\\PipeDriveController' => __DIR__ . '/../..' . '/backend/Actions/PipeDrive/PipeDriveController.php',
         'BitApps\\Integrations\\Actions\\PipeDrive\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/PipeDrive/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\Pods\\PodsController' => __DIR__ . '/../..' . '/backend/Actions/Pods/PodsController.php',
+        'BitApps\\Integrations\\Actions\\Pointics\\PointicsController' => __DIR__ . '/../..' . '/backend/Actions/Pointics/PointicsController.php',
+        'BitApps\\Integrations\\Actions\\Pointics\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Pointics/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\PopupMaker\\PopupMakerController' => __DIR__ . '/../..' . '/backend/Actions/PopupMaker/PopupMakerController.php',
         'BitApps\\Integrations\\Actions\\PopupMaker\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/PopupMaker/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\PostCreation\\PostCreationController' => __DIR__ . '/../..' . '/backend/Actions/PostCreation/PostCreationController.php',
