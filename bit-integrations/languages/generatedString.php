@@ -7997,8 +7997,6 @@ $bit_integrations_i18n_strings = array(
 
     'Please select Project status' => __('Please select Project status', 'bit-integrations'),
 
-    'Please select Project Related With...' => __('Please select Project Related With...', 'bit-integrations'),
-
     'Please select a Billing type' => __('Please select a Billing type', 'bit-integrations'),
 
     'Please select a Total Rate' => __('Please select a Total Rate', 'bit-integrations'),
@@ -8091,8 +8089,6 @@ $bit_integrations_i18n_strings = array(
 
     'Custom fields refresh failed. please try again' => __('Custom fields refresh failed. please try again', 'bit-integrations'),
 
-    'Lead fetched successfully' => __('Lead fetched successfully', 'bit-integrations'),
-
     'Project Member fetched successfully' => __('Project Member fetched successfully', 'bit-integrations'),
 
     'Project Member Not Found!' => __('Project Member Not Found!', 'bit-integrations'),
@@ -8110,8 +8106,6 @@ $bit_integrations_i18n_strings = array(
     'Create project' => __('Create project', 'bit-integrations'),
 
     'Project Status:' => __('Project Status:', 'bit-integrations'),
-
-    'Project Related With:' => __('Project Related With:', 'bit-integrations'),
 
     'Assigned By:' => __('Assigned By:', 'bit-integrations'),
 
@@ -11963,25 +11957,29 @@ $bit_integrations_i18n_strings = array(
 
     'Delete User from your account' => __('Delete User from your account', 'bit-integrations'),
 
-    'Pro or higher plan only .' => __('Pro or higher plan only .', 'bit-integrations'),
-
-    'Client Id and Client Secret generate with OAuth .' => __('Client Id and Client Secret generate with OAuth .', 'bit-integrations'),
-
-    'Scope:' => __('Scope:', 'bit-integrations'),
+    'Requires a Zoom Pro plan or higher.' => __('Requires a Zoom Pro plan or higher.', 'bit-integrations'),
 
     'Zoom App Marketplace' => __('Zoom App Marketplace', 'bit-integrations'),
 
-    'User:<b>\'user:master, user:read:admin, user:write:admin\'</b>' => __('User:<b>\'user:master, user:read:admin, user:write:admin\'</b>', 'bit-integrations'),
+    'build a General App (OAuth) and copy its Client ID and Client Secret here.' => __('build a General App (OAuth) and copy its Client ID and Client Secret here.', 'bit-integrations'),
 
-    'Meeting:<b>\'meeting:master, meeting:read:admin, meeting:write:admin\'</b>' => __('Meeting:<b>\'meeting:master, meeting:read:admin, meeting:write:admin\'</b>', 'bit-integrations'),
+    'Add the Callback / Redirect URL above as the OAuth Redirect URL and to the OAuth Allow List.' => __('Add the Callback / Redirect URL above as the OAuth Redirect URL and to the OAuth Allow List.', 'bit-integrations'),
 
-    'Redirect URIs add also in <b>\'Add allow lists\'</b>' => __('Redirect URIs add also in <b>\'Add allow lists\'</b>', 'bit-integrations'),
+    'Create User and Delete User need an Admin-managed app. A User-managed app works for the attendee actions.' => __('Create User and Delete User need an Admin-managed app. A User-managed app works for the attendee actions.', 'bit-integrations'),
 
-    'Zoom Settings :' => __('Zoom Settings :', 'bit-integrations'),
+    'Scopes:' => __('Scopes:', 'bit-integrations'),
 
-    'Registration:<b>Required</b>' => __('Registration:<b>Required</b>', 'bit-integrations'),
+    'Attendee actions:' => __('Attendee actions:', 'bit-integrations'),
 
-    'Participant:<b>On</b>' => __('Participant:<b>On</b>', 'bit-integrations'),
+    'User actions:' => __('User actions:', 'bit-integrations'),
+
+    'In an Admin-managed app, choose the attendee scopes that end in :admin.' => __('In an Admin-managed app, choose the attendee scopes that end in :admin.', 'bit-integrations'),
+
+    'Zoom meeting settings:' => __('Zoom meeting settings:', 'bit-integrations'),
+
+    'Registration:' => __('Registration:', 'bit-integrations'),
+
+    'Create User and Delete User do not use the meeting, but one must still be selected.' => __('Create User and Delete User do not use the meeting, but one must still be selected.', 'bit-integrations'),
 
     'Meeting list refreshed' => __('Meeting list refreshed', 'bit-integrations'),
 
@@ -12009,7 +12007,23 @@ $bit_integrations_i18n_strings = array(
 
     'All Webinar list failed. please try again' => __('All Webinar list failed. please try again', 'bit-integrations'),
 
+    'Pro or higher plan only .' => __('Pro or higher plan only .', 'bit-integrations'),
+
+    'Client Id and Client Secret generate with OAuth .' => __('Client Id and Client Secret generate with OAuth .', 'bit-integrations'),
+
+    'Scope:' => __('Scope:', 'bit-integrations'),
+
+    'User:<b>\'user:master, user:read:admin, user:write:admin\'</b>' => __('User:<b>\'user:master, user:read:admin, user:write:admin\'</b>', 'bit-integrations'),
+
     'Webinar:<b>\'webinar:master, webinar:read:admin, webinar:write:admin\'</b>' => __('Webinar:<b>\'webinar:master, webinar:read:admin, webinar:write:admin\'</b>', 'bit-integrations'),
+
+    'Redirect URIs add also in <b>\'Add allow lists\'</b>' => __('Redirect URIs add also in <b>\'Add allow lists\'</b>', 'bit-integrations'),
+
+    'Zoom Settings :' => __('Zoom Settings :', 'bit-integrations'),
+
+    'Registration:<b>Required</b>' => __('Registration:<b>Required</b>', 'bit-integrations'),
+
+    'Participant:<b>On</b>' => __('Participant:<b>On</b>', 'bit-integrations'),
 
     'All Webinars:' => __('All Webinars:', 'bit-integrations'),
 
