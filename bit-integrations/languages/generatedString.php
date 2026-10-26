@@ -10284,6 +10284,12 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a Tag' => __('Please select a Tag', 'bit-integrations'),
 
+    'Update the fields of a contact that already exists with the same email.' => __('Update the fields of a contact that already exists with the same email.', 'bit-integrations'),
+
+    'Update Tags' => __('Update Tags', 'bit-integrations'),
+
+    'Add the selected tag to a contact that already exists with the same email.' => __('Add the selected tag to a contact that already exists with the same email.', 'bit-integrations'),
+
     'To Get API Key & API Secret' => __('To Get API Key & API Secret', 'bit-integrations'),
 
     'Systeme.io Public API Settings' => __('Systeme.io Public API Settings', 'bit-integrations'),
