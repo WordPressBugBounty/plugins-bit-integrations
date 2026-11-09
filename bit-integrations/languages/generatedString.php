@@ -1661,6 +1661,68 @@ $bit_integrations_i18n_strings = array(
 
     'Custom Fields Available in Pro' => __('Custom Fields Available in Pro', 'bit-integrations'),
 
+    'Install and activate Bit Connect and Bit Connect Pro. The actions also need an active Bit Connect Pro licence.' => __('Install and activate Bit Connect and Bit Connect Pro. The actions also need an active Bit Connect Pro licence.', 'bit-integrations'),
+
+    'Options fetch failed. Please try again.' => __('Options fetch failed. Please try again.', 'bit-integrations'),
+
+    'Options fetched successfully' => __('Options fetched successfully', 'bit-integrations'),
+
+    'Status and stage are empty. Select a status, a stage, or both.' => __('Status and stage are empty. Select a status, a stage, or both.', 'bit-integrations'),
+
+    'Badge is empty. Select a badge.' => __('Badge is empty. Select a badge.', 'bit-integrations'),
+
+    'Group is empty. Select a group.' => __('Group is empty. Select a group.', 'bit-integrations'),
+
+    'Topic Type:' => __('Topic Type:', 'bit-integrations'),
+
+    'Status:' => __('Status:', 'bit-integrations'),
+
+    'Stage:' => __('Stage:', 'bit-integrations'),
+
+    'Badge:' => __('Badge:', 'bit-integrations'),
+
+    'Refresh' => __('Refresh', 'bit-integrations'),
+
+    'Group Role:' => __('Group Role:', 'bit-integrations'),
+
+    'Bit Connect Fields' => __('Bit Connect Fields', 'bit-integrations'),
+
+    'This action needs Bit Connect Pro with an active licence.' => __('This action needs Bit Connect Pro with an active licence.', 'bit-integrations'),
+
+    'Bit Connect acts with the rights of the mapped member, admins included. Map only emails that you trust.' => __('Bit Connect acts with the rights of the mapped member, admins included. Map only emails that you trust.', 'bit-integrations'),
+
+    'Create Post' => __('Create Post', 'bit-integrations'),
+
+    'Set Post Status or Stage' => __('Set Post Status or Stage', 'bit-integrations'),
+
+    'Vote for Post' => __('Vote for Post', 'bit-integrations'),
+
+    'Add Comment' => __('Add Comment', 'bit-integrations'),
+
+    'Award Badge' => __('Award Badge', 'bit-integrations'),
+
+    'Add Member to Group' => __('Add Member to Group', 'bit-integrations'),
+
+    'Remove Member from Group' => __('Remove Member from Group', 'bit-integrations'),
+
+    'Post Title' => __('Post Title', 'bit-integrations'),
+
+    'Member Email' => __('Member Email', 'bit-integrations'),
+
+    'Post Content' => __('Post Content', 'bit-integrations'),
+
+    'Post Slug' => __('Post Slug', 'bit-integrations'),
+
+    'Post ID' => __('Post ID', 'bit-integrations'),
+
+    'Comment Content' => __('Comment Content', 'bit-integrations'),
+
+    'Parent Comment ID' => __('Parent Comment ID', 'bit-integrations'),
+
+    'Member' => __('Member', 'bit-integrations'),
+
+    'Moderator' => __('Moderator', 'bit-integrations'),
+
     'Please select an action to continue.' => __('Please select an action to continue.', 'bit-integrations'),
 
     /* translators: %s: placeholder */
@@ -1677,8 +1739,6 @@ $bit_integrations_i18n_strings = array(
     'Bit CRM field fetch failed. Please try again' => __('Bit CRM field fetch failed. Please try again', 'bit-integrations'),
 
     'Refetch Bit CRM Fields' => __('Refetch Bit CRM Fields', 'bit-integrations'),
-
-    'Refresh' => __('Refresh', 'bit-integrations'),
 
     'Select a module first.' => __('Select a module first.', 'bit-integrations'),
 
@@ -2082,8 +2142,6 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh Services' => __('Refresh Services', 'bit-integrations'),
 
-    'Status:' => __('Status:', 'bit-integrations'),
-
     'Refresh Statuses' => __('Refresh Statuses', 'bit-integrations'),
 
     'Bookly Fields' => __('Bookly Fields', 'bit-integrations'),
@@ -2103,6 +2161,282 @@ $bit_integrations_i18n_strings = array(
     'Full Name' => __('Full Name', 'bit-integrations'),
 
     'WordPress User ID' => __('WordPress User ID', 'bit-integrations'),
+
+    'No action is selected. Select an action.' => __('No action is selected. Select an action.', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    '%s is required. Select a value.' => __('%s is required. Select a value.', 'bit-integrations'),
+
+    'A required field is not mapped. Map all required fields.' => __('A required field is not mapped. Map all required fields.', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    'Selected: %s' => __('Selected: %s', 'bit-integrations'),
+
+    'Refresh List' => __('Refresh List', 'bit-integrations'),
+
+    'To use the Booknetic integration, install and activate the Booknetic plugin on your site.' => __('To use the Booknetic integration, install and activate the Booknetic plugin on your site.', 'bit-integrations'),
+
+    'Booknetic did not send the list. Try again.' => __('Booknetic did not send the list. Try again.', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    'The mapped %s field is used.' => __('The mapped %s field is used.', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    'Or map the %s field below to use a value from the trigger.' => __('Or map the %s field below to use a value from the trigger.', 'bit-integrations'),
+
+    'Booknetic Fields' => __('Booknetic Fields', 'bit-integrations'),
+
+    'Update Appointment' => __('Update Appointment', 'bit-integrations'),
+
+    'Reschedule Appointment' => __('Reschedule Appointment', 'bit-integrations'),
+
+    'Change Appointment Status' => __('Change Appointment Status', 'bit-integrations'),
+
+    'Update Payment' => __('Update Payment', 'bit-integrations'),
+
+    'Complete Payment' => __('Complete Payment', 'bit-integrations'),
+
+    'Assign Customer Category' => __('Assign Customer Category', 'bit-integrations'),
+
+    'Create Staff' => __('Create Staff', 'bit-integrations'),
+
+    'Update Staff' => __('Update Staff', 'bit-integrations'),
+
+    'Delete Staff' => __('Delete Staff', 'bit-integrations'),
+
+    'Duplicate Staff' => __('Duplicate Staff', 'bit-integrations'),
+
+    'Set Staff Status' => __('Set Staff Status', 'bit-integrations'),
+
+    'Create Location' => __('Create Location', 'bit-integrations'),
+
+    'Update Location' => __('Update Location', 'bit-integrations'),
+
+    'Delete Location' => __('Delete Location', 'bit-integrations'),
+
+    'Duplicate Location' => __('Duplicate Location', 'bit-integrations'),
+
+    'Set Location Status' => __('Set Location Status', 'bit-integrations'),
+
+    'Create Service' => __('Create Service', 'bit-integrations'),
+
+    'Update Service' => __('Update Service', 'bit-integrations'),
+
+    'Delete Service' => __('Delete Service', 'bit-integrations'),
+
+    'Duplicate Service' => __('Duplicate Service', 'bit-integrations'),
+
+    'Set Service Status' => __('Set Service Status', 'bit-integrations'),
+
+    'Create Service Extra' => __('Create Service Extra', 'bit-integrations'),
+
+    'Update Service Extra' => __('Update Service Extra', 'bit-integrations'),
+
+    'Delete Service Extra' => __('Delete Service Extra', 'bit-integrations'),
+
+    'Duplicate Service Extra' => __('Duplicate Service Extra', 'bit-integrations'),
+
+    'Create Customer Category' => __('Create Customer Category', 'bit-integrations'),
+
+    'Update Customer Category' => __('Update Customer Category', 'bit-integrations'),
+
+    'Delete Customer Category' => __('Delete Customer Category', 'bit-integrations'),
+
+    'Create Location Category' => __('Create Location Category', 'bit-integrations'),
+
+    'Update Location Category' => __('Update Location Category', 'bit-integrations'),
+
+    'Delete Location Category' => __('Delete Location Category', 'bit-integrations'),
+
+    'Create Service Category' => __('Create Service Category', 'bit-integrations'),
+
+    'Update Service Category' => __('Update Service Category', 'bit-integrations'),
+
+    'Delete Service Category' => __('Delete Service Category', 'bit-integrations'),
+
+    'Create In-App Notification' => __('Create In-App Notification', 'bit-integrations'),
+
+    'Staff ID' => __('Staff ID', 'bit-integrations'),
+
+    'Location ID' => __('Location ID', 'bit-integrations'),
+
+    'Service ID' => __('Service ID', 'bit-integrations'),
+
+    'Service Extra ID' => __('Service Extra ID', 'bit-integrations'),
+
+    'Phone Number' => __('Phone Number', 'bit-integrations'),
+
+    'Birth Date (YYYY-MM-DD)' => __('Birth Date (YYYY-MM-DD)', 'bit-integrations'),
+
+    'Profession' => __('Profession', 'bit-integrations'),
+
+    'About' => __('About', 'bit-integrations'),
+
+    'Address' => __('Address', 'bit-integrations'),
+
+    'Latitude' => __('Latitude', 'bit-integrations'),
+
+    'Longitude' => __('Longitude', 'bit-integrations'),
+
+    'Address Components' => __('Address Components', 'bit-integrations'),
+
+    'Price' => __('Price', 'bit-integrations'),
+
+    'Duration in Minutes' => __('Duration in Minutes', 'bit-integrations'),
+
+    'Timeslot Length in Minutes' => __('Timeslot Length in Minutes', 'bit-integrations'),
+
+    'Buffer Before in Minutes' => __('Buffer Before in Minutes', 'bit-integrations'),
+
+    'Buffer After in Minutes' => __('Buffer After in Minutes', 'bit-integrations'),
+
+    'Maximum Capacity' => __('Maximum Capacity', 'bit-integrations'),
+
+    'Color' => __('Color', 'bit-integrations'),
+
+    'Deposit' => __('Deposit', 'bit-integrations'),
+
+    'Minimum Quantity' => __('Minimum Quantity', 'bit-integrations'),
+
+    'Maximum Quantity' => __('Maximum Quantity', 'bit-integrations'),
+
+    'Icon' => __('Icon', 'bit-integrations'),
+
+    'Starts At (YYYY-MM-DD HH:MM)' => __('Starts At (YYYY-MM-DD HH:MM)', 'bit-integrations'),
+
+    'Number of Customers' => __('Number of Customers', 'bit-integrations'),
+
+    'Paid Amount' => __('Paid Amount', 'bit-integrations'),
+
+    'Date (YYYY-MM-DD)' => __('Date (YYYY-MM-DD)', 'bit-integrations'),
+
+    'Time (HH:MM)' => __('Time (HH:MM)', 'bit-integrations'),
+
+    'Service Price' => __('Service Price', 'bit-integrations'),
+
+    'Customer Category ID' => __('Customer Category ID', 'bit-integrations'),
+
+    'Location Category ID' => __('Location Category ID', 'bit-integrations'),
+
+    'Service Category ID' => __('Service Category ID', 'bit-integrations'),
+
+    'Message' => __('Message', 'bit-integrations'),
+
+    'Map Starts At as YYYY-MM-DD HH:MM. The staff member must work at the location, give the service and be free at that time.' => __('Map Starts At as YYYY-MM-DD HH:MM. The staff member must work at the location, give the service and be free at that time.', 'bit-integrations'),
+
+    'Map only the fields to change. Map Starts At as YYYY-MM-DD HH:MM.' => __('Map only the fields to change. Map Starts At as YYYY-MM-DD HH:MM.', 'bit-integrations'),
+
+    'Map Date as YYYY-MM-DD and Time as HH:MM. The staff member must be free at that time.' => __('Map Date as YYYY-MM-DD and Time as HH:MM. The staff member must be free at that time.', 'bit-integrations'),
+
+    'Service Price is the total for all customers of the appointment. Other prices stay the same.' => __('Service Price is the total for all customers of the appointment. Other prices stay the same.', 'bit-integrations'),
+
+    'Map only the fields to change.' => __('Map only the fields to change.', 'bit-integrations'),
+
+    'Booknetic does not delete a customer that has appointments.' => __('Booknetic does not delete a customer that has appointments.', 'bit-integrations'),
+
+    'Booknetic does not delete a staff member that has appointments.' => __('Booknetic does not delete a staff member that has appointments.', 'bit-integrations'),
+
+    'Booknetic does not delete a location that has staff members or appointments.' => __('Booknetic does not delete a location that has staff members or appointments.', 'bit-integrations'),
+
+    'Booknetic does not delete a service that has appointments.' => __('Booknetic does not delete a service that has appointments.', 'bit-integrations'),
+
+    'Not Paid' => __('Not Paid', 'bit-integrations'),
+
+    'Canceled' => __('Canceled', 'bit-integrations'),
+
+    'Active' => __('Active', 'bit-integrations'),
+
+    'Inactive' => __('Inactive', 'bit-integrations'),
+
+    'Male' => __('Male', 'bit-integrations'),
+
+    'Female' => __('Female', 'bit-integrations'),
+
+    'Percent' => __('Percent', 'bit-integrations'),
+
+    'Fixed Amount' => __('Fixed Amount', 'bit-integrations'),
+
+    'Service' => __('Service', 'bit-integrations'),
+
+    'Staff' => __('Staff', 'bit-integrations'),
+
+    'Customer' => __('Customer', 'bit-integrations'),
+
+    'Payment Status' => __('Payment Status', 'bit-integrations'),
+
+    'Customer Category' => __('Customer Category', 'bit-integrations'),
+
+    'Locations' => __('Locations', 'bit-integrations'),
+
+    'Service Category' => __('Service Category', 'bit-integrations'),
+
+    'WordPress User' => __('WordPress User', 'bit-integrations'),
+
+    'Payment Method' => __('Payment Method', 'bit-integrations'),
+
+    'Set the payment method' => __('Set the payment method', 'bit-integrations'),
+
+    'Set the payment status' => __('Set the payment status', 'bit-integrations'),
+
+    'Change the location' => __('Change the location', 'bit-integrations'),
+
+    'Change the service' => __('Change the service', 'bit-integrations'),
+
+    'Change the staff member' => __('Change the staff member', 'bit-integrations'),
+
+    'Change the customer' => __('Change the customer', 'bit-integrations'),
+
+    'Change the status' => __('Change the status', 'bit-integrations'),
+
+    'Reset Status' => __('Reset Status', 'bit-integrations'),
+
+    'Set the status back to the default' => __('Set the status back to the default', 'bit-integrations'),
+
+    'Gender' => __('Gender', 'bit-integrations'),
+
+    'Set the gender' => __('Set the gender', 'bit-integrations'),
+
+    'Set the customer category' => __('Set the customer category', 'bit-integrations'),
+
+    'Set the locations' => __('Set the locations', 'bit-integrations'),
+
+    'Services' => __('Services', 'bit-integrations'),
+
+    'Set the services' => __('Set the services', 'bit-integrations'),
+
+    'Link a WordPress user' => __('Link a WordPress user', 'bit-integrations'),
+
+    'Location Category' => __('Location Category', 'bit-integrations'),
+
+    'Set the location category' => __('Set the location category', 'bit-integrations'),
+
+    'Set the staff members' => __('Set the staff members', 'bit-integrations'),
+
+    'Change the service category' => __('Change the service category', 'bit-integrations'),
+
+    'Deposit Type' => __('Deposit Type', 'bit-integrations'),
+
+    'Set the deposit type' => __('Set the deposit type', 'bit-integrations'),
+
+    'Set the service' => __('Set the service', 'bit-integrations'),
+
+    'Destination Service' => __('Destination Service', 'bit-integrations'),
+
+    'Add the copy to this service' => __('Add the copy to this service', 'bit-integrations'),
+
+    'Extra Category' => __('Extra Category', 'bit-integrations'),
+
+    'Set the service extra category' => __('Set the service extra category', 'bit-integrations'),
+
+    'Set the status' => __('Set the status', 'bit-integrations'),
+
+    'Default Category' => __('Default Category', 'bit-integrations'),
+
+    'Make this the default category' => __('Make this the default category', 'bit-integrations'),
+
+    'Parent Category' => __('Parent Category', 'bit-integrations'),
+
+    'Set the parent category' => __('Set the parent category', 'bit-integrations'),
 
     'Please select an action and map mandatory fields' => __('Please select an action and map mandatory fields', 'bit-integrations'),
 
@@ -2178,8 +2512,6 @@ $bit_integrations_i18n_strings = array(
 
     'Password' => __('Password', 'bit-integrations'),
 
-    'Phone Number' => __('Phone Number', 'bit-integrations'),
-
     'City' => __('City', 'bit-integrations'),
 
     'State Code' => __('State Code', 'bit-integrations'),
@@ -2209,10 +2541,6 @@ $bit_integrations_i18n_strings = array(
     'Lead Notes' => __('Lead Notes', 'bit-integrations'),
 
     'Member Email (post owner)' => __('Member Email (post owner)', 'bit-integrations'),
-
-    'Post Title' => __('Post Title', 'bit-integrations'),
-
-    'Post Content' => __('Post Content', 'bit-integrations'),
 
     'Post Caption' => __('Post Caption', 'bit-integrations'),
 
@@ -2295,8 +2623,6 @@ $bit_integrations_i18n_strings = array(
     'Public' => __('Public', 'bit-integrations'),
 
     'Private' => __('Private', 'bit-integrations'),
-
-    'Active' => __('Active', 'bit-integrations'),
 
     'Suspend' => __('Suspend', 'bit-integrations'),
 
@@ -2395,8 +2721,6 @@ $bit_integrations_i18n_strings = array(
     'Refresh CampaignMonitor Field' => __('Refresh CampaignMonitor Field', 'bit-integrations'),
 
     'CampaignMonitor Fields' => __('CampaignMonitor Fields', 'bit-integrations'),
-
-    'About' => __('About', 'bit-integrations'),
 
     'Street' => __('Street', 'bit-integrations'),
 
@@ -2556,8 +2880,6 @@ $bit_integrations_i18n_strings = array(
 
     'Attach an existing donor' => __('Attach an existing donor', 'bit-integrations'),
 
-    'WordPress User' => __('WordPress User', 'bit-integrations'),
-
     'Attach an existing user' => __('Attach an existing user', 'bit-integrations'),
 
     'Campaign Status' => __('Campaign Status', 'bit-integrations'),
@@ -2661,8 +2983,6 @@ $bit_integrations_i18n_strings = array(
     'Donation Amount' => __('Donation Amount', 'bit-integrations'),
 
     'Donor Email' => __('Donor Email', 'bit-integrations'),
-
-    'Address' => __('Address', 'bit-integrations'),
 
     'Address Line 2' => __('Address Line 2', 'bit-integrations'),
 
@@ -3680,8 +4000,6 @@ $bit_integrations_i18n_strings = array(
 
     'Section' => __('Section', 'bit-integrations'),
 
-    'Inactive' => __('Inactive', 'bit-integrations'),
-
     'Entire Site' => __('Entire Site', 'bit-integrations'),
 
     'Singular (ElementsKit Pro)' => __('Singular (ElementsKit Pro)', 'bit-integrations'),
@@ -3753,8 +4071,6 @@ $bit_integrations_i18n_strings = array(
     'Please select a workspace' => __('Please select a workspace', 'bit-integrations'),
 
     'Member Number' => __('Member Number', 'bit-integrations'),
-
-    'Gender' => __('Gender', 'bit-integrations'),
 
     'Date of Birth' => __('Date of Birth', 'bit-integrations'),
 
@@ -4063,10 +4379,6 @@ $bit_integrations_i18n_strings = array(
 
     'Set the order status' => __('Set the order status', 'bit-integrations'),
 
-    'Payment Status' => __('Payment Status', 'bit-integrations'),
-
-    'Set the payment status' => __('Set the payment status', 'bit-integrations'),
-
     'Shipping Status' => __('Shipping Status', 'bit-integrations'),
 
     'Set the shipping status' => __('Set the shipping status', 'bit-integrations'),
@@ -4139,8 +4451,6 @@ $bit_integrations_i18n_strings = array(
 
     'Percentage' => __('Percentage', 'bit-integrations'),
 
-    'Fixed Amount' => __('Fixed Amount', 'bit-integrations'),
-
     'Free Shipping' => __('Free Shipping', 'bit-integrations'),
 
     'To use FluentCart integration, make sure the FluentCart plugin is installed and active on your site.' => __('To use FluentCart integration, make sure the FluentCart plugin is installed and active on your site.', 'bit-integrations'),
@@ -4204,8 +4514,6 @@ $bit_integrations_i18n_strings = array(
     'Order Type' => __('Order Type', 'bit-integrations'),
 
     'Order Mode' => __('Order Mode', 'bit-integrations'),
-
-    'Payment Method' => __('Payment Method', 'bit-integrations'),
 
     'Payment Method Title' => __('Payment Method Title', 'bit-integrations'),
 
@@ -4519,6 +4827,616 @@ $bit_integrations_i18n_strings = array(
 
     'fluentSupport Fields' => __('fluentSupport Fields', 'bit-integrations'),
 
+    'Fill in the required options and fields.' => __('Fill in the required options and fields.', 'bit-integrations'),
+
+    'Select an action and fill in the required options and fields.' => __('Select an action and fill in the required options and fields.', 'bit-integrations'),
+
+    'Steps to connect Follow Up Boss:' => __('Steps to connect Follow Up Boss:', 'bit-integrations'),
+
+    'In Follow Up Boss, go to <b>Admin</b> > <b>API</b>.' => __('In Follow Up Boss, go to <b>Admin</b> > <b>API</b>.', 'bit-integrations'),
+
+    'Create an API key, or copy the key that you have.' => __('Create an API key, or copy the key that you have.', 'bit-integrations'),
+
+    'Paste the API key into <b>Username</b>. Keep <b>Password</b> empty.' => __('Paste the API key into <b>Username</b>. Keep <b>Password</b> empty.', 'bit-integrations'),
+
+    'The API key has the same access as its user. Use the key of the account owner or an admin to use every action.' => __('The API key has the same access as its user. Use the key of the account owner or an admin to use every action.', 'bit-integrations'),
+
+    'Options refreshed.' => __('Options refreshed.', 'bit-integrations'),
+
+    'Refresh failed. Try again.' => __('Refresh failed. Try again.', 'bit-integrations'),
+
+    'Loading options...' => __('Loading options...', 'bit-integrations'),
+
+    'Follow Up Boss Fields' => __('Follow Up Boss Fields', 'bit-integrations'),
+
+    'Update Person' => __('Update Person', 'bit-integrations'),
+
+    'Delete Person' => __('Delete Person', 'bit-integrations'),
+
+    'Create Event' => __('Create Event', 'bit-integrations'),
+
+    'Create Relationship' => __('Create Relationship', 'bit-integrations'),
+
+    'Update Relationship' => __('Update Relationship', 'bit-integrations'),
+
+    'Delete Relationship' => __('Delete Relationship', 'bit-integrations'),
+
+    'Log Call' => __('Log Call', 'bit-integrations'),
+
+    'Delete User' => __('Delete User', 'bit-integrations'),
+
+    'Apply Action Plan' => __('Apply Action Plan', 'bit-integrations'),
+
+    'Update Action Plan Status' => __('Update Action Plan Status', 'bit-integrations'),
+
+    'Create Email Template' => __('Create Email Template', 'bit-integrations'),
+
+    'Update Email Template' => __('Update Email Template', 'bit-integrations'),
+
+    'Delete Email Template' => __('Delete Email Template', 'bit-integrations'),
+
+    'Create Text Message Template' => __('Create Text Message Template', 'bit-integrations'),
+
+    'Update Text Message Template' => __('Update Text Message Template', 'bit-integrations'),
+
+    'Delete Text Message Template' => __('Delete Text Message Template', 'bit-integrations'),
+
+    'Log Email Marketing Event' => __('Log Email Marketing Event', 'bit-integrations'),
+
+    'Create Email Campaign' => __('Create Email Campaign', 'bit-integrations'),
+
+    'Update Email Campaign' => __('Update Email Campaign', 'bit-integrations'),
+
+    'Update Custom Field' => __('Update Custom Field', 'bit-integrations'),
+
+    'Delete Custom Field' => __('Delete Custom Field', 'bit-integrations'),
+
+    'Create Stage' => __('Create Stage', 'bit-integrations'),
+
+    'Update Stage' => __('Update Stage', 'bit-integrations'),
+
+    'Delete Stage' => __('Delete Stage', 'bit-integrations'),
+
+    'Create Appointment Type' => __('Create Appointment Type', 'bit-integrations'),
+
+    'Update Appointment Type' => __('Update Appointment Type', 'bit-integrations'),
+
+    'Delete Appointment Type' => __('Delete Appointment Type', 'bit-integrations'),
+
+    'Create Appointment Outcome' => __('Create Appointment Outcome', 'bit-integrations'),
+
+    'Update Appointment Outcome' => __('Update Appointment Outcome', 'bit-integrations'),
+
+    'Delete Appointment Outcome' => __('Delete Appointment Outcome', 'bit-integrations'),
+
+    'Create Pipeline' => __('Create Pipeline', 'bit-integrations'),
+
+    'Update Pipeline' => __('Update Pipeline', 'bit-integrations'),
+
+    'Delete Pipeline' => __('Delete Pipeline', 'bit-integrations'),
+
+    'Create Deal Custom Field' => __('Create Deal Custom Field', 'bit-integrations'),
+
+    'Update Deal Custom Field' => __('Update Deal Custom Field', 'bit-integrations'),
+
+    'Delete Deal Custom Field' => __('Delete Deal Custom Field', 'bit-integrations'),
+
+    'Create Group' => __('Create Group', 'bit-integrations'),
+
+    'Update Group' => __('Update Group', 'bit-integrations'),
+
+    'Delete Group' => __('Delete Group', 'bit-integrations'),
+
+    'Create Team' => __('Create Team', 'bit-integrations'),
+
+    'Update Team' => __('Update Team', 'bit-integrations'),
+
+    'Delete Team' => __('Delete Team', 'bit-integrations'),
+
+    'Create Pond' => __('Create Pond', 'bit-integrations'),
+
+    'Update Pond' => __('Update Pond', 'bit-integrations'),
+
+    'Delete Pond' => __('Delete Pond', 'bit-integrations'),
+
+    'Add Reaction' => __('Add Reaction', 'bit-integrations'),
+
+    'Remove Reaction' => __('Remove Reaction', 'bit-integrations'),
+
+    'Source URL' => __('Source URL', 'bit-integrations'),
+
+    'Background' => __('Background', 'bit-integrations'),
+
+    'Created At' => __('Created At', 'bit-integrations'),
+
+    'Person ID' => __('Person ID', 'bit-integrations'),
+
+    'System' => __('System', 'bit-integrations'),
+
+    'Occurred At' => __('Occurred At', 'bit-integrations'),
+
+    'Existing Person ID' => __('Existing Person ID', 'bit-integrations'),
+
+    'Person First Name' => __('Person First Name', 'bit-integrations'),
+
+    'Person Last Name' => __('Person Last Name', 'bit-integrations'),
+
+    'Person Email' => __('Person Email', 'bit-integrations'),
+
+    'Person Phone' => __('Person Phone', 'bit-integrations'),
+
+    'Person Tags' => __('Person Tags', 'bit-integrations'),
+
+    'Property Street' => __('Property Street', 'bit-integrations'),
+
+    'Property City' => __('Property City', 'bit-integrations'),
+
+    'Property State' => __('Property State', 'bit-integrations'),
+
+    'Property Postal Code' => __('Property Postal Code', 'bit-integrations'),
+
+    'Property MLS Number' => __('Property MLS Number', 'bit-integrations'),
+
+    'Property Price' => __('Property Price', 'bit-integrations'),
+
+    'Property URL' => __('Property URL', 'bit-integrations'),
+
+    'Property Type' => __('Property Type', 'bit-integrations'),
+
+    'Property Bedrooms' => __('Property Bedrooms', 'bit-integrations'),
+
+    'Property Bathrooms' => __('Property Bathrooms', 'bit-integrations'),
+
+    'Property Area' => __('Property Area', 'bit-integrations'),
+
+    'Property Lot Size' => __('Property Lot Size', 'bit-integrations'),
+
+    'Search Property Type' => __('Search Property Type', 'bit-integrations'),
+
+    'Search Neighborhood' => __('Search Neighborhood', 'bit-integrations'),
+
+    'Search City' => __('Search City', 'bit-integrations'),
+
+    'Search State' => __('Search State', 'bit-integrations'),
+
+    'Search Postal Code' => __('Search Postal Code', 'bit-integrations'),
+
+    'Search Minimum Price' => __('Search Minimum Price', 'bit-integrations'),
+
+    'Search Maximum Price' => __('Search Maximum Price', 'bit-integrations'),
+
+    'Search Minimum Bedrooms' => __('Search Minimum Bedrooms', 'bit-integrations'),
+
+    'Search Maximum Bedrooms' => __('Search Maximum Bedrooms', 'bit-integrations'),
+
+    'Search Minimum Bathrooms' => __('Search Minimum Bathrooms', 'bit-integrations'),
+
+    'Search Maximum Bathrooms' => __('Search Maximum Bathrooms', 'bit-integrations'),
+
+    'Campaign Source' => __('Campaign Source', 'bit-integrations'),
+
+    'Campaign Medium' => __('Campaign Medium', 'bit-integrations'),
+
+    'Campaign Term' => __('Campaign Term', 'bit-integrations'),
+
+    'Campaign Name' => __('Campaign Name', 'bit-integrations'),
+
+    'Page URL' => __('Page URL', 'bit-integrations'),
+
+    'Page Referrer' => __('Page Referrer', 'bit-integrations'),
+
+    'Page Duration' => __('Page Duration', 'bit-integrations'),
+
+    'Relationship Type' => __('Relationship Type', 'bit-integrations'),
+
+    'Relationship ID' => __('Relationship ID', 'bit-integrations'),
+
+    'Subject' => __('Subject', 'bit-integrations'),
+
+    'Note ID' => __('Note ID', 'bit-integrations'),
+
+    'Duration' => __('Duration', 'bit-integrations'),
+
+    'To Number' => __('To Number', 'bit-integrations'),
+
+    'From Number' => __('From Number', 'bit-integrations'),
+
+    'Recording URL' => __('Recording URL', 'bit-integrations'),
+
+    'Call ID' => __('Call ID', 'bit-integrations'),
+
+    'Applied Action Plan ID' => __('Applied Action Plan ID', 'bit-integrations'),
+
+    'Template Name' => __('Template Name', 'bit-integrations'),
+
+    'Email Template ID' => __('Email Template ID', 'bit-integrations'),
+
+    'Text Message Template ID' => __('Text Message Template ID', 'bit-integrations'),
+
+    'Recipient Email' => __('Recipient Email', 'bit-integrations'),
+
+    'Clicked URL' => __('Clicked URL', 'bit-integrations'),
+
+    'Source System' => __('Source System', 'bit-integrations'),
+
+    'Source System Campaign ID' => __('Source System Campaign ID', 'bit-integrations'),
+
+    'Email Campaign ID' => __('Email Campaign ID', 'bit-integrations'),
+
+    'Label' => __('Label', 'bit-integrations'),
+
+    'Choices' => __('Choices', 'bit-integrations'),
+
+    'Sort Order' => __('Sort Order', 'bit-integrations'),
+
+    'Custom Field ID' => __('Custom Field ID', 'bit-integrations'),
+
+    'Stage ID' => __('Stage ID', 'bit-integrations'),
+
+    'Due Date and Time' => __('Due Date and Time', 'bit-integrations'),
+
+    'Reminder' => __('Reminder', 'bit-integrations'),
+
+    'Task ID' => __('Task ID', 'bit-integrations'),
+
+    'Start' => __('Start', 'bit-integrations'),
+
+    'End' => __('End', 'bit-integrations'),
+
+    'Invited People IDs' => __('Invited People IDs', 'bit-integrations'),
+
+    'Appointment Type ID' => __('Appointment Type ID', 'bit-integrations'),
+
+    'Appointment Outcome ID' => __('Appointment Outcome ID', 'bit-integrations'),
+
+    'Pipeline Name' => __('Pipeline Name', 'bit-integrations'),
+
+    'Stages' => __('Stages', 'bit-integrations'),
+
+    'Pipeline ID' => __('Pipeline ID', 'bit-integrations'),
+
+    'People IDs' => __('People IDs', 'bit-integrations'),
+
+    'Projected Close Date' => __('Projected Close Date', 'bit-integrations'),
+
+    'Commission Value' => __('Commission Value', 'bit-integrations'),
+
+    'Agent Commission' => __('Agent Commission', 'bit-integrations'),
+
+    'Team Commission' => __('Team Commission', 'bit-integrations'),
+
+    'Earnest Money Due Date' => __('Earnest Money Due Date', 'bit-integrations'),
+
+    'Mutual Acceptance Date' => __('Mutual Acceptance Date', 'bit-integrations'),
+
+    'Due Diligence Date' => __('Due Diligence Date', 'bit-integrations'),
+
+    'Final Walk-Through Date' => __('Final Walk-Through Date', 'bit-integrations'),
+
+    'Possession Date' => __('Possession Date', 'bit-integrations'),
+
+    'Deal ID' => __('Deal ID', 'bit-integrations'),
+
+    'Claim Window' => __('Claim Window', 'bit-integrations'),
+
+    'Group ID' => __('Group ID', 'bit-integrations'),
+
+    'Team Name' => __('Team Name', 'bit-integrations'),
+
+    'Team ID' => __('Team ID', 'bit-integrations'),
+
+    'Pond Name' => __('Pond Name', 'bit-integrations'),
+
+    'Pond ID' => __('Pond ID', 'bit-integrations'),
+
+    'Note, Call or Reply ID' => __('Note, Call or Reply ID', 'bit-integrations'),
+
+    'Emoji' => __('Emoji', 'bit-integrations'),
+
+    'Running' => __('Running', 'bit-integrations'),
+
+    'Paused' => __('Paused', 'bit-integrations'),
+
+    'Incoming' => __('Incoming', 'bit-integrations'),
+
+    'Outgoing' => __('Outgoing', 'bit-integrations'),
+
+    'Interested' => __('Interested', 'bit-integrations'),
+
+    'Not Interested' => __('Not Interested', 'bit-integrations'),
+
+    'Left Message' => __('Left Message', 'bit-integrations'),
+
+    'No Answer' => __('No Answer', 'bit-integrations'),
+
+    'Busy' => __('Busy', 'bit-integrations'),
+
+    'Bad Number' => __('Bad Number', 'bit-integrations'),
+
+    'Date' => __('Date', 'bit-integrations'),
+
+    'Number' => __('Number', 'bit-integrations'),
+
+    'Dropdown' => __('Dropdown', 'bit-integrations'),
+
+    'Open' => __('Open', 'bit-integrations'),
+
+    'Click' => __('Click', 'bit-integrations'),
+
+    'Bounced' => __('Bounced', 'bit-integrations'),
+
+    'Soft Bounce' => __('Soft Bounce', 'bit-integrations'),
+
+    'Hard Bounce' => __('Hard Bounce', 'bit-integrations'),
+
+    'Unsubscribe' => __('Unsubscribe', 'bit-integrations'),
+
+    'Spam Report' => __('Spam Report', 'bit-integrations'),
+
+    'Dropped' => __('Dropped', 'bit-integrations'),
+
+    'Registration' => __('Registration', 'bit-integrations'),
+
+    'Inquiry' => __('Inquiry', 'bit-integrations'),
+
+    'Seller Inquiry' => __('Seller Inquiry', 'bit-integrations'),
+
+    'Property Inquiry' => __('Property Inquiry', 'bit-integrations'),
+
+    'General Inquiry' => __('General Inquiry', 'bit-integrations'),
+
+    'Viewed Property' => __('Viewed Property', 'bit-integrations'),
+
+    'Saved Property' => __('Saved Property', 'bit-integrations'),
+
+    'Visited Website' => __('Visited Website', 'bit-integrations'),
+
+    'Incoming Call' => __('Incoming Call', 'bit-integrations'),
+
+    'Property Search' => __('Property Search', 'bit-integrations'),
+
+    'Saved Property Search' => __('Saved Property Search', 'bit-integrations'),
+
+    'Visited Open House' => __('Visited Open House', 'bit-integrations'),
+
+    'Viewed Page' => __('Viewed Page', 'bit-integrations'),
+
+    'Round robin' => __('Round robin', 'bit-integrations'),
+
+    'First to claim' => __('First to claim', 'bit-integrations'),
+
+    'Agent' => __('Agent', 'bit-integrations'),
+
+    'Lender' => __('Lender', 'bit-integrations'),
+
+    'Call' => __('Call', 'bit-integrations'),
+
+    'Threaded Reply' => __('Threaded Reply', 'bit-integrations'),
+
+    'Appointment' => __('Appointment', 'bit-integrations'),
+
+    'Showing' => __('Showing', 'bit-integrations'),
+
+    'Closing' => __('Closing', 'bit-integrations'),
+
+    'Open House' => __('Open House', 'bit-integrations'),
+
+    'Thank You' => __('Thank You', 'bit-integrations'),
+
+    'Stage' => __('Stage', 'bit-integrations'),
+
+    'Assigned User' => __('Assigned User', 'bit-integrations'),
+
+    'Assigned Lender' => __('Assigned Lender', 'bit-integrations'),
+
+    'Assigned Pond' => __('Assigned Pond', 'bit-integrations'),
+
+    'Collaborators' => __('Collaborators', 'bit-integrations'),
+
+    'Timeframe' => __('Timeframe', 'bit-integrations'),
+
+    'Event Type' => __('Event Type', 'bit-integrations'),
+
+    'Person Stage' => __('Person Stage', 'bit-integrations'),
+
+    'Call Direction' => __('Call Direction', 'bit-integrations'),
+
+    'Outcome' => __('Outcome', 'bit-integrations'),
+
+    'User' => __('User', 'bit-integrations'),
+
+    'Move People To' => __('Move People To', 'bit-integrations'),
+
+    'Action Plan' => __('Action Plan', 'bit-integrations'),
+
+    'Email Campaign' => __('Email Campaign', 'bit-integrations'),
+
+    'Field Type' => __('Field Type', 'bit-integrations'),
+
+    'Stage for Action Plans' => __('Stage for Action Plans', 'bit-integrations'),
+
+    'Task Type' => __('Task Type', 'bit-integrations'),
+
+    'Invited Users' => __('Invited Users', 'bit-integrations'),
+
+    'Appointment Type' => __('Appointment Type', 'bit-integrations'),
+
+    'Appointment Outcome' => __('Appointment Outcome', 'bit-integrations'),
+
+    'Created By' => __('Created By', 'bit-integrations'),
+
+    'Move Appointments To' => __('Move Appointments To', 'bit-integrations'),
+
+    'Users' => __('Users', 'bit-integrations'),
+
+    'Members' => __('Members', 'bit-integrations'),
+
+    'Group Type' => __('Group Type', 'bit-integrations'),
+
+    'Distribution' => __('Distribution', 'bit-integrations'),
+
+    'Default Group' => __('Default Group', 'bit-integrations'),
+
+    'Default Pond' => __('Default Pond', 'bit-integrations'),
+
+    'Default User' => __('Default User', 'bit-integrations'),
+
+    'Leaders' => __('Leaders', 'bit-integrations'),
+
+    'Move Members To' => __('Move Members To', 'bit-integrations'),
+
+    'Pond Lead User' => __('Pond Lead User', 'bit-integrations'),
+
+    'Record Type' => __('Record Type', 'bit-integrations'),
+
+    '<ul><li><b>Email</b>: Separate more than one email with commas. The first email is the primary email.</li><li><b>Phone</b>: Separate more than one phone number with commas. The first number is the primary number.</li><li><b>Source</b>: Enter the name of the lead source. You can set it only when you create the person.</li><li><b>Price</b>: Enter the property price as a whole number.</li><li><b>Tags</b>: Separate more than one tag with commas.</li><li><b>Assigned User</b> and <b>Assigned Pond</b>: Select only one of them. A pond assigns the person to its own agent.</li><li><b>Assigned Lender</b>: Only users with the Lender role show here.</li><li><b>Created At</b>: Enter a date and time to add a historical lead, for example 2026-01-15T10:00:00Z.</li></ul>' => __('<ul><li><b>Email</b>: Separate more than one email with commas. The first email is the primary email.</li><li><b>Phone</b>: Separate more than one phone number with commas. The first number is the primary number.</li><li><b>Source</b>: Enter the name of the lead source. You can set it only when you create the person.</li><li><b>Price</b>: Enter the property price as a whole number.</li><li><b>Tags</b>: Separate more than one tag with commas.</li><li><b>Assigned User</b> and <b>Assigned Pond</b>: Select only one of them. A pond assigns the person to its own agent.</li><li><b>Assigned Lender</b>: Only users with the Lender role show here.</li><li><b>Created At</b>: Enter a date and time to add a historical lead, for example 2026-01-15T10:00:00Z.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li>Emails, phone numbers and addresses that you enter replace the current values.</li><li><b>Email</b>: Separate more than one email with commas. The first email is the primary email.</li><li><b>Phone</b>: Separate more than one phone number with commas. The first number is the primary number.</li><li><b>Price</b>: Enter the property price as a whole number.</li><li><b>Tags</b>: Separate more than one tag with commas.</li><li><b>Assigned User</b> and <b>Assigned Pond</b>: Select only one of them. A pond assigns the person to its own agent.</li><li><b>Assigned Lender</b>: Only users with the Lender role show here.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li>Emails, phone numbers and addresses that you enter replace the current values.</li><li><b>Email</b>: Separate more than one email with commas. The first email is the primary email.</li><li><b>Phone</b>: Separate more than one phone number with commas. The first number is the primary number.</li><li><b>Price</b>: Enter the property price as a whole number.</li><li><b>Tags</b>: Separate more than one tag with commas.</li><li><b>Assigned User</b> and <b>Assigned Pond</b>: Select only one of them. A pond assigns the person to its own agent.</li><li><b>Assigned Lender</b>: Only users with the Lender role show here.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Source</b>: Enter the name of the lead source, for example your website name.</li><li><b>System</b>: Enter the name of the system that sends the lead.</li><li><b>Message</b>: Enter the message from the person about this inquiry.</li><li><b>Occurred At</b>: Enter a date older than one day to add a historical event. Historical events do not start action plans.</li><li><b>Person Email</b>: Follow Up Boss uses the email or phone to find a person that already exists.</li><li><b>Person Tags</b>: Separate more than one tag with commas.</li><li><b>Property Type</b>: Enter the property type, for example Single-Family Home.</li><li><b>Property Area</b>: Enter the area in square feet.</li><li><b>Property Lot Size</b>: Enter the lot size in acres.</li><li><b>Page Title</b>: Use this field with the Viewed Page event type.</li><li><b>Page URL</b>: Use this field with the Viewed Page event type.</li><li><b>Page Referrer</b>: Use this field with the Viewed Page event type.</li><li><b>Page Duration</b>: Enter the time on the page in seconds.</li></ul>' => __('<ul><li><b>Source</b>: Enter the name of the lead source, for example your website name.</li><li><b>System</b>: Enter the name of the system that sends the lead.</li><li><b>Message</b>: Enter the message from the person about this inquiry.</li><li><b>Occurred At</b>: Enter a date older than one day to add a historical event. Historical events do not start action plans.</li><li><b>Person Email</b>: Follow Up Boss uses the email or phone to find a person that already exists.</li><li><b>Person Tags</b>: Separate more than one tag with commas.</li><li><b>Property Type</b>: Enter the property type, for example Single-Family Home.</li><li><b>Property Area</b>: Enter the area in square feet.</li><li><b>Property Lot Size</b>: Enter the lot size in acres.</li><li><b>Page Title</b>: Use this field with the Viewed Page event type.</li><li><b>Page URL</b>: Use this field with the Viewed Page event type.</li><li><b>Page Referrer</b>: Use this field with the Viewed Page event type.</li><li><b>Page Duration</b>: Enter the time on the page in seconds.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Relationship Type</b>: Enter the relationship type, for example Spouse or Partner.</li><li><b>Email</b>: Separate more than one email with commas. The first email is the primary email.</li><li><b>Phone</b>: Separate more than one phone number with commas. The first number is the primary number.</li></ul>' => __('<ul><li><b>Relationship Type</b>: Enter the relationship type, for example Spouse or Partner.</li><li><b>Email</b>: Separate more than one email with commas. The first email is the primary email.</li><li><b>Phone</b>: Separate more than one phone number with commas. The first number is the primary number.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li>Emails, phone numbers and addresses that you enter replace the current values.</li><li><b>Relationship Type</b>: Enter the relationship type, for example Spouse or Partner.</li><li><b>Email</b>: Separate more than one email with commas. The first email is the primary email.</li><li><b>Phone</b>: Separate more than one phone number with commas. The first number is the primary number.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li>Emails, phone numbers and addresses that you enter replace the current values.</li><li><b>Relationship Type</b>: Enter the relationship type, for example Spouse or Partner.</li><li><b>Email</b>: Separate more than one email with commas. The first email is the primary email.</li><li><b>Phone</b>: Separate more than one phone number with commas. The first number is the primary number.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Phone</b>: Enter the phone number of the person.</li><li><b>Duration</b>: Enter the length of the call in seconds.</li></ul>' => __('<ul><li><b>Phone</b>: Enter the phone number of the person.</li><li><b>Duration</b>: Enter the length of the call in seconds.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li>You can only update calls that this connection created.</li><li><b>Phone</b>: Enter the phone number of the person.</li><li><b>Duration</b>: Enter the length of the call in seconds.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li>You can only update calls that this connection created.</li><li><b>Phone</b>: Enter the phone number of the person.</li><li><b>Duration</b>: Enter the length of the call in seconds.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Use the API key of the account owner or an admin. Follow Up Boss refuses this action for other users.</li></ul>' => __('<ul><li>Use the API key of the account owner or an admin. Follow Up Boss refuses this action for other users.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Applied Action Plan ID</b>: Map the ID that Apply Action Plan returns. It is not the ID of the action plan.</li></ul>' => __('<ul><li><b>Applied Action Plan ID</b>: Map the ID that Apply Action Plan returns. It is not the ID of the action plan.</li></ul>', 'bit-integrations'),
+
+    /* translators: %c: placeholder */
+    '<ul><li><b>Body</b>: Enter the HTML body. You can use merge fields, for example %contact_name%.</li></ul>' => __('<ul><li><b>Body</b>: Enter the HTML body. You can use merge fields, for example %contact_name%.</li></ul>', 'bit-integrations'),
+
+    /* translators: %c: placeholder */
+    '<ul><li>Fields that you leave empty keep their current value.</li><li><b>Body</b>: Enter the HTML body. You can use merge fields, for example %contact_name%.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li><b>Body</b>: Enter the HTML body. You can use merge fields, for example %contact_name%.</li></ul>', 'bit-integrations'),
+
+    /* translators: %c: placeholder */
+    '<ul><li><b>Message</b>: You can use merge fields, for example %contact_first_name%.</li></ul>' => __('<ul><li><b>Message</b>: You can use merge fields, for example %contact_first_name%.</li></ul>', 'bit-integrations'),
+
+    /* translators: %c: placeholder */
+    '<ul><li>Fields that you leave empty keep their current value.</li><li><b>Message</b>: You can use merge fields, for example %contact_first_name%.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li><b>Message</b>: You can use merge fields, for example %contact_first_name%.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Recipient Email</b>: Enter the email address that got the marketing email.</li><li><b>Occurred At</b>: Enter the date and time of the event, for example 2026-01-15T10:00:00Z.</li><li><b>Clicked URL</b>: Enter the link that the person clicked. Use it with the Click type.</li></ul>' => __('<ul><li><b>Recipient Email</b>: Enter the email address that got the marketing email.</li><li><b>Occurred At</b>: Enter the date and time of the event, for example 2026-01-15T10:00:00Z.</li><li><b>Clicked URL</b>: Enter the link that the person clicked. Use it with the Click type.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Source System</b>: Enter the name of the email marketing system that sends the campaign.</li><li><b>Source System Campaign ID</b>: Enter the ID of the campaign in the email marketing system.</li><li><b>Body</b>: Enter the HTML body of the email.</li></ul>' => __('<ul><li><b>Source System</b>: Enter the name of the email marketing system that sends the campaign.</li><li><b>Source System Campaign ID</b>: Enter the ID of the campaign in the email marketing system.</li><li><b>Body</b>: Enter the HTML body of the email.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li><b>Body</b>: Enter the HTML body of the email.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li><b>Body</b>: Enter the HTML body of the email.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Label</b>: Enter the name of the custom field, for example Anniversary.</li><li><b>Choices</b>: Separate the choices with commas. Use this field with the Dropdown type.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>' => __('<ul><li><b>Label</b>: Enter the name of the custom field, for example Anniversary.</li><li><b>Choices</b>: Separate the choices with commas. Use this field with the Dropdown type.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li><b>Label</b>: Enter the name of the custom field, for example Anniversary.</li><li><b>Choices</b>: Separate the choices with commas. Use this field with the Dropdown type.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li><b>Label</b>: Enter the name of the custom field, for example Anniversary.</li><li><b>Choices</b>: Separate the choices with commas. Use this field with the Dropdown type.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Only the account owner can delete custom fields. Use the API key of the account owner.</li></ul>' => __('<ul><li>Only the account owner can delete custom fields. Use the API key of the account owner.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>' => __('<ul><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Stage for Action Plans</b>: Select the stage that the action plans of the deleted stage use after the delete.</li><li>Use the API key of the account owner or an admin. Follow Up Boss refuses this action for other users.</li></ul>' => __('<ul><li><b>Stage for Action Plans</b>: Select the stage that the action plans of the deleted stage use after the delete.</li><li>Use the API key of the account owner or an admin. Follow Up Boss refuses this action for other users.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Due Date</b>: Enter the due date in YYYY-MM-DD format.</li><li><b>Due Date and Time</b>: Enter the due date and time, for example 2026-01-15T10:00:00-05:00.</li><li><b>Reminder</b>: Enter the number of seconds before the due time to send a reminder. Use it with Due Date and Time.</li></ul>' => __('<ul><li><b>Due Date</b>: Enter the due date in YYYY-MM-DD format.</li><li><b>Due Date and Time</b>: Enter the due date and time, for example 2026-01-15T10:00:00-05:00.</li><li><b>Reminder</b>: Enter the number of seconds before the due time to send a reminder. Use it with Due Date and Time.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li><b>Due Date</b>: Enter the due date in YYYY-MM-DD format.</li><li><b>Due Date and Time</b>: Enter the due date and time, for example 2026-01-15T10:00:00-05:00.</li><li><b>Reminder</b>: Enter the number of seconds before the due time to send a reminder. Use it with Due Date and Time.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li><b>Due Date</b>: Enter the due date in YYYY-MM-DD format.</li><li><b>Due Date and Time</b>: Enter the due date and time, for example 2026-01-15T10:00:00-05:00.</li><li><b>Reminder</b>: Enter the number of seconds before the due time to send a reminder. Use it with Due Date and Time.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Start</b>: Enter the start date and time in UTC, for example 2026-01-15T10:00:00Z.</li><li><b>End</b>: Enter the end date and time in UTC, for example 2026-01-15T11:00:00Z.</li></ul>' => __('<ul><li><b>Start</b>: Enter the start date and time in UTC, for example 2026-01-15T10:00:00Z.</li><li><b>End</b>: Enter the end date and time in UTC, for example 2026-01-15T11:00:00Z.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li>Invited users and people that you select replace all current invitees.</li><li><b>Start</b>: Enter the start date and time in UTC, for example 2026-01-15T10:00:00Z.</li><li><b>End</b>: Enter the end date and time in UTC, for example 2026-01-15T11:00:00Z.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li>Invited users and people that you select replace all current invitees.</li><li><b>Start</b>: Enter the start date and time in UTC, for example 2026-01-15T10:00:00Z.</li><li><b>End</b>: Enter the end date and time in UTC, for example 2026-01-15T11:00:00Z.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Stages</b>: Separate the stage names with commas, in pipeline order. The last stage is the closed stage.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>' => __('<ul><li><b>Stages</b>: Separate the stage names with commas, in pipeline order. The last stage is the closed stage.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Price</b>: Enter the price as a whole number.</li><li><b>Projected Close Date</b>: Enter a date, for example 2026-01-15.</li><li><b>Commission Value</b>: Enter the amount as a whole number.</li><li><b>Agent Commission</b>: Enter the amount as a whole number.</li><li><b>Team Commission</b>: Enter the amount as a whole number.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>' => __('<ul><li><b>Price</b>: Enter the price as a whole number.</li><li><b>Projected Close Date</b>: Enter a date, for example 2026-01-15.</li><li><b>Commission Value</b>: Enter the amount as a whole number.</li><li><b>Agent Commission</b>: Enter the amount as a whole number.</li><li><b>Team Commission</b>: Enter the amount as a whole number.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li>People and users that you select replace the current values.</li><li><b>Price</b>: Enter the price as a whole number.</li><li><b>Projected Close Date</b>: Enter a date, for example 2026-01-15.</li><li><b>Commission Value</b>: Enter the amount as a whole number.</li><li><b>Agent Commission</b>: Enter the amount as a whole number.</li><li><b>Team Commission</b>: Enter the amount as a whole number.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li>People and users that you select replace the current values.</li><li><b>Price</b>: Enter the price as a whole number.</li><li><b>Projected Close Date</b>: Enter a date, for example 2026-01-15.</li><li><b>Commission Value</b>: Enter the amount as a whole number.</li><li><b>Agent Commission</b>: Enter the amount as a whole number.</li><li><b>Team Commission</b>: Enter the amount as a whole number.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Only the account owner can change deal custom fields. Use the API key of the account owner.</li><li><b>Label</b>: Enter the name of the custom field, for example Anniversary.</li><li><b>Choices</b>: Separate the choices with commas. Use this field with the Dropdown type.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>' => __('<ul><li>Only the account owner can change deal custom fields. Use the API key of the account owner.</li><li><b>Label</b>: Enter the name of the custom field, for example Anniversary.</li><li><b>Choices</b>: Separate the choices with commas. Use this field with the Dropdown type.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li>Only the account owner can change deal custom fields. Use the API key of the account owner.</li><li><b>Label</b>: Enter the name of the custom field, for example Anniversary.</li><li><b>Choices</b>: Separate the choices with commas. Use this field with the Dropdown type.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li>Only the account owner can change deal custom fields. Use the API key of the account owner.</li><li><b>Label</b>: Enter the name of the custom field, for example Anniversary.</li><li><b>Choices</b>: Separate the choices with commas. Use this field with the Dropdown type.</li><li><b>Sort Order</b>: Enter a number to set the position in the list. A lower number shows first.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Only the account owner can change deal custom fields. Use the API key of the account owner.</li></ul>' => __('<ul><li>Only the account owner can change deal custom fields. Use the API key of the account owner.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Claim Window</b>: Enter the seconds that members have to claim a lead, from 60 to 1800. The default is 1800.</li></ul>' => __('<ul><li><b>Claim Window</b>: Enter the seconds that members have to claim a lead, from 60 to 1800. The default is 1800.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li>Users that you select replace the current members.</li><li><b>Claim Window</b>: Enter the seconds that members have to claim a lead, from 60 to 1800. The default is 1800.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li>Users that you select replace the current members.</li><li><b>Claim Window</b>: Enter the seconds that members have to claim a lead, from 60 to 1800. The default is 1800.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li>Users that you select replace the current members and leaders.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li>Users that you select replace the current members and leaders.</li></ul>', 'bit-integrations'),
+
+    '<ul><li>Fields that you leave empty keep their current value.</li><li>Users that you select replace the current members.</li></ul>' => __('<ul><li>Fields that you leave empty keep their current value.</li><li>Users that you select replace the current members.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Note, Call or Reply ID</b>: Enter or map the ID of the note, call or threaded reply.</li><li><b>Emoji</b>: Enter one emoji, for example 👍.</li></ul>' => __('<ul><li><b>Note, Call or Reply ID</b>: Enter or map the ID of the note, call or threaded reply.</li><li><b>Emoji</b>: Enter one emoji, for example 👍.</li></ul>', 'bit-integrations'),
+
+    '<ul><li><b>Note, Call or Reply ID</b>: Enter or map the ID of the note, call or threaded reply.</li><li><b>Emoji</b>: Enter the emoji to remove, for example 👍.</li></ul>' => __('<ul><li><b>Note, Call or Reply ID</b>: Enter or map the ID of the note, call or threaded reply.</li><li><b>Emoji</b>: Enter the emoji to remove, for example 👍.</li></ul>', 'bit-integrations'),
+
+    'Contacted' => __('Contacted', 'bit-integrations'),
+
+    'Mark the person as contacted.' => __('Mark the person as contacted.', 'bit-integrations'),
+
+    'Prevent Duplicates' => __('Prevent Duplicates', 'bit-integrations'),
+
+    'Do not create a person when the email or phone exists. Follow Up Boss returns that person.' => __('Do not create a person when the email or phone exists. Follow Up Boss returns that person.', 'bit-integrations'),
+
+    'Mark the person as contacted. Leave it clear to keep the current value.' => __('Mark the person as contacted. Leave it clear to keep the current value.', 'bit-integrations'),
+
+    'Keep Current Tags' => __('Keep Current Tags', 'bit-integrations'),
+
+    'Add the tags to the current tags. Do not replace them.' => __('Add the tags to the current tags. Do not replace them.', 'bit-integrations'),
+
+    'Property for Rent' => __('Property for Rent', 'bit-integrations'),
+
+    'Mark the property as a rental.' => __('Mark the property as a rental.', 'bit-integrations'),
+
+    'HTML Body' => __('HTML Body', 'bit-integrations'),
+
+    'Show the HTML tags in the note body as formatted text.' => __('Show the HTML tags in the note body as formatted text.', 'bit-integrations'),
+
+    'Show the HTML tags in the note body as formatted text. Leave it clear to keep the current value.' => __('Show the HTML tags in the note body as formatted text. Leave it clear to keep the current value.', 'bit-integrations'),
+
+    'Share the template with the other users.' => __('Share the template with the other users.', 'bit-integrations'),
+
+    'Share the template with the other users. Leave it clear to keep the current value.' => __('Share the template with the other users. Leave it clear to keep the current value.', 'bit-integrations'),
+
+    'Recurring Date' => __('Recurring Date', 'bit-integrations'),
+
+    'Repeat a date field every year, for example a birthday.' => __('Repeat a date field every year, for example a birthday.', 'bit-integrations'),
+
+    'Hide If Empty' => __('Hide If Empty', 'bit-integrations'),
+
+    'Hide the field on a person when it has no value.' => __('Hide the field on a person when it has no value.', 'bit-integrations'),
+
+    'Repeat a date field every year, for example a birthday. Leave it clear to keep the current value.' => __('Repeat a date field every year, for example a birthday. Leave it clear to keep the current value.', 'bit-integrations'),
+
+    'Hide the field on a person when it has no value. Leave it clear to keep the current value.' => __('Hide the field on a person when it has no value. Leave it clear to keep the current value.', 'bit-integrations'),
+
+    'Mark the task as completed.' => __('Mark the task as completed.', 'bit-integrations'),
+
+    'Mark the task as completed. Leave it clear to keep the current value.' => __('Mark the task as completed. Leave it clear to keep the current value.', 'bit-integrations'),
+
+    'All Day' => __('All Day', 'bit-integrations'),
+
+    'Make the appointment an all-day event.' => __('Make the appointment an all-day event.', 'bit-integrations'),
+
+    'Send Invitation' => __('Send Invitation', 'bit-integrations'),
+
+    'Send an invitation email to the invitees.' => __('Send an invitation email to the invitees.', 'bit-integrations'),
+
+    'Make the appointment an all-day event. Leave it clear to keep the current value.' => __('Make the appointment an all-day event. Leave it clear to keep the current value.', 'bit-integrations'),
+
+    'Send an invitation email to the invitees. Leave it clear to keep the current value.' => __('Send an invitation email to the invitees. Leave it clear to keep the current value.', 'bit-integrations'),
+
+    'Hide the field on a deal when it has no value.' => __('Hide the field on a deal when it has no value.', 'bit-integrations'),
+
+    'Read Only' => __('Read Only', 'bit-integrations'),
+
+    'Do not allow users to change the field value.' => __('Do not allow users to change the field value.', 'bit-integrations'),
+
+    'Hide the field on a deal when it has no value. Leave it clear to keep the current value.' => __('Hide the field on a deal when it has no value. Leave it clear to keep the current value.', 'bit-integrations'),
+
+    'Do not allow users to change the field value. Leave it clear to keep the current value.' => __('Do not allow users to change the field value. Leave it clear to keep the current value.', 'bit-integrations'),
+
     'To use FormyChat integration, make sure the FormyChat plugin is installed and active on your site.' => __('To use FormyChat integration, make sure the FormyChat plugin is installed and active on your site.', 'bit-integrations'),
 
     'FormyChat widgets fetched successfully' => __('FormyChat widgets fetched successfully', 'bit-integrations'),
@@ -4540,8 +5458,6 @@ $bit_integrations_i18n_strings = array(
     'Meta Key' => __('Meta Key', 'bit-integrations'),
 
     'Meta Key...' => __('Meta Key...', 'bit-integrations'),
-
-    'Open' => __('Open', 'bit-integrations'),
 
     'Resolved' => __('Resolved', 'bit-integrations'),
 
@@ -4596,8 +5512,6 @@ $bit_integrations_i18n_strings = array(
     'Please select product' => __('Please select product', 'bit-integrations'),
 
     'Refresh Ticket Field & products' => __('Refresh Ticket Field & products', 'bit-integrations'),
-
-    'Agent' => __('Agent', 'bit-integrations'),
 
     'Add Agent in Ticket' => __('Add Agent in Ticket', 'bit-integrations'),
 
@@ -4889,8 +5803,6 @@ $bit_integrations_i18n_strings = array(
 
     'Biographies' => __('Biographies', 'bit-integrations'),
 
-    'Locations' => __('Locations', 'bit-integrations'),
-
     'Occupation' => __('Occupation', 'bit-integrations'),
 
     'Add picture on google contact account.' => __('Add picture on google contact account.', 'bit-integrations'),
@@ -5000,10 +5912,6 @@ $bit_integrations_i18n_strings = array(
 
     'Is Transactional' => __('Is Transactional', 'bit-integrations'),
 
-    'Message' => __('Message', 'bit-integrations'),
-
-    'Icon' => __('Icon', 'bit-integrations'),
-
     'Image' => __('Image', 'bit-integrations'),
 
     'Redirect URL' => __('Redirect URL', 'bit-integrations'),
@@ -5063,8 +5971,6 @@ $bit_integrations_i18n_strings = array(
     'Weekly' => __('Weekly', 'bit-integrations'),
 
     'Monthly' => __('Monthly', 'bit-integrations'),
-
-    'Bounced' => __('Bounced', 'bit-integrations'),
 
     'Spam' => __('Spam', 'bit-integrations'),
 
@@ -5196,8 +6102,6 @@ $bit_integrations_i18n_strings = array(
 
     'Primary Contact Job Title' => __('Primary Contact Job Title', 'bit-integrations'),
 
-    'Price' => __('Price', 'bit-integrations'),
-
     'Do Not Disturb' => __('Do Not Disturb', 'bit-integrations'),
 
     'Enable do not disturb for contact.' => __('Enable do not disturb for contact.', 'bit-integrations'),
@@ -5211,8 +6115,6 @@ $bit_integrations_i18n_strings = array(
     'Choose from the existing tags, or create and add new ones by typing them and pressing enter or comma (,).' => __('Choose from the existing tags, or create and add new ones by typing them and pressing enter or comma (,).', 'bit-integrations'),
 
     'Select Version' => __('Select Version', 'bit-integrations'),
-
-    'Location ID' => __('Location ID', 'bit-integrations'),
 
     'Location ID...' => __('Location ID...', 'bit-integrations'),
 
@@ -5294,8 +6196,6 @@ $bit_integrations_i18n_strings = array(
 
     'Evangelist' => __('Evangelist', 'bit-integrations'),
 
-    'Customer' => __('Customer', 'bit-integrations'),
-
     'New' => __('New', 'bit-integrations'),
 
     'In Progress' => __('In Progress', 'bit-integrations'),
@@ -5365,8 +6265,6 @@ $bit_integrations_i18n_strings = array(
     'Create Ticket' => __('Create Ticket', 'bit-integrations'),
 
     'Select Pipeline' => __('Select Pipeline', 'bit-integrations'),
-
-    'Stage:' => __('Stage:', 'bit-integrations'),
 
     'Select Stage' => __('Select Stage', 'bit-integrations'),
 
@@ -5600,8 +6498,6 @@ $bit_integrations_i18n_strings = array(
     'Trigger' => __('Trigger', 'bit-integrations'),
 
     'Action Name' => __('Action Name', 'bit-integrations'),
-
-    'Created At' => __('Created At', 'bit-integrations'),
 
     'Remove tag' => __('Remove tag', 'bit-integrations'),
 
@@ -5967,6 +6863,10 @@ $bit_integrations_i18n_strings = array(
 
     'A record gets updated based on the email, else a new profile will be created' => __('A record gets updated based on the email, else a new profile will be created', 'bit-integrations'),
 
+    'Email Marketing Consent' => __('Email Marketing Consent', 'bit-integrations'),
+
+    'Subscribe the profile to email marketing so it can receive campaigns' => __('Subscribe the profile to email marketing so it can receive campaigns', 'bit-integrations'),
+
     'Step of get API Key:' => __('Step of get API Key:', 'bit-integrations'),
 
     'Goto Settings and click on' => __('Goto Settings and click on', 'bit-integrations'),
@@ -6117,8 +7017,6 @@ $bit_integrations_i18n_strings = array(
 
     'No Show' => __('No Show', 'bit-integrations'),
 
-    'Not Paid' => __('Not Paid', 'bit-integrations'),
-
     'Fully Paid' => __('Fully Paid', 'bit-integrations'),
 
     'Processing' => __('Processing', 'bit-integrations'),
@@ -6128,8 +7026,6 @@ $bit_integrations_i18n_strings = array(
     'Partially Fulfilled' => __('Partially Fulfilled', 'bit-integrations'),
 
     'Fulfilled' => __('Fulfilled', 'bit-integrations'),
-
-    'Create Group' => __('Create Group', 'bit-integrations'),
 
     'Add the user to a group pro' => __('Add the user to a group pro', 'bit-integrations'),
 
@@ -6295,13 +7191,9 @@ $bit_integrations_i18n_strings = array(
 
     'Audio\'s Original Content URL' => __('Audio\'s Original Content URL', 'bit-integrations'),
 
-    'Duration' => __('Duration', 'bit-integrations'),
-
     'Original Content URL' => __('Original Content URL', 'bit-integrations'),
 
     'Preview Image URL' => __('Preview Image URL', 'bit-integrations'),
-
-    'Latitude' => __('Latitude', 'bit-integrations'),
 
     'longitude' => __('longitude', 'bit-integrations'),
 
@@ -6651,13 +7543,9 @@ $bit_integrations_i18n_strings = array(
 
     'from' => __('from', 'bit-integrations'),
 
-    'Record Type' => __('Record Type', 'bit-integrations'),
-
     'Response' => __('Response', 'bit-integrations'),
 
     'Preview' => __('Preview', 'bit-integrations'),
-
-    'Date' => __('Date', 'bit-integrations'),
 
     'Re-execute' => __('Re-execute', 'bit-integrations'),
 
@@ -7084,8 +7972,6 @@ $bit_integrations_i18n_strings = array(
 
     'Sync All Sites' => __('Sync All Sites', 'bit-integrations'),
 
-    'Create Post' => __('Create Post', 'bit-integrations'),
-
     'Update Post' => __('Update Post', 'bit-integrations'),
 
     'Delete Post' => __('Delete Post', 'bit-integrations'),
@@ -7107,8 +7993,6 @@ $bit_integrations_i18n_strings = array(
     'Post Date' => __('Post Date', 'bit-integrations'),
 
     'Comment Status' => __('Comment Status', 'bit-integrations'),
-
-    'Post ID' => __('Post ID', 'bit-integrations'),
 
     'Plugin Slug' => __('Plugin Slug', 'bit-integrations'),
 
@@ -7203,6 +8087,121 @@ $bit_integrations_i18n_strings = array(
     'Memberpress Fields' => __('Memberpress Fields', 'bit-integrations'),
 
     'MemberPress Fields' => __('MemberPress Fields', 'bit-integrations'),
+
+    'Microsoft Excel OAuth setup' => __('Microsoft Excel OAuth setup', 'bit-integrations'),
+
+    'Azure App registrations' => __('Azure App registrations', 'bit-integrations'),
+
+    'and register a new application.' => __('and register a new application.', 'bit-integrations'),
+
+    'For <b>Supported account types</b>, choose accounts in any organizational directory (multitenant).' => __('For <b>Supported account types</b>, choose accounts in any organizational directory (multitenant).', 'bit-integrations'),
+
+    'Add a <b>Web</b> redirect URI and paste the <b>Callback / Redirect URL</b> shown below.' => __('Add a <b>Web</b> redirect URI and paste the <b>Callback / Redirect URL</b> shown below.', 'bit-integrations'),
+
+    'Under <b>API permissions</b>, add the Microsoft Graph delegated permissions <b>Files.ReadWrite</b>, <b>offline_access</b> and <b>openid</b>.' => __('Under <b>API permissions</b>, add the Microsoft Graph delegated permissions <b>Files.ReadWrite</b>, <b>offline_access</b> and <b>openid</b>.', 'bit-integrations'),
+
+    'Under <b>Certificates & secrets</b>, create a client secret and copy its <b>Value</b>, not its Secret ID.' => __('Under <b>Certificates & secrets</b>, create a client secret and copy its <b>Value</b>, not its Secret ID.', 'bit-integrations'),
+
+    'Paste the <b>Application (client) ID</b> into Client ID and the secret value into Client Secret, then click <b>Authorize</b>.' => __('Paste the <b>Application (client) ID</b> into Client ID and the secret value into Client Secret, then click <b>Authorize</b>.', 'bit-integrations'),
+
+    'Workbooks must be in your own OneDrive for work or school (SharePoint libraries are not listed).' => __('Workbooks must be in your own OneDrive for work or school (SharePoint libraries are not listed).', 'bit-integrations'),
+
+    'Refresh failed. Please try again' => __('Refresh failed. Please try again', 'bit-integrations'),
+
+    'Options refreshed' => __('Options refreshed', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    'Column %s' => __('Column %s', 'bit-integrations'),
+
+    /* translators: 1: %1$s placeholder 2: %2$s placeholder */
+    'Column %s (%s)' => __('Column %1$s (%2$s)', 'bit-integrations'),
+
+    'Select every required option' => __('Select every required option', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    'Map a value to %s' => __('Map a value to %s', 'bit-integrations'),
+
+    'Finish or remove the incomplete field map row' => __('Finish or remove the incomplete field map row', 'bit-integrations'),
+
+    'Type a value for every Custom field' => __('Type a value for every Custom field', 'bit-integrations'),
+
+    'Map at least one form field to a worksheet column' => __('Map at least one form field to a worksheet column', 'bit-integrations'),
+
+    'Remove field' => __('Remove field', 'bit-integrations'),
+
+    'Loading...' => __('Loading...', 'bit-integrations'),
+
+    'Refresh columns' => __('Refresh columns', 'bit-integrations'),
+
+    'Select a workbook and worksheet to map form fields to its columns.' => __('Select a workbook and worksheet to map form fields to its columns.', 'bit-integrations'),
+
+    'Microsoft Excel Fields' => __('Microsoft Excel Fields', 'bit-integrations'),
+
+    'Add Worksheet Row' => __('Add Worksheet Row', 'bit-integrations'),
+
+    'Update Worksheet Row' => __('Update Worksheet Row', 'bit-integrations'),
+
+    'Clear Worksheet' => __('Clear Worksheet', 'bit-integrations'),
+
+    'Add Worksheet to Workbook' => __('Add Worksheet to Workbook', 'bit-integrations'),
+
+    'Create Table' => __('Create Table', 'bit-integrations'),
+
+    'Delete Table' => __('Delete Table', 'bit-integrations'),
+
+    'Worksheet Name or ID' => __('Worksheet Name or ID', 'bit-integrations'),
+
+    'Range (e.g. A1:D20)' => __('Range (e.g. A1:D20)', 'bit-integrations'),
+
+    'Table Name or ID' => __('Table Name or ID', 'bit-integrations'),
+
+    'Folder' => __('Folder', 'bit-integrations'),
+
+    'Root (My files)' => __('Root (My files)', 'bit-integrations'),
+
+    'No folders found' => __('No folders found', 'bit-integrations'),
+
+    'Workbook' => __('Workbook', 'bit-integrations'),
+
+    'No Excel workbooks (.xlsx) in this folder' => __('No Excel workbooks (.xlsx) in this folder', 'bit-integrations'),
+
+    'Select a workbook' => __('Select a workbook', 'bit-integrations'),
+
+    'Worksheet' => __('Worksheet', 'bit-integrations'),
+
+    'No worksheets in this workbook' => __('No worksheets in this workbook', 'bit-integrations'),
+
+    'Select a workbook first' => __('Select a workbook first', 'bit-integrations'),
+
+    'Select a worksheet' => __('Select a worksheet', 'bit-integrations'),
+
+    'What to Clear' => __('What to Clear', 'bit-integrations'),
+
+    'Contents and formats by default' => __('Contents and formats by default', 'bit-integrations'),
+
+    'Contents and formats' => __('Contents and formats', 'bit-integrations'),
+
+    'Contents only' => __('Contents only', 'bit-integrations'),
+
+    'Formats only' => __('Formats only', 'bit-integrations'),
+
+    'No Header Row' => __('No Header Row', 'bit-integrations'),
+
+    'Excel adds column names and moves the data down a row' => __('Excel adds column names and moves the data down a row', 'bit-integrations'),
+
+    'Each run writes one row below the last row that holds a value. Column labels come from the first row with data.' => __('Each run writes one row below the last row that holds a value. Column labels come from the first row with data.', 'bit-integrations'),
+
+    'Row Number picks the row to overwrite. Columns you leave unmapped keep their current values.' => __('Row Number picks the row to overwrite. Columns you leave unmapped keep their current values.', 'bit-integrations'),
+
+    'Leave Range unmapped to clear the whole worksheet. To always clear the same worksheet, choose Custom and type its name.' => __('Leave Range unmapped to clear the whole worksheet. To always clear the same worksheet, choose Custom and type its name.', 'bit-integrations'),
+
+    'Leave Worksheet Name unmapped to let Excel name it (Sheet2, Sheet3…). Names must be unique in the workbook.' => __('Leave Worksheet Name unmapped to let Excel name it (Sheet2, Sheet3…). Names must be unique in the workbook.', 'bit-integrations'),
+
+    'To always delete the same worksheet, choose Custom and type its name.' => __('To always delete the same worksheet, choose Custom and type its name.', 'bit-integrations'),
+
+    'Leave Range unmapped to turn all the data on the worksheet into a table.' => __('Leave Range unmapped to turn all the data on the worksheet into a table.', 'bit-integrations'),
+
+    'To always delete the same table, choose Custom and type its name.' => __('To always delete the same table, choose Custom and type its name.', 'bit-integrations'),
 
     'To use Modern Cart integration, make sure the Modern Cart and WooCommerce plugins are installed and active on your site.' => __('To use Modern Cart integration, make sure the Modern Cart and WooCommerce plugins are installed and active on your site.', 'bit-integrations'),
 
@@ -7310,15 +8309,11 @@ $bit_integrations_i18n_strings = array(
 
     'Archive Group' => __('Archive Group', 'bit-integrations'),
 
-    'Delete Group' => __('Delete Group', 'bit-integrations'),
-
     'Item Name' => __('Item Name', 'bit-integrations'),
 
     'Item ID' => __('Item ID', 'bit-integrations'),
 
     'Subitem Name' => __('Subitem Name', 'bit-integrations'),
-
-    'Group ID' => __('Group ID', 'bit-integrations'),
 
     'Board ID' => __('Board ID', 'bit-integrations'),
 
@@ -7327,8 +8322,6 @@ $bit_integrations_i18n_strings = array(
     'Column Title' => __('Column Title', 'bit-integrations'),
 
     'Long Text' => __('Long Text', 'bit-integrations'),
-
-    'Number' => __('Number', 'bit-integrations'),
 
     'Checkbox' => __('Checkbox', 'bit-integrations'),
 
@@ -7344,8 +8337,6 @@ $bit_integrations_i18n_strings = array(
 
     'Goto Settings and click on <b>API Key</b>' => __('Goto Settings and click on <b>API Key</b>', 'bit-integrations'),
 
-    'Unsubscribe' => __('Unsubscribe', 'bit-integrations'),
-
     'Unsubscribe from list' => __('Unsubscribe from list', 'bit-integrations'),
 
     'Custom Field Available in Pro (v2.3.1)' => __('Custom Field Available in Pro (v2.3.1)', 'bit-integrations'),
@@ -7357,8 +8348,6 @@ $bit_integrations_i18n_strings = array(
     'Moosend Fields' => __('Moosend Fields', 'bit-integrations'),
 
     'Assign a customer to the wishlist' => __('Assign a customer to the wishlist', 'bit-integrations'),
-
-    'User' => __('User', 'bit-integrations'),
 
     'Assign a WordPress user to the wishlist' => __('Assign a WordPress user to the wishlist', 'bit-integrations'),
 
@@ -7605,8 +8594,6 @@ $bit_integrations_i18n_strings = array(
 
     'Email Body' => __('Email Body', 'bit-integrations'),
 
-    'Subject' => __('Subject', 'bit-integrations'),
-
     'Deactive' => __('Deactive', 'bit-integrations'),
 
     'Delete' => __('Delete', 'bit-integrations'),
@@ -7696,6 +8683,154 @@ $bit_integrations_i18n_strings = array(
     'Add Row in Table' => __('Add Row in Table', 'bit-integrations'),
 
     'Update Row in Table' => __('Update Row in Table', 'bit-integrations'),
+
+    'Map all required fields to continue.' => __('Map all required fields to continue.', 'bit-integrations'),
+
+    'Install and activate the NiroHelp plugin to use this integration.' => __('Install and activate the NiroHelp plugin to use this integration.', 'bit-integrations'),
+
+    'NiroHelp products are fetched.' => __('NiroHelp products are fetched.', 'bit-integrations'),
+
+    'NiroHelp did not send the products. Try again.' => __('NiroHelp did not send the products. Try again.', 'bit-integrations'),
+
+    'NiroHelp reasons are fetched.' => __('NiroHelp reasons are fetched.', 'bit-integrations'),
+
+    'NiroHelp did not send the reasons. Try again.' => __('NiroHelp did not send the reasons. Try again.', 'bit-integrations'),
+
+    'NiroHelp topics are fetched.' => __('NiroHelp topics are fetched.', 'bit-integrations'),
+
+    'NiroHelp did not send the topics. Try again.' => __('NiroHelp did not send the topics. Try again.', 'bit-integrations'),
+
+    'NiroHelp agents are fetched.' => __('NiroHelp agents are fetched.', 'bit-integrations'),
+
+    'NiroHelp did not send the agents. Try again.' => __('NiroHelp did not send the agents. Try again.', 'bit-integrations'),
+
+    'NiroHelp users are fetched.' => __('NiroHelp users are fetched.', 'bit-integrations'),
+
+    'NiroHelp did not send the users. Try again.' => __('NiroHelp did not send the users. Try again.', 'bit-integrations'),
+
+    'NiroHelp did not send the custom fields. Try again.' => __('NiroHelp did not send the custom fields. Try again.', 'bit-integrations'),
+
+    'NiroHelp custom fields are fetched.' => __('NiroHelp custom fields are fetched.', 'bit-integrations'),
+
+    'Select an action to continue.' => __('Select an action to continue.', 'bit-integrations'),
+
+    'Select a status to continue.' => __('Select a status to continue.', 'bit-integrations'),
+
+    'Select an agent to continue.' => __('Select an agent to continue.', 'bit-integrations'),
+
+    'Select a sentiment to continue.' => __('Select a sentiment to continue.', 'bit-integrations'),
+
+    'Select who writes the reply to continue.' => __('Select who writes the reply to continue.', 'bit-integrations'),
+
+    'Select a doc author to continue.' => __('Select a doc author to continue.', 'bit-integrations'),
+
+    'Refresh the list' => __('Refresh the list', 'bit-integrations'),
+
+    'Sentiment:' => __('Sentiment:', 'bit-integrations'),
+
+    'Reply As:' => __('Reply As:', 'bit-integrations'),
+
+    'NiroHelp Fields' => __('NiroHelp Fields', 'bit-integrations'),
+
+    'Update Ticket' => __('Update Ticket', 'bit-integrations'),
+
+    'Change Ticket Status' => __('Change Ticket Status', 'bit-integrations'),
+
+    'Assign Agent' => __('Assign Agent', 'bit-integrations'),
+
+    'Set Sentiment' => __('Set Sentiment', 'bit-integrations'),
+
+    'Delete Ticket' => __('Delete Ticket', 'bit-integrations'),
+
+    'Add Reply' => __('Add Reply', 'bit-integrations'),
+
+    'Add Private Note' => __('Add Private Note', 'bit-integrations'),
+
+    'Set Follow-up' => __('Set Follow-up', 'bit-integrations'),
+
+    'Clear Follow-up' => __('Clear Follow-up', 'bit-integrations'),
+
+    'Create Doc' => __('Create Doc', 'bit-integrations'),
+
+    'Update Doc' => __('Update Doc', 'bit-integrations'),
+
+    'Move Doc to Trash' => __('Move Doc to Trash', 'bit-integrations'),
+
+    'Delete Doc' => __('Delete Doc', 'bit-integrations'),
+
+    'Create Reason' => __('Create Reason', 'bit-integrations'),
+
+    'Add Agent' => __('Add Agent', 'bit-integrations'),
+
+    'Ticket ID' => __('Ticket ID', 'bit-integrations'),
+
+    'Doc ID' => __('Doc ID', 'bit-integrations'),
+
+    'Customer Name' => __('Customer Name', 'bit-integrations'),
+
+    'Due in Days' => __('Due in Days', 'bit-integrations'),
+
+    'Max Open Tickets' => __('Max Open Tickets', 'bit-integrations'),
+
+    'Waiting' => __('Waiting', 'bit-integrations'),
+
+    'On Hold' => __('On Hold', 'bit-integrations'),
+
+    'Reopened' => __('Reopened', 'bit-integrations'),
+
+    'Severe' => __('Severe', 'bit-integrations'),
+
+    'Positive' => __('Positive', 'bit-integrations'),
+
+    'Neutral' => __('Neutral', 'bit-integrations'),
+
+    'Negative' => __('Negative', 'bit-integrations'),
+
+    'Clear sentiment' => __('Clear sentiment', 'bit-integrations'),
+
+    'No agent (unassign)' => __('No agent (unassign)', 'bit-integrations'),
+
+    'The ticket customer' => __('The ticket customer', 'bit-integrations'),
+
+    'Map Due Date or Due in Days. Do not map both.' => __('Map Due Date or Due in Days. Do not map both.', 'bit-integrations'),
+
+    'Set the ticket status.' => __('Set the ticket status.', 'bit-integrations'),
+
+    'Urgency' => __('Urgency', 'bit-integrations'),
+
+    'Set the ticket urgency.' => __('Set the ticket urgency.', 'bit-integrations'),
+
+    'Set the ticket product.' => __('Set the ticket product.', 'bit-integrations'),
+
+    'Reason' => __('Reason', 'bit-integrations'),
+
+    'Set the ticket reason.' => __('Set the ticket reason.', 'bit-integrations'),
+
+    'Assign the ticket to an agent.' => __('Assign the ticket to an agent.', 'bit-integrations'),
+
+    'Topic' => __('Topic', 'bit-integrations'),
+
+    'Set the doc topic.' => __('Set the doc topic.', 'bit-integrations'),
+
+    'Set the doc product.' => __('Set the doc product.', 'bit-integrations'),
+
+    'Email Sign-in Link' => __('Email Sign-in Link', 'bit-integrations'),
+
+    'Email the customer a link to sign in and see the ticket.' => __('Email the customer a link to sign in and see the ticket.', 'bit-integrations'),
+
+    'Select the agent who writes the note.' => __('Select the agent who writes the note.', 'bit-integrations'),
+
+    'Set By' => __('Set By', 'bit-integrations'),
+
+    'Select the agent who sets the follow-up.' => __('Select the agent who sets the follow-up.', 'bit-integrations'),
+
+    'Set the doc status. A new doc is published by default.' => __('Set the doc status. A new doc is published by default.', 'bit-integrations'),
+
+    'Set the doc status.' => __('Set the doc status.', 'bit-integrations'),
+
+    'Parent Topic' => __('Parent Topic', 'bit-integrations'),
+
+    'Put the new topic under a parent topic.' => __('Put the new topic under a parent topic.', 'bit-integrations'),
 
     'Please select a notification to continue.' => __('Please select a notification to continue.', 'bit-integrations'),
 
@@ -7895,8 +9030,6 @@ $bit_integrations_i18n_strings = array(
 
     'Organization Name' => __('Organization Name', 'bit-integrations'),
 
-    'Campaign Name' => __('Campaign Name', 'bit-integrations'),
-
     'Address Title' => __('Address Title', 'bit-integrations'),
 
     'Address Line 1' => __('Address Line 1', 'bit-integrations'),
@@ -7933,11 +9066,35 @@ $bit_integrations_i18n_strings = array(
 
     'To use Paid Memberships Pro integration, make sure the Paid Memberships Pro plugin is installed and active on your site.' => __('To use Paid Memberships Pro integration, make sure the Paid Memberships Pro plugin is installed and active on your site.', 'bit-integrations'),
 
-    'All Paid Membership pro level fetched successfully' => __('All Paid Membership pro level fetched successfully', 'bit-integrations'),
+    'Update the user profile' => __('Update the user profile', 'bit-integrations'),
+
+    'Show or hide the user in the member directory' => __('Show or hide the user in the member directory', 'bit-integrations'),
 
     'Paid Membership pro level fetch failed. please try again' => __('Paid Membership pro level fetch failed. please try again', 'bit-integrations'),
 
+    'Any membership level' => __('Any membership level', 'bit-integrations'),
+
+    'All Paid Membership pro level fetched successfully' => __('All Paid Membership pro level fetched successfully', 'bit-integrations'),
+
+    'Profile fields fetch failed. Please try again.' => __('Profile fields fetch failed. Please try again.', 'bit-integrations'),
+
+    'Profile fields fetched successfully' => __('Profile fields fetched successfully', 'bit-integrations'),
+
+    'Directory Visibility:' => __('Directory Visibility:', 'bit-integrations'),
+
+    'Select Visibility' => __('Select Visibility', 'bit-integrations'),
+
+    'Show the user in the directory' => __('Show the user in the directory', 'bit-integrations'),
+
+    'Hide the user from the directory' => __('Hide the user from the directory', 'bit-integrations'),
+
+    'Refresh Profile Fields' => __('Refresh Profile Fields', 'bit-integrations'),
+
     'Paid Memberships Pro Fields' => __('Paid Memberships Pro Fields', 'bit-integrations'),
+
+    'Only mapped fields that have a value are changed. Custom user fields come from Memberships > Settings > User Fields; file fields are not supported.' => __('Only mapped fields that have a value are changed. Custom user fields come from Memberships > Settings > User Fields; file fields are not supported.', 'bit-integrations'),
+
+    'Requires the Paid Memberships Pro - Member Directory Add On. The directory lists only users with an active membership level.' => __('Requires the Paid Memberships Pro - Member Directory Add On. The directory lists only users with an active membership level.', 'bit-integrations'),
 
     'Delete file from Wordpress after upload in PCloud' => __('Delete file from Wordpress after upload in PCloud', 'bit-integrations'),
 
@@ -8099,8 +9256,6 @@ $bit_integrations_i18n_strings = array(
 
     'Task Hours' => __('Task Hours', 'bit-integrations'),
 
-    'On Hold' => __('On Hold', 'bit-integrations'),
-
     'Finished' => __('Finished', 'bit-integrations'),
 
     'Create project' => __('Create project', 'bit-integrations'),
@@ -8125,8 +9280,6 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a organization or a person' => __('Please select a organization or a person', 'bit-integrations'),
 
-    'Call' => __('Call', 'bit-integrations'),
-
     'Meeting' => __('Meeting', 'bit-integrations'),
 
     'Task' => __('Task', 'bit-integrations'),
@@ -8150,8 +9303,6 @@ $bit_integrations_i18n_strings = array(
     'Labels' => __('Labels', 'bit-integrations'),
 
     'Add Labels' => __('Add Labels', 'bit-integrations'),
-
-    'Stages' => __('Stages', 'bit-integrations'),
 
     'Add Stages' => __('Add Stages', 'bit-integrations'),
 
@@ -8300,8 +9451,6 @@ $bit_integrations_i18n_strings = array(
     'Complete Referral Registration' => __('Complete Referral Registration', 'bit-integrations'),
 
     'Complete Referral Purchase' => __('Complete Referral Purchase', 'bit-integrations'),
-
-    'Member Email' => __('Member Email', 'bit-integrations'),
 
     'Points (negative debits)' => __('Points (negative debits)', 'bit-integrations'),
 
@@ -8479,21 +9628,15 @@ $bit_integrations_i18n_strings = array(
 
     'Delete Existing Comment' => __('Delete Existing Comment', 'bit-integrations'),
 
-    'Post Slug' => __('Post Slug', 'bit-integrations'),
-
     'Featured Image URL' => __('Featured Image URL', 'bit-integrations'),
 
     'Force Delete (true/false)' => __('Force Delete (true/false)', 'bit-integrations'),
-
-    'Comment Content' => __('Comment Content', 'bit-integrations'),
 
     'Author Name' => __('Author Name', 'bit-integrations'),
 
     'Author Email' => __('Author Email', 'bit-integrations'),
 
     'Author URL' => __('Author URL', 'bit-integrations'),
-
-    'Parent Comment ID' => __('Parent Comment ID', 'bit-integrations'),
 
     'Comment ID' => __('Comment ID', 'bit-integrations'),
 
@@ -8644,8 +9787,6 @@ $bit_integrations_i18n_strings = array(
     'Add label' => __('Add label', 'bit-integrations'),
 
     'label add lead' => __('label add lead', 'bit-integrations'),
-
-    'Label' => __('Label', 'bit-integrations'),
 
     'Select label' => __('Select label', 'bit-integrations'),
 
@@ -8807,8 +9948,6 @@ $bit_integrations_i18n_strings = array(
 
     'Quiz Maker users fetch failed. Please try again' => __('Quiz Maker users fetch failed. Please try again', 'bit-integrations'),
 
-    'Remove field' => __('Remove field', 'bit-integrations'),
-
     'Quiz Category:' => __('Quiz Category:', 'bit-integrations'),
 
     'Refresh Quiz Categories' => __('Refresh Quiz Categories', 'bit-integrations'),
@@ -8908,8 +10047,6 @@ $bit_integrations_i18n_strings = array(
     'Radio' => __('Radio', 'bit-integrations'),
 
     'Checkbox (Multiple)' => __('Checkbox (Multiple)', 'bit-integrations'),
-
-    'Dropdown' => __('Dropdown', 'bit-integrations'),
 
     'Short Text' => __('Short Text', 'bit-integrations'),
 
@@ -9053,6 +10190,72 @@ $bit_integrations_i18n_strings = array(
 
     'User Meta Field Mappping' => __('User Meta Field Mappping', 'bit-integrations'),
 
+    'Send Notifications' => __('Send Notifications', 'bit-integrations'),
+
+    'Send the plugin booking emails' => __('Send the plugin booking emails', 'bit-integrations'),
+
+    'Delete the bookings. Without it, the bookings move to the trash.' => __('Delete the bookings. Without it, the bookings move to the trash.', 'bit-integrations'),
+
+    'To use this integration, install and activate the Five Star Restaurant Reservations plugin on your site.' => __('To use this integration, install and activate the Five Star Restaurant Reservations plugin on your site.', 'bit-integrations'),
+
+    'The statuses are loaded.' => __('The statuses are loaded.', 'bit-integrations'),
+
+    'The statuses did not load. Try again.' => __('The statuses did not load. Try again.', 'bit-integrations'),
+
+    'The locations are loaded.' => __('The locations are loaded.', 'bit-integrations'),
+
+    'The locations did not load. Try again.' => __('The locations did not load. Try again.', 'bit-integrations'),
+
+    'The tables are loaded.' => __('The tables are loaded.', 'bit-integrations'),
+
+    'The tables did not load. Try again.' => __('The tables did not load. Try again.', 'bit-integrations'),
+
+    'Select a location to continue.' => __('Select a location to continue.', 'bit-integrations'),
+
+    'Select one or more tables to continue.' => __('Select one or more tables to continue.', 'bit-integrations'),
+
+    '(optional)' => __('(optional)', 'bit-integrations'),
+
+    'Leave Status empty to let the plugin set the status from its booking rules.' => __('Leave Status empty to let the plugin set the status from its booking rules.', 'bit-integrations'),
+
+    'Leave Status empty to keep the current status.' => __('Leave Status empty to keep the current status.', 'bit-integrations'),
+
+    'Tables' => __('Tables', 'bit-integrations'),
+
+    'Tables:' => __('Tables:', 'bit-integrations'),
+
+    'The selected tables replace the current tables of the booking.' => __('The selected tables replace the current tables of the booking.', 'bit-integrations'),
+
+    'Five Star Restaurant Reservations Fields' => __('Five Star Restaurant Reservations Fields', 'bit-integrations'),
+
+    'Change Booking Status' => __('Change Booking Status', 'bit-integrations'),
+
+    'Assign Tables' => __('Assign Tables', 'bit-integrations'),
+
+    'Trash Booking' => __('Trash Booking', 'bit-integrations'),
+
+    'Restore Booking' => __('Restore Booking', 'bit-integrations'),
+
+    'Delete Bookings by Email' => __('Delete Bookings by Email', 'bit-integrations'),
+
+    'Send Email to Customer' => __('Send Email to Customer', 'bit-integrations'),
+
+    'Ban Email' => __('Ban Email', 'bit-integrations'),
+
+    'Ban IP Address' => __('Ban IP Address', 'bit-integrations'),
+
+    'Party Size' => __('Party Size', 'bit-integrations'),
+
+    'The plugin checks capacity, tables and duplicate bookings. Opening hours do not apply to this action.' => __('The plugin checks capacity, tables and duplicate bookings. Opening hours do not apply to this action.', 'bit-integrations'),
+
+    'Fields that you do not map keep their current value.' => __('Fields that you do not map keep their current value.', 'bit-integrations'),
+
+    'You can use the plugin template tags in the message, for example {user_name}.' => __('You can use the plugin template tags in the message, for example {user_name}.', 'bit-integrations'),
+
+    'The plugin blocks new bookings from this email.' => __('The plugin blocks new bookings from this email.', 'bit-integrations'),
+
+    'The plugin blocks new bookings from this IP address.' => __('The plugin blocks new bookings from this IP address.', 'bit-integrations'),
+
     'User Password' => __('User Password', 'bit-integrations'),
 
     'Add the user to a level' => __('Add the user to a level', 'bit-integrations'),
@@ -9088,8 +10291,6 @@ $bit_integrations_i18n_strings = array(
     'Appointment Status' => __('Appointment Status', 'bit-integrations'),
 
     'Set the appointment status' => __('Set the appointment status', 'bit-integrations'),
-
-    'Set the payment method' => __('Set the payment method', 'bit-integrations'),
 
     'Set the notification type' => __('Set the notification type', 'bit-integrations'),
 
@@ -9134,21 +10335,13 @@ $bit_integrations_i18n_strings = array(
 
     'Delete Agent' => __('Delete Agent', 'bit-integrations'),
 
-    'Create Service' => __('Create Service', 'bit-integrations'),
-
-    'Update Service' => __('Update Service', 'bit-integrations'),
-
     'Update Service Status' => __('Update Service Status', 'bit-integrations'),
-
-    'Delete Service' => __('Delete Service', 'bit-integrations'),
 
     'Create Category' => __('Create Category', 'bit-integrations'),
 
     'Update Category' => __('Update Category', 'bit-integrations'),
 
     'Delete Category' => __('Delete Category', 'bit-integrations'),
-
-    'Update Appointment' => __('Update Appointment', 'bit-integrations'),
 
     'Update Order' => __('Update Order', 'bit-integrations'),
 
@@ -9174,25 +10367,17 @@ $bit_integrations_i18n_strings = array(
 
     'Capacity' => __('Capacity', 'bit-integrations'),
 
-    'Maximum Capacity' => __('Maximum Capacity', 'bit-integrations'),
-
     'Deposit Amount' => __('Deposit Amount', 'bit-integrations'),
 
     'Calendar Colour' => __('Calendar Colour', 'bit-integrations'),
 
-    'Service ID' => __('Service ID', 'bit-integrations'),
-
     'Find Service by Title' => __('Find Service by Title', 'bit-integrations'),
-
-    'Sort Order' => __('Sort Order', 'bit-integrations'),
 
     'Category ID' => __('Category ID', 'bit-integrations'),
 
     'Find Category by Slug' => __('Find Category by Slug', 'bit-integrations'),
 
     'Find Category by Title' => __('Find Category by Title', 'bit-integrations'),
-
-    'Date (YYYY-MM-DD)' => __('Date (YYYY-MM-DD)', 'bit-integrations'),
 
     'Start Time (YYYY-MM-DD HH:MM:SS)' => __('Start Time (YYYY-MM-DD HH:MM:SS)', 'bit-integrations'),
 
@@ -9710,8 +10895,6 @@ $bit_integrations_i18n_strings = array(
 
     'Remove Subscriber From Group' => __('Remove Subscriber From Group', 'bit-integrations'),
 
-    'Update Group' => __('Update Group', 'bit-integrations'),
-
     'Subscriber ID / Email' => __('Subscriber ID / Email', 'bit-integrations'),
 
     'Subscriber Status' => __('Subscriber Status', 'bit-integrations'),
@@ -9990,8 +11173,6 @@ $bit_integrations_i18n_strings = array(
 
     'Create Solution' => __('Create Solution', 'bit-integrations'),
 
-    'Create Table' => __('Create Table', 'bit-integrations'),
-
     'Create Record' => __('Create Record', 'bit-integrations'),
 
     'Add Logo Color' => __('Add Logo Color', 'bit-integrations'),
@@ -10009,8 +11190,6 @@ $bit_integrations_i18n_strings = array(
     'Logo Color' => __('Logo Color', 'bit-integrations'),
 
     'Select Logo Color' => __('Select Logo Color', 'bit-integrations'),
-
-    'Assigned User' => __('Assigned User', 'bit-integrations'),
 
     'To Get Workspace ID & API Token' => __('To Get Workspace ID & API Token', 'bit-integrations'),
 
@@ -10204,10 +11383,6 @@ $bit_integrations_i18n_strings = array(
 
     'Landing Page UUID' => __('Landing Page UUID', 'bit-integrations'),
 
-    'Male' => __('Male', 'bit-integrations'),
-
-    'Female' => __('Female', 'bit-integrations'),
-
     'Prefer Not To Say' => __('Prefer Not To Say', 'bit-integrations'),
 
     'Invalid' => __('Invalid', 'bit-integrations'),
@@ -10394,11 +11569,257 @@ $bit_integrations_i18n_strings = array(
 
     'Please select a event!' => __('Please select a event!', 'bit-integrations'),
 
-    'To use The Events Calendar integration, make sure the The Events Calendar and Event Tickets plugins are installed and active on your site.' => __('To use The Events Calendar integration, make sure the The Events Calendar and Event Tickets plugins are installed and active on your site.', 'bit-integrations'),
+    'Install and activate The Events Calendar. Register New Attendee also needs Event Tickets. Duplicate Event, Create Recurring Event and the series tasks also need The Events Calendar Pro.' => __('Install and activate The Events Calendar. Register New Attendee also needs Event Tickets. Duplicate Event, Create Recurring Event and the series tasks also need The Events Calendar Pro.', 'bit-integrations'),
+
+    'The events are fetched.' => __('The events are fetched.', 'bit-integrations'),
+
+    'The Events Calendar did not send the events. Try again.' => __('The Events Calendar did not send the events. Try again.', 'bit-integrations'),
+
+    'The venues are fetched.' => __('The venues are fetched.', 'bit-integrations'),
+
+    'The Events Calendar did not send the venues. Try again.' => __('The Events Calendar did not send the venues. Try again.', 'bit-integrations'),
+
+    'The organizers are fetched.' => __('The organizers are fetched.', 'bit-integrations'),
+
+    'The Events Calendar did not send the organizers. Try again.' => __('The Events Calendar did not send the organizers. Try again.', 'bit-integrations'),
+
+    'The event categories are fetched.' => __('The event categories are fetched.', 'bit-integrations'),
+
+    'The Events Calendar did not send the event categories. Try again.' => __('The Events Calendar did not send the event categories. Try again.', 'bit-integrations'),
+
+    'The series are fetched.' => __('The series are fetched.', 'bit-integrations'),
+
+    'The Events Calendar did not send the series. Try again.' => __('The Events Calendar did not send the series. Try again.', 'bit-integrations'),
+
+    'The time zones are fetched.' => __('The time zones are fetched.', 'bit-integrations'),
+
+    'The time zones did not load. Try again.' => __('The time zones did not load. Try again.', 'bit-integrations'),
+
+    'The custom fields are fetched.' => __('The custom fields are fetched.', 'bit-integrations'),
+
+    'The Events Calendar did not send the custom fields. Try again.' => __('The Events Calendar did not send the custom fields. Try again.', 'bit-integrations'),
 
     'Number of Guests' => __('Number of Guests', 'bit-integrations'),
 
     'Register New Attendee' => __('Register New Attendee', 'bit-integrations'),
+
+    'Update Event' => __('Update Event', 'bit-integrations'),
+
+    'Delete Event' => __('Delete Event', 'bit-integrations'),
+
+    'Update Event Status' => __('Update Event Status', 'bit-integrations'),
+
+    'Duplicate Event' => __('Duplicate Event', 'bit-integrations'),
+
+    'Create Recurring Event' => __('Create Recurring Event', 'bit-integrations'),
+
+    'Create Venue' => __('Create Venue', 'bit-integrations'),
+
+    'Update Venue' => __('Update Venue', 'bit-integrations'),
+
+    'Delete Venue' => __('Delete Venue', 'bit-integrations'),
+
+    'Create Organizer' => __('Create Organizer', 'bit-integrations'),
+
+    'Update Organizer' => __('Update Organizer', 'bit-integrations'),
+
+    'Delete Organizer' => __('Delete Organizer', 'bit-integrations'),
+
+    'Create Event Category' => __('Create Event Category', 'bit-integrations'),
+
+    'Create Series' => __('Create Series', 'bit-integrations'),
+
+    'Add Event to Series' => __('Add Event to Series', 'bit-integrations'),
+
+    'Venue ID' => __('Venue ID', 'bit-integrations'),
+
+    'Organizer ID' => __('Organizer ID', 'bit-integrations'),
+
+    'Cost' => __('Cost', 'bit-integrations'),
+
+    'Currency Symbol' => __('Currency Symbol', 'bit-integrations'),
+
+    'Event Website' => __('Event Website', 'bit-integrations'),
+
+    'Featured Image (URL or attachment ID)' => __('Featured Image (URL or attachment ID)', 'bit-integrations'),
+
+    'Tags (separated by commas)' => __('Tags (separated by commas)', 'bit-integrations'),
+
+    'State or Province' => __('State or Province', 'bit-integrations'),
+
+    'Start Date (YYYY-MM-DD HH:MM)' => __('Start Date (YYYY-MM-DD HH:MM)', 'bit-integrations'),
+
+    'End Date (YYYY-MM-DD HH:MM)' => __('End Date (YYYY-MM-DD HH:MM)', 'bit-integrations'),
+
+    'Event Title' => __('Event Title', 'bit-integrations'),
+
+    'Status Reason' => __('Status Reason', 'bit-integrations'),
+
+    'New Title' => __('New Title', 'bit-integrations'),
+
+    'First Start Date (YYYY-MM-DD HH:MM)' => __('First Start Date (YYYY-MM-DD HH:MM)', 'bit-integrations'),
+
+    'First End Date (YYYY-MM-DD HH:MM)' => __('First End Date (YYYY-MM-DD HH:MM)', 'bit-integrations'),
+
+    'Repeat Every (number)' => __('Repeat Every (number)', 'bit-integrations'),
+
+    'Number of Occurrences' => __('Number of Occurrences', 'bit-integrations'),
+
+    'Last Date (YYYY-MM-DD)' => __('Last Date (YYYY-MM-DD)', 'bit-integrations'),
+
+    'Venue Name' => __('Venue Name', 'bit-integrations'),
+
+    'Organizer Name' => __('Organizer Name', 'bit-integrations'),
+
+    'Category Name' => __('Category Name', 'bit-integrations'),
+
+    'Series Title' => __('Series Title', 'bit-integrations'),
+
+    'Scheduled' => __('Scheduled', 'bit-integrations'),
+
+    'Postponed' => __('Postponed', 'bit-integrations'),
+
+    'Daily' => __('Daily', 'bit-integrations'),
+
+    'Yearly' => __('Yearly', 'bit-integrations'),
+
+    'Never' => __('Never', 'bit-integrations'),
+
+    'After a number of occurrences' => __('After a number of occurrences', 'bit-integrations'),
+
+    'On a date' => __('On a date', 'bit-integrations'),
+
+    'Before the cost' => __('Before the cost', 'bit-integrations'),
+
+    'After the cost' => __('After the cost', 'bit-integrations'),
+
+    'Monday' => __('Monday', 'bit-integrations'),
+
+    'Tuesday' => __('Tuesday', 'bit-integrations'),
+
+    'Wednesday' => __('Wednesday', 'bit-integrations'),
+
+    'Thursday' => __('Thursday', 'bit-integrations'),
+
+    'Friday' => __('Friday', 'bit-integrations'),
+
+    'Saturday' => __('Saturday', 'bit-integrations'),
+
+    'Sunday' => __('Sunday', 'bit-integrations'),
+
+    'Event Status:' => __('Event Status:', 'bit-integrations'),
+
+    'Select an event status to continue.' => __('Select an event status to continue.', 'bit-integrations'),
+
+    'Repeat:' => __('Repeat:', 'bit-integrations'),
+
+    'Select how often the event repeats to continue.' => __('Select how often the event repeats to continue.', 'bit-integrations'),
+
+    'Ends:' => __('Ends:', 'bit-integrations'),
+
+    'Select when the recurrence ends to continue.' => __('Select when the recurrence ends to continue.', 'bit-integrations'),
+
+    'Series:' => __('Series:', 'bit-integrations'),
+
+    'Select a series to continue.' => __('Select a series to continue.', 'bit-integrations'),
+
+    'This action needs The Events Calendar Pro.' => __('This action needs The Events Calendar Pro.', 'bit-integrations'),
+
+    'This action needs The Events Calendar Pro. Map Number of Occurrences or Last Date to match the Ends value.' => __('This action needs The Events Calendar Pro. Map Number of Occurrences or Last Date to match the Ends value.', 'bit-integrations'),
+
+    'Venue' => __('Venue', 'bit-integrations'),
+
+    'Select the event venue.' => __('Select the event venue.', 'bit-integrations'),
+
+    'Organizers' => __('Organizers', 'bit-integrations'),
+
+    'Select one or more event organizers.' => __('Select one or more event organizers.', 'bit-integrations'),
+
+    'Event Categories' => __('Event Categories', 'bit-integrations'),
+
+    'Select one or more event categories.' => __('Select one or more event categories.', 'bit-integrations'),
+
+    'Select the event time zone. The site time zone applies when you select none.' => __('Select the event time zone. The site time zone applies when you select none.', 'bit-integrations'),
+
+    'Currency Symbol Position' => __('Currency Symbol Position', 'bit-integrations'),
+
+    'Select where the currency symbol shows.' => __('Select where the currency symbol shows.', 'bit-integrations'),
+
+    'Set the post status. A new event is published by default.' => __('Set the post status. A new event is published by default.', 'bit-integrations'),
+
+    'All-Day Event' => __('All-Day Event', 'bit-integrations'),
+
+    'Hide the start and end times.' => __('Hide the start and end times.', 'bit-integrations'),
+
+    'Featured Event' => __('Featured Event', 'bit-integrations'),
+
+    'Show the event as featured.' => __('Show the event as featured.', 'bit-integrations'),
+
+    'Hide Map' => __('Hide Map', 'bit-integrations'),
+
+    'Hide the venue map on the event page.' => __('Hide the venue map on the event page.', 'bit-integrations'),
+
+    'Hide Map Link' => __('Hide Map Link', 'bit-integrations'),
+
+    'Hide the link to the venue map.' => __('Hide the link to the venue map.', 'bit-integrations'),
+
+    'Hide From Event Listings' => __('Hide From Event Listings', 'bit-integrations'),
+
+    'Hide the event from event listings.' => __('Hide the event from event listings.', 'bit-integrations'),
+
+    'Show Map' => __('Show Map', 'bit-integrations'),
+
+    'Show the venue map.' => __('Show the venue map.', 'bit-integrations'),
+
+    'Hide the venue map.' => __('Hide the venue map.', 'bit-integrations'),
+
+    'Show Map Link' => __('Show Map Link', 'bit-integrations'),
+
+    'Show the link to the venue map.' => __('Show the link to the venue map.', 'bit-integrations'),
+
+    'Set the post status.' => __('Set the post status.', 'bit-integrations'),
+
+    'Make All-Day' => __('Make All-Day', 'bit-integrations'),
+
+    'Remove All-Day' => __('Remove All-Day', 'bit-integrations'),
+
+    'Show the start and end times.' => __('Show the start and end times.', 'bit-integrations'),
+
+    'Mark as Featured' => __('Mark as Featured', 'bit-integrations'),
+
+    'Remove Featured' => __('Remove Featured', 'bit-integrations'),
+
+    'Stop showing the event as featured.' => __('Stop showing the event as featured.', 'bit-integrations'),
+
+    'Show in Event Listings' => __('Show in Event Listings', 'bit-integrations'),
+
+    'Show the event in event listings.' => __('Show the event in event listings.', 'bit-integrations'),
+
+    'Skip the trash and delete the event permanently.' => __('Skip the trash and delete the event permanently.', 'bit-integrations'),
+
+    'Set the post status. The copy is a draft by default.' => __('Set the post status. The copy is a draft by default.', 'bit-integrations'),
+
+    'Days of the Week' => __('Days of the Week', 'bit-integrations'),
+
+    'Select the days for a weekly event.' => __('Select the days for a weekly event.', 'bit-integrations'),
+
+    'Set the post status. A new venue is published by default.' => __('Set the post status. A new venue is published by default.', 'bit-integrations'),
+
+    'Skip the trash and delete the venue permanently.' => __('Skip the trash and delete the venue permanently.', 'bit-integrations'),
+
+    'Set the post status. A new organizer is published by default.' => __('Set the post status. A new organizer is published by default.', 'bit-integrations'),
+
+    'Skip the trash and delete the organizer permanently.' => __('Skip the trash and delete the organizer permanently.', 'bit-integrations'),
+
+    'Put the new category under a parent category.' => __('Put the new category under a parent category.', 'bit-integrations'),
+
+    'Set the post status. A new series is published by default.' => __('Set the post status. A new series is published by default.', 'bit-integrations'),
+
+    'Events' => __('Events', 'bit-integrations'),
+
+    'Select the events to add to the series.' => __('Select the events to add to the series.', 'bit-integrations'),
+
+    'This task needs the Event Tickets plugin.' => __('This task needs the Event Tickets plugin.', 'bit-integrations'),
 
     'Refresh events' => __('Refresh events', 'bit-integrations'),
 
@@ -10477,8 +11898,6 @@ $bit_integrations_i18n_strings = array(
     'Copy your Auth Token and use it as Password.' => __('Copy your Auth Token and use it as Password.', 'bit-integrations'),
 
     'Use your Twilio sender number in the From Number field.' => __('Use your Twilio sender number in the From Number field.', 'bit-integrations'),
-
-    'From Number' => __('From Number', 'bit-integrations'),
 
     'Phone Number...' => __('Phone Number...', 'bit-integrations'),
 
@@ -10604,8 +12023,6 @@ $bit_integrations_i18n_strings = array(
 
     'Fixed' => __('Fixed', 'bit-integrations'),
 
-    'Percent' => __('Percent', 'bit-integrations'),
-
     'Commission Amount' => __('Commission Amount', 'bit-integrations'),
 
     'Admin Message' => __('Admin Message', 'bit-integrations'),
@@ -10639,13 +12056,7 @@ $bit_integrations_i18n_strings = array(
 
     'Set Booking As Paid' => __('Set Booking As Paid', 'bit-integrations'),
 
-    'Create Service Category' => __('Create Service Category', 'bit-integrations'),
-
     'Create Staff Member' => __('Create Staff Member', 'bit-integrations'),
-
-    'Create Location' => __('Create Location', 'bit-integrations'),
-
-    'Customer Name' => __('Customer Name', 'bit-integrations'),
 
     'Booking Date/Time' => __('Booking Date/Time', 'bit-integrations'),
 
@@ -10662,8 +12073,6 @@ $bit_integrations_i18n_strings = array(
     'Maximum Usage' => __('Maximum Usage', 'bit-integrations'),
 
     'Service Name' => __('Service Name', 'bit-integrations'),
-
-    'Category Name' => __('Category Name', 'bit-integrations'),
 
     'Staff Name' => __('Staff Name', 'bit-integrations'),
 
@@ -11103,8 +12512,6 @@ $bit_integrations_i18n_strings = array(
 
     'Media ID' => __('Media ID', 'bit-integrations'),
 
-    'New Title' => __('New Title', 'bit-integrations'),
-
     'Post Types (comma separated)' => __('Post Types (comma separated)', 'bit-integrations'),
 
     'Term ID' => __('Term ID', 'bit-integrations'),
@@ -11164,6 +12571,122 @@ $bit_integrations_i18n_strings = array(
     'This integration performs actions on the current WordPress site.' => __('This integration performs actions on the current WordPress site.', 'bit-integrations'),
 
     'WordPress Fields' => __('WordPress Fields', 'bit-integrations'),
+
+    'Log Event' => __('Log Event', 'bit-integrations'),
+
+    'Delete Log Entries by Filter' => __('Delete Log Entries by Filter', 'bit-integrations'),
+
+    'Delete Log Entries Older Than' => __('Delete Log Entries Older Than', 'bit-integrations'),
+
+    'Enable Event' => __('Enable Event', 'bit-integrations'),
+
+    'Disable Event' => __('Disable Event', 'bit-integrations'),
+
+    'Exclude User' => __('Exclude User', 'bit-integrations'),
+
+    'Remove User Exclusion' => __('Remove User Exclusion', 'bit-integrations'),
+
+    'Exclude Role' => __('Exclude Role', 'bit-integrations'),
+
+    'Remove Role Exclusion' => __('Remove Role Exclusion', 'bit-integrations'),
+
+    'Exclude IP Address' => __('Exclude IP Address', 'bit-integrations'),
+
+    'Remove IP Address Exclusion' => __('Remove IP Address Exclusion', 'bit-integrations'),
+
+    'Exclude Post Type' => __('Exclude Post Type', 'bit-integrations'),
+
+    'Remove Post Type Exclusion' => __('Remove Post Type Exclusion', 'bit-integrations'),
+
+    'Exclude Post Status' => __('Exclude Post Status', 'bit-integrations'),
+
+    'Remove Post Status Exclusion' => __('Remove Post Status Exclusion', 'bit-integrations'),
+
+    'Exclude Post Meta Key' => __('Exclude Post Meta Key', 'bit-integrations'),
+
+    'Remove Post Meta Key Exclusion' => __('Remove Post Meta Key Exclusion', 'bit-integrations'),
+
+    'Exclude User Meta Key' => __('Exclude User Meta Key', 'bit-integrations'),
+
+    'Remove User Meta Key Exclusion' => __('Remove User Meta Key Exclusion', 'bit-integrations'),
+
+    'Start Date (YYYY-MM-DD HH:MM:SS)' => __('Start Date (YYYY-MM-DD HH:MM:SS)', 'bit-integrations'),
+
+    'End Date (YYYY-MM-DD HH:MM:SS)' => __('End Date (YYYY-MM-DD HH:MM:SS)', 'bit-integrations'),
+
+    'Older Than' => __('Older Than', 'bit-integrations'),
+
+    'User Login' => __('User Login', 'bit-integrations'),
+
+    'Role Key' => __('Role Key', 'bit-integrations'),
+
+    'Post Type Key' => __('Post Type Key', 'bit-integrations'),
+
+    'Post Status Key' => __('Post Status Key', 'bit-integrations'),
+
+    'Days' => __('Days', 'bit-integrations'),
+
+    'Weeks' => __('Weeks', 'bit-integrations'),
+
+    'Months' => __('Months', 'bit-integrations'),
+
+    'Years' => __('Years', 'bit-integrations'),
+
+    'Log the event for this user' => __('Log the event for this user', 'bit-integrations'),
+
+    'Delete only the log entries of this user' => __('Delete only the log entries of this user', 'bit-integrations'),
+
+    'Event' => __('Event', 'bit-integrations'),
+
+    'Delete only the log entries of this event' => __('Delete only the log entries of this event', 'bit-integrations'),
+
+    'Severity' => __('Severity', 'bit-integrations'),
+
+    'Delete only the log entries with this severity' => __('Delete only the log entries with this severity', 'bit-integrations'),
+
+    'Object' => __('Object', 'bit-integrations'),
+
+    'Delete only the log entries about this object' => __('Delete only the log entries about this object', 'bit-integrations'),
+
+    'Delete only the log entries of this event type' => __('Delete only the log entries of this event type', 'bit-integrations'),
+
+    'To use the WP Activity Log integration, install and activate the WP Activity Log plugin on your site.' => __('To use the WP Activity Log integration, install and activate the WP Activity Log plugin on your site.', 'bit-integrations'),
+
+    'The events are loaded.' => __('The events are loaded.', 'bit-integrations'),
+
+    'The events did not load. Try again.' => __('The events did not load. Try again.', 'bit-integrations'),
+
+    'The users are loaded.' => __('The users are loaded.', 'bit-integrations'),
+
+    'The users did not load. Try again.' => __('The users did not load. Try again.', 'bit-integrations'),
+
+    'The objects are loaded.' => __('The objects are loaded.', 'bit-integrations'),
+
+    'The objects did not load. Try again.' => __('The objects did not load. Try again.', 'bit-integrations'),
+
+    'The event types are loaded.' => __('The event types are loaded.', 'bit-integrations'),
+
+    'The event types did not load. Try again.' => __('The event types did not load. Try again.', 'bit-integrations'),
+
+    'The event fields did not load. Try again.' => __('The event fields did not load. Try again.', 'bit-integrations'),
+
+    'Select an event to continue.' => __('Select an event to continue.', 'bit-integrations'),
+
+    'Select a time unit to continue.' => __('Select a time unit to continue.', 'bit-integrations'),
+
+    'Set at least one filter to continue.' => __('Set at least one filter to continue.', 'bit-integrations'),
+
+    'You cannot restore deleted log entries. Set at least one filter. The action deletes all log entries that match every filter. If a mapped filter has no value, the action stops.' => __('You cannot restore deleted log entries. Set at least one filter. The action deletes all log entries that match every filter. If a mapped filter has no value, the action stops.', 'bit-integrations'),
+
+    'You cannot restore deleted log entries. Make sure that the age is correct before you turn on the flow.' => __('You cannot restore deleted log entries. Make sure that the age is correct before you turn on the flow.', 'bit-integrations'),
+
+    'Enable the event in WP Activity Log before you log it. Map values for the placeholders of the event message.' => __('Enable the event in WP Activity Log before you log it. Map values for the placeholders of the event message.', 'bit-integrations'),
+
+    'Time Unit:' => __('Time Unit:', 'bit-integrations'),
+
+    'This event has no data fields. You do not need to map fields.' => __('This event has no data fields. You do not need to map fields.', 'bit-integrations'),
+
+    'WP Activity Log Fields' => __('WP Activity Log Fields', 'bit-integrations'),
 
     'Create Reservation' => __('Create Reservation', 'bit-integrations'),
 
@@ -11355,6 +12878,252 @@ $bit_integrations_i18n_strings = array(
 
     'WPForo Fields' => __('WPForo Fields', 'bit-integrations'),
 
+    'Update Booking Customer' => __('Update Booking Customer', 'bit-integrations'),
+
+    'Update Booking Note' => __('Update Booking Note', 'bit-integrations'),
+
+    'Mark Payment Complete' => __('Mark Payment Complete', 'bit-integrations'),
+
+    'Add Room to Booking' => __('Add Room to Booking', 'bit-integrations'),
+
+    'Remove Booking Item' => __('Remove Booking Item', 'bit-integrations'),
+
+    'Apply Coupon to Booking' => __('Apply Coupon to Booking', 'bit-integrations'),
+
+    'Remove Coupon from Booking' => __('Remove Coupon from Booking', 'bit-integrations'),
+
+    'Create Room' => __('Create Room', 'bit-integrations'),
+
+    'Update Room' => __('Update Room', 'bit-integrations'),
+
+    'Delete Room' => __('Delete Room', 'bit-integrations'),
+
+    'Set Room Regular Price' => __('Set Room Regular Price', 'bit-integrations'),
+
+    'Add Seasonal Pricing Plan' => __('Add Seasonal Pricing Plan', 'bit-integrations'),
+
+    'Create Room Type' => __('Create Room Type', 'bit-integrations'),
+
+    'Create Extra' => __('Create Extra', 'bit-integrations'),
+
+    'Update Extra' => __('Update Extra', 'bit-integrations'),
+
+    'Delete Extra' => __('Delete Extra', 'bit-integrations'),
+
+    'Assign Extras to Room' => __('Assign Extras to Room', 'bit-integrations'),
+
+    'Add Room Review' => __('Add Room Review', 'bit-integrations'),
+
+    'Room ID' => __('Room ID', 'bit-integrations'),
+
+    'Check-in Date' => __('Check-in Date', 'bit-integrations'),
+
+    'Check-out Date' => __('Check-out Date', 'bit-integrations'),
+
+    'Room Quantity' => __('Room Quantity', 'bit-integrations'),
+
+    'Adults' => __('Adults', 'bit-integrations'),
+
+    'Children' => __('Children', 'bit-integrations'),
+
+    'Customer Address' => __('Customer Address', 'bit-integrations'),
+
+    'Customer City' => __('Customer City', 'bit-integrations'),
+
+    'Customer State' => __('Customer State', 'bit-integrations'),
+
+    'Customer Postal Code' => __('Customer Postal Code', 'bit-integrations'),
+
+    'Customer Country' => __('Customer Country', 'bit-integrations'),
+
+    'Valid From' => __('Valid From', 'bit-integrations'),
+
+    'Valid Until' => __('Valid Until', 'bit-integrations'),
+
+    'Minimum Spend' => __('Minimum Spend', 'bit-integrations'),
+
+    'Maximum Spend' => __('Maximum Spend', 'bit-integrations'),
+
+    'Room Name' => __('Room Name', 'bit-integrations'),
+
+    'Number of Rooms' => __('Number of Rooms', 'bit-integrations'),
+
+    'Max Adults per Room' => __('Max Adults per Room', 'bit-integrations'),
+
+    'Max Children per Room' => __('Max Children per Room', 'bit-integrations'),
+
+    'Beds' => __('Beds', 'bit-integrations'),
+
+    'Area' => __('Area', 'bit-integrations'),
+
+    'Regular Price per Night, All Days' => __('Regular Price per Night, All Days', 'bit-integrations'),
+
+    'External Link' => __('External Link', 'bit-integrations'),
+
+    'Additional Information' => __('Additional Information', 'bit-integrations'),
+
+    'Room Rules' => __('Room Rules', 'bit-integrations'),
+
+    'Base Price per Night' => __('Base Price per Night', 'bit-integrations'),
+
+    'Sunday Price' => __('Sunday Price', 'bit-integrations'),
+
+    'Monday Price' => __('Monday Price', 'bit-integrations'),
+
+    'Tuesday Price' => __('Tuesday Price', 'bit-integrations'),
+
+    'Wednesday Price' => __('Wednesday Price', 'bit-integrations'),
+
+    'Thursday Price' => __('Thursday Price', 'bit-integrations'),
+
+    'Friday Price' => __('Friday Price', 'bit-integrations'),
+
+    'Saturday Price' => __('Saturday Price', 'bit-integrations'),
+
+    'Extra Name' => __('Extra Name', 'bit-integrations'),
+
+    'Unit' => __('Unit', 'bit-integrations'),
+
+    'Booking Note' => __('Booking Note', 'bit-integrations'),
+
+    'Booking Item ID' => __('Booking Item ID', 'bit-integrations'),
+
+    'Extra ID' => __('Extra ID', 'bit-integrations'),
+
+    'Mr.' => __('Mr.', 'bit-integrations'),
+
+    'Ms.' => __('Ms.', 'bit-integrations'),
+
+    'Mrs.' => __('Mrs.', 'bit-integrations'),
+
+    'Miss.' => __('Miss.', 'bit-integrations'),
+
+    'Dr.' => __('Dr.', 'bit-integrations'),
+
+    'Prof.' => __('Prof.', 'bit-integrations'),
+
+    'Cart Discount' => __('Cart Discount', 'bit-integrations'),
+
+    'Cart % Discount' => __('Cart % Discount', 'bit-integrations'),
+
+    'Trip' => __('Trip', 'bit-integrations'),
+
+    '1 Star' => __('1 Star', 'bit-integrations'),
+
+    '2 Stars' => __('2 Stars', 'bit-integrations'),
+
+    '3 Stars' => __('3 Stars', 'bit-integrations'),
+
+    '4 Stars' => __('4 Stars', 'bit-integrations'),
+
+    '5 Stars' => __('5 Stars', 'bit-integrations'),
+
+    'Customer Title' => __('Customer Title', 'bit-integrations'),
+
+    'Set the title of the customer.' => __('Set the title of the customer.', 'bit-integrations'),
+
+    'Room Status' => __('Room Status', 'bit-integrations'),
+
+    'Set the publish status of the room.' => __('Set the publish status of the room.', 'bit-integrations'),
+
+    'Room Types' => __('Room Types', 'bit-integrations'),
+
+    'Select the room types of the room.' => __('Select the room types of the room.', 'bit-integrations'),
+
+    'Extra Type' => __('Extra Type', 'bit-integrations'),
+
+    'Select how the plugin counts the extra.' => __('Select how the plugin counts the extra.', 'bit-integrations'),
+
+    'Set the status of the new booking. The default is Pending.' => __('Set the status of the new booking. The default is Pending.', 'bit-integrations'),
+
+    'Set the payment method of the booking.' => __('Set the payment method of the booking.', 'bit-integrations'),
+
+    'Skip the trash and delete the booking permanently.' => __('Skip the trash and delete the booking permanently.', 'bit-integrations'),
+
+    'Change the discount type of the coupon.' => __('Change the discount type of the coupon.', 'bit-integrations'),
+
+    'Skip the trash and delete the coupon permanently.' => __('Skip the trash and delete the coupon permanently.', 'bit-integrations'),
+
+    'Featured' => __('Featured', 'bit-integrations'),
+
+    'Add the room to the featured list.' => __('Add the room to the featured list.', 'bit-integrations'),
+
+    'Add the room to the featured list or remove it.' => __('Add the room to the featured list or remove it.', 'bit-integrations'),
+
+    'Skip the trash and delete the room permanently.' => __('Skip the trash and delete the room permanently.', 'bit-integrations'),
+
+    'Parent Room Type' => __('Parent Room Type', 'bit-integrations'),
+
+    'Put the new room type under a parent room type.' => __('Put the new room type under a parent room type.', 'bit-integrations'),
+
+    'Add this extra to each booking of a room that has it.' => __('Add this extra to each booking of a room that has it.', 'bit-integrations'),
+
+    'Make the extra required or optional.' => __('Make the extra required or optional.', 'bit-integrations'),
+
+    'Skip the trash and delete the extra permanently.' => __('Skip the trash and delete the extra permanently.', 'bit-integrations'),
+
+    'Replace Extras' => __('Replace Extras', 'bit-integrations'),
+
+    'Replace the current extras of the room. Clear it to add the extras.' => __('Replace the current extras of the room. Clear it to add the extras.', 'bit-integrations'),
+
+    'Set the star rating of the review.' => __('Set the star rating of the review.', 'bit-integrations'),
+
+    'Hold for Moderation' => __('Hold for Moderation', 'bit-integrations'),
+
+    'Save the review as pending. Clear it to approve the review.' => __('Save the review as pending. Clear it to approve the review.', 'bit-integrations'),
+
+    'Some field map rows are empty. Map each row or remove it.' => __('Some field map rows are empty. Map each row or remove it.', 'bit-integrations'),
+
+    'Install and activate the WP Hotel Booking plugin to use this integration.' => __('Install and activate the WP Hotel Booking plugin to use this integration.', 'bit-integrations'),
+
+    'Rooms fetched successfully.' => __('Rooms fetched successfully.', 'bit-integrations'),
+
+    'Could not fetch the rooms. Try again.' => __('Could not fetch the rooms. Try again.', 'bit-integrations'),
+
+    'Coupons fetched successfully.' => __('Coupons fetched successfully.', 'bit-integrations'),
+
+    'Could not fetch the coupons. Try again.' => __('Could not fetch the coupons. Try again.', 'bit-integrations'),
+
+    'Extras fetched successfully.' => __('Extras fetched successfully.', 'bit-integrations'),
+
+    'Could not fetch the extras. Try again.' => __('Could not fetch the extras. Try again.', 'bit-integrations'),
+
+    'Room types fetched successfully.' => __('Room types fetched successfully.', 'bit-integrations'),
+
+    'Could not fetch the room types. Try again.' => __('Could not fetch the room types. Try again.', 'bit-integrations'),
+
+    'Payment methods fetched successfully.' => __('Payment methods fetched successfully.', 'bit-integrations'),
+
+    'Could not fetch the payment methods. Try again.' => __('Could not fetch the payment methods. Try again.', 'bit-integrations'),
+
+    'Room is not selected. Select a room.' => __('Room is not selected. Select a room.', 'bit-integrations'),
+
+    'Booking status is not selected. Select a status.' => __('Booking status is not selected. Select a status.', 'bit-integrations'),
+
+    'Discount type is not selected. Select a discount type.' => __('Discount type is not selected. Select a discount type.', 'bit-integrations'),
+
+    'Coupon is not selected. Select a coupon.' => __('Coupon is not selected. Select a coupon.', 'bit-integrations'),
+
+    'Extras are not selected. Select at least one extra.' => __('Extras are not selected. Select at least one extra.', 'bit-integrations'),
+
+    'Action is not selected. Select an action.' => __('Action is not selected. Select an action.', 'bit-integrations'),
+
+    'Room:' => __('Room:', 'bit-integrations'),
+
+    'Refresh Rooms' => __('Refresh Rooms', 'bit-integrations'),
+
+    'Booking Status:' => __('Booking Status:', 'bit-integrations'),
+
+    'Refresh Coupons' => __('Refresh Coupons', 'bit-integrations'),
+
+    'Extras:' => __('Extras:', 'bit-integrations'),
+
+    'Refresh Extras' => __('Refresh Extras', 'bit-integrations'),
+
+    'Enter dates in the YYYY-MM-DD format, for example 2026-12-31.' => __('Enter dates in the YYYY-MM-DD format, for example 2026-12-31.', 'bit-integrations'),
+
+    'WP Hotel Booking Fields' => __('WP Hotel Booking Fields', 'bit-integrations'),
+
     'Create Calendar' => __('Create Calendar', 'bit-integrations'),
 
     'Update Calendar' => __('Update Calendar', 'bit-integrations'),
@@ -11368,10 +13137,6 @@ $bit_integrations_i18n_strings = array(
     'Create Event (Book Date)' => __('Create Event (Book Date)', 'bit-integrations'),
 
     'Book Date Range' => __('Book Date Range', 'bit-integrations'),
-
-    'Update Event' => __('Update Event', 'bit-integrations'),
-
-    'Delete Event' => __('Delete Event', 'bit-integrations'),
 
     'Delete Event by Date' => __('Delete Event by Date', 'bit-integrations'),
 
@@ -11442,8 +13207,6 @@ $bit_integrations_i18n_strings = array(
     'WP Simple Booking Calendar Fields' => __('WP Simple Booking Calendar Fields', 'bit-integrations'),
 
     'Update Table' => __('Update Table', 'bit-integrations'),
-
-    'Delete Table' => __('Delete Table', 'bit-integrations'),
 
     'Add Row to Table' => __('Add Row to Table', 'bit-integrations'),
 
@@ -11587,10 +13350,6 @@ $bit_integrations_i18n_strings = array(
 
     'Is Default' => __('Is Default', 'bit-integrations'),
 
-    'Update Ticket' => __('Update Ticket', 'bit-integrations'),
-
-    'Delete Ticket' => __('Delete Ticket', 'bit-integrations'),
-
     'Add Ticket Comment' => __('Add Ticket Comment', 'bit-integrations'),
 
     'Add Tags to Ticket' => __('Add Tags to Ticket', 'bit-integrations'),
@@ -11600,8 +13359,6 @@ $bit_integrations_i18n_strings = array(
     'Update User' => __('Update User', 'bit-integrations'),
 
     'Create or Update User' => __('Create or Update User', 'bit-integrations'),
-
-    'Delete User' => __('Delete User', 'bit-integrations'),
 
     'Suspend User' => __('Suspend User', 'bit-integrations'),
 
@@ -11616,8 +13373,6 @@ $bit_integrations_i18n_strings = array(
     'External ID' => __('External ID', 'bit-integrations'),
 
     'Tags (comma separated)' => __('Tags (comma separated)', 'bit-integrations'),
-
-    'Ticket ID' => __('Ticket ID', 'bit-integrations'),
 
     'Comment Body' => __('Comment Body', 'bit-integrations'),
 
@@ -12083,6 +13838,12 @@ $bit_integrations_i18n_strings = array(
 
     'Plugin check failed' => __('Plugin check failed', 'bit-integrations'),
 
+    'Connection updated. Continue to review the integration config against the new account.' => __('Connection updated. Continue to review the integration config against the new account.', 'bit-integrations'),
+
+    'Pick another connection or add a new one — this integration is updated instantly.' => __('Pick another connection or add a new one — this integration is updated instantly.', 'bit-integrations'),
+
+    'Pick a connection or add a new one — this integration switches to it instantly.' => __('Pick a connection or add a new one — this integration switches to it instantly.', 'bit-integrations'),
+
     '+ Add new connection' => __('+ Add new connection', 'bit-integrations'),
 
     'Connections:' => __('Connections:', 'bit-integrations'),
@@ -12093,10 +13854,6 @@ $bit_integrations_i18n_strings = array(
 
     'Refresh connections' => __('Refresh connections', 'bit-integrations'),
 
-    'Connection updated. Continue to review the integration config against the new account.' => __('Connection updated. Continue to review the integration config against the new account.', 'bit-integrations'),
-
-    'Pick another connection or add a new one — this integration is updated instantly.' => __('Pick another connection or add a new one — this integration is updated instantly.', 'bit-integrations'),
-
     'Why the API credentials are not shown here' => __('Why the API credentials are not shown here', 'bit-integrations'),
 
     'This integration was set up before version 2.10.0, so its credentials are stored with the integration itself instead of in a saved connection. This screen only displays saved connections, so there is nothing here for it to show.' => __('This integration was set up before version 2.10.0, so its credentials are stored with the integration itself instead of in a saved connection. This screen only displays saved connections, so there is nothing here for it to show.', 'bit-integrations'),
@@ -12105,7 +13862,7 @@ $bit_integrations_i18n_strings = array(
 
     'This integration keeps running exactly as before. Nothing is broken.' => __('This integration keeps running exactly as before. Nothing is broken.', 'bit-integrations'),
 
-    'Want it on the new system? Open the integration settings and authorize this app once. It then starts using a saved connection you can reuse for every future integration.' => __('Want it on the new system? Open the integration settings and authorize this app once. It then starts using a saved connection you can reuse for every future integration.', 'bit-integrations'),
+    'Want it on the new system? Pick a connection above, or add a new one. This integration switches to it instantly.' => __('Want it on the new system? Pick a connection above, or add a new one. This integration switches to it instantly.', 'bit-integrations'),
 
     'Authorize once, reuse everywhere' => __('Authorize once, reuse everywhere', 'bit-integrations'),
 
@@ -12296,6 +14053,12 @@ $bit_integrations_i18n_strings = array(
     'Events fetching failed. please try again' => __('Events fetching failed. please try again', 'bit-integrations'),
 
     'Loading Events...' => __('Loading Events...', 'bit-integrations'),
+
+    'The series did not load. Try again.' => __('The series did not load. Try again.', 'bit-integrations'),
+
+    'Loading the series...' => __('Loading the series...', 'bit-integrations'),
+
+    'Select Series:' => __('Select Series:', 'bit-integrations'),
 
     'Select a Event' => __('Select a Event', 'bit-integrations'),
 
@@ -12643,8 +14406,6 @@ $bit_integrations_i18n_strings = array(
 
     'It is not recommended to edit the field ID' => __('It is not recommended to edit the field ID', 'bit-integrations'),
 
-    'Field Type' => __('Field Type', 'bit-integrations'),
-
     'here.' => __('here.', 'bit-integrations'),
 
     '{ 
@@ -12795,6 +14556,8 @@ $bit_integrations_i18n_strings = array(
 
     'Duplicate' => __('Duplicate', 'bit-integrations'),
 
+    'What we collect' => __('What we collect', 'bit-integrations'),
+
     'Collapse the tree view' => __('Collapse the tree view', 'bit-integrations'),
 
     'Expand the tree view' => __('Expand the tree view', 'bit-integrations'),
@@ -12914,9 +14677,13 @@ $bit_integrations_i18n_strings = array(
 
     'Opt-In For Plugin Improvement' => __('Opt-In For Plugin Improvement', 'bit-integrations'),
 
-    'Accept and continue to share usage data to help us improve the plugin, the plugin will still function if you skip.' => __('Accept and continue to share usage data to help us improve the plugin, the plugin will still function if you skip.', 'bit-integrations'),
+    'Accept and continue to send your site details, admin email and usage data to Bit Apps once a week, to help us improve the plugin. The plugin will still function if you skip.' => __('Accept and continue to send your site details, admin email and usage data to Bit Apps once a week, to help us improve the plugin. The plugin will still function if you skip.', 'bit-integrations'),
 
     'Terms and conditions' => __('Terms and conditions', 'bit-integrations'),
+
+    'Privacy Policy' => __('Privacy Policy', 'bit-integrations'),
+
+    'Skip' => __('Skip', 'bit-integrations'),
 
     'Accept and continue' => __('Accept and continue', 'bit-integrations'),
 
@@ -13047,9 +14814,9 @@ $bit_integrations_i18n_strings = array(
 
     'days' => __('days', 'bit-integrations'),
 
-    'Share anonymous usage data' => __('Share anonymous usage data', 'bit-integrations'),
+    'Share usage data' => __('Share usage data', 'bit-integrations'),
 
-    'Helps us decide what to build next. Turn this off and Bit Integrations collects no telemetry at all.' => __('Helps us decide what to build next. Turn this off and Bit Integrations collects no telemetry at all.', 'bit-integrations'),
+    'Once a week, sends your site details, admin email and how you use Bit Integrations to Bit Apps, so we can decide what to build next. Turn it off and nothing more is sent.' => __('Once a week, sends your site details, admin email and how you use Bit Integrations to Bit Apps, so we can decide what to build next. Turn it off and nothing more is sent.', 'bit-integrations'),
 
     'Read the privacy policy' => __('Read the privacy policy', 'bit-integrations'),
 

@@ -1,8 +1,0 @@
-import{_ as t,j as s}from"./main.2.10.9.js";import{A as l}from"./AddNewConnection.CW5LtuVJ.js";import{t as m}from"./TutorialLink.FqlDNemP.js";import{A as u}from"./Authorization.CAE17sQm.js";import"./react-router.BiLdldC0.js";import"./react-vendor.BZTAuXQx.js";import"./connectionApi.2qKQDb3H.js";import"./Note.D09Bk593.js";import"./SnackMsg.Bv9CCMgQ.js";import"./ConfirmModal.LxmhgP6x.js";import"./oauthHelper.Ddb7PxK6.js";import"./BackIcn.Ctoh3-IH.js";import"./Integrations.2tzEmbEQ.js";import"./Table.DRq56MJy.js";import"./index.Cj5suhk1.js";import"./InfoIcn.gBRzPobO.js";function z({dropboxConf:i,setDropboxConf:r,step:e,setStep:n,isInfo:a}){var o;const p=`
-    <h4>${t("Dropbox OAuth setup","bit-integrations")}</h4>
-    <ul>
-      <li>${t("Visit","bit-integrations")} <a href="https://www.dropbox.com/developers/apps/create" target="_blank" rel="noreferrer">${t("Dropbox App Console","bit-integrations")}</a> ${t("to get your credentials.","bit-integrations")}</li>
-      <li>${t("Create app in Dropbox API Console.","bit-integrations")}</li>
-      <li>${t("Add redirect URI from integration settings and keep offline token access enabled.","bit-integrations")}</li>
-    </ul>
-  `;return s.jsx(u,{config:i,setConfig:r,step:e,setStep:n,isInfo:a,tutorialTitle:"Dropbox",tutorialLinks:((o=m)==null?void 0:o.dropbox)||{},authDetails:{authType:l.OAUTH2,grantType:"authorization_code",clientAuthentication:"body",authCodeEndpoint:{url:"https://www.dropbox.com/oauth2/authorize",queryParams:{token_access_type:"offline"}},tokenEndpoint:{url:"https://api.dropboxapi.com/oauth2/token",method:"POST"},refreshTokenUrl:"https://api.dropboxapi.com/oauth2/token"},noteDetails:{note:p}})}export{z as default};

@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
+class ComposerStaticInitca1b7ba128d5391e495b068f36b1c726
 {
     public static $prefixLengthsPsr4 = array (
         'T' =>
@@ -14,6 +14,7 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         ),
         'B' =>
         array (
+            'BitApps\\WPTelemetry\\' => 20,
             'BitApps\\Integrations\\' => 21,
         ),
     );
@@ -26,6 +27,10 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'TypistTech\\Imposter\\' =>
         array (
             0 => __DIR__ . '/..' . '/typisttech/imposter/src',
+        ),
+        'BitApps\\WPTelemetry\\' =>
+        array (
+            0 => __DIR__ . '/..' . '/bitapps/wp-telemetry/src',
         ),
         'BitApps\\Integrations\\' =>
         array (
@@ -68,6 +73,9 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Actions\\Bento\\BentoController' => __DIR__ . '/../..' . '/backend/Actions/Bento/BentoController.php',
         'BitApps\\Integrations\\Actions\\Bento\\BentoHelper' => __DIR__ . '/../..' . '/backend/Actions/Bento/BentoHelper.php',
         'BitApps\\Integrations\\Actions\\Bento\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Bento/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\BitConnect\\BitConnectActionHelper' => __DIR__ . '/../..' . '/backend/Actions/BitConnect/BitConnectActionHelper.php',
+        'BitApps\\Integrations\\Actions\\BitConnect\\BitConnectController' => __DIR__ . '/../..' . '/backend/Actions/BitConnect/BitConnectController.php',
+        'BitApps\\Integrations\\Actions\\BitConnect\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/BitConnect/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\BitCrm\\BitCrmActionHelper' => __DIR__ . '/../..' . '/backend/Actions/BitCrm/BitCrmActionHelper.php',
         'BitApps\\Integrations\\Actions\\BitCrm\\BitCrmController' => __DIR__ . '/../..' . '/backend/Actions/BitCrm/BitCrmController.php',
         'BitApps\\Integrations\\Actions\\BitCrm\\BitCrmCustomField' => __DIR__ . '/../..' . '/backend/Actions/BitCrm/BitCrmCustomField.php',
@@ -83,6 +91,9 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Actions\\BookingsAndAppointmentsForWoocommerce\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/BookingsAndAppointmentsForWoocommerce/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\Bookly\\BooklyController' => __DIR__ . '/../..' . '/backend/Actions/Bookly/BooklyController.php',
         'BitApps\\Integrations\\Actions\\Bookly\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Bookly/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\Booknetic\\BookneticController' => __DIR__ . '/../..' . '/backend/Actions/Booknetic/BookneticController.php',
+        'BitApps\\Integrations\\Actions\\Booknetic\\BookneticHelper' => __DIR__ . '/../..' . '/backend/Actions/Booknetic/BookneticHelper.php',
+        'BitApps\\Integrations\\Actions\\Booknetic\\BookneticService' => __DIR__ . '/../..' . '/backend/Actions/Booknetic/BookneticService.php',
         'BitApps\\Integrations\\Actions\\BrilliantDirectories\\BrilliantDirectoriesController' => __DIR__ . '/../..' . '/backend/Actions/BrilliantDirectories/BrilliantDirectoriesController.php',
         'BitApps\\Integrations\\Actions\\BrilliantDirectories\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/BrilliantDirectories/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\BuddyBoss\\BuddyBossController' => __DIR__ . '/../..' . '/backend/Actions/BuddyBoss/BuddyBossController.php',
@@ -153,6 +164,8 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Actions\\FluentPlayer\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/FluentPlayer/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\FluentSupport\\FluentSupportController' => __DIR__ . '/../..' . '/backend/Actions/FluentSupport/FluentSupportController.php',
         'BitApps\\Integrations\\Actions\\FluentSupport\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/FluentSupport/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\FollowUpBoss\\FollowUpBossController' => __DIR__ . '/../..' . '/backend/Actions/FollowUpBoss/FollowUpBossController.php',
+        'BitApps\\Integrations\\Actions\\FollowUpBoss\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/FollowUpBoss/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\FormyChat\\FormyChatController' => __DIR__ . '/../..' . '/backend/Actions/FormyChat/FormyChatController.php',
         'BitApps\\Integrations\\Actions\\FormyChat\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/FormyChat/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\FreshSales\\FreshSalesController' => __DIR__ . '/../..' . '/backend/Actions/FreshSales/FreshSalesController.php',
@@ -255,6 +268,9 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Actions\\Mautic\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Mautic/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\Memberpress\\MemberpressController' => __DIR__ . '/../..' . '/backend/Actions/Memberpress/MemberpressController.php',
         'BitApps\\Integrations\\Actions\\Memberpress\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Memberpress/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\MicrosoftExcel\\MicrosoftExcelController' => __DIR__ . '/../..' . '/backend/Actions/MicrosoftExcel/MicrosoftExcelController.php',
+        'BitApps\\Integrations\\Actions\\MicrosoftExcel\\MicrosoftExcelHelper' => __DIR__ . '/../..' . '/backend/Actions/MicrosoftExcel/MicrosoftExcelHelper.php',
+        'BitApps\\Integrations\\Actions\\MicrosoftExcel\\MicrosoftExcelService' => __DIR__ . '/../..' . '/backend/Actions/MicrosoftExcel/MicrosoftExcelService.php',
         'BitApps\\Integrations\\Actions\\ModernCart\\ModernCartController' => __DIR__ . '/../..' . '/backend/Actions/ModernCart/ModernCartController.php',
         'BitApps\\Integrations\\Actions\\ModernCart\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/ModernCart/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\MondayCom\\MondayComController' => __DIR__ . '/../..' . '/backend/Actions/MondayCom/MondayComController.php',
@@ -275,6 +291,8 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Actions\\Nimble\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Nimble/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\NinjaTables\\NinjaTablesController' => __DIR__ . '/../..' . '/backend/Actions/NinjaTables/NinjaTablesController.php',
         'BitApps\\Integrations\\Actions\\NinjaTables\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/NinjaTables/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\NiroHelp\\NiroHelpController' => __DIR__ . '/../..' . '/backend/Actions/NiroHelp/NiroHelpController.php',
+        'BitApps\\Integrations\\Actions\\NiroHelp\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/NiroHelp/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\NotificationX\\NotificationXController' => __DIR__ . '/../..' . '/backend/Actions/NotificationX/NotificationXController.php',
         'BitApps\\Integrations\\Actions\\NotificationX\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/NotificationX/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\Notion\\NotionController' => __DIR__ . '/../..' . '/backend/Actions/Notion/NotionController.php',
@@ -318,6 +336,8 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Actions\\Rapidmail\\RapidmailController' => __DIR__ . '/../..' . '/backend/Actions/Rapidmail/RapidmailController.php',
         'BitApps\\Integrations\\Actions\\Rapidmail\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/Rapidmail/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\Registration\\RegistrationController' => __DIR__ . '/../..' . '/backend/Actions/Registration/RegistrationController.php',
+        'BitApps\\Integrations\\Actions\\RestaurantReservations\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/RestaurantReservations/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\RestaurantReservations\\RestaurantReservationsController' => __DIR__ . '/../..' . '/backend/Actions/RestaurantReservations/RestaurantReservationsController.php',
         'BitApps\\Integrations\\Actions\\RestrictContent\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/RestrictContent/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\RestrictContent\\RestrictContentController' => __DIR__ . '/../..' . '/backend/Actions/RestrictContent/RestrictContentController.php',
         'BitApps\\Integrations\\Actions\\RoxAppointmentBooking\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/RoxAppointmentBooking/RecordApiHelper.php',
@@ -423,10 +443,14 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Actions\\Woodpecker\\WoodpeckerController' => __DIR__ . '/../..' . '/backend/Actions/Woodpecker/WoodpeckerController.php',
         'BitApps\\Integrations\\Actions\\WordPress\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WordPress/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\WordPress\\WordPressController' => __DIR__ . '/../..' . '/backend/Actions/WordPress/WordPressController.php',
+        'BitApps\\Integrations\\Actions\\WpActivityLog\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WpActivityLog/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\WpActivityLog\\WpActivityLogController' => __DIR__ . '/../..' . '/backend/Actions/WpActivityLog/WpActivityLogController.php',
         'BitApps\\Integrations\\Actions\\WpDataTables\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WpDataTables/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\WpDataTables\\WpDataTablesController' => __DIR__ . '/../..' . '/backend/Actions/WpDataTables/WpDataTablesController.php',
         'BitApps\\Integrations\\Actions\\WpErp\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WpErp/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\WpErp\\WpErpController' => __DIR__ . '/../..' . '/backend/Actions/WpErp/WpErpController.php',
+        'BitApps\\Integrations\\Actions\\WpHotelBooking\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WpHotelBooking/RecordApiHelper.php',
+        'BitApps\\Integrations\\Actions\\WpHotelBooking\\WpHotelBookingController' => __DIR__ . '/../..' . '/backend/Actions/WpHotelBooking/WpHotelBookingController.php',
         'BitApps\\Integrations\\Actions\\WpSimpleBookingCalendar\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WpSimpleBookingCalendar/RecordApiHelper.php',
         'BitApps\\Integrations\\Actions\\WpSimpleBookingCalendar\\WpSimpleBookingCalendarController' => __DIR__ . '/../..' . '/backend/Actions/WpSimpleBookingCalendar/WpSimpleBookingCalendarController.php',
         'BitApps\\Integrations\\Actions\\WpTableBuilder\\RecordApiHelper' => __DIR__ . '/../..' . '/backend/Actions/WpTableBuilder/RecordApiHelper.php',
@@ -493,6 +517,8 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Core\\Http\\ConnectionTestApi' => __DIR__ . '/../..' . '/backend/Core/Http/ConnectionTestApi.php',
         'BitApps\\Integrations\\Core\\Http\\OauthCallbackController' => __DIR__ . '/../..' . '/backend/Core/Http/OauthCallbackController.php',
         'BitApps\\Integrations\\Core\\Integration\\IntegrationHandler' => __DIR__ . '/../..' . '/backend/Core/Integration/IntegrationHandler.php',
+        'BitApps\\Integrations\\Core\\Telemetry\\TelemetryService' => __DIR__ . '/../..' . '/backend/Core/Telemetry/TelemetryService.php',
+        'BitApps\\Integrations\\Core\\Telemetry\\TelemetryStrings' => __DIR__ . '/../..' . '/backend/Core/Telemetry/TelemetryStrings.php',
         'BitApps\\Integrations\\Core\\Util\\API' => __DIR__ . '/../..' . '/backend/Core/Util/API.php',
         'BitApps\\Integrations\\Core\\Util\\ActionUser' => __DIR__ . '/../..' . '/backend/Core/Util/ActionUser.php',
         'BitApps\\Integrations\\Core\\Util\\Activation' => __DIR__ . '/../..' . '/backend/Core/Util/Activation.php',
@@ -521,12 +547,18 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\Core\\Util\\StoreInCache' => __DIR__ . '/../..' . '/backend/Core/Util/StoreInCache.php',
         'BitApps\\Integrations\\Core\\Util\\UnInstallation' => __DIR__ . '/../..' . '/backend/Core/Util/UnInstallation.php',
         'BitApps\\Integrations\\Core\\Util\\User' => __DIR__ . '/../..' . '/backend/Core/Util/User.php',
+        'BitApps\\Integrations\\Deps\\BitApps\\WPTelemetry\\Telemetry\\Feedback\\Feedback' => __DIR__ . '/..' . '/bitapps/wp-telemetry/src/Telemetry/Feedback/Feedback.php',
+        'BitApps\\Integrations\\Deps\\BitApps\\WPTelemetry\\Telemetry\\Report\\Report' => __DIR__ . '/..' . '/bitapps/wp-telemetry/src/Telemetry/Report/Report.php',
+        'BitApps\\Integrations\\Deps\\BitApps\\WPTelemetry\\Telemetry\\Report\\ReportInfo' => __DIR__ . '/..' . '/bitapps/wp-telemetry/src/Telemetry/Report/ReportInfo.php',
+        'BitApps\\Integrations\\Deps\\BitApps\\WPTelemetry\\Telemetry\\Telemetry' => __DIR__ . '/..' . '/bitapps/wp-telemetry/src/Telemetry/Telemetry.php',
+        'BitApps\\Integrations\\Deps\\BitApps\\WPTelemetry\\Telemetry\\TelemetryConfig' => __DIR__ . '/..' . '/bitapps/wp-telemetry/src/Telemetry/TelemetryConfig.php',
         'BitApps\\Integrations\\Flow\\Flow' => __DIR__ . '/../..' . '/backend/Flow/Flow.php',
         'BitApps\\Integrations\\Flow\\FlowController' => __DIR__ . '/../..' . '/backend/Flow/FlowController.php',
         'BitApps\\Integrations\\Log\\LogHandler' => __DIR__ . '/../..' . '/backend/Log/LogHandler.php',
         'BitApps\\Integrations\\Plugin' => __DIR__ . '/../..' . '/backend/Plugin.php',
         'BitApps\\Integrations\\Triggers\\ActionHook\\ActionHookController' => __DIR__ . '/../..' . '/backend/Triggers/ActionHook/ActionHookController.php',
         'BitApps\\Integrations\\Triggers\\BitAssist\\BitAssistController' => __DIR__ . '/../..' . '/backend/Triggers/BitAssist/BitAssistController.php',
+        'BitApps\\Integrations\\Triggers\\BitConnect\\BitConnectController' => __DIR__ . '/../..' . '/backend/Triggers/BitConnect/BitConnectController.php',
         'BitApps\\Integrations\\Triggers\\BitCrm\\BitCrmController' => __DIR__ . '/../..' . '/backend/Triggers/BitCrm/BitCrmController.php',
         'BitApps\\Integrations\\Triggers\\BitForm\\BitFormController' => __DIR__ . '/../..' . '/backend/Triggers/BitForm/BitFormController.php',
         'BitApps\\Integrations\\Triggers\\BitSocial\\BitSocialController' => __DIR__ . '/../..' . '/backend/Triggers/BitSocial/BitSocialController.php',
@@ -549,6 +581,7 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
         'BitApps\\Integrations\\controller\\ConnectionController' => __DIR__ . '/../..' . '/backend/controller/ConnectionController.php',
         'BitApps\\Integrations\\controller\\IntegrationTagController' => __DIR__ . '/../..' . '/backend/controller/IntegrationTagController.php',
         'BitApps\\Integrations\\controller\\PostController' => __DIR__ . '/../..' . '/backend/controller/PostController.php',
+        'BitApps\\Integrations\\controller\\TelemetryController' => __DIR__ . '/../..' . '/backend/controller/TelemetryController.php',
         'BitApps\\Integrations\\controller\\UserController' => __DIR__ . '/../..' . '/backend/controller/UserController.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'TypistTech\\Imposter\\ArrayUtil' => __DIR__ . '/..' . '/typisttech/imposter/src/ArrayUtil.php',
@@ -576,9 +609,9 @@ class ComposerStaticInit2b35b94632f05f5390ce2364c1396147
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit2b35b94632f05f5390ce2364c1396147::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit2b35b94632f05f5390ce2364c1396147::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit2b35b94632f05f5390ce2364c1396147::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInitca1b7ba128d5391e495b068f36b1c726::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInitca1b7ba128d5391e495b068f36b1c726::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInitca1b7ba128d5391e495b068f36b1c726::$classMap;
 
         }, null, ClassLoader::class);
     }

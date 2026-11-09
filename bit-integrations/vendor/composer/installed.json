@@ -1,6 +1,61 @@
 {
     "packages": [
         {
+            "name": "bitapps/wp-telemetry",
+            "version": "v2.0.0",
+            "version_normalized": "2.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bit-apps-pro/wp-telemetry.git",
+                "reference": "785efbacd35120dc74ddf31b268cde1a59ee191e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bit-apps-pro/wp-telemetry/zipball/785efbacd35120dc74ddf31b268cde1a59ee191e",
+                "reference": "785efbacd35120dc74ddf31b268cde1a59ee191e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "dev-master",
+                "pestphp/pest": "3.x-dev",
+                "phpcompatibility/php-compatibility": "*",
+                "squizlabs/php_codesniffer": "*"
+            },
+            "time": "2026-10-28T06:17:33+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "BitApps\\WPTelemetry\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "BitApps",
+                    "email": "developer@bitcode.pro"
+                }
+            ],
+            "description": "A simple telemetry library for WordPress.",
+            "homepage": "https://bitapps.pro",
+            "keywords": [
+                "telemetry",
+                "wordpress",
+                "wp"
+            ],
+            "support": {
+                "issues": "https://github.com/Bit-Apps-Pro/wp-telemetry/issues",
+                "source": "https://github.com/Bit-Apps-Pro/wp-telemetry"
+            },
+            "install-path": "../bitapps/wp-telemetry"
+        },
+        {
             "name": "typisttech/imposter",
             "version": "0.6.1",
             "version_normalized": "0.6.1.0",
