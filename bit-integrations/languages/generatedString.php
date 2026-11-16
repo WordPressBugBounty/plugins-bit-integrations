@@ -14390,6 +14390,26 @@ $bit_integrations_i18n_strings = array(
 
     'When response data appears, click <b>Set Action</b> to continue.' => __('When response data appears, click <b>Set Action</b> to continue.', 'bit-integrations'),
 
+    'Copy the Webhook URL.' => __('Copy the Webhook URL.', 'bit-integrations'),
+
+    'In PaymentForm.io, go to <b>Webhooks</b> and click <b>Add Webhook</b>.' => __('In PaymentForm.io, go to <b>Webhooks</b> and click <b>Add Webhook</b>.', 'bit-integrations'),
+
+    'Paste the URL into <b>Destination URL</b>.' => __('Paste the URL into <b>Destination URL</b>.', 'bit-integrations'),
+
+    'Set the <b>Form scope</b>. To use one form only, select <b>Selected Forms</b> and select the form.' => __('Set the <b>Form scope</b>. To use one form only, select <b>Selected Forms</b> and select the form.', 'bit-integrations'),
+
+    'In <b>Events to send</b>, select only the events this flow needs. An empty list sends all events, and each payment then runs the flow two times.' => __('In <b>Events to send</b>, select only the events this flow needs. An empty list sends all events, and each payment then runs the flow two times.', 'bit-integrations'),
+
+    'Click <b>Create Webhook</b>.' => __('Click <b>Create Webhook</b>.', 'bit-integrations'),
+
+    'Click <b>Fetch</b> here, then submit your PaymentForm.io form.' => __('Click <b>Fetch</b> here, then submit your PaymentForm.io form.', 'bit-integrations'),
+
+    'When the response data shows, click <b>Set Action</b>.' => __('When the response data shows, click <b>Set Action</b>.', 'bit-integrations'),
+
+    'The <b>event</b> field shows which event started the flow. To run the flow for one event only, add a condition on this field.' => __('The <b>event</b> field shows which event started the flow. To run the flow for one event only, add a condition on this field.', 'bit-integrations'),
+
+    'Fetch shows the fields of the event that PaymentForm.io sends. To get the payment fields, send <b>Payment Succeeded</b> while you fetch.' => __('Fetch shows the fields of the event that PaymentForm.io sends. To get the payment fields, send <b>Payment Succeeded</b> while you fetch.', 'bit-integrations'),
+
     'Something went wrong' => __('Something went wrong', 'bit-integrations'),
 
     'This screen could not be displayed. The details below help us fix it — please include them in a support report.' => __('This screen could not be displayed. The details below help us fix it — please include them in a support report.', 'bit-integrations'),
@@ -14978,6 +14998,18 @@ $bit_integrations_i18n_strings = array(
 
     'Post Featured Image URL' => __('Post Featured Image URL', 'bit-integrations'),
 
-    'Biographical Info' => __('Biographical Info', 'bit-integrations')
+    'Biographical Info' => __('Biographical Info', 'bit-integrations'),
+
+    '1 item' => __('1 item', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    '%s items' => __('%s items', 'bit-integrations'),
+
+    '1 field' => __('1 field', 'bit-integrations'),
+
+    /* translators: %s: placeholder */
+    '%s fields' => __('%s fields', 'bit-integrations'),
+
+    'Request' => __('Request', 'bit-integrations')
 );
 /* THIS IS THE END OF THE GENERATED FILE */

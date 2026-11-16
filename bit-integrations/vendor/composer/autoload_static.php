@@ -572,6 +572,7 @@ class ComposerStaticInitca1b7ba128d5391e495b068f36b1c726
         'BitApps\\Integrations\\Triggers\\FallbackTrigger\\FallbackHooks' => __DIR__ . '/../..' . '/backend/Triggers/FallbackTrigger/FallbackHooks.php',
         'BitApps\\Integrations\\Triggers\\FallbackTrigger\\FallbackTriggerController' => __DIR__ . '/../..' . '/backend/Triggers/FallbackTrigger/FallbackTriggerController.php',
         'BitApps\\Integrations\\Triggers\\FallbackTrigger\\TriggerFallback' => __DIR__ . '/../..' . '/backend/Triggers/FallbackTrigger/TriggerFallback.php',
+        'BitApps\\Integrations\\Triggers\\PaymentForm\\PaymentFormController' => __DIR__ . '/../..' . '/backend/Triggers/PaymentForm/PaymentFormController.php',
         'BitApps\\Integrations\\Triggers\\TriggerController' => __DIR__ . '/../..' . '/backend/Triggers/TriggerController.php',
         'BitApps\\Integrations\\Triggers\\WC\\WCController' => __DIR__ . '/../..' . '/backend/Triggers/WC/WCController.php',
         'BitApps\\Integrations\\Triggers\\WC\\WCHelper' => __DIR__ . '/../..' . '/backend/Triggers/WC/WCHelper.php',

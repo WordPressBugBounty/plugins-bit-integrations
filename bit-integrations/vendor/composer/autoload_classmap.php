@@ -539,6 +539,7 @@ return array(
     'BitApps\\Integrations\\Triggers\\FallbackTrigger\\FallbackHooks' => $baseDir . '/backend/Triggers/FallbackTrigger/FallbackHooks.php',
     'BitApps\\Integrations\\Triggers\\FallbackTrigger\\FallbackTriggerController' => $baseDir . '/backend/Triggers/FallbackTrigger/FallbackTriggerController.php',
     'BitApps\\Integrations\\Triggers\\FallbackTrigger\\TriggerFallback' => $baseDir . '/backend/Triggers/FallbackTrigger/TriggerFallback.php',
+    'BitApps\\Integrations\\Triggers\\PaymentForm\\PaymentFormController' => $baseDir . '/backend/Triggers/PaymentForm/PaymentFormController.php',
     'BitApps\\Integrations\\Triggers\\TriggerController' => $baseDir . '/backend/Triggers/TriggerController.php',
     'BitApps\\Integrations\\Triggers\\WC\\WCController' => $baseDir . '/backend/Triggers/WC/WCController.php',
     'BitApps\\Integrations\\Triggers\\WC\\WCHelper' => $baseDir . '/backend/Triggers/WC/WCHelper.php',

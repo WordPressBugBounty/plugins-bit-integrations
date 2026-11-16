@@ -1,0 +1,7 @@
+import{_ as t,j as l}from"./main.2.11.1.js";import{A as m}from"./AddNewConnection.DPtZb5J7.js";import{t as u}from"./TutorialLink.DsgFZ1Xh.js";import{A as p}from"./Authorization.Bn9m3Lhj.js";import"./react-router.BiLdldC0.js";import"./react-vendor.BZTAuXQx.js";import"./connectionApi.CBwfMytR.js";import"./Note.BEwAesbJ.js";import"./SnackMsg.BvQ0dgIT.js";import"./ConfirmModal.S5sVlbDg.js";import"./oauthHelper.Dw_T_8bV.js";import"./BackIcn.CkBZ7Eo8.js";import"./Integrations.DUHcMnTT.js";import"./Table.acfqUtK9.js";import"./index.Cj5suhk1.js";import"./InfoIcn.BZ6L1wGR.js";function D({twilioConf:o,setTwilioConf:r,step:e,setstep:n,isInfo:s}){var i;const a=`<h4>${t("To get Account SID and Auth Token:","bit-integrations")}</h4>
+  <ul>
+    <li>${t("Visit your","bit-integrations")} <a href="https://console.twilio.com/" target="_blank">Twilio Console</a>.</li>
+    <li>${t("Copy your Account SID and use it as Username.","bit-integrations")}</li>
+    <li>${t("Copy your Auth Token and use it as Password.","bit-integrations")}</li>
+    <li>${t("Use your Twilio sender number in the From Number field.","bit-integrations")}</li>
+  </ul>`;return l.jsx(p,{config:o,setConfig:r,step:e,setStep:n,isInfo:s,tutorialTitle:"Twilio",tutorialLinks:((i=u)==null?void 0:i.twilio)||{},authDetails:{authType:m.BASIC_AUTH,apiEndpoint:"https://api.twilio.com/2010-04-01/Accounts",method:"GET",ssl_verify:!1,extraFields:[{name:"from_num",label:t("From Number","bit-integrations"),required:!0,placeholder:t("Phone Number...","bit-integrations")}]},noteDetails:{note:a}})}export{D as default};

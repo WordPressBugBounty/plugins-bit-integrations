@@ -1,0 +1,12 @@
+import{j as l,_ as t}from"./main.2.11.1.js";import{A as c}from"./AddNewConnection.DPtZb5J7.js";import{t as p}from"./TutorialLink.DsgFZ1Xh.js";import{A as b}from"./Authorization.Bn9m3Lhj.js";import"./react-router.BiLdldC0.js";import"./react-vendor.BZTAuXQx.js";import"./connectionApi.CBwfMytR.js";import"./Note.BEwAesbJ.js";import"./SnackMsg.BvQ0dgIT.js";import"./ConfirmModal.S5sVlbDg.js";import"./oauthHelper.Dw_T_8bV.js";import"./BackIcn.CkBZ7Eo8.js";import"./Integrations.DUHcMnTT.js";import"./Table.acfqUtK9.js";import"./index.Cj5suhk1.js";import"./InfoIcn.BZ6L1wGR.js";const o="https://login.microsoftonline.com/common/oauth2/v2.0/token",m="https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade",u=`
+    <h4>${t("Microsoft Excel OAuth setup","bit-integrations")}</h4>
+    <ul>
+      <li>${t("Open","bit-integrations")} <a href="${m}" target="_blank" rel="noreferrer">${t("Azure App registrations","bit-integrations")}</a> ${t("and register a new application.","bit-integrations")}</li>
+      <li>${t("For <b>Supported account types</b>, choose accounts in any organizational directory (multitenant).","bit-integrations")}</li>
+      <li>${t("Add a <b>Web</b> redirect URI and paste the <b>Callback / Redirect URL</b> shown below.","bit-integrations")}</li>
+      <li>${t("Under <b>API permissions</b>, add the Microsoft Graph delegated permissions <b>Files.ReadWrite</b>, <b>offline_access</b> and <b>openid</b>.","bit-integrations")}</li>
+      <li>${t("Under <b>Certificates & secrets</b>, create a client secret and copy its <b>Value</b>, not its Secret ID.","bit-integrations")}</li>
+      <li>${t("Paste the <b>Application (client) ID</b> into Client ID and the secret value into Client Secret, then click <b>Authorize</b>.","bit-integrations")}</li>
+      <li>${t("Workbooks must be in your own OneDrive for work or school (SharePoint libraries are not listed).","bit-integrations")}</li>
+    </ul>
+  `;function S({microsoftExcelConf:e,setMicrosoftExcelConf:r,step:n,setstep:a,isInfo:s}){var i;return l.jsx(b,{config:e,setConfig:r,step:n,setStep:a,isInfo:s,tutorialTitle:"Microsoft Excel",tutorialLinks:((i=p)==null?void 0:i.microsoftExcel)||{},authDetails:{authType:c.OAUTH2,grantType:"authorization_code",clientAuthentication:"body",authCodeEndpoint:{url:"https://login.microsoftonline.com/common/oauth2/v2.0/authorize",queryParams:{response_mode:"query",scope:"openid offline_access Files.ReadWrite"}},tokenEndpoint:{url:o,method:"POST"},refreshTokenUrl:o},noteDetails:{note:u}})}export{S as default};
